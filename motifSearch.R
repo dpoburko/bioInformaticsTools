@@ -1,7 +1,23 @@
 # Built by Damon Poburko, June 2020, Simon Fraser University
-# build your search pattern
-# 0 (zero) hydroph"0"bics, @ for acids, b for basic, "." wildcard
-srchTerm = c("@X00")  
+# Use case: 
+# - search a selection of genpept formatted text files for a peptide motif
+
+#build your motif search term (srchTerm):
+# We are working on incorporating regex searches
+# coding amino acid groups:
+# hydroph"0"bic residues: 0 (zero) 
+# acidic residues: @
+# basic residues: b
+# single wild card:X (this get converted to regex wildcard ".") 
+# i{n1,n2}i occurs n1 - n2 times in sequence
+# see this page for regex search tips https://cran.r-project.org/web/packages/stringr/vignettes/regular-expressions.html    
+
+
+#srchTerm = c("(R|K)(L|V|I)XXXX(H|Q)(L|A)")  
+srchTerm = c("DEAR")  
+
+
+#c <- gregexpr("E{3,5}.E{3,5}.","ABCEEEEEEEEEEFGHH")[[1]] #look for querry in subject
 
 plot.progress <- function(...)	{
   vectOfBar <- c(...)*100
@@ -32,7 +48,7 @@ acids <- c("D","E") # negative/acid charge: @ = D, E
 bases <- c("R","H", "K") # positive charge: + = R, H, K
 
 #Prompt user to select genpept formatted text file from NCBI
-fList <- choose.files(default = "", caption = "Select files",multi = TRUE, filters = Filters, index = nrow(Filters))
+fList <- choose.files(default = "", caption = "Select genpept formatted files",multi = TRUE, filters = Filters, index = nrow(Filters))
 
 #Example sequences for working with
 #vglut2<- as.character("MESVKQRILAPGKEGIKNFAGKSLGQIYRVLEKKQDNRETIELTEDGKPLEVPEKKAPLCDCTCFGLPRRYIIAIMSGLGFCISFGIRCNLGVAIVDMVNNSTIHRGGKVIKEKAKFNWDPETVGMIHGSFFWGYIITQIPGGYIASRLAANRVFGAAILLTSTLNMLIPSAARVHYGCVIFVRILQGLVEGVTYPACHGIWSKWAPPLERSRLATTSFCGSYAGAVIAMPLAGILVQYTGWSSVFYVYGSFGMVWYMFWLLVSYESPAKHPTITDEERRYIEESIGESANLLGAMEKFKTPWRKFFTSMPVYAIIVANFCRSWTFYLLLISQPAYFEEVFGFEISKVGMLSAVPHLVMTIIVPIGGQIADFLRSKQILSTTTVRKIMNCGGFGMEATLLLVVGYSHTRGVAISFLVLAVGFSGFAISGFNVNHLDIAPRYASILMGISNGVGTLSGMVCPIIVGAMTKNKSREEWQYVFLIAALVHYGGVIFYALFASGEKQPWADPEETSEEKCGFIHEDELDEETGDITQNYINYGTTKSYGATSQENGGWPNGWEKKEEFVQESAQDAYSYKDRDDYS")
@@ -41,10 +57,14 @@ fList <- choose.files(default = "", caption = "Select files",multi = TRUE, filte
 
 # Function to search a sequence (subject) for a pattern (querry)
 aasearch <-function(querry, subject) {
-  
+
+  #Manual tested for trouble shooting
+  #subject <- c("WSRRLVFDHEDLFPECQAWTGTL")
+  #querry = c("(R|A)LVF")
+    
   subjectO <- subject #make copy of subject to reference original sequence before replacements
   querry <- gsub("X",".",querry)
-  
+
   # find and replace hydrophobic residues with "0"
   if (length((grep("0", querry)))==1) {   
     for (i in 1:length(hydrophobics)) {
@@ -58,20 +78,35 @@ aasearch <-function(querry, subject) {
     }
   }
   
-  c <- gregexpr(querry,subject) #look for querry in subject
+  #count parentheses, and twice number of characters as "|" found in querry to calc number of characters found
+  #charRemoved <- 0
+  #if (gregexpr("\\(", querry)[[1]][1]!=-1) charRemoved <- charRemoved + length(gregexpr("\\(", querry)[[1]])
+  #if (gregexpr("\\)", querry)[[1]][1]!=-1) charRemoved <- charRemoved + length(gregexpr("\\)", querry)[[1]])
+  #if (gregexpr("\\|)", querry)[[1]][1]!=-1) charRemoved <- charRemoved + 2*length(gregexpr("\\|", querry)[[1]])
+  #querryLength <-nchar(querry) - charRemoved
+    
+  c <- gregexpr(querry,subject ) #look for querry in subject
   loci <- c[[1]]      #extract starting positions of matches from list c
   locus <- c[[1]][1]  
+  matchedLengths <-attr(c[[1]],"match.length",exact=FALSE)
   
-  for (i in 1:length(c[[1]])) {
-    fi = c[[1]][i]                      #first index of matched string
-    li = c[[1]][i] + nchar(querry)-1  #last index of matched string
-    str
-    if (i==1) {
-      ss <- c(substring(subjectO,fi,li))   #grab the sequence that matches the pattern
-      sn <- c(paste0(fi,"..",li))         #grab the positions that match the pattern
-    } else {
-      ss <- rbind(ss, c(substring(subjectO,fi,li)))
-      sn <- rbind(sn,c(paste0(fi,"..",li)))
+  if (locus==-1) {
+
+        ss <- c("none")   #grab the sequence that matches the pattern
+        sn <- c(paste0(0,"..",0))         #grab the positions that match the pattern
+
+  } else {
+    for (i in 1:length(c[[1]])) {
+      fi = c[[1]][i]                      #first index of matched string
+      li = c[[1]][i] + matchedLengths-1  #last index of matched string
+      
+      if (i==1) {
+        ss <- c(substring(subjectO,fi,li))   #grab the sequence that matches the pattern
+        sn <- c(paste0(fi,"..",li))         #grab the positions that match the pattern
+      } else {
+        ss <- rbind(ss, c(substring(subjectO,fi,li)))
+        sn <- rbind(sn,c(paste0(fi,"..",li)))
+      }
     }
   }
   rr = cbind(ss,sn)  
@@ -118,10 +153,7 @@ parseFile = function(pathIn) {
     }
     #End of current file
     if (line == "" ) {
-      #reset ab and sr
-      #save to file
-      #reset table
-      
+
       # pathOut <- paste0(oFolderPath,"/",an,"_",sr,".txt") 
       # print(paste0("saving ",pathOut))
       # write.table(fLines, pathOut, append = FALSE, quote = FALSE, sep = " ", dec = ".", row.names = FALSE, col.names = FALSE, qmethod = c("escape", "double"))
@@ -137,27 +169,35 @@ parseFile = function(pathIn) {
   return(c(seq,an,sr))  
 }
 
-for (i in 1:length(fList)) {
-  
-  plot.progress(i/length(fList))
-  pf <- parseFile(fList[i])[1]
-  currFile = fList[i]
+rm(searchResult)
 
-  pf <- parseFile(currFile)
-  rm(searchResult)
-  searchResult <- aasearch(srchTerm, unlist(pf[1]))
-  searchResult <- cbind(searchResult,unlist(strsplit(pf[2], " "))[2],unlist(pf[3]))   #add accession numbesr and species common names to results table
+for (i in 1:length(fList)) {
+    
+   
+    plot.progress(i/length(fList))
+    pf <- parseFile(fList[i])[1]
+    currFile = fList[i]
   
-  #generate a fileName and path for the output
-  pdList <- gregexpr("\\\\.",currFile) #split file path to vector separated by "\\"
-  fName <- gsub("\\\\","", substr( currFile,pdList[[1]][length(pdList[[1]])], nchar(currFile)  ) )
-  srchTermOut <- gsub("0" ,"[phi]" ,gsub("@","[DE]",srchTerm))  #replace search code with file friendly version
-  fileOut <- paste0(Sys.Date(),"_",srchTermOut,".csv")
-  pathOut <- paste0(substr( currFile,1, pdList[[1]][length(pdList[[1]])]),fileOut)
-  #print(paste0("saving ",pathOut))
-  write.table(searchResult, pathOut, append = TRUE, quote = FALSE, sep = "|", dec = ".", row.names = FALSE, col.names = FALSE, qmethod = c("escape", "double"))
+    pf <- parseFile(currFile)
+    rm(searchResult)
   
+    searchResult <- aasearch(srchTerm, unlist(pf[1]))
+    searchResult <- cbind(searchResult,unlist(strsplit(pf[2], " "))[2],unlist(pf[3]))   #add accession numbesr and species common names to results table
+    
+    #generate a fileName and path for the output
+    pdList <- gregexpr("\\\\.",currFile) #split file path to vector separated by "\\"
+    fName <- gsub("\\\\","", substr( currFile,pdList[[1]][length(pdList[[1]])], nchar(currFile)  ) )
+    
+    srchTermOut <- gsub("0" ,"[phi]" ,gsub("@","[DE]",srchTerm))  #replace search code with file friendly version
+    srchTermOut <- gsub("\\|" ,"" ,srchTermOut)  #replace search code with file friendly version
+    fileOut <- paste0(Sys.Date(),"_",srchTermOut,".csv")
+    pathOut <- paste0(substr( currFile,1, pdList[[1]][length(pdList[[1]])]),fileOut)
+    #print(paste0("saving ",pathOut))
+    write.table(searchResult, pathOut, append = TRUE, quote = FALSE, sep = ",", dec = ".", row.names = FALSE, col.names = FALSE, qmethod = c("escape", "double"))
+
+    
 }
+
 doneMsg = paste0(length(fList)," files searched for ", srchTerm, ". Search saved.")
 print(doneMsg)
 
@@ -191,7 +231,7 @@ print(doneMsg)
 # i{n}i occurs n times in sequence
 # i{n1,n2}i occurs n1 - n2 times in sequence
 # i{n1,n2}?non greedy match, see above example
-# i{n,}i occures >= n times
+# i{n,}i occurs >= n times
 # [:alnum:]Alphanumeric characters: [:alpha:] and [:digit:]
 # [:alpha:]Alphabetic characters: [:lower:] and [:upper:]
 # [:blank:]Blank characters: e.g. space, tab
@@ -206,5 +246,6 @@ print(doneMsg)
 # [:xdigit:]Hexadecimal digits: 0 1 2 3 4 5 6 7 8 9 A B C D E F a b c d e f
 
 ## ________________
+
 
 
