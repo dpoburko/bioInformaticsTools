@@ -5,27 +5,21 @@
 #build your motif search term (srchTerm):
 # We are working on incorporating regex searches
 # coding amino acid groups:
-# hydroph"0"bic residues: 0 (zero) 
-# acidic residues: @
-# basic residues: b
+# hydroph"0"bic residues: 0 (zero) = "(A|I|L|M|F|W|Y|V)"
+# acidic residues: @ = "(D|E)"
+# basic residues: b = "(R|H|K)"
 # single wild card:X (this get converted to regex wildcard ".") 
 # i{n1,n2}i occurs n1 - n2 times in sequence
 # see this page for regex search tips https://cran.r-project.org/web/packages/stringr/vignettes/regular-expressions.html    
-
-#DP to self, have results spit out to console
-#Sort out why 2nd result from same file gets put in neighbouring columns
-# check why YXXphi search isn't working.
-   #remove 
-
 
 #srchTerm = c("(R|K)(L|V|I)XXXX(H|Q)(L|A)")  
 #srchTerm = c("PXXXXX(R|K)X{2,4}(A|I|L)")  
 #srchTerm = c("(R|K)(L|V|I)X{4,5}(H|Q)(L|A)")  
 #srchTerm = c("B{2,3}X{9,11}B{3,4}")  
-srchTerm = c("YXX0")  
+#srchTerm = c("YXX0")
+srchTerm = c("EXXXXX00")  
 
-
-#c <- gregexpr("E{3,5}.E{3,5}.","ABCEEEEEEEEEEFGHH")[[1]] #look for querry in subject
+fNameSuffix = "_dileucineLike"
 
 plot.progress <- function(...)	{
   vectOfBar <- c(...)*100
@@ -42,20 +36,6 @@ plot.progress <- function(...)	{
 # "Normalization of nomenclature for peptide motifs as ligands of modular protein domains"
 # https://www.sciencedirect.com/science/article/pii/S0014579301032951
 
-## ====
-#phi =  V, I, L, F, W, Y and M
-# Aromatic amino acids are represented by ‘Ω’ (Omega) and they include F, W, Y.
-# Hydrophilic amino acids ζ = E, D, K, R and H
-# Large aliphatic side chains ‘Ψ’ (Psi);V, I, L and M
-# Amino acids with small chains π = P, G, A and S
-# uncharged: 9 =  S, T, N, Q
-
-## ====
-#hydrophobics <- c("A","I","L","M","F","W","Y","V") # hydrophobic: 0 =  A, I, L, M, F, W, Y, V 
-hydrophobics <- c("A","I","L","M","F","W","V") # hydrophobic: 0 =  A, I, L, M, F, W, Y, V 
-acids <- c("D","E") # negative/acid charge: @ = D, E 
-bases <- c("R","H", "K") # positive charge: B = R, H, K
-
 #Prompt user to select genpept formatted text file from NCBI
 fList <- choose.files(default = "", caption = "Select genpept formatted files",multi = TRUE, filters = Filters, index = nrow(Filters))
 
@@ -68,7 +48,7 @@ fList <- choose.files(default = "", caption = "Select genpept formatted files",m
 aasearch <-function(querry, subject) {
 
   #Manual tested for trouble shooting
-  #subject <- c("RKMYAEYMKR")
+  #subject <- c("RKMYAEYMKRYSSL")
   subjectO <- subject #make copy of subject to reference original sequence before replacements
   
   #querry = ("YXX0")
@@ -76,24 +56,6 @@ aasearch <-function(querry, subject) {
   querry <- gsub("@","(D|E)",querry)
   querry <- gsub("B","(R|H|K)",querry)
   querry <- gsub("X",".",querry)
-
-  # find and replace hydrophobic residues with "0"
-  # if (length((grep("0", querry)))==1) {   
-  #   for (i in 1:length(hydrophobics)) {
-  #     subject <- gsub(hydrophobics[i],"0",subject)
-  #   }
-  # }
-  # find and replace acidic residues with "@"
-  # if (length((grep("@", querry)))==1) {
-  #   for (i in 1:length(acids)) {
-  #     subject <- gsub(acids[i],"@",subject)
-  #   }
-  # }
-  # if (length((grep("B", querry)))==1) {
-  #   for (i in 1:length(bases)) {
-  #     subject <- gsub(bases[i],"B",subject)
-  #   }
-  # }
 
   c <- gregexpr(querry,subject ) #look for querry in subject
   loci <- c[[1]]      #extract starting positions of matches from list c
@@ -103,11 +65,10 @@ aasearch <-function(querry, subject) {
   if (locus==-1) {
         ss <- c("none")   #grab the sequence that matches the pattern
         sn <- c(paste0(0,"..",0))         #grab the positions that match the pattern
-
   } else {
     for (i in 1:length(c[[1]])) {
-      fi = c[[1]][i]                      #first index of matched string
-      li = c[[1]][i] + matchedLengths-1  #last index of matched string
+      fi <- c[[1]][i]                      #first index of matched string
+      li <- c[[1]][i] + matchedLengths[i]-1  #last index of matched string
       
       if (i==1) {
         ss <- c(substring(subjectO,fi,li))   #grab the sequence that matches the pattern
@@ -118,7 +79,7 @@ aasearch <-function(querry, subject) {
       }
     }
   }
-  rr = cbind(ss,sn)  
+  rr <- cbind(ss,sn)  
   return(rr) 
 }
 
@@ -181,29 +142,29 @@ rm(searchResult)
 rm(searchResultsAll)
 searchResultsAll <- c("aa","positions","accession","spp")
 
+#generate a fileName and path for the output
+pdList <- gregexpr("\\\\.",fList[1]) #split file path to vector separated by "\\"
+fName <- gsub("\\\\","", substr( currFile,pdList[[1]][length(pdList[[1]])], nchar(currFile)  ) )
+srchTermOut <- gsub("B","[RKH]",gsub("0" ,"[phi]" ,gsub("@","[DE]",srchTerm)))  #replace search code with file friendly version
+srchTermOut <- gsub("\\|" ,"" ,srchTermOut)  #replace search code with file friendly version
+fileOut <- paste0(Sys.Date(),"_",srchTermOut,fNameSuffix,".csv")
+pathOut <- paste0(substr( currFile,1, pdList[[1]][length(pdList[[1]])]),fileOut)
+
 for (i in 1:length(fList)) {
     plot.progress(i/length(fList))
     pf <- parseFile(fList[i])[1]
-    currFile = fList[i]
+    currFile <- fList[i]
     pf <- parseFile(currFile)
     rm(searchResult)
     searchResult <- aasearch(srchTerm, unlist(pf[1]))
     searchResult <- cbind(searchResult,unlist(strsplit(pf[2], " "))[2],unlist(pf[3]))   #add accession numbers and species common names to results table
     searchResultsAll <- rbind(searchResultsAll,searchResult)
-    print(searchResult)                    
-                                        
-    #generate a fileName and path for the output
-    pdList <- gregexpr("\\\\.",currFile) #split file path to vector separated by "\\"
-    fName <- gsub("\\\\","", substr( currFile,pdList[[1]][length(pdList[[1]])], nchar(currFile)  ) )
-    srchTermOut <- gsub("B","[RKH]",gsub("0" ,"[phi]" ,gsub("@","[DE]",srchTerm)))  #replace search code with file friendly version
-    srchTermOut <- gsub("\\|" ,"" ,srchTermOut)  #replace search code with file friendly version
-    fileOut <- paste0(Sys.Date(),"_",srchTermOut,".csv")
-    pathOut <- paste0(substr( currFile,1, pdList[[1]][length(pdList[[1]])]),fileOut)
-    #print(paste0("saving ",pathOut))
-    write.table(searchResult, pathOut, append = TRUE, quote = FALSE, sep = ",", dec = ".", row.names = FALSE, col.names = FALSE, qmethod = c("escape", "double"))
+
+    write.table(searchResult, pathOut, append = TRUE, quote = FALSE, sep = ",", dec = ".", row.names = FALSE, col.names = TRUE, qmethod = c("escape", "double"))
 }
 
-doneMsg = paste0(length(fList)," files searched for ", srchTerm, ". Search saved.")
+doneMsg <- paste0(length(fList)," files searched for ", srchTerm, ". Search saved.")
+print(searchResultsAll)
 print(doneMsg)
 
 
