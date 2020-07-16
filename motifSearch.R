@@ -12,9 +12,17 @@
 # i{n1,n2}i occurs n1 - n2 times in sequence
 # see this page for regex search tips https://cran.r-project.org/web/packages/stringr/vignettes/regular-expressions.html    
 
+#DP to self, have results spit out to console
+#Sort out why 2nd result from same file gets put in neighbouring columns
+# check why YXXphi search isn't working.
+   #remove 
+
 
 #srchTerm = c("(R|K)(L|V|I)XXXX(H|Q)(L|A)")  
-srchTerm = c("DEAR")  
+#srchTerm = c("PXXXXX(R|K)X{2,4}(A|I|L)")  
+#srchTerm = c("(R|K)(L|V|I)X{4,5}(H|Q)(L|A)")  
+#srchTerm = c("B{2,3}X{9,11}B{3,4}")  
+srchTerm = c("YXX0")  
 
 
 #c <- gregexpr("E{3,5}.E{3,5}.","ABCEEEEEEEEEEFGHH")[[1]] #look for querry in subject
@@ -43,9 +51,10 @@ plot.progress <- function(...)	{
 # uncharged: 9 =  S, T, N, Q
 
 ## ====
-hydrophobics <- c("A","I","L","M","F","W","Y","V") # hydrophobic: 0 =  A, I, L, M, F, W, Y, V 
+#hydrophobics <- c("A","I","L","M","F","W","Y","V") # hydrophobic: 0 =  A, I, L, M, F, W, Y, V 
+hydrophobics <- c("A","I","L","M","F","W","V") # hydrophobic: 0 =  A, I, L, M, F, W, Y, V 
 acids <- c("D","E") # negative/acid charge: @ = D, E 
-bases <- c("R","H", "K") # positive charge: + = R, H, K
+bases <- c("R","H", "K") # positive charge: B = R, H, K
 
 #Prompt user to select genpept formatted text file from NCBI
 fList <- choose.files(default = "", caption = "Select genpept formatted files",multi = TRUE, filters = Filters, index = nrow(Filters))
@@ -59,39 +68,39 @@ fList <- choose.files(default = "", caption = "Select genpept formatted files",m
 aasearch <-function(querry, subject) {
 
   #Manual tested for trouble shooting
-  #subject <- c("WSRRLVFDHEDLFPECQAWTGTL")
-  #querry = c("(R|A)LVF")
-    
+  #subject <- c("RKMYAEYMKR")
   subjectO <- subject #make copy of subject to reference original sequence before replacements
+  
+  #querry = ("YXX0")
+  querry <- gsub("0","(A|I|L|M|F|W|Y|V)",querry)
+  querry <- gsub("@","(D|E)",querry)
+  querry <- gsub("B","(R|H|K)",querry)
   querry <- gsub("X",".",querry)
 
   # find and replace hydrophobic residues with "0"
-  if (length((grep("0", querry)))==1) {   
-    for (i in 1:length(hydrophobics)) {
-      subject <- gsub(hydrophobics[i],"0",subject)
-    }
-  }
+  # if (length((grep("0", querry)))==1) {   
+  #   for (i in 1:length(hydrophobics)) {
+  #     subject <- gsub(hydrophobics[i],"0",subject)
+  #   }
+  # }
   # find and replace acidic residues with "@"
-  if (length((grep("@", querry)))==1) {
-    for (i in 1:length(acids)) {
-      subject <- gsub(acids[i],"@",subject)
-    }
-  }
-  
-  #count parentheses, and twice number of characters as "|" found in querry to calc number of characters found
-  #charRemoved <- 0
-  #if (gregexpr("\\(", querry)[[1]][1]!=-1) charRemoved <- charRemoved + length(gregexpr("\\(", querry)[[1]])
-  #if (gregexpr("\\)", querry)[[1]][1]!=-1) charRemoved <- charRemoved + length(gregexpr("\\)", querry)[[1]])
-  #if (gregexpr("\\|)", querry)[[1]][1]!=-1) charRemoved <- charRemoved + 2*length(gregexpr("\\|", querry)[[1]])
-  #querryLength <-nchar(querry) - charRemoved
-    
+  # if (length((grep("@", querry)))==1) {
+  #   for (i in 1:length(acids)) {
+  #     subject <- gsub(acids[i],"@",subject)
+  #   }
+  # }
+  # if (length((grep("B", querry)))==1) {
+  #   for (i in 1:length(bases)) {
+  #     subject <- gsub(bases[i],"B",subject)
+  #   }
+  # }
+
   c <- gregexpr(querry,subject ) #look for querry in subject
   loci <- c[[1]]      #extract starting positions of matches from list c
   locus <- c[[1]][1]  
   matchedLengths <-attr(c[[1]],"match.length",exact=FALSE)
   
   if (locus==-1) {
-
         ss <- c("none")   #grab the sequence that matches the pattern
         sn <- c(paste0(0,"..",0))         #grab the positions that match the pattern
 
@@ -168,84 +177,34 @@ parseFile = function(pathIn) {
   close(con)
   return(c(seq,an,sr))  
 }
-
 rm(searchResult)
+rm(searchResultsAll)
+searchResultsAll <- c("aa","positions","accession","spp")
 
 for (i in 1:length(fList)) {
-    
-   
     plot.progress(i/length(fList))
     pf <- parseFile(fList[i])[1]
     currFile = fList[i]
-  
     pf <- parseFile(currFile)
     rm(searchResult)
-  
     searchResult <- aasearch(srchTerm, unlist(pf[1]))
-    searchResult <- cbind(searchResult,unlist(strsplit(pf[2], " "))[2],unlist(pf[3]))   #add accession numbesr and species common names to results table
-    
+    searchResult <- cbind(searchResult,unlist(strsplit(pf[2], " "))[2],unlist(pf[3]))   #add accession numbers and species common names to results table
+    searchResultsAll <- rbind(searchResultsAll,searchResult)
+    print(searchResult)                    
+                                        
     #generate a fileName and path for the output
     pdList <- gregexpr("\\\\.",currFile) #split file path to vector separated by "\\"
     fName <- gsub("\\\\","", substr( currFile,pdList[[1]][length(pdList[[1]])], nchar(currFile)  ) )
-    
-    srchTermOut <- gsub("0" ,"[phi]" ,gsub("@","[DE]",srchTerm))  #replace search code with file friendly version
+    srchTermOut <- gsub("B","[RKH]",gsub("0" ,"[phi]" ,gsub("@","[DE]",srchTerm)))  #replace search code with file friendly version
     srchTermOut <- gsub("\\|" ,"" ,srchTermOut)  #replace search code with file friendly version
     fileOut <- paste0(Sys.Date(),"_",srchTermOut,".csv")
     pathOut <- paste0(substr( currFile,1, pdList[[1]][length(pdList[[1]])]),fileOut)
     #print(paste0("saving ",pathOut))
     write.table(searchResult, pathOut, append = TRUE, quote = FALSE, sep = ",", dec = ".", row.names = FALSE, col.names = FALSE, qmethod = c("escape", "double"))
-
-    
 }
 
 doneMsg = paste0(length(fList)," files searched for ", srchTerm, ". Search saved.")
 print(doneMsg)
-
-
-
-
-## ===== list of asci character ===============
-
-# \\dDigit, 0,1,2 ... 9
-# \\DNot Digit
-# \\sSpace
-# \\SNot Space
-# \\wWord
-# \\WNot Word
-# \\tTab
-# \\nNew line
-# ^Beginning of the string
-# $End of the string
-# \Escape special characters, e.g. \\ is "\", \+ is "+"
-# |Alternation match. e.g. /(e|d)n/ matches "en" and "dn"
-# •Any character, except \n or line terminator
-# [ab]a or b
-# [^ab]Any character except a and b
-# [0-9]All Digit
-# [A-Z]All uppercase A to Z letters
-# [a-z]All lowercase a to z letters
-# [A-z]All Uppercase and lowercase a to z letters
-# i+i at least one time
-# i*i zero or more times
-# i?i zero or 1 time
-# i{n}i occurs n times in sequence
-# i{n1,n2}i occurs n1 - n2 times in sequence
-# i{n1,n2}?non greedy match, see above example
-# i{n,}i occurs >= n times
-# [:alnum:]Alphanumeric characters: [:alpha:] and [:digit:]
-# [:alpha:]Alphabetic characters: [:lower:] and [:upper:]
-# [:blank:]Blank characters: e.g. space, tab
-# [:cntrl:]Control characters
-# [:digit:]Digits: 0 1 2 3 4 5 6 7 8 9
-# [:graph:]Graphical characters: [:alnum:] and [:punct:]
-# [:lower:]Lower-case letters in the current locale
-# [:print:]Printable characters: [:alnum:], [:punct:] and space
-# [:punct:]Punctuation character: ! " # $ % & ' ( ) * + , - . / : ; < = > ? @ [ \ ] ^ _ ` { | } ~
-# [:space:]Space characters: tab, newline, vertical tab, form feed, carriage return, space
-# [:upper:]Upper-case letters in the current locale
-# [:xdigit:]Hexadecimal digits: 0 1 2 3 4 5 6 7 8 9 A B C D E F a b c d e f
-
-## ________________
 
 
 
