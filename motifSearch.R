@@ -17,7 +17,7 @@
 #srchTerm = c("(R|K)(L|V|I)X{4,5}(H|Q)(L|A)")  
 #srchTerm = c("B{2,3}X{9,11}B{3,4}")  
 #srchTerm = c("YXX0")
-srchTerm = c("EXXXXX00")  
+srchTerm = c("@XXX00")  
 
 fNameSuffix = "_dileucineLike"
 
@@ -93,6 +93,9 @@ parseFile = function(pathIn) {
     addToSeq <- FALSE
     an <- "ABC12345" #accession number
     sr <- "Genus species" #source organism
+    dfn <- "sequence definition"
+    sl <- "1" #sequence length 
+
   while ( TRUE ) {
     line = readLines(con, n = 1)
     if ( length(line) == 0 ) {
@@ -107,6 +110,19 @@ parseFile = function(pathIn) {
       sr <- unlist(strsplit(line,"  "))
       sr <- sr[length(sr)]
     }
+    if (unlist(gregexpr(pattern ='DEFINITION',line)) == 1 ) {
+      dfn <- unlist(strsplit(line,"  "))
+      dfn <- dfn[length(dfn)]
+      cutAt <- gregexpr("\\[",dfn)[[1]]
+      dfn <- substr(dfn,1,cutAt-2)
+      
+    }
+    if (unlist(gregexpr(pattern ='LOCUS',line)) == 1 ) {
+      b = strsplit(strsplit(line," aa ")[[1]][1],"  ")[[1]]
+      sl = gsub(" ","",b[length(b)])
+      
+    }
+    
     #Need some function to write lines to file. 
     #fLines <- rbind(fLines,noquote(line))
 
@@ -122,7 +138,7 @@ parseFile = function(pathIn) {
       addToSeq <- FALSE
     }
     #End of current file
-    if (line == "" ) {
+    #if (line == "" ) {
 
       # pathOut <- paste0(oFolderPath,"/",an,"_",sr,".txt") 
       # print(paste0("saving ",pathOut))
@@ -130,20 +146,21 @@ parseFile = function(pathIn) {
       # fLines <- c("")
       # an <- "ABC12345" #accession number
       # sr <- "Genus species" #source organism
-    }
+    #}
     seq <- gsub("\\d+","",seq)        #remove numbers from seq
     seq <- toupper(gsub(" ","",seq))  #remove spaces and cast to upper case 
     
   }
   close(con)
-  return(c(seq,an,sr))  
+  return(c(seq,an,sr,dfn,sl))  
 }
 rm(searchResult)
 rm(searchResultsAll)
-searchResultsAll <- c("aa","positions","accession","spp")
+searchResultsAll <- c("aa","positions","accession","spp","definition","seq length")
 
 #generate a fileName and path for the output
 pdList <- gregexpr("\\\\.",fList[1]) #split file path to vector separated by "\\"
+currFile <- fList[1]
 fName <- gsub("\\\\","", substr( currFile,pdList[[1]][length(pdList[[1]])], nchar(currFile)  ) )
 srchTermOut <- gsub("B","[RKH]",gsub("0" ,"[phi]" ,gsub("@","[DE]",srchTerm)))  #replace search code with file friendly version
 srchTermOut <- gsub("\\|" ,"" ,srchTermOut)  #replace search code with file friendly version
@@ -157,7 +174,7 @@ for (i in 1:length(fList)) {
     pf <- parseFile(currFile)
     rm(searchResult)
     searchResult <- aasearch(srchTerm, unlist(pf[1]))
-    searchResult <- cbind(searchResult,unlist(strsplit(pf[2], " "))[2],unlist(pf[3]))   #add accession numbers and species common names to results table
+    searchResult <- cbind(searchResult,unlist(strsplit(pf[2], " "))[2],unlist(pf[3]),unlist(pf[4]),unlist(pf[5]))   #add accession numbers and species common names to results table
     searchResultsAll <- rbind(searchResultsAll,searchResult)
 
     write.table(searchResult, pathOut, append = TRUE, quote = FALSE, sep = ",", dec = ".", row.names = FALSE, col.names = TRUE, qmethod = c("escape", "double"))

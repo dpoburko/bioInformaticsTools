@@ -8,21 +8,23 @@ library("stringr")
 #setwd("C:\\Users\\Damon\\Documents\\splitTextFile")
 dir <- getwd()
 
+fList <- choose.files(default = "", caption = "Select genpept formatted files",multi = TRUE, filters = Filters, index = nrow(Filters))
+pdList <- gregexpr("\\\\.",fList[1]) #split file path to vector separated by "\\"
+currFile <- fList[1]
+fName <- gsub("\\\\","", substr( currFile,pdList[[1]][length(pdList[[1]])], nchar(currFile)  ) )
+fileOut <- paste0(Sys.Date(),"_",srchTermOut,fNameSuffix,".csv")
+pathOut <- paste0(substr( currFile,1, pdList[[1]][length(pdList[[1]])]),fileOut)
+
 # Read in all files from a folder
-#pathIn <- paste0(dir,"/sequence.txt")
-#pathIn <- paste0(dir,"/solute carrier family 17 member 9 .gp")
-pathIn <- paste0(dir,"/sialin_spp.gp")
-#txt <- readtext(paste0(dir,"/sequence.txt"))
+pathIn <- currFile
 
 # create output folder
-oFolderName <- "SLC17A5"
-oFolderPath <- paste0(dir,"/",oFolderName,"/")
+oFolderPath <- paste0(dir,"/",gsub(".gp","",fName),"/")
 if (!dir.exists(oFolderPath)){
   dir.create(oFolderPath, recursive = TRUE)
 }
 
 #check each line for new accession # or Source value to make name
-
 
 # fName from Accession + source
 
@@ -72,4 +74,4 @@ processFile = function(pathIn) {
 }
 
 processFile(pathIn)
-
+print("Done extracting files!")
