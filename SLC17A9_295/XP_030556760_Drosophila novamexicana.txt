@@ -1,0 +1,59 @@
+
+LOCUS       XP_030556760             438 aa            linear   INV 01-SEP-2019
+DEFINITION  solute carrier family 17 member 9 [Drosophila novamexicana].
+ACCESSION   XP_030556760
+VERSION     XP_030556760.1
+DBLINK      BioProject: PRJNA501875
+DBSOURCE    REFSEQ: accession XM_030700900.1
+KEYWORDS    RefSeq.
+SOURCE      Drosophila novamexicana
+  ORGANISM  Drosophila novamexicana
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta;
+            Pterygota; Neoptera; Holometabola; Diptera; Brachycera;
+            Muscomorpha; Ephydroidea; Drosophilidae; Drosophila.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_020824800.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Drosophila novamexicana Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..438
+                     /organism="Drosophila novamexicana"
+                     /strain="15010-1031.04,08,12"
+                     /db_xref="taxon:47314"
+                     /chromosome="Unknown"
+                     /sex="pooled male and female"
+                     /tissue_type="whole body"
+                     /dev_stage="adult"
+     Protein         1..438
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=48483
+     CDS             1..438
+                     /gene="LOC115759809"
+                     /coded_by="XM_030700900.1:292..1608"
+                     /db_xref="GeneID:115759809"
+ORIGIN      
+        1 mdeklkysll rgelvdtqsi wnrhekrvwf itlltgtcml ystrttmpll vpavaaaqkw
+       61 sktdsgtvls sffwgytltq vmggyfsdrf ggqrvilfaa lgwsiitflm ptiiwsaasv
+      121 kgyaipiivt vrilngalqg vhfpsmislt sqnlcqners sffglltsgs amgtlltgim
+      181 gsfvldyfgw syvfrviglm gfawalvlry yamagernri inismparlc vnkapaessv
+      241 pwlcffsrlp fwacvlthac emncffvlls wlptyfhdgf phakgwvvnm ipwlalppct
+      301 ffakylttrl iarewstttv rkliqsccfa aqnvalfims rttnfhtali cmtiiiggtg
+      361 fhnnavtvnp qdlaplhsgs vfglmntvga ipgflgvyla ghileltqsw pmvfsaaagi
+      421 nligwiiflv fgsaeaiv
+//
+

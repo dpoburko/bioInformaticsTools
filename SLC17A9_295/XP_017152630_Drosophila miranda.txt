@@ -1,0 +1,58 @@
+
+LOCUS       XP_017152630             438 aa            linear   INV 14-APR-2020
+DEFINITION  solute carrier family 17 member 9 [Drosophila miranda].
+ACCESSION   XP_017152630
+VERSION     XP_017152630.1
+DBLINK      BioProject: PRJNA623594
+DBSOURCE    REFSEQ: accession XM_017297141.2
+KEYWORDS    RefSeq.
+SOURCE      Drosophila miranda
+  ORGANISM  Drosophila miranda
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta;
+            Pterygota; Neoptera; Holometabola; Diptera; Brachycera;
+            Muscomorpha; Ephydroidea; Drosophilidae; Drosophila; Sophophora.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_046677.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Drosophila miranda Annotation
+                                           Release 102
+            Annotation Version          :: 102
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.4
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..438
+                     /organism="Drosophila miranda"
+                     /strain="MSH22"
+                     /db_xref="taxon:7229"
+                     /chromosome="4"
+                     /sex="male"
+                     /tissue_type="Whole body"
+     Protein         1..438
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=48481
+     CDS             1..438
+                     /gene="LOC108162414"
+                     /coded_by="XM_017297141.2:26..1342"
+                     /db_xref="GeneID:108162414"
+ORIGIN      
+        1 mdeklkysll rgelvdtqsi wtrhekrvwf itlitgtcml ystrttmpll vpavaaaqkw
+       61 sktdsgtvls sffwgytltq vvggyfsdrf ggqrviliaa igwslitflm ptiiwsagsi
+      121 ksyaipfiva irilngafqg vhfpsmislt sqnlcpners sffglltags algtlltgim
+      181 gsflldyfgw syvfrviglm giawalvlry yamagernri iniatpsrls anrtpaettv
+      241 pwlryfsrls fwacvlthac emncffvlls wlptyfhdgf phakgwvvnm ipwlalppct
+      301 lfakylttrl lardwhtttv rkfiqsccfa aqnlalfvms rtsdfhtali cmtiiiggtg
+      361 fhnnavtvnp qdlaplhsgs vfglmntvga ipgflgvyla ghileltqsw pmvfsaaagi
+      421 nlvgwiiflv fgsaeaiv
+//
+

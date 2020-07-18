@@ -1,0 +1,66 @@
+
+LOCUS       XP_011527280             316 aa            linear   PRI 02-MAR-2020
+DEFINITION  solute carrier family 17 member 9 isoform X1 [Homo sapiens].
+ACCESSION   XP_011527280
+VERSION     XP_011527280.1
+DBLINK      BioProject: PRJNA168
+DBSOURCE    REFSEQ: accession XM_011528978.2
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_000020.11) annotated using gene prediction method: Gnomon,
+            supported by mRNA and EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Updated annotation
+            Annotation Name             :: Homo sapiens Updated Annotation
+                                           Release 109.20200228
+            Annotation Version          :: 109.20200228
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.3
+            Annotation Method           :: Best-placed RefSeq; propagated
+                                           RefSeq model
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..316
+                     /organism="Homo sapiens"
+                     /db_xref="taxon:9606"
+                     /chromosome="20"
+     Protein         1..316
+                     /product="solute carrier family 17 member 9 isoform X1"
+                     /calculated_mol_wt=34393
+     Region          <1..301
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     CDS             1..316
+                     /gene="SLC17A9"
+                     /gene_synonym="C20orf59; POROK8; VNUT"
+                     /coded_by="XM_011528978.2:457..1407"
+                     /db_xref="GeneID:63910"
+                     /db_xref="HGNC:HGNC:16192"
+                     /db_xref="MIM:612107"
+ORIGIN      
+        1 mtfsrilmgl lqgvyfpalt sllsqkvres eraftysivg agsqfgtllt gavgslllew
+       61 ygwqsifyfs ggltllwvwy vyryllsekd lilalgvlaq srpvsrhnrv pwrrlfrkpa
+      121 vwaavvsqls aacsffills wlptffeetf pdakgwifnv vpwlvaipas lfsgflsdhl
+      181 inqgyraitv rklmqgmglg lssvfalclg htssfcesvv fasasiglqt fnhsgisvni
+      241 qdlapscagf lfgvantaga lagvvgvclg gylmettgsw tclfnlvaii snlglctflv
+      301 fgqaqrvdls sthedl
+//
+

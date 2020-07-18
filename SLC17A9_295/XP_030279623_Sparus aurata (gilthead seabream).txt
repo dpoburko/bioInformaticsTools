@@ -1,0 +1,55 @@
+
+LOCUS       XP_030279623             464 aa            linear   VRT 18-AUG-2019
+DEFINITION  solute carrier family 17 member 9 [Sparus aurata].
+ACCESSION   XP_030279623
+VERSION     XP_030279623.1
+DBLINK      BioProject: PRJNA558036
+DBSOURCE    REFSEQ: accession XM_030423763.1
+KEYWORDS    RefSeq.
+SOURCE      Sparus aurata (gilthead seabream)
+  ORGANISM  Sparus aurata
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Spariformes; Sparidae; Sparus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_044193.1) annotated using gene prediction method: Gnomon,
+            supported by EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Sparus aurata Annotation Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..464
+                     /organism="Sparus aurata"
+                     /db_xref="taxon:8175"
+                     /chromosome="7"
+     Protein         1..464
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=50387
+     CDS             1..464
+                     /gene="slc17a9"
+                     /coded_by="XM_030423763.1:440..1834"
+                     /db_xref="GeneID:115585420"
+ORIGIN      
+        1 maviqkygkn fgpdlvshke nqdkigapgs nkkwsehntn wsrpvarvwt avlllgtcll
+       61 ycarvampic avsmaekfhw skresgmvlg sffwgycftq vfggyvsdrv ggekvlllsa
+      121 aawgsmtaft pvlahfcsqp ilsmtvarfl mgllqgvhyp slaslcsqkv vesergflms
+      181 tvgsgsylgt liiggagslm ldlygwesvf yvsgllsllw aycmwkyllk gegpiitles
+      241 lgsggpqskl skrhwlrllk qpsvcavivt hlctastfft llswlptffr dtfpdakgwv
+      301 fnvipwlvai pssllsgcls dhlisqgfdt asvrklmqff smgvsgvftl llcgnttfpw
+      361 avafvsatmg lttfshsgvs vnvqdlapsc agalfgvmnt cgafsgvlmv yfsgylieat
+      421 gswatvfali ttvnllglct flafaearrv didackvrhh nihi
+//
+

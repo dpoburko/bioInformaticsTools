@@ -1,0 +1,75 @@
+
+LOCUS       XP_007059871             465 aa            linear   VRT 23-JAN-2019
+DEFINITION  solute carrier family 17 member 9 [Chelonia mydas].
+ACCESSION   XP_007059871
+VERSION     XP_007059871.1
+DBLINK      BioProject: PRJNA234097
+DBSOURCE    REFSEQ: accession XM_007059809.2
+KEYWORDS    RefSeq.
+SOURCE      Chelonia mydas (Green sea turtle)
+  ORGANISM  Chelonia mydas
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Testudines; Cryptodira; Durocryptodira;
+            Americhelydia; Chelonioidea; Cheloniidae; Chelonia.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_006628961.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Chelonia mydas Annotation Release
+                                           101
+            Annotation Version          :: 101
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.1
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..465
+                     /organism="Chelonia mydas"
+                     /db_xref="taxon:8469"
+                     /chromosome="Unknown"
+     Protein         1..465
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=51008
+     Region          67..450
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Site            order(70,73..75,77..78,95,98..99,102,106..107,109..110,
+                     161..162,165..166,169..170,173,185..186,189..190,196,281,
+                     284..285,288..289,292,306,308,312,315,319,375,378..379,
+                     382,386..387,390,400..401,404..405,408..409,412)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     Region          71..414
+                     /region_name="MFS_1"
+                     /note="Major Facilitator Superfamily; pfam07690"
+                     /db_xref="CDD:284993"
+     CDS             1..465
+                     /gene="SLC17A9"
+                     /coded_by="XM_007059809.2:853..2250"
+                     /db_xref="GeneID:102941783"
+ORIGIN      
+        1 masstgrngv qiyssdlvsl hhhyqqqpvk ntykegtkkd gtvdsywsrp esriwtlmll
+       61 lgtcllycar vtmpicavam sshfdwdkkq sgivlssffw gycltqiigg ylsdqiggek
+      121 vlllsasawg fitaitpllt yissahlifm tlarflmgll qgvyfpalas lfsqkvrese
+      181 raftcstvgt gsqfgtlvig gagsllldwy gwesvfyfsg lltllwvycm fkyllnekel
+      241 iirlehfskg lslskqtkvp wkqlfkkapi wavivaqlat gstfftllsw lptffkdtfp
+      301 eskgwvfnvv pwlvaiptsl fsgflsdhli nqgyktitvr kfmqvigsgv ssifalcmgq
+      361 assfckaivf asvsiglqtf nhsgisvnvq dlapscagll fgvgntggal lgvicvylag
+      421 hliettgswv svfnlvatvn alglctflif geaqrmdtds ayidl
+//
+

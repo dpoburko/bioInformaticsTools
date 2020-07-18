@@ -1,0 +1,78 @@
+
+LOCUS       XP_011159590             424 aa            linear   INV 30-AUG-2018
+DEFINITION  solute carrier family 17 member 9 [Solenopsis invicta].
+ACCESSION   XP_011159590
+VERSION     XP_011159590.1
+DBLINK      BioProject: PRJNA268798
+DBSOURCE    REFSEQ: accession XM_011161288.2
+KEYWORDS    RefSeq.
+SOURCE      Solenopsis invicta (red fire ant)
+  ORGANISM  Solenopsis invicta
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta;
+            Pterygota; Neoptera; Holometabola; Hymenoptera; Apocrita; Aculeata;
+            Formicoidea; Formicidae; Myrmicinae; Solenopsis.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_020521555.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Solenopsis invicta Annotation
+                                           Release 103
+            Annotation Version          :: 103
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.1
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..424
+                     /organism="Solenopsis invicta"
+                     /db_xref="taxon:13686"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /country="USA: Georgia"
+                     /genotype="Gp-9 big B"
+                     /note="a single focal male and 41 of his brothers"
+     Protein         1..424
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=46636
+     Region          27..417
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Region          33..417
+                     /region_name="2A0114"
+                     /note="D-galactonate transporter; TIGR00893"
+                     /db_xref="CDD:273326"
+     Site            order(41,44..46,48..49,66,69..70,73,77..78,80..81,
+                     135..136,139..140,143..144,147,159..160,163..164,170,248,
+                     251..252,255..256,259,271,275,279,282,286,342,345..346,
+                     349,353..354,357,367..368,371..372,375..376,379)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..424
+                     /gene="LOC105195729"
+                     /coded_by="XM_011161288.2:363..1637"
+                     /db_xref="GeneID:105195729"
+ORIGIN      
+        1 mqlqisldts cddrttswsr rerqkwflsl lcgtcliyat rtsvpllipi vsqeknwsks
+       61 dsgiilssff wgytltqvas gyisdkiggq rvlwisalgw smttffmpei idffsgdgts
+      121 vllvavvrmi ngafqgmhfp smislisqrl heaerasffs lltsgsalgt lltgslgsyl
+      181 lenynwmivf rvlggmslaw tallsyhslp fkekaastks ttgytlpwsk llsqppfwsc
+      241 vighacqnnc ffvllswmpt yfhdtfpevk gwvvnmvpwl smlpctflgk alseeiikag
+      301 ysvtvtrkti qticfvieig sllflvkvds fqnavfclal iiggsgfhnn aiavnpsdla
+      361 pkhsgsvfgl mntvgaipgf lgvyfsghil hvthswpavf lfiavidalg cimfllfgsg
+      421 qaii
+//
+

@@ -1,0 +1,58 @@
+
+LOCUS       XP_017566413             465 aa            linear   VRT 02-AUG-2016
+DEFINITION  PREDICTED: solute carrier family 17 member 9 [Pygocentrus
+            nattereri].
+ACCESSION   XP_017566413
+VERSION     XP_017566413.1
+DBLINK      BioProject: PRJNA331139
+DBSOURCE    REFSEQ: accession XM_017710924.1
+KEYWORDS    RefSeq.
+SOURCE      Pygocentrus nattereri (red-bellied piranha)
+  ORGANISM  Pygocentrus nattereri
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Characiformes; Characoidei; Pygocentrus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_016243931.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Pygocentrus nattereri Annotation
+                                           Release 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 7.1
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..465
+                     /organism="Pygocentrus nattereri"
+                     /isolate="Pna-1"
+                     /db_xref="taxon:42514"
+                     /chromosome="Unknown"
+                     /sex="female"
+                     /collected_by="Manfred Schartl"
+     Protein         1..465
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=50357
+     CDS             1..465
+                     /gene="slc17a9"
+                     /coded_by="XM_017710924.1:836..2233"
+                     /db_xref="GeneID:108435237"
+ORIGIN      
+        1 mailqkhgkn psadlasikd sptdhfgpvg aqkkwsessq swsrpvarvw tvvlllgtcl
+       61 lycarvampi cavsmaerfg wskresgmvl gsffwgycft qvlggyvsdr vggekvmlls
+      121 aaawgamtaf tpilahfgsq pivsmtisrf lmgllqgvhy pslaslcsqk vvesergflm
+      181 stvgsgsylg tlviggvgsl mldmygwesv fyvsgllsvl waycmwkyll kgegpiitle
+      241 slgsagtqsk msrrnwlrll rqpavcavii thlctastff tllswlptff kdtfpdskgw
+      301 vfnvipwfva ipsslfsgcl sdhlisqgfd tavvrklmqf fsmgvssvft lflcgtttfs
+      361 mavafvsatm glttfshsgv svnvqdlaps cagalfgvmn tcgaftgvim vyfsgyliea
+      421 tgswasvfal itvvnllglg tfltfaearr vdidvtkgry hnihi
+//
+

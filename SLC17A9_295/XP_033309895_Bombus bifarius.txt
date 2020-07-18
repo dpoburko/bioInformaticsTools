@@ -1,0 +1,62 @@
+
+LOCUS       XP_033309895             423 aa            linear   INV 16-APR-2020
+DEFINITION  solute carrier family 17 member 9 [Bombus bifarius].
+ACCESSION   XP_033309895
+VERSION     XP_033309895.1
+DBLINK      BioProject: PRJNA623924
+DBSOURCE    REFSEQ: accession XM_033454004.1
+KEYWORDS    RefSeq.
+SOURCE      Bombus bifarius
+  ORGANISM  Bombus bifarius
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta;
+            Pterygota; Neoptera; Holometabola; Hymenoptera; Apocrita; Aculeata;
+            Apoidea; Apidae; Bombus; Pyrobombus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_022884511.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Bombus bifarius Annotation Release
+                                           100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.4
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..423
+                     /organism="Bombus bifarius"
+                     /isolate="JDL3187"
+                     /db_xref="taxon:103933"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /tissue_type="muscle"
+                     /country="USA: Eldora, Boulder County, Colorado"
+                     /lat_lon="39.94 N 105.56 W"
+                     /collection_date="03-Sep-2018"
+                     /identified_by="Jeff Lozier"
+     Protein         1..423
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=46796
+     CDS             1..423
+                     /gene="LOC117210711"
+                     /coded_by="XM_033454004.1:296..1567"
+                     /db_xref="GeneID:117210711"
+ORIGIN      
+        1 mqmqipliqd ektnsswsrk erqkwflsll cgtcliyatr tsvpllmpii skekqwskpd
+       61 sgvilssffw gytltqvasg yisdriggqk vllisalgws mttffmpevi elfskddssv
+      121 llvavvrtin gafqgmhfps mislisqrlh eterasffsl ltsgsalgtl ltgslgsyll
+      181 enynwvvvfq tlgglslawa vllsyhtlpf kekaastksa tnyslpwlkl lkkppfwscv
+      241 ighacqnncf fvllswmpmy fhdtfpevkg wvvnmvpwls mlpctffgka lsekiikagy
+      301 sitvtrkiie ticflteiis llflakvetf qsaiiclafi iggsgfhnna iavnpsdlap
+      361 khsgsvfglm ntvgaipgfl gvyfsgyilh vthswpvvfi fiaiidalgc ivyllfgsgq
+      421 aii
+//
+

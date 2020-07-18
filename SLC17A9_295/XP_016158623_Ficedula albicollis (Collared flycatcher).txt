@@ -1,0 +1,64 @@
+
+LOCUS       XP_016158623             488 aa            linear   VRT 20-APR-2016
+DEFINITION  PREDICTED: solute carrier family 17 member 9 [Ficedula albicollis].
+ACCESSION   XP_016158623
+VERSION     XP_016158623.1
+DBLINK      BioProject: PRJNA208061
+DBSOURCE    REFSEQ: accession XM_016303137.1
+KEYWORDS    RefSeq; includes ab initio.
+SOURCE      Ficedula albicollis (Collared flycatcher)
+  ORGANISM  Ficedula albicollis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Passeriformes; Muscicapidae;
+            Ficedula.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_021691.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Ficedula albicollis Annotation
+                                           Release 101
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 7.0
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            ab initio :: 9% of CDS bases
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..488
+                     /organism="Ficedula albicollis"
+                     /isolate="OC2"
+                     /db_xref="taxon:59894"
+                     /chromosome="20"
+                     /sex="male"
+                     /country="Sweden: Oland"
+                     /collection_date="2009"
+     Protein         1..488
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=52828
+     CDS             1..488
+                     /gene="SLC17A9"
+                     /coded_by="XM_016303137.1:1..1467"
+                     /db_xref="GeneID:101816323"
+ORIGIN      
+        1 mrlrdgggra artapgqdfg gaggsllsps lspflpsgtd tvpplclqsh plnplcaqhp
+       61 palshlavhp crpqcrvwtl llllgtclly carvtvpica lalssdfhwd kkqfgvvlss
+      121 ffwgycltqi vgghisdqig gekvlllsas awgfltvltp llthitsahl ifmtssrflm
+      181 gllqgvyfps lasllsqrvr eseraftyst vgtgsqfgtl liggagslll dwygwesvfy
+      241 fsglltllwv yctckyllse keltipmnyl mrglsmpkqt kvpwkqlfrk apiwaviiaq
+      301 lstastfftl lswlptffke tfpeskgwvf nvvpwlvaip tslfsgflsd hlvsqgyrti
+      361 tirkfmqvig sgvssifalc lgqtssfcka ivfasasvgl qtfnhsgisv nvqdlapsca
+      421 gllfgvantg gallgvicvy lagyliettg swisvfnlva avnsiglctf llfgeaqrvd
+      481 tdsvyvdl
+//
+

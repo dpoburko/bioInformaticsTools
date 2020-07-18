@@ -1,0 +1,63 @@
+
+LOCUS       XP_033009602             461 aa            linear   VRT 28-MAR-2020
+DEFINITION  solute carrier family 17 member 9 [Lacerta agilis].
+ACCESSION   XP_033009602
+VERSION     XP_033009602.1
+DBLINK      BioProject: PRJNA614516
+DBSOURCE    REFSEQ: accession XM_033153711.1
+KEYWORDS    RefSeq.
+SOURCE      Lacerta agilis
+  ORGANISM  Lacerta agilis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+            Laterata; Lacertibaenia; Lacertidae; Lacerta.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_046317.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Lacerta agilis Annotation Release
+                                           100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.4
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..461
+                     /organism="Lacerta agilis"
+                     /isolate="rLacAgi1"
+                     /db_xref="taxon:80427"
+                     /chromosome="6"
+                     /sex="female"
+                     /tissue_type="blood"
+                     /dev_stage="adult"
+                     /country="Sweden: Halland"
+                     /lat_lon="57.489552 N 11.936655 E"
+                     /collection_date="28-May-2018"
+                     /collected_by="Mette Lillie, Mats Olsson"
+     Protein         1..461
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=49723
+     CDS             1..461
+                     /gene="SLC17A9"
+                     /coded_by="XM_033153711.1:2..1387"
+                     /db_xref="GeneID:117049084"
+ORIGIN      
+        1 malsvsenga qvcgadllsl hhlkqqlktt eegmkkdgad sywsrpesri wtvalllgtc
+       61 llyctrvalp iavaamsahf dwdkrqsgiv lssffwgycl tqiagghlsd riggekvill
+      121 sasvwgsita itpllayvgs ahlvlitlsr flmgllqgvy fpalaslfsr kvreneraft
+      181 ystvgsgsqf gtlvmgaags llldwygwks vfyfsgaltl lwvycmckyl vngkeliipl
+      241 gdlakglsls kqtkvpwkqi frkapvwavi taqlcaagsf ftllswlptf fketfpdskg
+      301 wvfnvvpwlv aiptslfsgf lsdqfinqgy kaitvrklmq vvgsgvssif alcightdsf
+      361 clavvfasac vglqtfnhsg isvniqdlap scagllfgva ntggallgvv cvylaghlie
+      421 itgswvsvfn lvaavnafgl ctflifgkah rvdtdsafve l
+//
+

@@ -1,0 +1,55 @@
+
+LOCUS       XP_029363166             466 aa            linear   VRT 16-JUN-2019
+DEFINITION  solute carrier family 17 member 9 [Echeneis naucrates].
+ACCESSION   XP_029363166
+VERSION     XP_029363166.1
+DBLINK      BioProject: PRJNA548465
+DBSOURCE    REFSEQ: accession XM_029507306.1
+KEYWORDS    RefSeq.
+SOURCE      Echeneis naucrates (live sharksucker)
+  ORGANISM  Echeneis naucrates
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Carangaria; Carangiformes; Echeneidae; Echeneis.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_042517.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Echeneis naucrates Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..466
+                     /organism="Echeneis naucrates"
+                     /db_xref="taxon:173247"
+                     /chromosome="7"
+     Protein         1..466
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=50671
+     CDS             1..466
+                     /gene="slc17a9"
+                     /coded_by="XM_029507306.1:501..1901"
+                     /db_xref="GeneID:115046736"
+ORIGIN      
+        1 maviqkygkn ygpdlvchke shpsdkigah gchkkwpehn tnwsrpvarv wtvvlllgtc
+       61 llycarvamp icavsmaeqf swtkresgmv lgsffwgycf tqvlggyvsd rvggekvlll
+      121 saaawgsmta ftpvlahlcs qpifsmtlar flmgllqgvh ypslaslcsq kvvesergfl
+      181 mstvgsgsyl gtlviggags lmldlygwes vfyvsgllsv lwsycmwkyl lkgegpiitl
+      241 eslgsggpqs klskrhwlrl fkqpavcavi vthlctastf ftllswlptf frdtfpdakg
+      301 wvfnvipwlv aipssllsgc lsdhlisqgf dtasvrklmq ffsmgvssmf tlllcgnttf
+      361 pwaiafvsat mglttfshsg vsvnvqdlap scagalfgvm ntcgafsgvl mvyfsgylie
+      421 atgswasvfa littvnllgl ctflafaear rvdivsskvh hhniqi
+//
+

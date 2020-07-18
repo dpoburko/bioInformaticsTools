@@ -1,0 +1,78 @@
+
+LOCUS       XP_001657797             442 aa            linear   INV 20-JUL-2017
+DEFINITION  solute carrier family 17 member 9 [Aedes aegypti].
+ACCESSION   XP_001657797
+VERSION     XP_001657797.1
+DBLINK      BioProject: PRJNA392114
+DBSOURCE    REFSEQ: accession XM_001657747.2
+KEYWORDS    RefSeq.
+SOURCE      Aedes aegypti (yellow fever mosquito)
+  ORGANISM  Aedes aegypti
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta;
+            Pterygota; Neoptera; Holometabola; Diptera; Nematocera; Culicoidea;
+            Culicidae; Culicinae; Aedini; Aedes; Stegomyia.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_035108.1) annotated using gene prediction method: Gnomon,
+            supported by EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Aedes aegypti Annotation Release 101
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 7.4
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..442
+                     /organism="Aedes aegypti"
+                     /strain="LVP_AGWG"
+                     /isolation_source="sample from 80 male siblings"
+                     /db_xref="taxon:7159"
+                     /chromosome="2"
+                     /sex="male"
+                     /tissue_type="whole pupae"
+                     /dev_stage="pupal"
+     Protein         1..442
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=48917
+     Region          35..435
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Region          37..400
+                     /region_name="MFS_1"
+                     /note="Major Facilitator Superfamily; pfam07690"
+                     /db_xref="CDD:284993"
+     Site            order(49,52..54,56..57,74,77..78,81,85..86,88..89,
+                     144..145,148..149,152..153,156,168..169,172..173,179,266,
+                     269..270,273..274,277,291,295,299,304,308,362..363,366,
+                     370..371,374,385..386,389..390,393..394,397)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..442
+                     /gene="LOC5567975"
+                     /coded_by="XM_001657747.2:322..1650"
+                     /db_xref="GeneID:5567975"
+ORIGIN      
+        1 mvkptpmeek lkysllrdln dsqsiwtrne krtwfltlla gtcmlystrt tmpllvpava
+       61 serkwsktds gtvlssffwg ytltqvlggy lsdkfggqkv vllsaigwsl itfwmpniit
+      121 sasylssysi pfivavrivn gacqgvhfps misitsqnls asertsffsi ltsgsalgtl
+      181 ltgilgsfil dyfgwptvfr vigflglswt lflryytmat dryriinlsq psricsklgh
+      241 setvpwlklf grtsfwacvl shacemncff vllswlptyf henfphakgw vvnmipwlal
+      301 ppvtilgkaf tealiarqws ltkirklvqs fcflgqnaal fimchteqfn talacmsiii
+      361 glsgfhnnav tvnpqdlaps hsgsvfglmn tvgaipgflg vylaghilel tqswsavfst
+      421 aaaintvgwf vftifgsaea iv
+//
+

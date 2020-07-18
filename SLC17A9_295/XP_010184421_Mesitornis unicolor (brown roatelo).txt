@@ -1,0 +1,77 @@
+
+LOCUS       XP_010184421             408 aa            linear   VRT 06-NOV-2014
+DEFINITION  PREDICTED: solute carrier family 17 member 9 [Mesitornis unicolor].
+ACCESSION   XP_010184421
+VERSION     XP_010184421.1
+DBLINK      BioProject: PRJNA265381
+DBSOURCE    REFSEQ: accession XM_010186119.1
+KEYWORDS    RefSeq.
+SOURCE      Mesitornis unicolor (brown roatelo)
+  ORGANISM  Mesitornis unicolor
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Gruiformes; Mesitornithidae;
+            Mesitornis.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_010159256.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA and EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Mesitornis unicolor Annotation
+                                           Release 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 6.1
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..408
+                     /organism="Mesitornis unicolor"
+                     /isolate="BGI_N332"
+                     /db_xref="taxon:54374"
+                     /chromosome="Unknown"
+                     /sex="female"
+                     /country="Madagascar"
+     Protein         1..408
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=44406
+     Region          1..393
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Region          4..393
+                     /region_name="2A0114"
+                     /note="D-galactonate transporter; TIGR00893"
+                     /db_xref="CDD:273326"
+     Site            order(13,16..18,20..21,38,41..42,45,49..50,52..53,
+                     104..105,108..109,112..113,116,128..129,132..133,139,224,
+                     227..228,231..232,235,249,251,255,258,262,318,321..322,
+                     325,329..330,333,343..344,347..348,351..352,355)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..408
+                     /gene="SLC17A9"
+                     /coded_by="XM_010186119.1:23..1249"
+                     /db_xref="GeneID:104541948"
+ORIGIN      
+        1 mlllgtclly carvtvpica valsthfdwd kkqsgivlss ffwgycltqi igghisdqig
+       61 gekvlllsas awgfltvvtp llthltsahl vfmtssrflm gllqgvyfps lasllsqrvr
+      121 eseraftyst vgtgsqfgtl viggagslll dwygwesvfy fsglltllwv yctckyllse
+      181 keliipmdyl mrglslskqt kvpwkqlfrk apiwaviiaq lstastfftl lswlptffke
+      241 tfpeskgwvf nvvpwlvaip tslfsgflsd hlinqgykti tirkfmqvig sgvssifalc
+      301 lgqtssfcka ivfasasvgl qtfnhsgisv nvqdlapsca gllfgvgntg gallgvvcvy
+      361 lagyliettg swisvfnlva avnsiglcaf lmfgeaqrvd tdsaymdl
+//
+

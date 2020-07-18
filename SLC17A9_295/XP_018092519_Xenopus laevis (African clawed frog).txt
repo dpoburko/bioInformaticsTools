@@ -1,0 +1,60 @@
+
+LOCUS       XP_018092519             453 aa            linear   VRT 20-SEP-2016
+DEFINITION  PREDICTED: solute carrier family 17 member 9 [Xenopus laevis].
+ACCESSION   XP_018092519
+VERSION     XP_018092519.1
+DBLINK      BioProject: PRJNA338693
+DBSOURCE    REFSEQ: accession XM_018237030.1
+KEYWORDS    RefSeq.
+SOURCE      Xenopus laevis (African clawed frog)
+  ORGANISM  Xenopus laevis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Anura; Pipoidea; Pipidae; Xenopodinae;
+            Xenopus; Xenopus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_030740.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA and EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Xenopus laevis Annotation Release
+                                           100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 7.1
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..453
+                     /organism="Xenopus laevis"
+                     /strain="J"
+                     /db_xref="taxon:8355"
+                     /chromosome="9_10L"
+                     /sex="female"
+                     /tissue_type="blood"
+                     /dev_stage="adult"
+     Protein         1..453
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=49672
+     CDS             1..453
+                     /gene="slc17a9.L"
+                     /coded_by="XM_018237030.1:451..1812"
+                     /db_xref="GeneID:100101297"
+                     /db_xref="Xenbase:XB-GENE-5753895"
+ORIGIN      
+        1 mastslggki agyqgqllgg dvqilerlrr ssrdpfwsrw esrvwtatll vgtcllycar
+       61 anmpicavam sedfgwnkrq sgivlssffw gycltqvlgg hlsdkiggek viflsaltwg
+      121 litamtplva hvtsvplilv svlrflmgll qgvhfpalas lfsqrvrete raftcstvgs
+      181 gsqlgtlvmg gagslllewy gwesvfyfag flallwgycl styllkeker ivtvedlkkc
+      241 fagsaqangq wkklfrkapv wavilaqlcv astaftifsw mptffkerfp eskgwvfnvv
+      301 pwlfaipagi lsgllsdhli tqgyqtvwvr klmqivgmgf ssafifclah tttyhyavaf
+      361 asvalalqtf nhsgitvnvq dlaptcagfl fgvantggal lgvvlvylsg yliettgsws
+      421 smfylvivvn lmglvvflef akservdtet ihv
+//
+

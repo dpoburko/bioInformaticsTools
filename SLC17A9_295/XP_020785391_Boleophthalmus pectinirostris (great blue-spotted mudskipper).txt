@@ -1,0 +1,73 @@
+
+LOCUS       XP_020785391             468 aa            linear   VRT 29-APR-2017
+DEFINITION  solute carrier family 17 member 9 [Boleophthalmus pectinirostris].
+ACCESSION   XP_020785391
+VERSION     XP_020785391.1
+DBLINK      BioProject: PRJNA384419
+DBSOURCE    REFSEQ: accession XM_020929732.1
+KEYWORDS    RefSeq.
+SOURCE      Boleophthalmus pectinirostris (great blue-spotted mudskipper)
+  ORGANISM  Boleophthalmus pectinirostris
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Gobiaria; Gobiiformes; Gobioidei; Gobiidae;
+            Oxudercinae; Boleophthalmus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_018356146.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Boleophthalmus pectinirostris
+                                           Annotation Release 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 7.4
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..468
+                     /organism="Boleophthalmus pectinirostris"
+                     /db_xref="taxon:150288"
+                     /chromosome="Unknown"
+                     /sex="pooled male and female"
+                     /country="China"
+                     /collection_date="Jun-2012"
+     Protein         1..468
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=51211
+     Region          54..448
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Site            order(68,71..73,75..76,93,96..97,100,104..105,107..108,
+                     159..160,163..164,167..168,171,183..184,187..188,194,279,
+                     282..283,286..287,290,302,306,310,313,317,373,376..377,
+                     380,384..385,388,398..399,402..403,406..407,410)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..468
+                     /gene="slc17a9"
+                     /coded_by="XM_020929732.1:235..1641"
+                     /db_xref="GeneID:110164648"
+ORIGIN      
+        1 maviqkygkn hnpdlvcyke nhqpnkhgga pavshkkwte qsaywsrpma rlwtvvlffg
+       61 tcllycarmt mpicavsmad qfdwshkesg mvlgsffwgy cftqifggyv sdrvggekvm
+      121 llsaaawgsm taftpvlahf csqpilsmtl arflmgllqg vhypslaslc sqkvveserg
+      181 flmstvgsgs ylgtlvigga gsfmldlygw esvfyvsgll tvlwaycmwk yllrgegpvi
+      241 sleslgsskt qtkltkrhwl rlfkqpavca vitahlctas tfftlsswlp tyfrdtfpda
+      301 kgwvfnvipw vvaipssvls gclsdhligq gfdtasvrkf mqfismglss vftlclcgkt
+      361 tfpwavalvs itmglhtfny sgvsvnvqdl apscagslfg vmntcgafsg vllvyfsgyl
+      421 iettgswasv falittlnll glgiflafgd akrvdidssk grysnihi
+//
+

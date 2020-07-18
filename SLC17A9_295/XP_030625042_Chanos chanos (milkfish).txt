@@ -1,0 +1,54 @@
+
+LOCUS       XP_030625042             462 aa            linear   VRT 16-SEP-2019
+DEFINITION  solute carrier family 17 member 9 [Chanos chanos].
+ACCESSION   XP_030625042
+VERSION     XP_030625042.1
+DBLINK      BioProject: PRJNA564626
+DBSOURCE    REFSEQ: accession XM_030769182.1
+KEYWORDS    RefSeq.
+SOURCE      Chanos chanos (milkfish)
+  ORGANISM  Chanos chanos
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Gonorynchiformes; Chanidae; Chanos.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_044497.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Chanos chanos Annotation Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..462
+                     /organism="Chanos chanos"
+                     /db_xref="taxon:29144"
+                     /chromosome="3"
+     Protein         1..462
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=50089
+     CDS             1..462
+                     /gene="slc17a9"
+                     /coded_by="XM_030769182.1:239..1627"
+                     /db_xref="GeneID:115807962"
+ORIGIN      
+        1 mailqkhgkn sspdlgslke kpgetagfqk kwtesnpnwp rplariwtvv lllgtcllyc
+       61 arvampicav smaeqfkwsk resgmvlgsf fwgycftqvm ggyvsdrvgg ekvlllsaaa
+      121 wgamtaftpv larfcsqplv smtlsrflmg llqgvhypsl aslcsqkvve sergflmstv
+      181 gsgsylgtlv iggagslmld lygwesvfyv sgllsvlway cmwkyllkge gpiitleslg
+      241 sggtqsklsk rhwlrlfkqp avcaviithl ctastfftll swlptffkdt fpeakgwvfn
+      301 vipwfvaips slfsgclsdh lisqgfdtag vrklmqffsm gvsslftlll cgtstfpaav
+      361 afvsatmglt tfshsgvsvn vqdlapscag alfgvmntcg aftgvimvyf sgylieatgs
+      421 wasvfalisv vnllglamfl vfaearrvdi dgmkaryhni hi
+//
+

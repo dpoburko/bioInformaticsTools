@@ -1,0 +1,80 @@
+
+LOCUS       XP_009908277             435 aa            linear   VRT 24-OCT-2014
+DEFINITION  PREDICTED: solute carrier family 17 member 9 [Picoides pubescens].
+ACCESSION   XP_009908277
+VERSION     XP_009908277.1
+DBLINK      BioProject: PRJNA263502
+DBSOURCE    REFSEQ: accession XM_009909975.1
+KEYWORDS    RefSeq; includes ab initio.
+SOURCE      Picoides pubescens (Downy woodpecker)
+  ORGANISM  Picoides pubescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Piciformes; Picidae; Picoides.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_009661891.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Picoides pubescens Annotation
+                                           Release 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 6.1
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            ab initio :: 4% of CDS bases
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..435
+                     /organism="Picoides pubescens"
+                     /isolate="BGI_N307"
+                     /db_xref="taxon:118200"
+                     /chromosome="Unknown"
+                     /sex="female"
+                     /country="USA"
+     Protein         1..435
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=47215
+     Region          26..420
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Region          31..420
+                     /region_name="2A0114"
+                     /note="D-galactonate transporter; TIGR00893"
+                     /db_xref="CDD:273326"
+     Site            order(40,43..45,47..48,65,68..69,72,76..77,79..80,
+                     131..132,135..136,139..140,143,155..156,159..160,166,251,
+                     254..255,258..259,262,276,278,282,285,289,345,348..349,
+                     352,356..357,360,370..371,374..375,378..379,382)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..435
+                     /gene="SLC17A9"
+                     /coded_by="XM_009909975.1:1..1308"
+                     /db_xref="GeneID:104308755"
+ORIGIN      
+        1 mlegssvekv mgvpvdkflp esrvwtvmll lgtcllycar vtvpicaval sthfdwdkkq
+       61 sgivlssffw gycltqiigg hvsdqvggek illlsasawg lltvltpllt hvtsahlvfm
+      121 assrflmgll qgvyfpslss llsqkvrese raftystvgt gsqfgtlvig gagsllldwy
+      181 gwesvfyfsg lltllwvyct ckyllsekel iipidylvrg lsfskqtkvp wkqlfkkapi
+      241 waviiaqlct astfftllsw lptffketfp eskgwvfnvv pwlvaiptsl fggflsdhli
+      301 nqgyktitir kfmqvigsgv ssifalclgq tssfckaivf asasvglqtf nhsgisvnvq
+      361 dlapscagll fgvgntggal lgvvcvylag yliettgswv svfnlvaavn siglcaflmf
+      421 geaqrvdtds ayvdl
+//
+

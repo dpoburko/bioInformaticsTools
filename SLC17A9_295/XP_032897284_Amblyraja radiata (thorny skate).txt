@@ -1,0 +1,61 @@
+
+LOCUS       XP_032897284             450 aa            linear   VRT 20-MAR-2020
+DEFINITION  solute carrier family 17 member 9 [Amblyraja radiata].
+ACCESSION   XP_032897284
+VERSION     XP_032897284.1
+DBLINK      BioProject: PRJNA610638
+DBSOURCE    REFSEQ: accession XM_033041393.1
+KEYWORDS    RefSeq.
+SOURCE      Amblyraja radiata (thorny skate)
+  ORGANISM  Amblyraja radiata
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Chondrichthyes;
+            Elasmobranchii; Batoidea; Rajiformes; Rajidae; Amblyraja.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_045978.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Amblyraja radiata Annotation Release
+                                           100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.3
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..450
+                     /organism="Amblyraja radiata"
+                     /isolate="CabotCenter1"
+                     /db_xref="taxon:386614"
+                     /chromosome="23"
+                     /sex="male"
+                     /tissue_type="testis, liver"
+                     /country="USA: Gulf of Main"
+                     /lat_lon="43.1336 N 68.3266 W"
+                     /collection_date="2017-09-18"
+                     /collected_by="Jeff Kneebone"
+     Protein         1..450
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=49312
+     CDS             1..450
+                     /gene="slc17a9"
+                     /coded_by="XM_033041393.1:249..1601"
+                     /db_xref="GeneID:116986165"
+ORIGIN      
+        1 mafaaynegd kitsmnfirp gdspnevpis rthpngtyws kseakswvpf lfmgtcllyc
+       61 arvtlpicvs amaeqyewdk kqsglvlgsf fwgycltqil ggyisdrlgg akilmlstca
+      121 wglvviftpi ivhqssspiv lltasrflmg llqgvfypsl tslfsikvre sdraftsssv
+      181 ctgsqvgtll lgavgsvllh rygwesvfyf sglpsllwgv cmwkyflkgq dqiisleslg
+      241 nglvnsknsk vpwrklfrst avwavivahi clagtffcll swmptffhdl fpeskgwvfn
+      301 vvpwavaipf slfgglltdh liklgfdtak vrkimtvfam gvssiftkll sysgnyyqav
+      361 iflsvslglq tfnhsgvsvn vqdlapscag slfgimntgg alcgvafvyl aghlietsgs
+      421 wpsvfnfisi vntfglsffl ffgqatridi
+//
+

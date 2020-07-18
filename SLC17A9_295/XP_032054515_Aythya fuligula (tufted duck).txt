@@ -1,0 +1,65 @@
+
+LOCUS       XP_032054515             452 aa            linear   VRT 30-JAN-2020
+DEFINITION  solute carrier family 17 member 9 [Aythya fuligula].
+ACCESSION   XP_032054515
+VERSION     XP_032054515.1
+DBLINK      BioProject: PRJNA602521
+DBSOURCE    REFSEQ: accession XM_032198624.1
+KEYWORDS    RefSeq.
+SOURCE      Aythya fuligula (tufted duck)
+  ORGANISM  Aythya fuligula
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Galloanserae; Anseriformes;
+            Anatidae; Aythyinae; Aythya.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_045574.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Aythya fuligula Annotation Release
+                                           100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.3
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..452
+                     /organism="Aythya fuligula"
+                     /isolate="bAytFul2"
+                     /db_xref="taxon:219594"
+                     /chromosome="16"
+                     /sex="female"
+                     /tissue_type="lung (powdered)"
+                     /dev_stage="adult"
+                     /country="Sweden"
+                     /lat_lon="59.8509 N 17.6300 E"
+                     /collection_date="28-Aug-2017"
+                     /collected_by="Patrik Ellstrom, Mahmoud Naguib, Josef
+                     Jarhult"
+     Protein         1..452
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=48734
+     CDS             1..452
+                     /gene="SLC17A9"
+                     /coded_by="XM_032198624.1:1..1359"
+                     /db_xref="GeneID:116495894"
+ORIGIN      
+        1 maaggtavpc gaqpgsgasq rrgmrkdgag dpfwprptcr vwmvmlllgt cllycarvtv
+       61 picavalsah fgwdkkqsgv vlssffwgyc ltqiigghis dqiggekvll lsasawgflt
+      121 vitpllthis sahlvfmtcs rflmgllqgv yfpslaslls qrvreseraf tystvgtgsq
+      181 fgtlviggag sllldwygwe svfyfsgllt llwvyctcky lltekeltip ieyltrglsm
+      241 skqskvpwkq lftkapiwav iiaqlstsst fftllswlpt ffketfpesk gwvfnvvpwl
+      301 vaiptslfsg flsdhlinqg yktitvrkfm qvigsgvssv falclgqtss fckaivfasa
+      361 svglqtfnhs gisvnvqdla pscagllfgv gntggallgv icvylagyli ettgswtsvf
+      421 nlvaavnsig lcaflvfgea qrvdtdsayi dl
+//
+

@@ -1,0 +1,83 @@
+
+LOCUS       XP_012255342             433 aa            linear   INV 17-JUL-2018
+DEFINITION  solute carrier family 17 member 9 [Athalia rosae].
+ACCESSION   XP_012255342
+VERSION     XP_012255342.1
+DBLINK      BioProject: PRJNA282653
+DBSOURCE    REFSEQ: accession XM_012399919.2
+KEYWORDS    RefSeq.
+SOURCE      Athalia rosae (coleseed sawfly)
+  ORGANISM  Athalia rosae
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta;
+            Pterygota; Neoptera; Holometabola; Hymenoptera; Tenthredinoidea;
+            Tenthredinidae; Allantinae; Athalia.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_020311934.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Athalia rosae Annotation Release 102
+            Annotation Version          :: 102
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.1
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..433
+                     /organism="Athalia rosae"
+                     /isolate="CS-ADULT"
+                     /isolation_source="whole body haploid adult males from a
+                     single mother"
+                     /db_xref="taxon:37344"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /dev_stage="adult"
+                     /country="Japan"
+                     /collection_date="Sep-2011"
+                     /note="Sample from a laboratory stock maintained as wild
+                     type. Originally frozen and stored Sep-2011. DNA was
+                     extracted Mar-2012."
+     Protein         1..433
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=47801
+     Region          36..426
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Region          42..424
+                     /region_name="2A0114"
+                     /note="D-galactonate transporter; TIGR00893"
+                     /db_xref="CDD:273326"
+     Site            order(50,53..55,57..58,75,78..79,82,86..87,89..90,
+                     144..145,148..149,152..153,156,168..169,172..173,179,257,
+                     260..261,264..265,268,280,284,288,291,295,351,354..355,
+                     358,362..363,366,376..377,380..381,384..385,388)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..433
+                     /gene="LOC105685642"
+                     /coded_by="XM_012399919.2:327..1628"
+                     /db_xref="GeneID:105685642"
+ORIGIN      
+        1 mdkssiqevv dtatnsstae skinrfwsrk errkwflill ygtclvyatr tsvpllmpai
+       61 skerhwsktd sgtilssffw gytltqvasg fisdriggqk viffaaigws lttffmpeii
+      121 ytftnndasi rlvasirtln gafqgmhfps misltsqrlh eadrasffsl ltsgsalgtl
+      181 ltgslgsyll dnynwtkvfq vlgglgllwt vllsyysfsl mqraapnksl tanslpwfql
+      241 lskppfwacv lghacqnncf fvllswmpty fhdtfpegkg wvvnmvpwls llpstflgkt
+      301 lsekliktgy svtmtrkiie ticlmtqsin llnlafvtsf qgaifclali iggtgfhnna
+      361 iavnpsdlap rhsgsvfglm ntvgaipgfl gvymaghile lthswsmvfv itsminvlgc
+      421 itylsfgsgn ami
+//
+

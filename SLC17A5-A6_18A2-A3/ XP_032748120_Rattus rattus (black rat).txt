@@ -1,0 +1,60 @@
+
+LOCUS       XP_032748120             515 aa            linear   ROD 14-MAR-2020
+DEFINITION  synaptic vesicular amine transporter [Rattus rattus].
+ACCESSION   XP_032748120
+VERSION     XP_032748120.1
+DBLINK      BioProject: PRJNA612505
+DBSOURCE    REFSEQ: accession XM_032892229.1
+KEYWORDS    RefSeq.
+SOURCE      Rattus rattus (black rat)
+  ORGANISM  Rattus rattus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+            Muroidea; Muridae; Murinae; Rattus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_046155.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA and EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Rattus rattus Annotation Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.3
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..515
+                     /organism="Rattus rattus"
+                     /isolate="New Zealand"
+                     /db_xref="taxon:10117"
+                     /chromosome="2"
+                     /sex="male"
+                     /tissue_type="muscle"
+                     /dev_stage="adult"
+     Protein         1..515
+                     /product="synaptic vesicular amine transporter"
+                     /calculated_mol_wt=55464
+     CDS             1..515
+                     /gene="Slc18a2"
+                     /coded_by="XM_032892229.1:7..1554"
+                     /db_xref="GeneID:116891315"
+ORIGIN      
+        1 malsdlvllr wlrdsrhsrk lilfivflal lldnmlltvv vpiipsylys ikheknstei
+       61 qttrpelvvs tsesifsyyn nstvlitgna tgtlpggqsh katstqhtva nttvpsdcps
+      121 edrdllnenv qvgllfaska tvqlltnpfi glltnrigyp ipmfagfcim fistvmfafs
+      181 ssyaflliar slqgigsscs svagmgmlas vytddeergn amgialggla mgvlvgppfg
+      241 svlyefvgkt apflvlaalv lldgaiqlfv lqpsrvqpes qkgtplttll kdpyiliaag
+      301 sicfanmgia mlepalpiwm metmcsrkwq lgvaflpasi syligtnifg ilahkmgrwl
+      361 callgmvivg isilcipfak niygliapnf gvgfaigmvd ssmmpimgyl vdlrhvsvyg
+      421 svyaiadvaf cmgyaigpsa ggaiakaigf pwlmtiigii diafaplcff lrsppakeek
+      481 mailmdhncp iktkmytqnn vqsypigdde esesd
+//
+

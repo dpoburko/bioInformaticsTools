@@ -1,0 +1,84 @@
+
+LOCUS       XP_008547280             435 aa            linear   INV 19-OCT-2015
+DEFINITION  PREDICTED: solute carrier family 17 member 9 [Microplitis
+            demolitor].
+ACCESSION   XP_008547280
+VERSION     XP_008547280.1
+DBLINK      BioProject: PRJNA251518
+DBSOURCE    REFSEQ: accession XM_008549058.2
+KEYWORDS    RefSeq.
+SOURCE      Microplitis demolitor
+  ORGANISM  Microplitis demolitor
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta;
+            Pterygota; Neoptera; Holometabola; Hymenoptera; Apocrita;
+            Terebrantes; Ichneumonoidea; Braconidae; Microgastrinae;
+            Microplitis.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_014463968.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Microplitis demolitor Annotation
+                                           Release 101
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 6.4
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..435
+                     /organism="Microplitis demolitor"
+                     /strain="Queensland-Clemson subculture"
+                     /db_xref="taxon:69319"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /dev_stage="adult"
+                     /lab_host="Chrysodeixis includens"
+                     /country="Australia: Queensland, Dalby"
+                     /lat_lon="27.18 S 151.27 E"
+                     /collection_date="15-Mar-1981"
+                     /note="this genome contains the Microplitis demolitor
+                     bracovirus"
+     Protein         1..435
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=48729
+     Region          36..428
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Region          39..393
+                     /region_name="MFS_1"
+                     /note="Major Facilitator Superfamily; pfam07690"
+                     /db_xref="CDD:284993"
+     Site            order(50,53..55,57..58,75,78..79,82,86..87,89..90,
+                     144..145,148..149,152..153,156,168..169,172..173,179,259,
+                     262..263,266..267,270,282,286,290,293,297,353,356..357,
+                     360,364..365,368,378..379,382..383,386..387,390)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..435
+                     /gene="LOC103571066"
+                     /coded_by="XM_008549058.2:244..1551"
+                     /db_xref="GeneID:103571066"
+ORIGIN      
+        1 mvnhdlpthq lemptvdfnd dskncfwtrq errawfisly cgtcllyatr tsvpllmpvv
+       61 skekqwskad sgmilssffw gytltqvasg yisdrmggqr vmwiaalgws lttffmsdvi
+      121 emfsssihcv liiaiarmln gafqgmhfps visltsqhle eyerasffgl ltsgsalgtl
+      181 ltvtlgsylm kayhwqivfq vlgslgflwt iflyyqslkv prkklkmsid dsihsnlpwr
+      241 qlwskspfws cvfthacqnn cffvllswmp tyfhdtfpdv qswkvnmipw lslvpctfia
+      301 kvlserlikt gysvtatrki ieticlttqs inllilsrvt tfpsamiclm liiggtgfhn
+      361 taiavnpsdl apkhsgsvfg imnsigavpg flgvylaghi lhmthswaav filtsiidal
+      421 gcivylvfgs gqpii
+//
+

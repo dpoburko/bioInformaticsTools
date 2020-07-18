@@ -1,0 +1,77 @@
+
+LOCUS       XP_003706319             425 aa            linear   INV 07-APR-2015
+DEFINITION  PREDICTED: solute carrier family 17 member 9 [Megachile rotundata].
+ACCESSION   XP_003706319
+VERSION     XP_003706319.1
+DBLINK      BioProject: PRJNA87021
+DBSOURCE    REFSEQ: accession XM_003706271.2
+KEYWORDS    RefSeq.
+SOURCE      Megachile rotundata (alfalfa leafcutting bee)
+  ORGANISM  Megachile rotundata
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta;
+            Pterygota; Neoptera; Holometabola; Hymenoptera; Apocrita; Aculeata;
+            Apoidea; Megachilidae; Megachilinae; Megachile.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_003797394.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Megachile rotundata Annotation
+                                           Release 101
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 6.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..425
+                     /organism="Megachile rotundata"
+                     /db_xref="taxon:143995"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /country="USA"
+                     /note="North American commercial strain;
+                     haploid male brothers"
+     Protein         1..425
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=46927
+     Region          28..418
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Region          31..383
+                     /region_name="MFS_1"
+                     /note="Major Facilitator Superfamily; pfam07690"
+                     /db_xref="CDD:284993"
+     Site            order(42,45..47,49..50,67,70..71,74,78..79,81..82,
+                     136..137,140..141,144..145,148,160..161,164..165,171,249,
+                     252..253,256..257,260,272,276,280,283,287,343,346..347,
+                     350,354..355,358,368..369,372..373,376..377,380)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..425
+                     /gene="LOC100882413"
+                     /coded_by="XM_003706271.2:1067..2344"
+                     /db_xref="GeneID:100882413"
+ORIGIN      
+        1 mqmqiplgfn qdektnssws rkerrkwfls llcgtcliya trtsvpllmp iiskekqwsk
+       61 pdsgiilssf fggytltqva sgyisdkigg qkvllisalg wsmttffmpe iieffsksds
+      121 svllvaivrt ingafqgmhf psmislisqr lheterasff slltsgsalg tlltgslgsy
+      181 llenynwmtv fqilgglsla wtlllsyhil pfkerttsik sttsytlpwl kllkkppfwa
+      241 cvighacqnn cffvllswmp ayfhdtfpev kgwvvnmvpw lsilpctflg kalsekiira
+      301 gysvtvtrki ieticfitev isllllanvk tfqsaiicla fiiggsgfhn naiavnpsdl
+      361 apkhsgsvfg lmntvgaipg flgvyfsghi lhvthswsvv fifiaiidal gcivyllfgs
+      421 gqaii
+//
+

@@ -1,0 +1,74 @@
+
+LOCUS       XP_007462313             435 aa            linear   MAM 01-APR-2014
+DEFINITION  PREDICTED: solute carrier family 17 member 9 [Lipotes vexillifer].
+ACCESSION   XP_007462313
+VERSION     XP_007462313.1
+DBLINK      BioProject: PRJNA232751
+DBSOURCE    REFSEQ: accession XM_007462251.1
+KEYWORDS    RefSeq.
+SOURCE      Lipotes vexillifer (Yangtze River dolphin)
+  ORGANISM  Lipotes vexillifer
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Cetartiodactyla; Cetacea;
+            Odontoceti; Lipotidae; Lipotes.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_006789032.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Lipotes vexillifer Annotation
+                                           Release 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 5.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..435
+                     /organism="Lipotes vexillifer"
+                     /db_xref="taxon:118797"
+                     /chromosome="Unknown"
+     Protein         1..435
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=46595
+     Region          38..420
+                     /region_name="2A0114"
+                     /note="D-galactonate transporter; TIGR00893"
+                     /db_xref="CDD:273326"
+     Region          38..420
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Site            order(41,44..46,48..49,66,69..70,73,77..78,80..81,
+                     132..133,136..137,140..141,144,156..157,160..161,167,252,
+                     255,258..259,262,276,278,282,285,289,345,348..349,352,
+                     356..357,360,370..371,374..375,378..379,382)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..435
+                     /gene="SLC17A9"
+                     /coded_by="XM_007462251.1:19..1326"
+                     /db_xref="GeneID:103087027"
+ORIGIN      
+        1 mqpppdearr eaaedaqwsr pecqvwtgtl llgtcllyca rvsvpicaaa msqdfgwnkk
+       61 eagvvlssff wgycltqvvg ghlgdrigge kvillsasaw gfitaatpll srlgsahlaf
+      121 mtfsriltgl lqgvyfpalt sllsqkvqes eraftystvg agsqfgtlvt gavgsllldw
+      181 ygwpsvfyfs ggltllwvcy vyrcllsekd lilalgvlaq glpvsrhtkv pwrqpfrkps
+      241 vwaaitsqls aacsflllsw lptffkepfp ssegwvfnvv pwlvaipasl fsgllsdrli
+      301 nqgyrtitvr kfmqamglgl ssvfapclgh tssfcksvvf asasiglqtf nhsgisvniq
+      361 dlapscagfl fgvantagal agvvgvclgg yliettgswt svfnlvaais slglctflvf
+      421 gkaqqvdlsp ahedl
+//
+

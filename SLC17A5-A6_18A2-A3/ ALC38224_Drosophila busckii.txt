@@ -1,0 +1,82 @@
+
+LOCUS       ALC38224                 622 aa            linear   INV 02-SEP-2015
+DEFINITION  VGlut [Drosophila busckii].
+ACCESSION   ALC38224
+VERSION     ALC38224.1
+DBLINK      BioProject: PRJNA274996
+            BioSample: SAMN03339664
+DBSOURCE    accession CP012523.1
+KEYWORDS    .
+SOURCE      Drosophila busckii
+  ORGANISM  Drosophila busckii
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta;
+            Pterygota; Neoptera; Holometabola; Diptera; Brachycera;
+            Muscomorpha; Ephydroidea; Drosophilidae; Drosophila.
+REFERENCE   1  (residues 1 to 622)
+  AUTHORS   Zhou,Q. and Bachtrog,D.
+  TITLE     Ancestral chromatin configuration constrains chromatin evolution on
+            differentiating sex chromosomes in Drosophila
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 622)
+  AUTHORS   Zhou,Q. and Bachtrog,D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-AUG-2015) Department of Integrative Biology,
+            University of California, Berkeley, 3060 VLSB, UC Berkeley,
+            Berkeley, CA 94709, USA
+COMMENT     ##Genome-Assembly-Data-START##
+            Assembly Method       :: ALLPATHs-LG r44206
+            Genome Coverage       :: 172.9
+            Sequencing Technology :: Illumina
+            ##Genome-Assembly-Data-END##
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..622
+                     /organism="Drosophila busckii"
+                     /db_xref="taxon:30019"
+                     /chromosome="2L"
+                     /sex="male"
+                     /tissue_type="whole larvae"
+                     /dev_stage="third instar larvae"
+                     /country="Estonia"
+                     /collection_date="2000-07-01"
+     Protein         1..622
+                     /product="VGlut"
+     Region          98..512
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Region          104..504
+                     /region_name="2A0114"
+                     /note="D-galactonate transporter; TIGR00893"
+                     /db_xref="CDD:273326"
+     Site            order(112,115..117,119..120,142,145..146,149,153..154,
+                     156..157,206..207,210..211,214..215,218,230..231,234..235,
+                     241,337,340..341,344..345,348,362,366,370,373,377,433,
+                     436..437,440,444..445,448,459..460,463..464,467..468,471)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..622
+                     /locus_tag="Dbus_chr2Lg309"
+                     /coded_by="join(CP012523.1:4541108..4541157,
+                     CP012523.1:4543713..4544043,CP012523.1:4544516..4544752,
+                     CP012523.1:4545034..4545684,CP012523.1:4545736..4545921,
+                     CP012523.1:4545976..4546197,CP012523.1:4546259..4546450)"
+ORIGIN      
+        1 mkgltafkek atgvfsglkp nmekfeisqs yhgghggyed meggeregqg pggghayddd
+       61 ddrpdspasf eeierpplrk idkyckaecp cmparytiat macvgfmiaf gmrcnmsaak
+      121 lkgehngtvf mnwtvavesh vdssffwgyl itqipggfia skfpankifg lsivssatlh
+      181 lfvpfamtlm hghvvicvrv lqglfegvty pachgiwrfw appmersrla tlafsgsyag
+      241 vvvglplsgl ladavgyqap fyaygcfgii wyvfwlwlcf enprkhpais ipelkyieks
+      301 lgesahptmp sfkttpwrqm lrsmpvyaii vanfcrswnf yllvlfqssf lkhkfgfkve
+      361 eagfvgslph limttivpfg gmladslrkn gvlsttnvrk lfncggfgme glfflfvahs
+      421 statgamfal tcgvafsgfa isgynvnhld iapryasilm glsngigtla giivpyaldg
+      481 linanptgcw ttvftlaacv hlvgctfygi fasgelqpwa eppaeeqqvw appagaitnt
+      541 tddpsqagml gtymketsfn apeyteqsqm qptaaisyga tghvannpfa tagatgpime
+      601 apagyeqhps snpylqqsyq qq
+//
+

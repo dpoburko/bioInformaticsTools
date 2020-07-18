@@ -1,0 +1,81 @@
+
+LOCUS       XP_009997026             445 aa            linear   VRT 31-OCT-2014
+DEFINITION  PREDICTED: solute carrier family 17 member 9 [Chaetura pelagica].
+ACCESSION   XP_009997026
+VERSION     XP_009997026.1
+DBLINK      BioProject: PRJNA264987
+DBSOURCE    REFSEQ: accession XM_009998724.1
+KEYWORDS    RefSeq; includes ab initio.
+SOURCE      Chaetura pelagica (chimney swift)
+  ORGANISM  Chaetura pelagica
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Apodiformes; Apodidae; Chaetura.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_009953486.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA and EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Chaetura pelagica Annotation Release
+                                           100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 6.1
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            ab initio :: 6% of CDS bases
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..445
+                     /organism="Chaetura pelagica"
+                     /isolate="M959"
+                     /db_xref="taxon:8897"
+                     /chromosome="Unknown"
+                     /sex="female"
+                     /country="USA: Cameron Parish, Louisiana"
+     Protein         1..445
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=48273
+     Region          47..430
+                     /region_name="2A0114"
+                     /note="D-galactonate transporter; TIGR00893"
+                     /db_xref="CDD:273326"
+     Region          47..430
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Site            order(50,53..55,57..58,75,78..79,82,86..87,89..90,
+                     141..142,145..146,149..150,153,165..166,169..170,176,261,
+                     264..265,268..269,272,286,288,292,295,299,355,358..359,
+                     362,366..367,370,380..381,384..385,388..389,392)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..445
+                     /gene="SLC17A9"
+                     /coded_by="XM_009998724.1:1..1338"
+                     /db_xref="GeneID:104389688"
+ORIGIN      
+        1 mgtgdigata qeraangknw pvqqqlatgp etrvwtvlll lgtcllycar vtvpvcaval
+       61 sthfdwdkkq sgivlssffw gycltqiigg hisdqiggek vlllsasawg fltvltpllt
+      121 hitsahlvfm assrflmgll qgvyfpslas llsqkvrese raftystvgt gsqfgtlvvg
+      181 gagsllldwy gwesvfyfsg lltllwvyct ckyllgerel iipidylmrs lslpkqtkvp
+      241 wkqlfkkapi waviiaqlst astfftllsw lptffketfp eskgwvfnvv pwlvaiptsl
+      301 fsgflsdhli nqgyktitir kfmqvigsgv ssifalclgq tssfckaivf asasvglqtf
+      361 nhsgisvnvq dlapscagll fgvgntggal lgvicvylag yliettgswi svfnlvaavn
+      421 siglcaflmf geaqrvdtds vymdl
+//
+

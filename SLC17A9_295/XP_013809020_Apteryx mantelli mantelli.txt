@@ -1,0 +1,90 @@
+
+LOCUS       XP_013809020             749 aa            linear   VRT 09-SEP-2015
+DEFINITION  PREDICTED: solute carrier family 17 member 9 [Apteryx mantelli
+            mantelli].
+ACCESSION   XP_013809020
+VERSION     XP_013809020.1
+DBLINK      BioProject: PRJNA294519
+DBSOURCE    REFSEQ: accession XM_013953566.1
+KEYWORDS    RefSeq; includes ab initio.
+SOURCE      Apteryx mantelli mantelli
+  ORGANISM  Apteryx mantelli mantelli
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Palaeognathae; Apterygiformes; Apterygidae;
+            Apteryx; Apteryx mantelli.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_014003087.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Apteryx australis mantelli
+                                           Annotation Release 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 6.4
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            ab initio :: 44% of CDS bases
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..749
+                     /organism="Apteryx mantelli mantelli"
+                     /sub_species="mantelli"
+                     /db_xref="taxon:202946"
+                     /chromosome="Unknown"
+     Protein         1..749
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=80502
+     Region          <143..253
+                     /region_name="DUF2275"
+                     /note="Predicted integral membrane protein (DUF2275);
+                     pfam10039"
+                     /db_xref="CDD:287057"
+     Region          340..734
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Region          343..698
+                     /region_name="MFS_1"
+                     /note="Major Facilitator Superfamily; pfam07690"
+                     /db_xref="CDD:284993"
+     Site            order(354,357..359,361..362,379,382..383,386,390..391,
+                     393..394,445..446,449..450,453..454,457,469..470,473..474,
+                     480,565,568..569,572..573,576,590,592,596,599,603,659,
+                     662..663,666,670..671,674,684..685,688..689,692..693,696)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..749
+                     /gene="SLC17A9"
+                     /coded_by="XM_013953566.1:1..2250"
+                     /db_xref="GeneID:106493501"
+ORIGIN      
+        1 maplgvappg mappgmappg vapreatrgc rrprnpssfp agllcatvay gsgegepdfn
+       61 vpsetlqave tcphlrreng ctekknlllk vayevigapg itfwtappew rcdtensvhp
+      121 ggaeeppsle trgdygrwfa mggvvpgrag ppplgcalcp rpeaeqpspa hvscrnltap
+      181 lpvpragaeg reeaalaacr lvarggsaqg ararelpgkr fprrpdarla ggsatppslr
+      241 gwrrspfrla acgrtplfcr wgqvvlavkv svshrrhrgk gaarlrgavp qqdcsdlqff
+      301 srrtrlppep pvrgeppgrr sralspfpla lgrpesrvwt amlllgtcll ycarvavpic
+      361 avalssrfgw dkkqsgvvls sffwgycltq vigghisdri ggekvllfsa sawgfltvvt
+      421 pllthvssah lafmtssrfl mgllqgvyfp alasllsqkv reseraftys tvgtgsqfgt
+      481 lviggagsll ldwygwesvf yfsglltllw vyctckylln ekeliipldy ltrglaiskq
+      541 tkvpwkqlfk kapiwaviia qlstastfft llswlptffk etfpeskgwv fnvvpwlvai
+      601 ptslfsgfls dhlisqgykt itirkfmqvi gsgvssifal clgqtssfck aivfasasvg
+      661 lqsfnhsgis vnvqdlapsc agllfgvgnt ggallgvicv ylagyliett gswisvfnlv
+      721 aavnsiglca flifgeaqrv dtdsayidl
+//
+

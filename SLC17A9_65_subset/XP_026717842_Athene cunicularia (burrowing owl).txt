@@ -1,0 +1,68 @@
+
+LOCUS       XP_026717842             426 aa            linear   VRT 24-OCT-2018
+DEFINITION  solute carrier family 17 member 9 [Athene cunicularia].
+ACCESSION   XP_026717842
+VERSION     XP_026717842.1
+DBLINK      BioProject: PRJNA497593
+DBSOURCE    REFSEQ: accession XM_026862041.1
+KEYWORDS    RefSeq.
+SOURCE      Athene cunicularia (burrowing owl)
+  ORGANISM  Athene cunicularia
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Strigiformes; Strigidae; Athene.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_020799125.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA and EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Athene cunicularia Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.1
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..426
+                     /organism="Athene cunicularia"
+                     /isolate="RWA"
+                     /db_xref="taxon:194338"
+                     /chromosome="20"
+                     /map="unlocalized"
+                     /sex="male"
+                     /tissue_type="blood"
+                     /dev_stage="adult"
+                     /country="Argentina: rural area near Bahia Blanca"
+                     /collection_date="2013"
+     Protein         1..426
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=46586
+     Region          45..421
+                     /region_name="UhpC"
+                     /note="Sugar phosphate permease [Carbohydrate transport
+                     and metabolism]; cl27298"
+                     /db_xref="CDD:332119"
+     CDS             1..426
+                     /gene="SLC17A9"
+                     /coded_by="XM_026862041.1:16..1296"
+                     /db_xref="GeneID:113487446"
+ORIGIN      
+        1 mlrtfftwkm pesriwtvml llgtcllyca rvtvpicava lsthfswdkk qsgivlssff
+       61 wgycltqiig ghisdkigge kvlllsasaw gfltvltpll thvtsahlvf massrflmgl
+      121 lqgvyfpsla sllsqkvres eraftystvg tgsqfgtlvi ggagsllldw ygwesvfyfs
+      181 glltllwvyc tckyllseke liipidylmr glsiskqskv pwkqlfkkap iwaviiaqls
+      241 tastfftlls wlptffketf peskgwvfnv vpwlvaipts lfsgflsdhl inqgyktiti
+      301 rkfmqvigsg vssifalclg qtssfckaiv fasasvglqt fnhsgisvnv qdlapscagl
+      361 lfgvgntgga llgvicvyla gyliettgsw isvfnlvaav nsiglcaflm fgeaqrvdtd
+      421 saymdl
+//
+

@@ -1,0 +1,119 @@
+
+LOCUS       NP_001102083             447 aa            linear   ROD 09-FEB-2020
+DEFINITION  solute carrier family 17 member 9 [Rattus norvegicus].
+ACCESSION   NP_001102083 XP_001059811 XP_342602
+VERSION     NP_001102083.1
+DBSOURCE    REFSEQ: accession NM_001108613.1
+KEYWORDS    RefSeq.
+SOURCE      Rattus norvegicus (Norway rat)
+  ORGANISM  Rattus norvegicus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+            Muroidea; Muridae; Murinae; Rattus.
+REFERENCE   1  (residues 1 to 447)
+  AUTHORS   Mizuhara M, Kometani-Gunjigake K, Nakao-Kuroishi K, Toyono T,
+            Hitomi S, Morii A, Shiga M, Seta Y, Ono K and Kawamoto T.
+  TITLE     Vesicular nucleotide transporter mediates adenosine triphosphate
+            release in compressed human periodontal ligament fibroblast cells
+            and participates in tooth movement-induced nociception in rats
+  JOURNAL   Arch. Oral Biol. 110, 104607 (2020)
+   PUBMED   31810015
+  REMARK    GeneRIF: results indicate that release of ATP from periodontal
+            ligament cells via VNUT is important for nociceptive transduction
+            during orthodontic treatment
+REFERENCE   2  (residues 1 to 447)
+  AUTHORS   Fois G, Winkelmann VE, Bareis L, Staudenmaier L, Hecht E, Ziller C,
+            Ehinger K, Schymeinsky J, Kranz C and Frick M.
+  TITLE     ATP is stored in lamellar bodies to activate vesicular P2X4 in an
+            autocrine fashion upon exocytosis
+  JOURNAL   J. Gen. Physiol. 150 (2), 277-291 (2018)
+   PUBMED   29282210
+REFERENCE   3  (residues 1 to 447)
+  AUTHORS   Nishida K, Nomura Y, Kawamori K, Moriyama Y and Nagasawa K.
+  TITLE     Expression profile of vesicular nucleotide transporter (VNUT,
+            SLC17A9) in subpopulations of rat dorsal root ganglion neurons
+  JOURNAL   Neurosci. Lett. 579, 75-79 (2014)
+   PUBMED   25043192
+  REMARK    GeneRIF: These results suggest that VNUT plays a role in ATP
+            accumulation in dorsal root ganglion neurons
+REFERENCE   4  (residues 1 to 447)
+  AUTHORS   Ivatt RM, Sanchez-Martinez A, Godena VK, Brown S, Ziviani E and
+            Whitworth AJ.
+  TITLE     Genome-wide RNAi screen identifies the Parkinson disease GWAS risk
+            locus SREBF1 as a regulator of mitophagy
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 111 (23), 8494-8499 (2014)
+   PUBMED   24912190
+REFERENCE   5  (residues 1 to 447)
+  AUTHORS   Harada Y and Hiasa M.
+  TITLE     Immunological identification of vesicular nucleotide transporter in
+            intestinal L cells
+  JOURNAL   Biol. Pharm. Bull. 37 (7), 1090-1095 (2014)
+   PUBMED   24989000
+  REMARK    GeneRIF: These results demonstrate that intestinal L cells express
+            VNUT (vesicular nucleotide transporter )and suggest that L cells
+            are purinergic in nature and secrete nucleotides.
+REFERENCE   6  (residues 1 to 447)
+  AUTHORS   Larsson M, Sawada K, Morland C, Hiasa M, Ormel L, Moriyama Y and
+            Gundersen V.
+  TITLE     Functional and anatomical identification of a vesicular transporter
+            mediating neuronal ATP release
+  JOURNAL   Cereb. Cortex 22 (5), 1203-1214 (2012)
+   PUBMED   21810784
+  REMARK    GeneRIF: VNUT mediates transport of ATP into synaptic vesicles of
+            hippocampal neurons
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. The reference sequence was derived from CH474066.1.
+            On or before Oct 4, 2007 this sequence version replaced
+            XP_001059811.1, XP_342602.3.
+            
+            ##Evidence-Data-START##
+            RNAseq introns :: single sample supports all introns SAMEA2689594,
+                              SAMEA2689598 [ECO:0000348]
+            ##Evidence-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..447
+                     /organism="Rattus norvegicus"
+                     /db_xref="taxon:10116"
+                     /chromosome="3"
+                     /map="3q43"
+     Protein         1..447
+                     /product="solute carrier family 17 member 9"
+                     /note="solute carrier family 17 (vesicular nucleotide
+                     transporter), member 9"
+                     /calculated_mol_wt=48507
+     Region          40..432
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Region          43..419
+                     /region_name="2A0114"
+                     /note="D-galactonate transporter; TIGR00893"
+                     /db_xref="CDD:273326"
+     Site            order(52,55..57,59..60,77,80..81,84,88..89,91..92,
+                     143..144,147..148,151..152,155,167..168,171..172,178,263,
+                     266..267,270..271,274,288,290,294,297,301,357,360..361,
+                     364,368..369,372,382..383,386..387,390..391,394)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..447
+                     /gene="Slc17a9"
+                     /gene_synonym="RGD1311940"
+                     /coded_by="NM_001108613.1:37..1380"
+                     /db_xref="GeneID:362287"
+                     /db_xref="RGD:1311940"
+ORIGIN      
+        1 mpsqrsslmq pipeetrktp saaaedkrws rpecqlwtgm lllgtcllyc trvtmpvctv
+       61 amsqdfgwnk keagivlssf fwgycltqvv gghlgdrigg ekvillsasa wgfitvttpl
+      121 lahlgsghla fvtfsriltg llqgvyfpal tsllsqrvqe sersftystv gagsqvgtlv
+      181 tggigsvlld rcgwqsvfyf sggltllwvy yvykylldek dlvlalgvla qglpvtrpsk
+      241 vpwrqlfrka svwavicsql ssacsffill swlptffket fphskgwvfn vvpwllaipa
+      301 slfsgfisdr lisqgyrvit vrkfmqvmgl glssifalcl ghttsflksm ifasasigfq
+      361 tfnhsgisvn iqdlapscag flfgvantag alagvvgvcl ggyliettgs wtcvfhlvai
+      421 vsnlglgtfl vfgkaqrvdl vpthedl
+//
+

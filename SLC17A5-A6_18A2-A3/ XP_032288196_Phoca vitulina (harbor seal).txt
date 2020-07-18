@@ -1,0 +1,62 @@
+
+LOCUS       XP_032288196             517 aa            linear   MAM 11-FEB-2020
+DEFINITION  vesicular acetylcholine transporter [Phoca vitulina].
+ACCESSION   XP_032288196
+VERSION     XP_032288196.1
+DBLINK      BioProject: PRJNA605348
+DBSOURCE    REFSEQ: accession XM_032432305.1
+KEYWORDS    RefSeq.
+SOURCE      Phoca vitulina (harbor seal)
+  ORGANISM  Phoca vitulina
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Carnivora; Caniformia;
+            Phocidae; Phoca.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_022589751.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Phoca vitulina Annotation Release
+                                           100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.3
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..517
+                     /organism="Phoca vitulina"
+                     /isolate="PV1807"
+                     /db_xref="taxon:9720"
+                     /chromosome="Unknown"
+                     /sex="female"
+                     /tissue_type="blood"
+                     /dev_stage="Pup"
+                     /country="Canada: Boundary Bay, Tsawwassen, British
+                     Columbia"
+     Protein         1..517
+                     /product="vesicular acetylcholine transporter"
+                     /calculated_mol_wt=55145
+     CDS             1..517
+                     /gene="SLC18A3"
+                     /coded_by="XM_032432305.1:1..1554"
+                     /db_xref="GeneID:116649465"
+ORIGIN      
+        1 mepaapvgsa raaaiklsea mgavlqdprr qrrlvlvivc valfldnmly mvivpivpdy
+       61 iahmhkagrp spntevttlq pstpatgsan mgntsespkt atesedvkig vlfaskailq
+      121 llvnplsgpf idrmsydvpl liglgvlfas tvlfafaedy atlfaarslq glgsafadts
+      181 giamiadkyp eepersralg valafisfgs lvappfggfl yqfagkhvpf lvlaavslld
+      241 allllvvakp fsavtraran lpvgtpihrl mldpyiavva galttcnipl afleptiatw
+      301 mehtmaasew ergmawlpaf vphvlgvylt vrlaaryphl qwlygavgla vigasscvvp
+      361 acrsfaplvv slcglcfgia lvdtallptl aflvdvrhvs vygsvyaiad isysvayalg
+      421 pivaghivhs lgfaqlslgm glanllyapv llllrnvgll rrsrserdvl ldeppqglyd
+      481 avrlrerpvs dpdgaprsps gpfdecedvy nnyyars
+//
+

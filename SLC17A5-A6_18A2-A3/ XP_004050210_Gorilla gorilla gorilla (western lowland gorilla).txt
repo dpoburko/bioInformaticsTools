@@ -1,0 +1,79 @@
+
+LOCUS       XP_004050210             514 aa            linear   PRI 30-SEP-2019
+DEFINITION  synaptic vesicular amine transporter [Gorilla gorilla gorilla].
+ACCESSION   XP_004050210
+VERSION     XP_004050210.1
+DBLINK      BioProject: PRJNA564096
+DBSOURCE    REFSEQ: accession XM_004050162.3
+KEYWORDS    RefSeq.
+SOURCE      Gorilla gorilla gorilla (western lowland gorilla)
+  ORGANISM  Gorilla gorilla gorilla
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Gorilla.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_044612.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA and EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Gorilla gorilla Annotation Release
+                                           102
+            Annotation Version          :: 102
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..514
+                     /organism="Gorilla gorilla gorilla"
+                     /isolate="Kamilah (stud number 0661)"
+                     /sub_species="gorilla"
+                     /db_xref="taxon:9595"
+                     /chromosome="10"
+                     /sex="female"
+                     /cell_type="fibroblast"
+                     /tissue_type="primary cell cultured fibroblast cell line"
+                     /dev_stage="adult"
+                     /breed="western lowland gorilla"
+     Protein         1..514
+                     /product="synaptic vesicular amine transporter"
+                     /calculated_mol_wt=55568
+     Region          130..437
+                     /region_name="MFS_1"
+                     /note="Major Facilitator Superfamily; pfam07690"
+                     /db_xref="CDD:311564"
+     Region          132..273
+                     /region_name="2_A_01_02"
+                     /note="Multidrug resistance protein; TIGR00880"
+                     /db_xref="CDD:273318"
+     Site            order(135,138..139,142,146..147,149..150,196..197,
+                     200..201,204..205,208,221..222,225..226,232,305,308..309,
+                     312..313,316,330,334,338,341,345,392,395..396,402,
+                     406..407,410,421..422,425..426,429..430,433)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..514
+                     /gene="SLC18A2"
+                     /coded_by="XM_004050162.3:117..1661"
+                     /db_xref="GeneID:101132348"
+ORIGIN      
+        1 malselalvr wlqesrrsrk lilfivflal lldnmlltvv vpiipsylys ikheknatei
+       61 qtarpvhtas isdsfqsifs yydnstmvtg natrdltlhq tatqhmvtna savpsdcpse
+      121 dkdllnenvq vgllfaskat vqlitnpfig lltnrigypi pifagfcimf vstimfafss
+      181 syaflliars lqgigsscss vagmgmlasv ytddeergnv mgialgglam gvlvgppfgs
+      241 vlyefvgkta pflvlaalvl ldgaiqlfvl qpsrvqpesq kgtplttllk dpyiliaags
+      301 icfanmgiam lepalpiwmm etmcsrkwql gvaflpasis yligtnifgi lahkmgrwlc
+      361 allgmiivgv silcipfakn iygliapnfg vgfaigmvds smmpimgylv dlrhvsvygs
+      421 vyaiadvafc mgyaigpsag gaiakaigfp wlmtiigiid ilfaplcffl rsppakeekm
+      481 ailmdhncpi ktkmytqnni qsypigddee sesd
+//
+

@@ -1,0 +1,79 @@
+
+LOCUS       XP_004669555             448 aa            linear   ROD 23-JUN-2015
+DEFINITION  PREDICTED: solute carrier family 17 member 9 [Jaculus jaculus].
+ACCESSION   XP_004669555
+VERSION     XP_004669555.1
+DBLINK      BioProject: PRJNA193488
+DBSOURCE    REFSEQ: accession XM_004669498.1
+KEYWORDS    RefSeq.
+SOURCE      Jaculus jaculus (lesser Egyptian jerboa)
+  ORGANISM  Jaculus jaculus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+            Dipodoidea; Dipodidae; Dipodinae; Jaculus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_004504443.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Jaculus jaculus Annotation Release
+                                           101
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 6.3
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..448
+                     /organism="Jaculus jaculus"
+                     /isolate="JJ0015"
+                     /db_xref="taxon:51337"
+                     /chromosome="Unknown"
+                     /sex="female"
+                     /country="USA"
+                     /collection_date="May-2011"
+                     /note="the animal was collected near Giza City, Egypt in
+                     2009 and now lives in a colony in the USA"
+     Protein         1..448
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=48664
+     Region          41..433
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Region          44..421
+                     /region_name="2A0114"
+                     /note="D-galactonate transporter; TIGR00893"
+                     /db_xref="CDD:273326"
+     Site            order(53,56..58,60..61,78,81..82,85,89..90,92..93,
+                     144..145,148..149,152..153,156,168..169,172..173,179,264,
+                     267..268,271..272,275,289,291,295,298,302,358,361..362,
+                     365,369..370,373,383..384,387..388,391..392,395)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..448
+                     /gene="Slc17a9"
+                     /coded_by="XM_004669498.1:1..1347"
+                     /db_xref="GeneID:101594617"
+ORIGIN      
+        1 mrsqrpspmq pppdevrrap saavaedthw srpecqawtg mlllgtclly ctrvtmpict
+       61 vamsedfgwn kkeagtvlss ffwgycltqv vgghlgdrig gekvillsas twgfitiatp
+      121 lltclgsahl aymtfsrvlt gllqgvyfpa ltsllsqrvr eteraftyst vsagsqfgtl
+      181 vtgavgsvll dwcgwqsvfy fsggltllwv sylyryllge kdlvlalgil vqdlpmarps
+      241 kvpwrqlfrk psvwaaicsq mssacsffvl lswlptffke tfphskgwvf nvvpwlvaip
+      301 asvfsgflsd ylisqgyrvi tvrkfmqvmg lglssvfalc lghttsflka mvfasasigl
+      361 qtfnhsgisv niqdlapsca gflfgvanta galagvigvc lggylieatg swtcvfnlva
+      421 visnlglgtf lvfgeaqrvd lrpthedl
+//
+

@@ -1,0 +1,84 @@
+
+LOCUS       XP_012796951             470 aa            linear   INV 23-JUN-2015
+DEFINITION  Solute carrier family 17 member 9 [Schistosoma haematobium].
+ACCESSION   XP_012796951
+VERSION     XP_012796951.1
+DBLINK      BioProject: PRJNA273970
+            BioSample: SAMN00794683
+DBSOURCE    REFSEQ: accession XM_012941497.1
+KEYWORDS    RefSeq.
+SOURCE      Schistosoma haematobium
+  ORGANISM  Schistosoma haematobium
+            Eukaryota; Metazoa; Platyhelminthes; Trematoda; Digenea;
+            Strigeidida; Schistosomatoidea; Schistosomatidae; Schistosoma.
+REFERENCE   1  (residues 1 to 470)
+  AUTHORS   Young,N.D., Jex,A.R., Li,B., Liu,S., Yang,L., Xiong,Z., Li,Y.,
+            Cantacessi,C., Hall,R.S., Xu,X., Chen,F., Wu,X., Zerlotini,A.,
+            Oliveira,G., Hofmann,A., Zhang,G., Fang,X., Kang,Y., Campbell,B.E.,
+            Loukas,A., Ranganathan,S., Rollinson,D., Rinaldi,G., Brindley,P.J.,
+            Yang,H., Wang,J., Wang,J. and Gasser,R.B.
+  TITLE     Whole-genome sequence of Schistosoma haematobium
+  JOURNAL   Nat. Genet. 44 (2), 221-225 (2012)
+   PUBMED   22246508
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (residues 1 to 470)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-JUN-2015) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   3  (residues 1 to 470)
+  AUTHORS   Young,N.D., Jex,A.R., Li,B., Liu,S., Yang,L., Xiong,Z., Li,Y.,
+            Cantacessi,C., Hall,R.S., Xu,X., Chen,F., Wu,X., Zerlotini,A.,
+            Oliveira,G., Hofmann,A., Zhang,G., Fang,X., Kang,Y., Campbell,B.E.,
+            Loukas,A., Ranganathan,S., Rollinson,D., Rinaldi,G., Brindley,P.J.,
+            Yang,H., Wang,J., Wang,J. and Gasser,R.B.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-APR-2012) 2nd Office Building, Beijing Genomics
+            Institute, Beishan Road, Yantian, Shenzhen, Guangdong 518083,
+            P.R.China
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. The reference sequence is identical to KGB37189.
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..470
+                     /organism="Schistosoma haematobium"
+                     /db_xref="taxon:6185"
+                     /chromosome="Unknown"
+     Protein         1..470
+                     /product="Solute carrier family 17 member 9"
+                     /calculated_mol_wt=52830
+     Region          16..463
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Region          25..463
+                     /region_name="2A0114"
+                     /note="D-galactonate transporter; TIGR00893"
+                     /db_xref="CDD:273326"
+     Site            order(28,31..33,35..36,53,56..57,60,64..65,67..68,
+                     122..123,126..127,130..131,134,146..147,150..151,157,294,
+                     297..298,301..302,305,317,321,325,328,332,388,391..392,
+                     394,398..399,402,413..414,417..418,421..422,425)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..470
+                     /locus_tag="MS3_05517"
+                     /coded_by="XM_012941497.1:1..1413"
+                     /note="A_04426"
+                     /db_xref="GeneID:24592966"
+ORIGIN      
+        1 matmwsrter hkwmcllfig avglyasrav mpiasvaias elnwnrkemg fmmgiffwgy
+       61 avtqylggyl sdvfggeivi aissvgwsil tvcfiwlpsi nlgsndiygl fiitrfllgi
+      121 fqgfyypsla slmanrvqvs nrnitfavit agthlgtilc gslgsylaen dgwrtpffwi
+      181 gisffawsyi vylivtretk rphklhlilp riltnsyfin knvtisrelk sencikildv
+      241 eekmtpsest fvyidsksid ndsvssvplr hlnwsllfrh kpfwvmllan fvhnntfyii
+      301 lnwcpsyfhd nypdarswvf nmvpwliifp svllagslad hwiktgvsvt ivrkiittvv
+      361 llgsslflii lssldnyygs licmafalac lgfhcsgvll npqdmapnhg gqlygimatv
+      421 gtfpgfvgvy mvgyileatn qwsvifitta fvsivgwvgy vlygsseilf
+//
+

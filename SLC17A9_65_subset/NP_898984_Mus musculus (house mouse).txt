@@ -1,0 +1,203 @@
+
+LOCUS       NP_898984                447 aa            linear   ROD 29-APR-2020
+DEFINITION  solute carrier family 17 member 9 [Mus musculus].
+ACCESSION   NP_898984
+VERSION     NP_898984.3
+DBSOURCE    REFSEQ: accession NM_183161.3
+KEYWORDS    RefSeq; RefSeq Select.
+SOURCE      Mus musculus (house mouse)
+  ORGANISM  Mus musculus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+            Muroidea; Muridae; Murinae; Mus; Mus.
+REFERENCE   1  (residues 1 to 447)
+  AUTHORS   Mihara H, Uchida K, Koizumi S and Moriyama Y.
+  TITLE     Involvement of VNUT-exocytosis in transient receptor potential
+            vanilloid 4-dependent ATP release from gastrointestinal epithelium
+  JOURNAL   PLoS ONE 13 (10), e0206276 (2018)
+   PUBMED   30365528
+  REMARK    GeneRIF: expression of TRPV4 and VNUT in normal human
+            gastrointestinal cell derived cell lines
+            Publication Status: Online-Only
+REFERENCE   2  (residues 1 to 447)
+  AUTHORS   Kinoshita M, Hirayama Y, Fujishita K, Shibata K, Shinozaki Y,
+            Shigetomi E, Takeda A, Le HPN, Hayashi H, Hiasa M, Moriyama Y,
+            Ikenaka K, Tanaka KF and Koizumi S.
+  TITLE     Anti-Depressant Fluoxetine Reveals its Therapeutic Effect Via
+            Astrocytes
+  JOURNAL   EBioMedicine 32, 72-83 (2018)
+   PUBMED   29887330
+  REMARK    GeneRIF: FLX-induced anti-depressive behavior was decreased in
+            astrocyte-selective VNUT-knockout mice or when VNUT was deleted in
+            mice, but it was increased when astrocyte-selective VNUT was
+            overexpressed in mice
+REFERENCE   3  (residues 1 to 447)
+  AUTHORS   Harada Y, Kato Y, Miyaji T, Omote H, Moriyama Y and Hiasa M.
+  TITLE     Vesicular nucleotide transporter mediates ATP release and migration
+            in neutrophils
+  JOURNAL   J. Biol. Chem. 293 (10), 3770-3779 (2018)
+   PUBMED   29363573
+  REMARK    GeneRIF: Data (including data from studies using knockout mice)
+            suggest that Vnut/Slc17a9 localized in tertiary/secretory granules
+            of neutrophils is responsible for vesicular ATP release and
+            subsequent neutrophil migration/infiltration.
+REFERENCE   4  (residues 1 to 447)
+  AUTHORS   Kato Y, Hiasa M, Ichikawa R, Hasuzawa N, Kadowaki A, Iwatsuki K,
+            Shima K, Endo Y, Kitahara Y, Inoue T, Nomura M, Omote H, Moriyama Y
+            and Miyaji T.
+  TITLE     Identification of a vesicular ATP release inhibitor for the
+            treatment of neuropathic and inflammatory pain
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 114 (31), E6297-E6305 (2017)
+   PUBMED   28720702
+REFERENCE   5  (residues 1 to 447)
+  AUTHORS   Ihara T, Mitsui T, Nakamura Y, Kira S, Nakagomi H, Sawada N,
+            Hirayama Y, Shibata K, Shigetomi E, Shinozaki Y, Yoshiyama M,
+            Andersson KE, Nakao A, Takeda M and Koizumi S.
+  TITLE     Clock Genes Regulate the Circadian Expression of Piezo1, TRPV4,
+            Connexin26, and VNUT in an Ex Vivo Mouse Bladder Mucosa
+  JOURNAL   PLoS ONE 12 (1), e0168234 (2017)
+   PUBMED   28060940
+  REMARK    GeneRIF: clock genes exist in the mouse bladder mucosa and regulate
+            exact circadian gene expression in mice
+            Publication Status: Online-Only
+REFERENCE   6  (residues 1 to 447)
+  AUTHORS   Larsson M, Sawada K, Morland C, Hiasa M, Ormel L, Moriyama Y and
+            Gundersen V.
+  TITLE     Functional and anatomical identification of a vesicular transporter
+            mediating neuronal ATP release
+  JOURNAL   Cereb. Cortex 22 (5), 1203-1214 (2012)
+   PUBMED   21810784
+  REMARK    GeneRIF: VNUT mediates transport of ATP into synaptic vesicles of
+            hippocampal neurons.
+REFERENCE   7  (residues 1 to 447)
+  AUTHORS   Sathe MN, Woo K, Kresge C, Bugde A, Luby-Phelps K, Lewis MA and
+            Feranchak AP.
+  TITLE     Regulation of purinergic signaling in biliary epithelial cells by
+            exocytosis of SLC17A9-dependent ATP-enriched vesicles
+  JOURNAL   J. Biol. Chem. 286 (28), 25363-25376 (2011)
+   PUBMED   21613220
+  REMARK    GeneRIF: the existence of an SLC17A9-dependent ATP-enriched
+            vesicular pool in biliary epithelium that undergoes regulated
+            exocytosis to initiate purinergic signaling.
+REFERENCE   8  (residues 1 to 447)
+  AUTHORS   Tokunaga A, Tsukimoto M, Harada H, Moriyama Y and Kojima S.
+  TITLE     Involvement of SLC17A9-dependent vesicular exocytosis in the
+            mechanism of ATP release during T cell activation
+  JOURNAL   J. Biol. Chem. 285 (23), 17406-17416 (2010)
+   PUBMED   20382737
+  REMARK    GeneRIF: analysis of involvement of SLC17A9-dependent vesicular
+            exocytosis in the mechanism of ATP release during T cell activation
+REFERENCE   9  (residues 1 to 447)
+  AUTHORS   Sawada K, Echigo N, Juge N, Miyaji T, Otsuka M, Omote H, Yamamoto A
+            and Moriyama Y.
+  TITLE     Identification of a vesicular nucleotide transporter
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 105 (15), 5683-5686 (2008)
+   PUBMED   18375752
+  REMARK    GeneRIF: SLC17A9 protein acts as a vesicular nucleotide transporter
+            (VNUT) and plays an essential role in vesicular storage of ATP in
+            the ATP-secreting cells
+REFERENCE   10 (residues 1 to 447)
+  AUTHORS   Piao Y, Ko NT, Lim MK and Ko MS.
+  TITLE     Construction of long-transcript enriched cDNA libraries from
+            submicrogram amounts of total RNAs by a universal PCR amplification
+            method
+  JOURNAL   Genome Res. 11 (9), 1553-1558 (2001)
+   PUBMED   11544199
+COMMENT     VALIDATED REFSEQ: This record has undergone validation or
+            preliminary review. The reference sequence was derived from
+            BG087579.2, CF165170.1, BE850231.1, AK006122.1 and AW554829.2.
+            On Feb 8, 2007 this sequence version replaced NP_898984.2.
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            RNAseq introns :: single sample supports all introns SAMN00849374,
+                              SAMN00849375 [ECO:0000348]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            RefSeq Select criteria :: based on conservation, expression,
+                                      longest protein
+            ##RefSeq-Attributes-END##
+FEATURES             Location/Qualifiers
+     source          1..447
+                     /organism="Mus musculus"
+                     /strain="C57BL/6"
+                     /db_xref="taxon:10090"
+                     /chromosome="2"
+                     /map="2"
+     Protein         1..447
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=48348
+     Region          40..432
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Site            40..60
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q8VCL5.3)"
+     Region          43..424
+                     /region_name="2A0114"
+                     /note="D-galactonate transporter; TIGR00893"
+                     /db_xref="CDD:273326"
+     Site            order(52,55..57,59..60,77,80..81,84,88..89,91..92,
+                     143..144,147..148,151..152,155,167..168,171..172,178,263,
+                     266..267,270..271,274,288,290,294,297,301,357,360..361,
+                     364,368..369,372,382..383,386..387,390..391,394)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     Site            74..94
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q8VCL5.3)"
+     Site            103..123
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q8VCL5.3)"
+     Site            129..149
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q8VCL5.3)"
+     Site            169..189
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q8VCL5.3)"
+     Site            192..212
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q8VCL5.3)"
+     Site            252..272
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q8VCL5.3)"
+     Site            287..307
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q8VCL5.3)"
+     Site            327..347
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q8VCL5.3)"
+     Site            380..400
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q8VCL5.3)"
+     Site            413..433
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q8VCL5.3)"
+     CDS             1..447
+                     /gene="Slc17a9"
+                     /gene_synonym="1700019H03Rik; BC019537; Vnut"
+                     /coded_by="NM_183161.3:22..1365"
+                     /db_xref="CCDS:CCDS38378.1"
+                     /db_xref="GeneID:228993"
+                     /db_xref="MGI:MGI:1919107"
+ORIGIN      
+        1 mpsqrsslmq pipeetrktp saaaedtrws rpecqawtgi lllgtcllyc arvtmpvctv
+       61 amsqdfgwnk keagivlssf fwgycltqvv gghlgdrigg ekvillsasa wgfitvttpl
+      121 lahlgsghla fltfsriltg llqgvyfpal tsllsqkvqe seraftystv gagsqvgtlv
+      181 tggvgsvlld qcgwqsvfyf sggltllway yvyryllnek dlvlalgfla qglpvtkpsk
+      241 vpwrqlfrka svwaaicsql csacsffill swlptffket fpnskgwvfn vvpwmlaipa
+      301 slfsgfisdr lisqgyrvit vrkfmqvmgl glssifalcl ghttsflkam ifasasigfq
+      361 tfnhsgisvn iqdlapscag flfgvantag alagvvgvcl sgyliettgs wtcvfhlvai
+      421 isnlglgtfl vfgkaqrvdl vpthedl
+//
+

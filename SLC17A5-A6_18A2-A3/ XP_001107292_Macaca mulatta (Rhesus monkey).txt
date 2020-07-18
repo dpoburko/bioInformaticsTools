@@ -1,0 +1,76 @@
+
+LOCUS       XP_001107292             532 aa            linear   PRI 26-APR-2019
+DEFINITION  vesicular acetylcholine transporter [Macaca mulatta].
+ACCESSION   XP_001107292
+VERSION     XP_001107292.3
+DBLINK      BioProject: PRJNA528504
+DBSOURCE    REFSEQ: accession XM_001107292.3
+KEYWORDS    RefSeq.
+SOURCE      Macaca mulatta (Rhesus monkey)
+  ORGANISM  Macaca mulatta
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Macaca.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_041762.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA and EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            On Apr 23, 2019 this sequence version replaced XP_001107292.2.
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Macaca mulatta Annotation Release
+                                           103
+            Annotation Version          :: 103
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..532
+                     /organism="Macaca mulatta"
+                     /isolate="AG07107"
+                     /bio_material="Coriell:AG07107"
+                     /db_xref="taxon:9544"
+                     /chromosome="9"
+                     /sex="female"
+                     /tissue_type="fibroblast"
+     Protein         1..532
+                     /product="vesicular acetylcholine transporter"
+                     /calculated_mol_wt=56875
+     Region          36..459
+                     /region_name="MFS_SLC18A3_VAChT"
+                     /note="Vesicular acetylcholine transporter (VAChT) and
+                     similar transporters of the Major Facilitator Superfamily;
+                     cd17383"
+                     /db_xref="CDD:340941"
+     Site            order(46..47,50..51,54,139,189..190,192..194,197,218,
+                     221..222,225,298,301..302,305..307,310,338,342,391..392,
+                     396,400,421,424..425,428..429,432)
+                     /site_type="other"
+                     /note="putative chemical substrate binding pocket
+                     [chemical binding]"
+                     /db_xref="CDD:340941"
+     CDS             1..532
+                     /gene="SLC18A3"
+                     /coded_by="XM_001107292.3:434..2032"
+                     /db_xref="GeneID:710053"
+ORIGIN      
+        1 mepaepagqa raaatklsea vgsalreprr qrrlllvivc vallldnmly mvivpivpdy
+       61 iahmrgggeg ptrtpevwep tpplptpana sayaantsas ptaarpagsa lrpryptese
+      121 dvkigvlfas kailqllvnp lsgpfidrms ydvplliglg vmfastvmfa faedyatlfa
+      181 arslqglgsa fadtsgiami adkypeeper sralgvalaf isfgslvapp fggilyefag
+      241 krvpflvlaa vsffdallll avakpfsaaa raranlpvgt pihrlmldpy iavvagaltt
+      301 cniplaflep tiatwmkhtm aasewemgma wlpafvphvl gvyltvrlaa ryphlqwlyg
+      361 alglavigas scivpacrsf aplvvslcgl cfgialvdta llptlaflvd vrhvsvygsv
+      421 yaiadisysv ayalgpivag hivhslgfeq lslgmglanl lyapvllllr nvglltrsrs
+      481 erdvlldepp qglydavrlr erpvsgqdge prsppgpfde ceddynyyyt rs
+//
+

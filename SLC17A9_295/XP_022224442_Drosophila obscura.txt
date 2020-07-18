@@ -1,0 +1,60 @@
+
+LOCUS       XP_022224442             438 aa            linear   INV 24-AUG-2017
+DEFINITION  solute carrier family 17 member 9 [Drosophila obscura].
+ACCESSION   XP_022224442
+VERSION     XP_022224442.1
+DBLINK      BioProject: PRJNA399719
+DBSOURCE    REFSEQ: accession XM_022368750.1
+KEYWORDS    RefSeq.
+SOURCE      Drosophila obscura
+  ORGANISM  Drosophila obscura
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta;
+            Pterygota; Neoptera; Holometabola; Diptera; Brachycera;
+            Muscomorpha; Ephydroidea; Drosophilidae; Drosophila; Sophophora.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_019152102.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Drosophila obscura Annotation
+                                           Release 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 7.4
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..438
+                     /organism="Drosophila obscura"
+                     /strain="14011-0151.01"
+                     /db_xref="taxon:7282"
+                     /chromosome="Unknown"
+     Protein         1..438
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=48497
+     Region          59..435
+                     /region_name="UhpC"
+                     /note="Sugar phosphate permease [Carbohydrate transport
+                     and metabolism]; cl27298"
+                     /db_xref="CDD:332119"
+     CDS             1..438
+                     /gene="LOC111075457"
+                     /coded_by="XM_022368750.1:254..1570"
+                     /db_xref="GeneID:111075457"
+ORIGIN      
+        1 mdeklkysll rgelvdtqsi wtrhekrvwf itlitgtcml ystrttmpll vpavaaaqkw
+       61 sktdsgtvls sffwgytltq vvggyfsdrf ggqrvilfaa igwslitflm ptiiwsagsi
+      121 ksyaipliva irilngafqg vhfpsmislt sqnlcpners sffglltags algtlltgim
+      181 gsflldyfgw syvfrviglm giawalvlry yamagernri iniatpsrlc snrtpaetav
+      241 pwlryfsrls fwacvlthac emncffvlls wlptyfhdgf phakgwvvnm ipwlalppct
+      301 lfakylttrl larewhtttv rkfiqsccfa aqnlalfvms rtsdfhtali cmtiiiggtg
+      361 fhnnavtvnp qdlaplhsgs vfglmntvga ipgflgvyla ghileltqsw pmvfsaaagi
+      421 nlvgwiiflv fgsaeaiv
+//
+

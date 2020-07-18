@@ -1,0 +1,61 @@
+
+LOCUS       XP_031997942             436 aa            linear   PRI 13-MAR-2020
+DEFINITION  solute carrier family 17 member 9 [Hylobates moloch].
+ACCESSION   XP_031997942
+VERSION     XP_031997942.1
+DBLINK      BioProject: PRJNA600985
+DBSOURCE    REFSEQ: accession XM_032142051.1
+KEYWORDS    RefSeq.
+SOURCE      Hylobates moloch (silvery gibbon)
+  ORGANISM  Hylobates moloch
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hylobatidae; Hylobates.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_022611663.1) annotated using gene prediction method: Gnomon,
+            supported by EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Hylobates moloch Annotation Release
+                                           101
+            Annotation Version          :: 101
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.3
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..436
+                     /organism="Hylobates moloch"
+                     /isolate="HMO894"
+                     /isolation_source="EBV transformed lymphoblastoid cell
+                     line"
+                     /db_xref="taxon:81572"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /note="Lionel"
+     Protein         1..436
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=47192
+     CDS             1..436
+                     /gene="SLC17A9"
+                     /coded_by="XM_032142051.1:185..1495"
+                     /db_xref="GeneID:116460824"
+ORIGIN      
+        1 mqpppdearr dmagdtqwsr pecqawtgtl llgtcllyca rssmpictvs msqdfgwnkk
+       61 eagivlssff wgycltqvvg ghlgdrigge kvillsasaw gsiaavtpll ahlssahlaf
+      121 mtfsrilmgl lqgvyfpalt sllsqkvres eraftysivg agsqfgtllt gavgslllew
+      181 ygwqsifyfs ggltllwvwy vyryllsekd lilassvlaq glpvsrhsrv pwrrlfrkpa
+      241 vwaavvsqls aacsffills wlptffketf pdakgwifnv vpwlvaipas lfsgflsdhl
+      301 inqgyraitv rklmqgmglg lssvfalclg htssfcesvv fasasiglqt fnhsgisvni
+      361 qdlapscagf lfgvantaga lagvvgvclg gyliettgsw tclfnlvavi snlglctflv
+      421 fgqaqrvdls sthedl
+//
+

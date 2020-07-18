@@ -1,0 +1,81 @@
+
+LOCUS       XP_016058720             436 aa            linear   MAM 11-APR-2016
+DEFINITION  PREDICTED: solute carrier family 17 member 9 [Miniopterus
+            natalensis].
+ACCESSION   XP_016058720
+VERSION     XP_016058720.1
+DBLINK      BioProject: PRJNA317472
+DBSOURCE    REFSEQ: accession XM_016203234.1
+KEYWORDS    RefSeq.
+SOURCE      Miniopterus natalensis
+  ORGANISM  Miniopterus natalensis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Chiroptera; Microchiroptera;
+            Vespertilionidae; Miniopterinae; Miniopterus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_015503968.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Miniopterus natalensis Annotation
+                                           Release 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 7.0
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..436
+                     /organism="Miniopterus natalensis"
+                     /isolate="MN2012-01"
+                     /db_xref="taxon:291302"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /tissue_type="skeletal muscle"
+                     /dev_stage="adult"
+                     /country="South Africa"
+                     /collection_date="Oct-2012"
+     Protein         1..436
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=46976
+     Region          38..421
+                     /region_name="2A0114"
+                     /note="D-galactonate transporter; TIGR00893"
+                     /db_xref="CDD:273326"
+     Region          38..421
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Site            order(41,44..46,48..49,66,69..70,73,77..78,80..81,
+                     132..133,136..137,140..141,144,156..157,160..161,167,252,
+                     255..256,259..260,263,277,279,283,286,290,346,349..350,
+                     353,357..358,361,371..372,375..376,379..380,383)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..436
+                     /gene="SLC17A9"
+                     /coded_by="XM_016203234.1:4..1314"
+                     /db_xref="GeneID:107529726"
+ORIGIN      
+        1 mqppadearr daaedtqwsr pecqawtgtl llgtcllyca rvsmpictvs mskdfgwnkk
+       61 eagivlssff wgycltqivg ghlgdrigge kvillsasaw gfitaatpll ahlgsahlvf
+      121 mtfsriltgl lqgvyfpalt sllsqkvres eraftystvg agsqfgtlvt gavgslllnw
+      181 ygwqsvfyls ggltllwvcy vyryllseqd lilalgvlaq glpmarhtrv pwrqlfrkps
+      241 vwaavlsqla aassfftlls wlptffketf pssegwvfnv vpwlvaipas lfsgflsdhl
+      301 isqgyrtitv rkfmqvmglg lssvfalclg htssfcksvl fasasiglqt fnhsgisvni
+      361 qdlapscagv lfgvantaga lagvvgvglg gyliettgsw tslfnlvaai sslglctflm
+      421 fgkaqrvdls pshedl
+//
+

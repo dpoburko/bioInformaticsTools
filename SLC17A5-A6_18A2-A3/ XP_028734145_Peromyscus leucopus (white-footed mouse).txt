@@ -1,0 +1,74 @@
+
+LOCUS       XP_028734145             532 aa            linear   ROD 22-APR-2019
+DEFINITION  vesicular acetylcholine transporter [Peromyscus leucopus].
+ACCESSION   XP_028734145
+VERSION     XP_028734145.1
+DBLINK      BioProject: PRJNA533285
+DBSOURCE    REFSEQ: accession XM_028878312.1
+KEYWORDS    RefSeq.
+SOURCE      Peromyscus leucopus (white-footed mouse)
+  ORGANISM  Peromyscus leucopus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+            Muroidea; Cricetidae; Neotominae; Peromyscus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_021630284.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Peromyscus leucopus Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..532
+                     /organism="Peromyscus leucopus"
+                     /db_xref="taxon:10041"
+                     /chromosome="Unknown"
+                     /sex="female"
+                     /tissue_type="mixed organs"
+                     /dev_stage="adult"
+                     /breed="LL Stock"
+     Protein         1..532
+                     /product="vesicular acetylcholine transporter"
+                     /calculated_mol_wt=56669
+     Region          36..459
+                     /region_name="MFS_SLC18A3_VAChT"
+                     /note="Vesicular acetylcholine transporter (VAChT) and
+                     similar transporters of the Major Facilitator Superfamily;
+                     cd17383"
+                     /db_xref="CDD:340941"
+     Site            order(46..47,50..51,54,139,189..190,192..194,197,218,
+                     221..222,225,298,301..302,305..307,310,338,342,391..392,
+                     396,400,421,424..425,428..429,432)
+                     /site_type="other"
+                     /note="putative chemical substrate binding pocket
+                     [chemical binding]"
+                     /db_xref="CDD:340941"
+     CDS             1..532
+                     /gene="Slc18a3"
+                     /coded_by="XM_028878312.1:515..2113"
+                     /db_xref="GeneID:114699323"
+ORIGIN      
+        1 meptaptgqa raaatklsea vgaalqeprr qrrlvlvivc vallldnmly mvivpivpdy
+       61 iahmrggses ptlvsevwep tlppptlana saylgntsas ptaagstrsi lrpryptese
+      121 dvkigvlfas kailqllvnp lsgpfidrms ydvplliglg vmfastvmfa faedyatlfa
+      181 arslqglgsa fadtsgiami adkypeeper sralgvalaf isfgslvapp fggilyefag
+      241 krvpflvlaa vslfdallll avakpfsaaa raranlpvgt pihrlmldpy iavvagaltt
+      301 cniplaflep tiatwmkhtm aasewemgma wlpafvphvl gvyltvrlaa ryphlqwlyg
+      361 alglavigvs scivpacrsf aplvvslcgl cfgialvdta llptlaflvd vrhvsvygsv
+      421 yaiadisysv ayalgpivag hivhslgfeq lslgmglanl lyapvllllr nvglltrsrs
+      481 erdvlldepp qglydavrlr ersvqgtdgg epcsppgpfd gceddysyyt rs
+//
+

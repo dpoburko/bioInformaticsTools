@@ -1,0 +1,82 @@
+
+LOCUS       XP_011789933             419 aa            linear   PRI 30-MAR-2015
+DEFINITION  PREDICTED: solute carrier family 17 member 9 [Colobus angolensis
+            palliatus].
+ACCESSION   XP_011789933
+VERSION     XP_011789933.1
+DBLINK      BioProject: PRJNA279495
+DBSOURCE    REFSEQ: accession XM_011934543.1
+KEYWORDS    RefSeq; includes ab initio.
+SOURCE      Colobus angolensis palliatus
+  ORGANISM  Colobus angolensis palliatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Colobinae; Colobus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_012114444.1) annotated using gene prediction method: Gnomon,
+            supported by EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Colobus angolensis palliatus
+                                           Annotation Release 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 6.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            ab initio :: 1% of CDS bases
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..419
+                     /organism="Colobus angolensis palliatus"
+                     /isolate="OR3802"
+                     /sub_species="palliatus"
+                     /db_xref="taxon:336983"
+                     /chromosome="Unknown"
+                     /sex="female"
+                     /tissue_type="heart"
+     Protein         1..419
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=45164
+     Region          21..404
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Site            order(24,27..29,31..32,49,52..53,56,60..61,63..64,
+                     115..116,119..120,123..124,127,139..140,143..144,150,235,
+                     238..239,242..243,246,260,262,266,269,273,329,332..333,
+                     336,340..341,344,354..355,358..359,362..363,366)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     Region          27..369
+                     /region_name="MFS_1"
+                     /note="Major Facilitator Superfamily; pfam07690"
+                     /db_xref="CDD:284993"
+     CDS             1..419
+                     /gene="SLC17A9"
+                     /coded_by="XM_011934543.1:1..1260"
+                     /db_xref="GeneID:105506412"
+ORIGIN      
+        1 marpecqawt gtlllgtcll yctrssmpic tvsmsqdfgw nkkeagills sffwgycltq
+       61 vvgghlgdri ggekvillsa sawgsitavt pllaqlssaq lafmtfsril mgllqgvyfp
+      121 altsllsqkv rdseraftys tvgagsqfgt lltgavgsll lewygwqsvf yfsggltllw
+      181 vwyvyrylls gkdlvlalgv laqglpvsrh srvpwrrlfr kpavwaavis qlsaacsffv
+      241 liswlptffk etfpdakgwi fnvvpwlvai paslfsgfls dhlinqgyra itvrklmqgm
+      301 glglssvfal clghtssfce svvfasasig lqtfnhsgis vniqdlapsc agflfgvant
+      361 agalagvvgv clggyliett gswtclfnlv aiisnlglct flvfgqaqrv dlssthedl
+//
+

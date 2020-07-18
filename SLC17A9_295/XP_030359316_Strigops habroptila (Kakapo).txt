@@ -1,0 +1,65 @@
+
+LOCUS       XP_030359316             448 aa            linear   VRT 26-MAR-2020
+DEFINITION  solute carrier family 17 member 9 [Strigops habroptila].
+ACCESSION   XP_030359316
+VERSION     XP_030359316.1
+DBLINK      BioProject: PRJNA558775
+DBSOURCE    REFSEQ: accession XM_030503456.1
+KEYWORDS    RefSeq.
+SOURCE      Strigops habroptila (Kakapo)
+  ORGANISM  Strigops habroptila
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Psittaciformes; Psittacidae;
+            Strigops.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_044289.2) annotated using gene prediction method: Gnomon,
+            supported by EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Strigops habroptila Annotation
+                                           Release 101
+            Annotation Version          :: 101
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.3
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..448
+                     /organism="Strigops habroptila"
+                     /isolate="Jane"
+                     /db_xref="taxon:2489341"
+                     /chromosome="13"
+                     /sex="female"
+                     /tissue_type="blood in lysis buffer or EtOH"
+                     /country="New Zealand: Anchor Island"
+                     /lat_lon="45.757406 S 166.504927 E"
+                     /collection_date="2013-04-13"
+                     /collected_by="Tim Raemaekers, Daryl Eason, Andrew Digby
+                     of Department of Conservation, New Zealand"
+     Protein         1..448
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=48524
+     CDS             1..448
+                     /gene="SLC17A9"
+                     /coded_by="XM_030503456.1:40..1386"
+                     /db_xref="GeneID:115615371"
+ORIGIN      
+        1 maaggggrnv pvcsaehggv rrdgggdpyw srpearvwtv mlllgtclly carvtvpica
+       61 valstyfdwd kkqsgivlss ffwgycltqi igghisdrig gekvlllsas awgfltvltp
+      121 llthitsahl afmtssrflm gllqgvyfps ltsllsqkvr eseraftyst vgtgsqfgtl
+      181 viggagslll dwygwesvfy fsglltllwv yctfkyllse keliipidyl mrglsiskqt
+      241 kvpwkqlfrk apiwaaiiaq lstastfftl lswlptffke tfpeskgwvf nvvpwlvaip
+      301 tslfsgflsd hlisqgykti tirkfmqvig sgvssifalc lgqtssfcka ivfasasvgl
+      361 qtfnhsgisv naqdlapsca gllfgvgntg gallgvvcvy lagyliettg swisvfnlva
+      421 avnsiglcaf llfgeaqrvd tdsaymdl
+//
+

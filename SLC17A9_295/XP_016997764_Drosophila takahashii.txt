@@ -1,0 +1,56 @@
+
+LOCUS       XP_016997764             441 aa            linear   INV 16-JUN-2016
+DEFINITION  PREDICTED: solute carrier family 17 member 9 [Drosophila
+            takahashii].
+ACCESSION   XP_016997764
+VERSION     XP_016997764.1
+DBLINK      BioProject: PRJNA325506
+DBSOURCE    REFSEQ: accession XM_017142275.1
+KEYWORDS    RefSeq.
+SOURCE      Drosophila takahashii
+  ORGANISM  Drosophila takahashii
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta;
+            Pterygota; Neoptera; Holometabola; Diptera; Brachycera;
+            Muscomorpha; Ephydroidea; Drosophilidae; Drosophila; Sophophora.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_016039047.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Drosophila takahashii Annotation
+                                           Release 101
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 7.1
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..441
+                     /organism="Drosophila takahashii"
+                     /bio_material="DSSC<USA-CA>:14022-0311.13"
+                     /db_xref="taxon:29030"
+                     /chromosome="Unknown"
+     Protein         1..441
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=48763
+     CDS             1..441
+                     /gene="LOC108057832"
+                     /coded_by="XM_017142275.1:222..1547"
+                     /db_xref="GeneID:108057832"
+ORIGIN      
+        1 mtmdeklkys llrgelvdtq siwtrhekrv wfitlitgtc mlystrttmp llvpavasaq
+       61 kwsktdsgtv lssffwgytl tqvvggyfsd rfggqrvilc aaigwslitf lmptiiwsag
+      121 siksyaipfi vairilngal qgvhfpsmis ltsqnlcpne rssffgllta gsalgtlltg
+      181 imgsflldyf gwsyvfrvig lmgiawalvl ryyamagern riiniatpsr lcankspaet
+      241 tavpwlryfs rlsfwacvlt hacemncffv llswlptyfh dgfphakgwv vnmipwlalp
+      301 pctlfakylt trllarewht ttvrkfiqsc cfaaqnlalf vmsrtsdfht alicmtiiig
+      361 gtgfhnnavt vnpqdlaplh sgsvfglmnt vgaipgflgv ylaghilelt qswpmvfsaa
+      421 aginlvgwii fmvfgsaeai v
+//
+

@@ -1,0 +1,68 @@
+
+LOCUS       XP_025898054             425 aa            linear   VRT 08-AUG-2018
+DEFINITION  solute carrier family 17 member 9, partial [Nothoprocta
+            perdicaria].
+ACCESSION   XP_025898054
+VERSION     XP_025898054.1
+DBLINK      BioProject: PRJNA484763
+DBSOURCE    REFSEQ: accession XM_026042269.1
+KEYWORDS    RefSeq.
+SOURCE      Nothoprocta perdicaria
+  ORGANISM  Nothoprocta perdicaria
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Palaeognathae; Tinamiformes; Tinamidae;
+            Nothoprocta.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_020455532.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Nothoprocta perdicaria Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.1
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: incomplete on the amino end.
+FEATURES             Location/Qualifiers
+     source          1..425
+                     /organism="Nothoprocta perdicaria"
+                     /isolate="Ctin4"
+                     /specimen_voucher="ROM:ORN:Ctin4"
+                     /db_xref="taxon:30464"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /tissue_type="blood"
+                     /dev_stage="adult"
+                     /collection_date="11-May-2010"
+                     /collected_by="Royal Ontario Museum"
+     Protein         <1..425
+                     /product="solute carrier family 17 member 9"
+     Region          44..420
+                     /region_name="UhpC"
+                     /note="Sugar phosphate permease [Carbohydrate transport
+                     and metabolism]; cl27298"
+                     /db_xref="CDD:332119"
+     CDS             1..425
+                     /gene="SLC17A9"
+                     /coded_by="XM_026042269.1:<1..1278"
+                     /db_xref="GeneID:112949804"
+ORIGIN      
+        1 ggagthwsrr ewrawtalll lgtcllycar vagpicaval garfawdkkq sgivlssffw
+       61 gycltqvigg hisdriggek vlllsasawg fltxvtpllt hlssahlvlm assrflmgll
+      121 qgvhfpalas llsqrvrese raftystvgt gsqvgtlvig gagsllldwy gwesvfyfsg
+      181 lltllwvyct ckyllnekel iipldcltrg vslskqskvp wkqlfrkapi wavivaqlst
+      241 sstfftllsw lptffketfp eskgwvfnvi pwlvaiptsl fsgflsdhlv sqgyktitir
+      301 kfmqvigsgv ssifalclgq tssfckaivf asasvgfqtf nhsgisvnvq dlapscagll
+      361 fgvgntggal lgvvcvylag cliettgswg svfnlvaavn svglcafllf geaqrvdtds
+      421 ayvel
+//
+

@@ -1,0 +1,58 @@
+
+LOCUS       XP_030309317             526 aa            linear   VRT 20-AUG-2019
+DEFINITION  vesicular acetylcholine transporter [Calypte anna].
+ACCESSION   XP_030309317
+VERSION     XP_030309317.1
+DBLINK      BioProject: PRJNA558503
+DBSOURCE    REFSEQ: accession XM_030453457.1
+KEYWORDS    RefSeq.
+SOURCE      Calypte anna (Anna's hummingbird)
+  ORGANISM  Calypte anna
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Apodiformes; Trochilidae; Calypte.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_044252.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Calypte anna Annotation Release 101
+            Annotation Version          :: 101
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..526
+                     /organism="Calypte anna"
+                     /isolate="BGI_N300"
+                     /db_xref="taxon:9244"
+                     /chromosome="6"
+                     /sex="female"
+                     /country="USA"
+     Protein         1..526
+                     /product="vesicular acetylcholine transporter"
+                     /calculated_mol_wt=55706
+     CDS             1..526
+                     /gene="SLC18A3"
+                     /coded_by="XM_030453457.1:1..1581"
+                     /db_xref="GeneID:103535420"
+ORIGIN      
+        1 mseaggrdra raavsrlsea vgeqrrrlgs amgearrqrr llllvvcvvl lldnmlymvi
+       61 vpiipdyiaa mrgrggapgs sapaggnesg gggnrsllpv rypsaagdne dvrigmlfas
+      121 kailqllvnp lsgtlidrvg yevplltgla vlflstitfa faenyatlva arslqglgsa
+      181 fadtagiali adryaeepar sralgtalac isfgslaapp fggvlyefag rrvpflvlac
+      241 vclldgllll alappwvaga ranmpvgtpi hrlmldpyia vvagalttcn iplaflepti
+      301 anwmeatmga sewevgltwl paffphvlgv yltvrlaaay phlqwfygal gmaiigassc
+      361 lvpacrnfgq viiplcgicf gialvdtall ptlaflvdvr hvsvygsvya iadisysvay
+      421 algpivagqi vhtmgfaqln lgmglanvly apvllllknv cqmkpshser nilleegpkg
+      481 lydtikmeer kgkslrpvge tgdngmdsyh kdltgvseds sdyeys
+//
+

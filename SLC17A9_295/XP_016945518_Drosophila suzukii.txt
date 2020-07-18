@@ -1,0 +1,55 @@
+
+LOCUS       XP_016945518             441 aa            linear   INV 10-JUN-2016
+DEFINITION  PREDICTED: solute carrier family 17 member 9 [Drosophila suzukii].
+ACCESSION   XP_016945518
+VERSION     XP_016945518.1
+DBLINK      BioProject: PRJNA325161
+DBSOURCE    REFSEQ: accession XM_017090029.1
+KEYWORDS    RefSeq.
+SOURCE      Drosophila suzukii
+  ORGANISM  Drosophila suzukii
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta;
+            Pterygota; Neoptera; Holometabola; Diptera; Brachycera;
+            Muscomorpha; Ephydroidea; Drosophilidae; Drosophila; Sophophora.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_016019885.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Drosophila suzukii Annotation
+                                           Release 101
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 7.1
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..441
+                     /organism="Drosophila suzukii"
+                     /db_xref="taxon:28584"
+                     /chromosome="Unknown"
+                     /note="WT3"
+     Protein         1..441
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=48767
+     CDS             1..441
+                     /gene="LOC108021347"
+                     /coded_by="XM_017090029.1:188..1513"
+                     /db_xref="GeneID:108021347"
+ORIGIN      
+        1 mtmdeklkys llrgelvdtq siwtrhekrv wfitlitgtc mlystrttmp llvpavaaaq
+       61 kwsktdsgtv lssffwgytl tqvvggyfsd rfggqrvilf aaigwslitf lmptiiwsag
+      121 siksyaipli vairilngal qgvhfpsmis ltsqnlcpne rssffgllta gsalgtlltg
+      181 imgsflldyf gwsyvfrvig lmgiawalvl ryyamagern riiniatpsr lcankspaea
+      241 tavpwlryfs rlsfwacvlt hacemncffv llswlptyfh dgfphakgwv vnmipwlalp
+      301 pctlfakylt trllarewht ttvrkfiqsc cfaaqnlalf vmsrtsdfht alicmtiiia
+      361 gtgfhnnavt vnpqdlaplh sgsvfglmnt vgaipgflgv ylaghilelt qswpmvfsaa
+      421 aginlvgwii fmvfgsaepi v
+//
+

@@ -1,0 +1,64 @@
+
+LOCUS       XP_032463277             517 aa            linear   MAM 27-FEB-2020
+DEFINITION  synaptic vesicular amine transporter isoform X1 [Phocoena sinus].
+ACCESSION   XP_032463277
+VERSION     XP_032463277.1
+DBLINK      BioProject: PRJNA606521
+DBSOURCE    REFSEQ: accession XM_032607386.1
+KEYWORDS    RefSeq.
+SOURCE      Phocoena sinus (vaquita)
+  ORGANISM  Phocoena sinus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Cetartiodactyla; Cetacea;
+            Odontoceti; Phocoenidae; Phocoena.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_045778.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Phocoena sinus Annotation Release
+                                           100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.3
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..517
+                     /organism="Phocoena sinus"
+                     /isolate="mPhoSin1"
+                     /db_xref="taxon:42100"
+                     /chromosome="16"
+                     /sex="female"
+                     /tissue_type="Cultured fibroblasts (kidney)"
+                     /country="Mexico: San Felipe, Baja California"
+                     /lat_lon="31.103595 N 114.679383 W"
+                     /collection_date="04-Nov-2017"
+                     /collected_by="Frances Gulland"
+     Protein         1..517
+                     /product="synaptic vesicular amine transporter isoform X1"
+                     /calculated_mol_wt=55815
+     CDS             1..517
+                     /gene="SLC18A2"
+                     /coded_by="XM_032607386.1:130..1683"
+                     /db_xref="GeneID:116741221"
+ORIGIN      
+        1 malselallr wlqesrhsrk lilfivflal lldnmlltvv vpiipsylys iehekdaiem
+       61 qtakpvlkas tfggfqnifs yydnstvvag nstgslqgal lheattqrtv tnrstapsdc
+      121 psedkdllne nvqvgllfas katvqlltnp figlltnrig ypvpmftgfc imfvstvmfa
+      181 fsrsyaflli arslqgigss cssvagmgml asvytddeer gnamgialgg lamgvlvgpp
+      241 fgsvlyefvg ktapflvlaa lvlldgaiql fvlqpsrvqp esqkgtpltt llkdpyilia
+      301 agsicfanmg iamlepalpi wmmetmcshk wqlgvaflpa sisyligtni fgilahkmgr
+      361 wlcallgmii vgfsilcipl akniygliap nfgvgfaigm vdssmmpimg ylvdlrhvsv
+      421 ygsvyaiadv afcmgyaigp saggaiaksi gfpwlmtiig iidilfaplc fflrsppake
+      481 ekmailmdhn cpiktkmytq nniqsypige deesesd
+//
+

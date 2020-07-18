@@ -1,0 +1,79 @@
+
+LOCUS       XP_010567831             453 aa            linear   VRT 06-DEC-2014
+DEFINITION  PREDICTED: solute carrier family 17 member 9 [Haliaeetus
+            leucocephalus].
+ACCESSION   XP_010567831
+VERSION     XP_010567831.1
+DBLINK      BioProject: PRJNA269279
+DBSOURCE    REFSEQ: accession XM_010569529.1
+KEYWORDS    RefSeq.
+SOURCE      Haliaeetus leucocephalus (bald eagle)
+  ORGANISM  Haliaeetus leucocephalus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Falconiformes; Accipitridae;
+            Accipitrinae; Haliaeetus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_010972709.1) annotated using gene prediction method: Gnomon,
+            supported by EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Haliaeetus leucocephalus Annotation
+                                           Release 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 6.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..453
+                     /organism="Haliaeetus leucocephalus"
+                     /isolate="CR32"
+                     /isolation_source="blood sample"
+                     /db_xref="taxon:52644"
+                     /chromosome="Unknown"
+                     /sex="male"
+     Protein         1..453
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=49089
+     Region          45..438
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Region          49..438
+                     /region_name="2A0114"
+                     /note="D-galactonate transporter; TIGR00893"
+                     /db_xref="CDD:273326"
+     Site            order(58,61..63,65..66,83,86..87,90,94..95,97..98,
+                     149..150,153..154,157..158,161,173..174,177..178,184,269,
+                     272..273,276..277,280,294,296,300,303,307,363,366..367,
+                     370,374..375,378,388..389,392..393,396..397,400)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..453
+                     /gene="SLC17A9"
+                     /coded_by="XM_010569529.1:30..1391"
+                     /db_xref="GeneID:104833032"
+ORIGIN      
+        1 magggenvpv csaehgarag qhdgmrkdgg gdpywsrpes rvwkvmlllg tcllycarvt
+       61 vpicavalsa rfdwdkkqsg ivlssffwgy cltqiigghi sdqiggekvl llsasawgfl
+      121 tvltpllthi tsahlvfmts srflmgllqg vyfpslasll sqkvrenera ftystvgtgs
+      181 qcgtlvigga gsllldwygw esvfyfsgll tllwvyctck yllnekelii pidylmrsls
+      241 iskqtkvpwk qlfkkapiwa viiaqlstas tfftllswlp tffketfpes kgwvfnvvpw
+      301 lvaiptslfs gflsdhlinq gyktitirkf mqvigsgvss vfalclgqts sfckaivfas
+      361 asvglqtfnh sgisvnvqdl apscagllfg vgntggallg vicvylagyl iettgswisv
+      421 fnlvaavnsi glcaflvfge aqrvdtdsay vdl
+//
+

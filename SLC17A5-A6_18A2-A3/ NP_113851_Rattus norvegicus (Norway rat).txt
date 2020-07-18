@@ -1,0 +1,202 @@
+
+LOCUS       NP_113851                530 aa            linear   ROD 29-APR-2020
+DEFINITION  vesicular acetylcholine transporter [Rattus norvegicus].
+ACCESSION   NP_113851
+VERSION     NP_113851.1
+DBSOURCE    REFSEQ: accession NM_031663.2
+KEYWORDS    RefSeq.
+SOURCE      Rattus norvegicus (Norway rat)
+  ORGANISM  Rattus norvegicus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+            Muroidea; Muridae; Murinae; Rattus.
+REFERENCE   1  (residues 1 to 530)
+  AUTHORS   Szutowicz A, Bielarczyk H, Jankowska-Kulawy A, Pawelczyk T and
+            Ronowska A.
+  TITLE     Acetyl-CoA the key factor for survival or death of cholinergic
+            neurons in course of neurodegenerative diseases
+  JOURNAL   Neurochem. Res. 38 (8), 1523-1542 (2013)
+   PUBMED   23677775
+  REMARK    Review article
+REFERENCE   2  (residues 1 to 530)
+  AUTHORS   Petrov AM, Naumenko NV, Uzinskaya KV, Giniatullin AR, Urazaev AK
+            and Zefirov AL.
+  TITLE     Increased non-quantal release of acetylcholine after inhibition of
+            endocytosis by methyl-beta-cyclodextrin: the role of vesicular
+            acetylcholine transporter
+  JOURNAL   Neuroscience 186, 1-12 (2011)
+   PUBMED   21557989
+  REMARK    GeneRIF: VACHT is inserted into the presynaptic membrane during
+            synaptic vesicles' exocytosis, removed during their endocytotic
+            recycling, and plays a role in non-quantal secretion of
+            acetylcholine.
+            Erratum:[Neuroscience. 2011 Sep 29;192:806]
+REFERENCE   3  (residues 1 to 530)
+  AUTHORS   Krasteva G, Canning BJ, Hartmann P, Veres TZ, Papadakis T, Muhlfeld
+            C, Schliecker K, Tallini YN, Braun A, Hackstein H, Baal N, Weihe E,
+            Schutz B, Kotlikoff M, Ibanez-Tallon I and Kummer W.
+  TITLE     Cholinergic chemosensory cells in the trachea regulate breathing
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 108 (23), 9478-9483 (2011)
+   PUBMED   21606356
+REFERENCE   4  (residues 1 to 530)
+  AUTHORS   Lestaevel P, Bensoussan H, Racine R, Airault F, Gourmelon P and
+            Souidi M.
+  TITLE     Transcriptomic effects of depleted uranium on acetylcholine and
+            cholesterol metabolisms in Alzheimer's disease model
+  JOURNAL   C. R. Biol. 334 (2), 85-90 (2011)
+   PUBMED   21333939
+REFERENCE   5  (residues 1 to 530)
+  AUTHORS   Samano C, Zetina ME, Cifuentes F and Morales MA.
+  TITLE     Segregation of met-enkephalin from vesicular acetylcholine
+            transporter and choline acetyltransferase in sympathetic
+            preganglionic varicosities mostly lacking synaptophysin and
+            synaptotagmin
+  JOURNAL   Neuroscience 163 (1), 180-189 (2009)
+   PUBMED   19524025
+  REMARK    GeneRIF: Sympathetic preganlionics segregate mENK from VAChT and
+            ChAT; most of the subset of mENKergic varicosities negative for
+            VAChT also do not express Syn, suggesting a different vesicular
+            pattern in these sympathetic preganglionic varicosities.
+REFERENCE   6  (residues 1 to 530)
+  AUTHORS   Cervini R, Houhou L, Pradat PF, Bejanin S, Mallet J and Berrard S.
+  TITLE     Specific vesicular acetylcholine transporter promoters lie within
+            the first intron of the rat choline acetyltransferase gene
+  JOURNAL   J. Biol. Chem. 270 (42), 24654-24657 (1995)
+   PUBMED   7559575
+REFERENCE   7  (residues 1 to 530)
+  AUTHORS   Roghani A, Feldman J, Kohan SA, Shirzadi A, Gundersen CB, Brecha N
+            and Edwards RH.
+  TITLE     Molecular cloning of a putative vesicular transporter for
+            acetylcholine
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 91 (22), 10620-10624 (1994)
+   PUBMED   7938002
+REFERENCE   8  (residues 1 to 530)
+  AUTHORS   Bejanin S, Cervini R, Mallet J and Berrard S.
+  TITLE     A unique gene organization for two cholinergic markers, choline
+            acetyltransferase and a putative vesicular transporter of
+            acetylcholine
+  JOURNAL   J. Biol. Chem. 269 (35), 21944-21947 (1994)
+   PUBMED   8071313
+REFERENCE   9  (residues 1 to 530)
+  AUTHORS   Erickson JD, Varoqui H, Schafer MK, Modi W, Diebler MF, Weihe E,
+            Rand J, Eiden LE, Bonner TI and Usdin TB.
+  TITLE     Functional identification of a vesicular acetylcholine transporter
+            and its expression from a 'cholinergic' gene locus
+  JOURNAL   J. Biol. Chem. 269 (35), 21929-21932 (1994)
+   PUBMED   8071310
+REFERENCE   10 (residues 1 to 530)
+  AUTHORS   Carroll,P.T.
+  TITLE     The effect of the acetylcholine transport blocker
+            2-(4-phenylpiperidino) cyclohexanol (AH5183) on the subcellular
+            storage and release of acetylcholine in mouse brain
+  JOURNAL   Brain Res. 358 (1-2), 200-209 (1985)
+   PUBMED   4075114
+COMMENT     VALIDATED REFSEQ: This record has undergone validation or
+            preliminary review. The reference sequence was derived from
+            U09211.1, U09838.1 and CB693073.1.
+            
+            Summary: a vesicular acetylcholine transporter involved in
+            concentrating acetylcholine into synaptic vesicles [RGD, Feb 2006].
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript is intronless :: U09211.1 [ECO:0000345]
+            ##Evidence-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..530
+                     /organism="Rattus norvegicus"
+                     /db_xref="taxon:10116"
+                     /chromosome="16"
+                     /map="16p16"
+     Protein         1..530
+                     /product="vesicular acetylcholine transporter"
+                     /note="solute carrier family 18 (vesicular acetylcholine),
+                     member 3; solute carrier family 18, member 3; solute
+                     carrier family 18 (vesicular monoamine) member 3; solute
+                     carrier family 18 (vesicular acetylcholine transporter),
+                     member 3"
+                     /calculated_mol_wt=56406
+     Site            34..54
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q62666.2)"
+     Site            89
+                     /site_type="glycosylation"
+                     /note="N-linked (GlcNAc...) asparagine. {ECO:0000255};
+                     propagated from UniProtKB/Swiss-Prot (Q62666.2)"
+     Site            96
+                     /site_type="glycosylation"
+                     /note="N-linked (GlcNAc...) asparagine. {ECO:0000255};
+                     propagated from UniProtKB/Swiss-Prot (Q62666.2)"
+     Region          124..436
+                     /region_name="MFS_1"
+                     /note="Major Facilitator Superfamily; pfam07690"
+                     /db_xref="CDD:284993"
+     Region          125..260
+                     /region_name="2_A_01_02"
+                     /note="Multidrug resistance protein; TIGR00880"
+                     /db_xref="CDD:273318"
+     Site            126..146
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q62666.2)"
+     Site            order(128,131..132,135,139..140,142..143,189..190,
+                     193..194,197..198,201,214..215,218..219,225,299,302..303,
+                     306..307,310,327,331,335,338,342,391,394..395,398,
+                     402..403,406,420..421,424..425,428..429,432)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     Site            153..173
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q62666.2)"
+     Site            183..203
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q62666.2)"
+     Site            214..234
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q62666.2)"
+     Site            243..263
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q62666.2)"
+     Site            290..310
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q62666.2)"
+     Site            326..346
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q62666.2)"
+     Site            357..377
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q62666.2)"
+     Site            389..409
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q62666.2)"
+     Site            423..443
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q62666.2)"
+     Site            448..468
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q62666.2)"
+     Region          471..530
+                     /region_name="Mediates interaction with SEC14L1.
+                     {ECO:0000250|UniProtKB:O35304}"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q62666.2)"
+     CDS             1..530
+                     /gene="Slc18a3"
+                     /gene_synonym="rVAT; VACht"
+                     /coded_by="NM_031663.2:859..2451"
+                     /db_xref="GeneID:60422"
+                     /db_xref="RGD:62072"
+ORIGIN      
+        1 meptaptgqa raaatklsea vgaalqepqr qrrlvlvivc vallldnmly mvivpivpdy
+       61 iahmrggseg ptlvsevwep tlppptlana saylantsas ptaagsarsi lrpryptese
+      121 dvkigvlfas kailqllvnp lsgpfidrms ydvplliglg vmfastvmfa faedyatlfa
+      181 arslqglgsa fadtsgiami adkypeeper sralgvalaf isfgslvapp fggilyefag
+      241 krvpflvlaa vslfdallll avakpfsaaa raranlpvgt pihrlmldpy iavvagaltt
+      301 cniplaflep tiatwmkhtm aasewemgmv wlpafvphvl gvyltvrlaa ryphlqwlyg
+      361 alglavigvs scvvpacrsf aplvvslcgl cfgialvdta llptlaflvd vrhvsvygsv
+      421 yaiadisysv ayalgpivag hivhslgfeq lslgmglanl lyapvllllr nvglltrsrs
+      481 erdvlldepp qglydavrlr evqgkdggep csppgpfdgc eddynyysrs
+//
+

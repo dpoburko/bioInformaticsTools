@@ -1,0 +1,81 @@
+
+LOCUS       XP_009561377             426 aa            linear   VRT 14-OCT-2014
+DEFINITION  PREDICTED: solute carrier family 17 member 9 [Cuculus canorus].
+ACCESSION   XP_009561377
+VERSION     XP_009561377.1
+DBLINK      BioProject: PRJNA263299
+DBSOURCE    REFSEQ: accession XM_009563082.1
+KEYWORDS    RefSeq; includes ab initio.
+SOURCE      Cuculus canorus (common cuckoo)
+  ORGANISM  Cuculus canorus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Cuculiformes; Cuculidae; Cuculus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_009245379.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA and EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Cuculus canorus Annotation Release
+                                           100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 6.1
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            ab initio :: 2% of CDS bases
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..426
+                     /organism="Cuculus canorus"
+                     /isolate="BGI_N303"
+                     /db_xref="taxon:55661"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /country="Denmark"
+     Protein         1..426
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=46380
+     Region          17..411
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Region          22..411
+                     /region_name="2A0114"
+                     /note="D-galactonate transporter; TIGR00893"
+                     /db_xref="CDD:273326"
+     Site            order(31,34..36,38..39,56,59..60,63,67..68,70..71,
+                     122..123,126..127,130..131,134,146..147,150..151,157,242,
+                     245..246,249..250,253,267,269,273,276,280,336,339..340,
+                     343,347..348,351,361..362,365..366,369..370,373)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..426
+                     /gene="SLC17A9"
+                     /coded_by="XM_009563082.1:1..1281"
+                     /db_xref="GeneID:104061185"
+ORIGIN      
+        1 mplstsller pesriwtvml llgtcllyca rvtvpicava lsthfdwdkk qsgivlssff
+       61 wgycltqiig ghisdqigge kvlllsasaw gfltvltpll thitsahlvf mtssrflmgl
+      121 lqgvyfpsla sllsqkvres eraftystvg tgsqfgtlvi ggagsllldw ygwesvfyfs
+      181 glltllwvyc tckyllsere liipidylmr glsiskqtkv pwkqlfkkap iwaviiaqls
+      241 tastfftlls wlptffketf peskgwvfnv vpwlvaipts lfsgflsdhl inqgyktiti
+      301 rkfmqvigsg issifalclg qtssfckaiv fasasvglqt fnhsgisvnv qdlapscagl
+      361 lfgvgntgga llgvicvyla gyliettgsw isvfnlvaav ngiglcaflm fgaaqrvdtd
+      421 sayvdl
+//
+

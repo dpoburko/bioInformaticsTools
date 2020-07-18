@@ -1,0 +1,77 @@
+
+LOCUS       XP_011049204             424 aa            linear   INV 13-JAN-2015
+DEFINITION  PREDICTED: solute carrier family 17 member 9 [Acromyrmex
+            echinatior].
+ACCESSION   XP_011049204
+VERSION     XP_011049204.1
+DBLINK      BioProject: PRJNA271903
+DBSOURCE    REFSEQ: accession XM_011050902.1
+KEYWORDS    RefSeq.
+SOURCE      Acromyrmex echinatior (Panamanian leafcutter ant)
+  ORGANISM  Acromyrmex echinatior
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta;
+            Pterygota; Neoptera; Holometabola; Hymenoptera; Apocrita; Aculeata;
+            Vespoidea; Formicidae; Myrmicinae; Acromyrmex.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_011626968.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Acromyrmex echinatior Annotation
+                                           Release 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 6.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..424
+                     /organism="Acromyrmex echinatior"
+                     /db_xref="taxon:103372"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /country="Panama"
+                     /note="colony Ae372"
+     Protein         1..424
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=46623
+     Region          28..417
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Region          34..417
+                     /region_name="2A0114"
+                     /note="D-galactonate transporter; TIGR00893"
+                     /db_xref="CDD:273326"
+     Site            order(42,45..47,49..50,67,70..71,74,78..79,81..82,
+                     136..137,140..141,144..145,148,160..161,164..165,171,248,
+                     251..252,255..256,259,271,275,279,282,286,342,345..346,
+                     349,353..354,357,367..368,371..372,375..376,379)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..424
+                     /gene="LOC105142962"
+                     /coded_by="XM_011050902.1:17..1291"
+                     /db_xref="GeneID:105142962"
+ORIGIN      
+        1 mqlqisldtp fddrtassws rrerqkwfls llcgtcliya trtsvpllip vvsqeknwsk
+       61 sdsgiilssf fwgytltqva sgyisdkigg qrvlwisalg wsattfvmpe iieffsgdgt
+      121 svllvaavrm ingafqgmhf psmislisqr lheaerasff slltsgsalg tlltgslgsy
+      181 llenynwmtv fralggmsla wtallsyhtl pfkektasik stdytlpwsk llsqppfwsc
+      241 vighacqnnc ffvllswmpt yfhdtfpeir gwivnmvpwl smlpctflgk alseeiikag
+      301 ysvtvtrkti qticfvieig sllflakves fenailclal iiggsgfhnn aiavnpsdla
+      361 pkhsgsvfgl mntvgaipgf lgvyfsghil hvthswpavf lfiavidalg cimyllfgsg
+      421 qaii
+//
+

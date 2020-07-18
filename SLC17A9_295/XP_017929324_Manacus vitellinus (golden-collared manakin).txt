@@ -1,0 +1,61 @@
+
+LOCUS       XP_017929324             449 aa            linear   VRT 29-JUL-2019
+DEFINITION  solute carrier family 17 member 9 [Manacus vitellinus].
+ACCESSION   XP_017929324
+VERSION     XP_017929324.2
+DBLINK      BioProject: PRJNA341382
+DBSOURCE    REFSEQ: accession XM_018073835.2
+KEYWORDS    RefSeq.
+SOURCE      Manacus vitellinus (golden-collared manakin)
+  ORGANISM  Manacus vitellinus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Passeriformes; Pipridae; Manacus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_021939960.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA and EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            On Jul 19, 2019 this sequence version replaced XP_017929324.1.
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Manacus vitellinus Annotation
+                                           Release 103
+            Annotation Version          :: 103
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..449
+                     /organism="Manacus vitellinus"
+                     /isolate="BGI_N305"
+                     /db_xref="taxon:328815"
+                     /chromosome="Unknown"
+                     /sex="female"
+                     /country="Panama"
+     Protein         1..449
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=48794
+     CDS             1..449
+                     /gene="SLC17A9"
+                     /coded_by="XM_018073835.2:16..1365"
+                     /db_xref="GeneID:103766037"
+ORIGIN      
+        1 maaggggrnv pvgtaergph dgmrrdgdpy wsrpesrvwt vmlllgtcll ycarvtvpic
+       61 avalssyfdw dkkqsgvvls sffwgycltq iigghisdqi ggekvlllsa sawgfltvlt
+      121 pvlthvtsah lvfmtssrfl mgllqgvyfp slasllsqrv reseraftys tvgtgsqfgt
+      181 lviggagsll ldwygwesvf yfsglltllw vyctckylls ekeliipidy ltrglsipkq
+      241 tkvpwkqlfr kapiwaviia qlstastfft llswlptffk etfpeskgwv fnvvpwlvai
+      301 ptslfsgfls dhlisqgyrt itirkfmqvi gsgvssvfal clgqtssfcr aivfasasvg
+      361 lqtfnhsgis vnvqdlapsc agllfgvant ggallgvicv ylagyliett gswisvfnlv
+      421 aavnsiglcv fllfgeaqrv dtdsayvdl
+//
+

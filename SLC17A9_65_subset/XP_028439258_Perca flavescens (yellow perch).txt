@@ -1,0 +1,78 @@
+
+LOCUS       XP_028439258             465 aa            linear   VRT 01-APR-2019
+DEFINITION  solute carrier family 17 member 9 [Perca flavescens].
+ACCESSION   XP_028439258
+VERSION     XP_028439258.1
+DBLINK      BioProject: PRJNA529871
+DBSOURCE    REFSEQ: accession XM_028583457.1
+KEYWORDS    RefSeq.
+SOURCE      Perca flavescens (yellow perch)
+  ORGANISM  Perca flavescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Percoidei; Percidae;
+            Percinae; Perca.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_041337.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Perca flavescens Annotation Release
+                                           100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..465
+                     /organism="Perca flavescens"
+                     /isolate="YP-PL-M2"
+                     /db_xref="taxon:8167"
+                     /chromosome="7"
+                     /sex="male"
+                     /tissue_type="blood"
+                     /dev_stage="Adult"
+                     /country="USA: Wisconsin, Plum Lake"
+                     /collection_date="28-Apr-2017"
+                     /collected_by="Wes Larson, Wisconsin Cooperative Fishery
+                     Research Unit, University of Wisconsin-Stevens Point, 800
+                     Reserve Street Stevens Point, WI 54481"
+     Protein         1..465
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=50736
+     Region          51..446
+                     /region_name="MFS_SLC17A9_like"
+                     /note="Solute carrier family 17 member 9 and similar
+                     proteins of the Major Facilitator Superfamily of
+                     transporters; cd17380"
+                     /db_xref="CDD:340938"
+     Site            order(61..62,65..66,69,101,156..157,159..161,164,184,
+                     187..188,191,272,275..276,279..281,284,310,314,371..372,
+                     376,380,396,399..400,403..404,407)
+                     /site_type="other"
+                     /note="putative chemical substrate binding pocket
+                     [chemical binding]"
+                     /db_xref="CDD:340938"
+     CDS             1..465
+                     /gene="slc17a9"
+                     /coded_by="XM_028583457.1:665..2062"
+                     /db_xref="GeneID:114559051"
+ORIGIN      
+        1 maviqkygkn ysydlvchke nhpsdkigap gchkkwpeht twsrpvarvw tvvlllgtcl
+       61 lycarvampi cavsmaeqfn wskresgmvl gsffwgycft qvfggyvsdr vggekvllls
+      121 aaawgsmtaf tpilahfcsq pilsmtlarf lmgllqgvhy pslaslcsqk vvesergflm
+      181 stvgsgsylg tlviggagsl mldlygwqsv fyasgllsvl waycmwkyll kgegpiitle
+      241 slgsggpqsk lskrhwlrll kqpavcaviv thlctastff tllswlptff kdtfpnakgw
+      301 vfnvipwlva ipsslfsgwl sdhliskgfd tasvrklmqc fsmgvssvft lllcgnttfp
+      361 wavafvsatm glttfshsgv svnvqdlaps cagalfgvmn tcgaflgvll vyfsgyliea
+      421 tgswasvfal ittvnllglc tflafaearr vdidyskvrh hdihi
+//
+

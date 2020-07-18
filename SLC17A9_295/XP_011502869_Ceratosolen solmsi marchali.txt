@@ -1,0 +1,76 @@
+
+LOCUS       XP_011502869             417 aa            linear   INV 09-MAR-2015
+DEFINITION  PREDICTED: solute carrier family 17 member 9 [Ceratosolen solmsi
+            marchali].
+ACCESSION   XP_011502869
+VERSION     XP_011502869.1
+DBLINK      BioProject: PRJNA277475
+DBSOURCE    REFSEQ: accession XM_011504567.1
+KEYWORDS    RefSeq.
+SOURCE      Ceratosolen solmsi marchali
+  ORGANISM  Ceratosolen solmsi marchali
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta;
+            Pterygota; Neoptera; Holometabola; Hymenoptera; Apocrita;
+            Terebrantes; Chalcidoidea; Agaonidae; Agaoninae; Ceratosolen.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_011948446.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Ceratosolen solmsi marchali
+                                           Annotation Release 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 6.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..417
+                     /organism="Ceratosolen solmsi marchali"
+                     /sub_species="marchali"
+                     /db_xref="taxon:326594"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /country="China: Danzhou, Hainan"
+     Protein         1..417
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=46329
+     Region          21..410
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Region          26..410
+                     /region_name="2A0114"
+                     /note="D-galactonate transporter; TIGR00893"
+                     /db_xref="CDD:273326"
+     Site            order(34,37..39,41..42,59,62..63,66,70..71,73..74,
+                     128..129,132..133,136..137,140,152..153,156..157,163,241,
+                     244..245,248..249,252,264,268,272,275,279,335,338..339,
+                     342,346..347,350,360..361,364..365,368..369,372)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..417
+                     /gene="LOC105366210"
+                     /coded_by="XM_011504567.1:295..1548"
+                     /db_xref="GeneID:105366210"
+ORIGIN      
+        1 mqtygsinlh warrerlkws lillsgtcfv yasrtsvpll mpiigkekgw sktdsgtils
+       61 sffwgytmtq vlggyisdri ggqrimwiaa vgwgiltfll pdiiefssky dysieiiafa
+      121 rmingafqgm hfpsmislts qrlteseras ffslvtsgsa lgtlltgvlg syvlqhyewd
+      181 svfrvlgcis iawtflliyy slllsgrsii dkessdnklp ikelitkapf wscvighacq
+      241 nncffillsw mptyfhdtfp evkswivnmv pwlasvpsif lgraisekli kigftvtvtr
+      301 kiiqttcfvi qainllflaa tdtsekaily ltliiagsgf hnsaivvnps dlapkhsgsv
+      361 fgfmntigai pgflgvyfag hilhqthswt vvfiyifvie iigalvyllf gsgqail
+//
+

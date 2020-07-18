@@ -1,0 +1,59 @@
+
+LOCUS       XP_018415350             464 aa            linear   VRT 30-SEP-2016
+DEFINITION  PREDICTED: solute carrier family 17 member 9 [Nanorana parkeri].
+ACCESSION   XP_018415350
+VERSION     XP_018415350.1
+DBLINK      BioProject: PRJNA344660
+DBSOURCE    REFSEQ: accession XM_018559848.1
+KEYWORDS    RefSeq.
+SOURCE      Nanorana parkeri
+  ORGANISM  Nanorana parkeri
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Anura; Neobatrachia; Ranoidea; Dicroglossidae;
+            Dicroglossinae; Nanorana.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_017306285.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Nanorana parkeri Annotation Release
+                                           100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 7.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..464
+                     /organism="Nanorana parkeri"
+                     /isolate="BGI_ZX_2015"
+                     /isolation_source="muscle sample"
+                     /db_xref="taxon:125878"
+                     /chromosome="Unknown"
+                     /sex="female"
+                     /country="China"
+                     /collection_date="Aug-2012"
+     Protein         1..464
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=51011
+     CDS             1..464
+                     /gene="SLC17A9"
+                     /coded_by="XM_018559848.1:86..1480"
+                     /db_xref="GeneID:108789759"
+ORIGIN      
+        1 matkggkngy ksdvdlllkd eqlqspprsp qhgdrtkkps gdqhwsecea rvwmftllag
+       61 tcflycarss lpicavsmse qfgwnkkqtg lalssffwgy cltqiagghl sdkvggervl
+      121 lvsallwgli tiatplaaha ttaslhlvsf lrflmgllqg vhfpalssvf akrvrdkerg
+      181 ffcsfvgcgs qcgtlligga gsllqdwygw eyvfyfagfl alawtyclgt yilkeknkfl
+      241 fsdlsrsftt saktnipwrh llkkapvwav ivgqvsvass aftlfswvpi ffknrfpesk
+      301 glvfnvvpwl iaipaalmsg rltdhliktg ykpifvrklm evigmgmssi fifllgqsgs
+      361 fsqamvfisv avalqtfnhs gltiniqdla pscsgflfgv antggsvfgi lwvylsgyll
+      421 dvtgswdsmf hllvavnvlg llfylefakt ermdidsalp vlri
+//
+

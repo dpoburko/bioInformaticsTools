@@ -1,0 +1,58 @@
+
+LOCUS       XP_030383180             438 aa            linear   INV 24-AUG-2019
+DEFINITION  solute carrier family 17 member 9 [Scaptodrosophila lebanonensis].
+ACCESSION   XP_030383180
+VERSION     XP_030383180.1
+DBLINK      BioProject: PRJNA501994
+DBSOURCE    REFSEQ: accession XM_030527320.1
+KEYWORDS    RefSeq.
+SOURCE      Scaptodrosophila lebanonensis
+  ORGANISM  Scaptodrosophila lebanonensis
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta;
+            Pterygota; Neoptera; Holometabola; Diptera; Brachycera;
+            Muscomorpha; Ephydroidea; Drosophilidae; Scaptodrosophila.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_022060738.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Scaptodrosophila lebanonensis
+                                           Annotation Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..438
+                     /organism="Scaptodrosophila lebanonensis"
+                     /strain="11010-0011.00,11010-0021.00"
+                     /db_xref="taxon:7225"
+                     /chromosome="Unknown"
+                     /tissue_type="whole body"
+                     /dev_stage="adult"
+     Protein         1..438
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=48449
+     CDS             1..438
+                     /gene="LOC115630676"
+                     /coded_by="XM_030527320.1:166..1482"
+                     /db_xref="GeneID:115630676"
+ORIGIN      
+        1 meekakysll rgelvdtqsi wtrhekrvwf itlitgtcml ystrttmpll mpavasaqkw
+       61 sktdsgtvls sffwgytltq vvggyfsdrf ggqrvilyaa igwslitflm ptviwaaaav
+      121 ksyaipfivl vrilngalqg mhfpsmislt sqnlcqners sffglltags amgnlltgim
+      181 gsflldyfgw syvfrvigll gfawalvlry yamagertri inisnpsrlc vnkapaesav
+      241 pwlryfsrls fwacvlthac emncffvlls wlptyfhdgy pdargwvvnm ipwlalppct
+      301 llarylttyl larnwstttv rkliqsccfa aqnialfims rtsdfhtali cmtviiggtg
+      361 fhnnavtvnp qdlaplhsgs vfglmntvga cpgflgvyla ghileltqsw plvfsaaagi
+      421 nlvgwvifvv fgsaeaiv
+//
+

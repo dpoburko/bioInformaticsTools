@@ -1,0 +1,81 @@
+
+LOCUS       XP_014162953             425 aa            linear   VRT 06-OCT-2019
+DEFINITION  solute carrier family 17 member 9 [Geospiza fortis].
+ACCESSION   XP_014162953
+VERSION     XP_014162953.1
+DBLINK      BioProject: PRJNA217051
+DBSOURCE    REFSEQ: accession XM_014307478.2
+KEYWORDS    RefSeq; includes ab initio.
+SOURCE      Geospiza fortis (medium ground-finch)
+  ORGANISM  Geospiza fortis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Passeriformes; Thraupidae;
+            Geospiza.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_005054337.1) annotated using gene prediction method: Gnomon,
+            supported by EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Geospiza fortis Annotation Release
+                                           102
+            Annotation Version          :: 102
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            ab initio :: 2% of CDS bases
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..425
+                     /organism="Geospiza fortis"
+                     /db_xref="taxon:48883"
+                     /chromosome="Unknown"
+                     /sex="female"
+     Protein         1..425
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=46334
+     Region          16..410
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Region          21..410
+                     /region_name="2A0114"
+                     /note="D-galactonate transporter; TIGR00893"
+                     /db_xref="CDD:273326"
+     Site            order(30,33..35,37..38,55,58..59,62,66..67,69..70,
+                     121..122,125..126,129..130,133,145..146,149..150,156,241,
+                     244..245,248..249,252,266,268,272,275,279,335,338..339,
+                     342,346..347,350,360..361,364..365,368..369,372)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..425
+                     /gene="SLC17A9"
+                     /coded_by="XM_014307478.2:1..1278"
+                     /db_xref="GeneID:102033110"
+ORIGIN      
+        1 mtednflsgp ecrvwtamll lgtcllycar vtvpicaval ssyfdwdkkq fgvvlssffw
+       61 gycltqivgg hisdqiggek vlllsasawg fltvltpllt hitsahlvfm tssrflmgll
+      121 qgvyfpslas llsqrvrese raftystvgt gsqfgtllig gagsllldwy gwesvfyfsg
+      181 lltllwvyct ckyllsekel tipmnyltrg lsvpkqtkvp wkqlfrkapi waviiaqlst
+      241 astfftllsw lptffketfp dskgwvfnvv pwlvaiptsl fsgflsdhli sqgyrtitir
+      301 kfmqvigsgv ssifalclgq tssfckaivf asasvglqtf nhsgisvnvq dlapscagll
+      361 fgvantggal lgvicvylag yliettgswi svfnlvaavn siglctfllf geaqrvdtgs
+      421 vyvdl
+//
+

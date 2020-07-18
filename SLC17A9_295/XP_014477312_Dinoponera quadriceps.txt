@@ -1,0 +1,80 @@
+
+LOCUS       XP_014477312             425 aa            linear   INV 12-NOV-2015
+DEFINITION  PREDICTED: solute carrier family 17 member 9 [Dinoponera
+            quadriceps].
+ACCESSION   XP_014477312
+VERSION     XP_014477312.1
+DBLINK      BioProject: PRJNA301625
+DBSOURCE    REFSEQ: accession XM_014621826.1
+KEYWORDS    RefSeq.
+SOURCE      Dinoponera quadriceps
+  ORGANISM  Dinoponera quadriceps
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta;
+            Pterygota; Neoptera; Holometabola; Hymenoptera; Apocrita; Aculeata;
+            Vespoidea; Formicidae; Ponerinae; Ponerini; Dinoponera.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_014555923.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Dinoponera quadriceps Annotation
+                                           Release 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 6.4
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..425
+                     /organism="Dinoponera quadriceps"
+                     /isolate="SergipeBrazil2010"
+                     /isolation_source="soil"
+                     /db_xref="taxon:609295"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /country="Brazil: Sergipe"
+                     /lat_lon="11.01 S 37.12 W"
+                     /collection_date="2010"
+     Protein         1..425
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=47017
+     Region          28..418
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Region          33..418
+                     /region_name="2A0114"
+                     /note="D-galactonate transporter; TIGR00893"
+                     /db_xref="CDD:273326"
+     Site            order(42,45..47,49..50,67,70..71,74,78..79,81..82,
+                     135..136,139..140,143..144,147,159..160,163..164,170,248,
+                     251..252,255..256,259,271,275,279,282,286,342,345..346,
+                     349,353..354,357,368..369,372..373,376..377,380)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..425
+                     /gene="LOC106745856"
+                     /coded_by="XM_014621826.1:340..1617"
+                     /db_xref="GeneID:106745856"
+ORIGIN      
+        1 mqlqvslnip ledkigsswt rkerqrwfll llvgtcliya trtsvpllip ivskekhwsk
+       61 pdsgvilssf fwgytltqva sgyisdkigg qkvlwisalg wsvttffmpe vinfskgkts
+      121 illvatvrmi ngafqgmhfp smislisqrl heterasffs lltsgsalgt lltgslgsyl
+      181 lenynwmivf qtlggmslaw ttllsyyilp freraastkp ttdyslpwlk llskppfwsc
+      241 vighacqnnc ffvllswmpt yfhdtfpevk gwvvnmvpwl sllpctflgk alseriimsg
+      301 ysvtttrkii qticfvteig sllflskrve tfqgamlcla liigasgfhn naiavnpsdl
+      361 apkhsgcvfg lmntvgavpg flgvyfagyi lylthswsvv flsiavvdll gcisyllfgs
+      421 gqaii
+//
+

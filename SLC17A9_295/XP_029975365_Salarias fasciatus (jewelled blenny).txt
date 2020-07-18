@@ -1,0 +1,56 @@
+
+LOCUS       XP_029975365             466 aa            linear   VRT 27-JUL-2019
+DEFINITION  solute carrier family 17 member 9 [Salarias fasciatus].
+ACCESSION   XP_029975365
+VERSION     XP_029975365.1
+DBLINK      BioProject: PRJNA555318
+DBSOURCE    REFSEQ: accession XM_030119505.1
+KEYWORDS    RefSeq.
+SOURCE      Salarias fasciatus (jewelled blenny)
+  ORGANISM  Salarias fasciatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Blenniimorphae; Blenniiformes;
+            Blennioidei; Blenniidae; Salariinae; Salarias.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_043764.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Salarias fasciatus Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..466
+                     /organism="Salarias fasciatus"
+                     /db_xref="taxon:181472"
+                     /chromosome="20"
+     Protein         1..466
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=50571
+     CDS             1..466
+                     /gene="slc17a9"
+                     /coded_by="XM_030119505.1:296..1696"
+                     /db_xref="GeneID:115408653"
+ORIGIN      
+        1 maviqkygkn ysadlvghke ihppdkvgap gchkkwpehn tnwsrpvarv wtvvlllgtc
+       61 llycarvamp icavsmaeqf gwtkresgmv lgsffwgycf tqvfggyvsd rvggekvlll
+      121 saaawgsmta ftpilahfcs qpilsmtlar flmgllqgvh ypslaslcsq kvvesergfl
+      181 mstvgsgsyl gtlviggags lmldlygwqs vfyvsgllsv lwaycmwkyl lkgegpiitl
+      241 eslgsggvps klskrhwlrl lkqpavcavi vthlctastf ftllswlptf fkdtfpdakg
+      301 wvfnvipwlv aipsslfsgc lsdhlisqgf dtasvrklmq ffsmgvssvf tlllcgnttf
+      361 twavafvsat mglttfshsg vsvnvqdlap scagalfgvm ntcgafsgvl mvyfsgylie
+      421 atgswasvfa littvnllgl ctflafaear rvdidtskvr hhnihi
+//
+

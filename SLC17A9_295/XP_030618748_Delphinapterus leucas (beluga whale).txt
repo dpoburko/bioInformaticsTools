@@ -1,0 +1,67 @@
+
+LOCUS       XP_030618748             611 aa            linear   MAM 16-SEP-2019
+DEFINITION  solute carrier family 17 member 9 [Delphinapterus leucas].
+ACCESSION   XP_030618748
+VERSION     XP_030618748.1
+DBLINK      BioProject: PRJNA407951
+DBSOURCE    REFSEQ: accession XM_030762888.1
+KEYWORDS    RefSeq; includes ab initio.
+SOURCE      Delphinapterus leucas (beluga whale)
+  ORGANISM  Delphinapterus leucas
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Cetartiodactyla; Cetacea;
+            Odontoceti; Monodontidae; Delphinapterus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_022098028.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Delphinapterus leucas Annotation
+                                           Release 101
+            Annotation Version          :: 101
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            ab initio :: 9% of CDS bases
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..611
+                     /organism="Delphinapterus leucas"
+                     /isolate="GAN/ISIS: 26980492/103006"
+                     /db_xref="taxon:9749"
+                     /chromosome="Unknown"
+                     /sex="female"
+                     /tissue_type="blood"
+                     /dev_stage="adult"
+     Protein         1..611
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=65481
+     CDS             1..611
+                     /gene="SLC17A9"
+                     /coded_by="XM_030762888.1:1..1836"
+                     /db_xref="GeneID:111186673"
+ORIGIN      
+        1 meteslrpge qhlpscgysa salrqpsgrs hpccvrdplh hflclpvspr shqtpecqvw
+       61 tgtlllgtcl lycarvsvpv caaamsqdfg wnkkegllvr paaqphssps lpsrppcrig
+      121 gekvillsas awgfitaatp llsrlssahl afmtfsrilt gllqgvyfpa ltsllsqkvr
+      181 eseraftyst vgagsqfgtl vtgavgslll dwygwpsvfy fsggltllwv cyvyrrllge
+      241 kdlilalgvl aqglpvsrht kvpwrqlfrk psvwaaiisq lsaacsffil lswlptffke
+      301 tfpsskgwvf nvvpwlvaip aslfsgllsd rlinqgyrti tvrkfmqamg lglssifalc
+      361 lghtssfcks vvfasasigl qtfnhsgisv niqdlapsca gflfgvanta galasekwag
+      421 vpclrvsnpe fpgapphacv lppapllrps gwgvaplggs pqcqssgggg sspdpragrg
+      481 raqsrltrcs cfqwhvtvps hvtrrcesip evqgpqrpsa wvtvtglmps gpprpqllsk
+      541 lsskgrdgps prllvpsrgc rsrgrvpgwl phrdhglldv cvqpggshqq pramhlpgvr
+      601 egpaggpepr p
+//
+

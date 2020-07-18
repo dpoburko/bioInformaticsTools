@@ -1,0 +1,74 @@
+
+LOCUS       XP_006235831             432 aa            linear   ROD 26-JUL-2016
+DEFINITION  PREDICTED: solute carrier family 17 member 9 isoform X1 [Rattus
+            norvegicus].
+ACCESSION   XP_006235831
+VERSION     XP_006235831.1
+DBLINK      BioProject: PRJNA12455
+DBSOURCE    REFSEQ: accession XM_006235769.3
+KEYWORDS    RefSeq.
+SOURCE      Rattus norvegicus (Norway rat)
+  ORGANISM  Rattus norvegicus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+            Muroidea; Muridae; Murinae; Rattus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_005102.4) annotated using gene prediction method: Gnomon,
+            supported by EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Rattus norvegicus Annotation Release
+                                           106
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 7.1
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..432
+                     /organism="Rattus norvegicus"
+                     /strain="mixed"
+                     /db_xref="taxon:10116"
+                     /chromosome="3"
+                     /sex="pooled males and females"
+                     /note="pooled female animals of strain BN/SsNHsdMCW plus
+                     one male of strain SHR (also known as SHR-Akr)"
+     Protein         1..432
+                     /product="solute carrier family 17 member 9 isoform X1"
+                     /calculated_mol_wt=47792
+     Region          40..>311
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Region          41..>311
+                     /region_name="MFS_1"
+                     /note="Major Facilitator Superfamily; pfam07690"
+                     /db_xref="CDD:284993"
+     CDS             1..432
+                     /gene="Slc17a9"
+                     /gene_synonym="RGD1311940"
+                     /coded_by="XM_006235769.3:1982..3280"
+                     /db_xref="GeneID:362287"
+                     /db_xref="RGD:1311940"
+ORIGIN      
+        1 mpsqrsslmq pipeetrktp saaaedkrws rpecqlwtgm lllgtcllyc trvtmpvctv
+       61 amsqdfgwnk keagivlssf fwgycltqvv gghlgdrigg ekvillsasa wgfitvttpl
+      121 lahlgsghla fvtfsriltg llqgvyfpal tsllsqrvqe sersftystv gagsqvgtlv
+      181 tggigsvlld rcgwqsvfyf sggltllwvy yvykylldek dlvlalgvla qglpvtrpsk
+      241 vpwrqlfrka svwavicsql ssacsffill swlptffket fphskgwvfn vvpwllaipa
+      301 slfsgfisdr lisqghgpws vkhfcpvsgs hhklpqvydl cvsvhwlpdl qpqwyfsqhs
+      361 gpgpilcwfp vwcsqhcrgl grcgrrvsrw lsdrdhwlld lcvppgghrq qpgtghlsgv
+      421 wegteggpgt hs
+//
+

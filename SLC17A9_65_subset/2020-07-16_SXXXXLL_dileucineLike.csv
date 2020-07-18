@@ -1,0 +1,171 @@
+V1,V2,V3,V4
+SQFGTLL,163..169,NP_071365,Homo sapiens (human)
+SGGLTLL,190..196,NP_071365,Homo sapiens (human)
+ss,sn,,
+SGGLTLL,201..207,NP_898984,Mus musculus (house mouse)
+V1,V2,V3,V4
+SGLLTLL,208..214,NP_001006292,Gallus gallus (chicken)
+STFCTLL,271..277,NP_001006292,Gallus gallus (chicken)
+V1,V2,V3,V4
+SGGLTLL,190..196,NP_001093848,Bos taurus (cattle)
+SLLSGLL,307..313,NP_001093848,Bos taurus (cattle)
+ss,sn,,
+SGGLTLL,201..207,NP_001102083,Rattus norvegicus (Norway rat)
+ss,sn,,
+none,0..0,XP_001336574,Danio rerio (zebrafish)
+V1,V2,V3,V4
+SQFGTLL,175..181,XP_002198570,Taeniopygia guttata (zebra finch)
+SGLLTLL,202..208,XP_002198570,Taeniopygia guttata (zebra finch)
+STFFTLL,265..271,XP_002198570,Taeniopygia guttata (zebra finch)
+V1,V2,V3,V4
+SQFGTLL,163..169,XP_003932711,Saimiri boliviensis boliviensis (Bolivian squirrel monkey)
+SGSLTLL,190..196,XP_003932711,Saimiri boliviensis boliviensis (Bolivian squirrel monkey)
+V1,V2,V3,V4
+SVGSLLL,172..178,XP_004370244,Trichechus manatus latirostris (Florida manatee)
+SGGLTLL,190..196,XP_004370244,Trichechus manatus latirostris (Florida manatee)
+V1,V2,V3,V4
+SGGLTLL,282..288,XP_007185485,Balaenoptera acutorostrata scammoni
+SLFSGLL,386..392,XP_007185485,Balaenoptera acutorostrata scammoni
+V1,V2,V3,V4
+SGFLTLL,170..176,XP_010298087,Balearica regulorum gibbericeps (East African grey crowned-crane)
+STFFTLL,233..239,XP_010298087,Balearica regulorum gibbericeps (East African grey crowned-crane)
+V1,V2,V3,V4
+SGLLTLL,207..213,XP_010567831,Haliaeetus leucocephalus (bald eagle)
+STFFTLL,270..276,XP_010567831,Haliaeetus leucocephalus (bald eagle)
+ss,sn,,
+STSYTLL,273..279,XP_010752899,Larimichthys crocea (large yellow croaker)
+V1,V2,V3,V4
+SGLLSLL,215..221,XP_010788568,Notothenia coriiceps (black rockcod)
+STFFTLL,278..284,XP_010788568,Notothenia coriiceps (black rockcod)
+SSVFTLL,347..353,XP_010788568,Notothenia coriiceps (black rockcod)
+V1,V2,V3,V4
+SGGLTLL,296..302,XP_010834955,Bison bison bison
+SLLSGLL,413..419,XP_010834955,Bison bison bison
+V1,V2,V3,V4
+SRGNALL,169..175,XP_010952673,Camelus bactrianus (Bactrian camel)
+SWLSTLL,256..262,XP_010952673,Camelus bactrianus (Bactrian camel)
+ss,sn,,
+none,0..0,XP_011372437,Pteropus vampyrus (large flying fox)
+ss,sn,,
+SGGLTLL,193..199,XP_012421261,Odobenus rosmarus divergens (Pacific walrus)
+ss,sn,,
+SGGLTLL,190..196,XP_012659420,Otolemur garnettii (small-eared galago)
+V1,V2,V3,V4
+SGLLSLL,214..220,XP_012690457,Clupea harengus (Atlantic herring)
+STFFTLL,277..283,XP_012690457,Clupea harengus (Atlantic herring)
+SSVFTLL,346..352,XP_012690457,Clupea harengus (Atlantic herring)
+ss,sn,,
+SGGLTLL,284..290,XP_012915577,Mustela putorius furo (domestic ferret)
+V1,V2,V3,V4
+SQFGTLL,152..158,XP_014162953,Geospiza fortis (medium ground-finch)
+SGLLTLL,179..185,XP_014162953,Geospiza fortis (medium ground-finch)
+STFFTLL,242..248,XP_014162953,Geospiza fortis (medium ground-finch)
+V1,V2,V3,V4
+SQVGALL,100..106,XP_014342411,Latimeria chalumnae (coelacanth)
+SVGSVLL,109..115,XP_014342411,Latimeria chalumnae (coelacanth)
+SGLLALL,127..133,XP_014342411,Latimeria chalumnae (coelacanth)
+ss,sn,,
+SGGLTLL,208..214,XP_014704638,Equus asinus (ass)
+V1,V2,V3,V4
+SQFGTLL,175..181,XP_014729268,Sturnus vulgaris (Common starling)
+SGLLTLL,202..208,XP_014729268,Sturnus vulgaris (Common starling)
+STFFTLL,265..271,XP_014729268,Sturnus vulgaris (Common starling)
+V1,V2,V3,V4
+SFQLFLL,13..19,XP_015151868,Gallus gallus (chicken)
+SGLLTLL,360..366,XP_015151868,Gallus gallus (chicken)
+STFFTLL,423..429,XP_015151868,Gallus gallus (chicken)
+ss,sn,,
+none,0..0,XP_015395186,Panthera tigris altaica (Amur tiger)
+V1,V2,V3,V4
+SGGLTLL,190..196,XP_016042416,Erinaceus europaeus (western European hedgehog)
+SSFFILL,253..259,XP_016042416,Erinaceus europaeus (western European hedgehog)
+V1,V2,V3,V4
+STFFTLL,277..283,XP_017343084,Ictalurus punctatus (channel catfish)
+SSVFTLL,346..352,XP_017343084,Ictalurus punctatus (channel catfish)
+ss,sn,,
+STFFTLL,277..283,XP_017566413,Pygocentrus nattereri (red-bellied piranha)
+ss,sn,,
+none,0..0,XP_018092519,Xenopus laevis (African clawed frog)
+V1,V2,V3,V4
+SMWKYLL,224..230,XP_018921920,Cyprinus carpio (common carp)
+STFFTLL,277..283,XP_018921920,Cyprinus carpio (common carp)
+V1,V2,V3,V4
+SGLLTLL,184..190,XP_019326205,Aptenodytes forsteri (emperor penguin)
+STFFTLL,247..253,XP_019326205,Aptenodytes forsteri (emperor penguin)
+V1,V2,V3,V4
+SGFLTLL,215..221,XP_019403788,Crocodylus porosus (Australian saltwater crocodile)
+STFFTLL,278..284,XP_019403788,Crocodylus porosus (Australian saltwater crocodile)
+V1,V2,V3,V4
+SGGLTLL,190..196,XP_020029313,Castor canadensis (American beaver)
+SEKDLLL,207..213,XP_020029313,Castor canadensis (American beaver)
+V1,V2,V3,V4
+SQVGTLL,174..180,XP_020137329,Microcebus murinus (gray mouse lemur)
+SGGLTLL,201..207,XP_020137329,Microcebus murinus (gray mouse lemur)
+V1,V2,V3,V4
+STFFTLL,278..284,XP_020315597,Oncorhynchus kisutch (coho salmon)
+SSVFTLL,347..353,XP_020315597,Oncorhynchus kisutch (coho salmon)
+V1,V2,V3,V4
+SALTPLL,139..145,XP_020660269,Pogona vitticeps (central bearded dragon)
+SGVLTLL,225..231,XP_020660269,Pogona vitticeps (central bearded dragon)
+STFFTLL,288..294,XP_020660269,Pogona vitticeps (central bearded dragon)
+ss,sn,,
+none,0..0,XP_020785391,Boleophthalmus pectinirostris (great blue-spotted mudskipper)
+ss,sn,,
+SSFFILL,286..292,XP_020837214,Phascolarctos cinereus (koala)
+ss,sn,,
+SGGLTLL,192..198,XP_021533457,Neomonachus schauinslandi (Hawaiian monk seal)
+ss,sn,,
+SGGLTLL,191..197,XP_023106779,Felis catus (domestic cat)
+V1,V2,V3,V4
+STFFTLL,278..284,XP_023134423,Amphiprion ocellaris (clown anemonefish)
+SSVFTLL,347..353,XP_023134423,Amphiprion ocellaris (clown anemonefish)
+V1,V2,V3,V4
+SGGLTLL,190..196,XP_023396611,Loxodonta africana (African savanna elephant)
+SSKVGLL,272..278,XP_023396611,Loxodonta africana (African savanna elephant)
+ss,sn,,
+SGGLTLL,190..196,XP_023560125,Octodon degus (degu)
+ss,sn,,
+SSVFLLL,345..351,XP_023847287,Salvelinus alpinus (Arctic char)
+V1,V2,V3,V4
+SGLLTLL,223..229,XP_023970691,Chrysemys picta bellii (western painted turtle)
+STFFTLL,286..292,XP_023970691,Chrysemys picta bellii (western painted turtle)
+V1,V2,V3,V4
+SGLLTLL,223..229,XP_024050478,Terrapene carolina triunguis (Three-toed box turtle)
+STFFTLL,286..292,XP_024050478,Terrapene carolina triunguis (Three-toed box turtle)
+V1,V2,V3,V4
+SGFLTLL,215..221,XP_025057523,Alligator sinensis (Chinese alligator)
+STFFTLL,278..284,XP_025057523,Alligator sinensis (Chinese alligator)
+ss,sn,,
+SGGLTLL,385..391,XP_025787896,Puma concolor (puma)
+ss,sn,,
+SGGLTLL,191..197,XP_025870919,Vulpes vulpes (red fox)
+V1,V2,V3,V4
+SGLLTLL,203..209,XP_025913148,Apteryx rowi (Okarito brown kiwi)
+STFFTLL,266..272,XP_025913148,Apteryx rowi (Okarito brown kiwi)
+V1,V2,V3,V4
+SGLLTLL,208..214,XP_025948636,Dromaius novaehollandiae (emu)
+STFFTLL,271..277,XP_025948636,Dromaius novaehollandiae (emu)
+V1,V2,V3,V4
+SGLLTLL,222..228,XP_026539206,Notechis scutatus (mainland tiger snake)
+STFFTLL,286..292,XP_026539206,Notechis scutatus (mainland tiger snake)
+V1,V2,V3,V4
+SGLLTLL,180..186,XP_026717842,Athene cunicularia (burrowing owl)
+STFFTLL,243..249,XP_026717842,Athene cunicularia (burrowing owl)
+V1,V2,V3,V4
+STFFTLL,277..283,XP_028439258,Perca flavescens (yellow perch)
+SSVFTLL,346..352,XP_028439258,Perca flavescens (yellow perch)
+ss,sn,,
+SGTLTLL,278..284,XP_028591619,Podarcis muralis (Common wall lizard)
+V1,V2,V3,V4
+STFFTLL,278..284,XP_029477361,Oncorhynchus nerka (sockeye salmon)
+SSVFTLL,347..353,XP_029477361,Oncorhynchus nerka (sockeye salmon)
+V1,V2,V3,V4
+SGLLTLL,202..208,XP_030318959,Calypte anna (Anna's hummingbird)
+STFFTLL,265..271,XP_030318959,Calypte anna (Anna's hummingbird)
+V1,V2,V3,V4
+SGGLTLL,222..228,XP_030618748,Delphinapterus leucas (beluga whale)
+SLFSGLL,322..328,XP_030618748,Delphinapterus leucas (beluga whale)
+ss,sn,,
+SGGLTLL,193..199,XP_032243559,Phoca vitulina (harbor seal)
+ss,sn,,
+SFSLALL,368..374,XP_032810649,Petromyzon marinus (sea lamprey)

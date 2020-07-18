@@ -1,0 +1,61 @@
+
+LOCUS       XP_027818269             524 aa            linear   MAM 06-FEB-2019
+DEFINITION  vesicular acetylcholine transporter [Ovis aries].
+ACCESSION   XP_027818269
+VERSION     XP_027818269.1
+DBLINK      BioProject: PRJNA517172
+DBSOURCE    REFSEQ: accession XM_027962468.1
+KEYWORDS    RefSeq.
+SOURCE      Ovis aries (sheep)
+  ORGANISM  Ovis aries
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Cetartiodactyla; Ruminantia;
+            Pecora; Bovidae; Caprinae; Ovis.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_040276.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Ovis aries Annotation Release 103
+            Annotation Version          :: 103
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.1
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..524
+                     /organism="Ovis aries"
+                     /strain="OAR_USU_Benz2616"
+                     /db_xref="taxon:9940"
+                     /chromosome="25"
+                     /sex="female"
+                     /tissue_type="blood"
+                     /dev_stage="adult"
+                     /collection_date="2015-03-01"
+                     /breed="Rambouillet"
+     Protein         1..524
+                     /product="vesicular acetylcholine transporter"
+                     /calculated_mol_wt=55731
+     CDS             1..524
+                     /gene="SLC18A3"
+                     /coded_by="XM_027962468.1:1..1575"
+                     /db_xref="GeneID:105605099"
+ORIGIN      
+        1 mepeapagra paaasklsea vgaalqdprr qrrlvlvivc valfldnmly mvivpivpyy
+       61 vhaagekptp tssptpptpt nasavtgnts epptadlpak pivkprhprd nedvkigvlf
+      121 askailqllv nplsgtfidr msydlplllg lgvlfastvm fafaedyatl faarslqglg
+      181 safadtsgia miadkypeep ersralglal afisfgslva ppfggflhef agksapflvl
+      241 aavslfdall llvvakpfsa aararanlpv gtpihrlmld pyiavvagal ttcniplafl
+      301 eptiatwmer tmaaseweag iawlpafvph vlgvyltvrl aaryphlqwl ygafglavig
+      361 assclvpacr sfaplvislc glcfgialvd tallptlafl vdvrhvsvyg svyaiadisy
+      421 cvayalgpiv aghivhslgf aqlslgmgla nllyapvlll lrnvgllkrs rserdvllde
+      481 ppqglydavr lrerpmsdrg aaprsppgpl daceegdydy ytrs
+//
+

@@ -1,0 +1,82 @@
+
+LOCUS       XP_011847822             437 aa            linear   PRI 30-MAR-2015
+DEFINITION  PREDICTED: solute carrier family 17 member 9 [Mandrillus
+            leucophaeus].
+ACCESSION   XP_011847822
+VERSION     XP_011847822.1
+DBLINK      BioProject: PRJNA279492
+DBSOURCE    REFSEQ: accession XM_011992432.1
+KEYWORDS    RefSeq; includes ab initio.
+SOURCE      Mandrillus leucophaeus (drill)
+  ORGANISM  Mandrillus leucophaeus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Mandrillus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_012104365.1) annotated using gene prediction method: Gnomon,
+            supported by EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Mandrillus leucophaeus Annotation
+                                           Release 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 6.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            ab initio :: 4% of CDS bases
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..437
+                     /organism="Mandrillus leucophaeus"
+                     /isolate="KB7577"
+                     /db_xref="taxon:9568"
+                     /chromosome="Unknown"
+                     /sex="female"
+                     /tissue_type="heart"
+     Protein         1..437
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=46975
+     Region          39..422
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Site            order(42,45..47,49..50,67,70..71,74,78..79,81..82,
+                     133..134,137..138,141..142,145,157..158,161..162,168,253,
+                     256..257,260..261,264,278,280,284,287,291,347,350..351,
+                     354,358..359,362,372..373,376..377,380..381,384)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     Region          45..387
+                     /region_name="MFS_1"
+                     /note="Major Facilitator Superfamily; pfam07690"
+                     /db_xref="CDD:284993"
+     CDS             1..437
+                     /gene="SLC17A9"
+                     /coded_by="XM_011992432.1:1..1314"
+                     /db_xref="GeneID:105548418"
+ORIGIN      
+        1 mnlkqqgcga spgpdhllsl rpecqawtgt lllgtcllyc arssmpictv smsqdfgwnk
+       61 keagivlssf fwgycltqvv gghlgdrigg ekvillsasa wgsitavtpl laqlssahla
+      121 fmtfsrilmg llqgvyfpal tsllsqkvrd seraftystv gagsqfgtll tgavgsllle
+      181 wygwqsvfyf sggltllwvw yvyryllsgk dlvlalgvla qglpvsrhsr vpwrrlfrkp
+      241 avwaavisql saacsffvli swlptffket fpdakgwifn vvpwlvaipa slfsgflsdh
+      301 linqgyrait vrklmqgmgl glssvfalcl ghtssfcesv vfasasiglq tfnhsgisvn
+      361 iqdlapscag flfgvantag alagvvgvcl ggyliettgs wtclfnlvai isnlglctfl
+      421 vfgqaqrvdl ssthedl
+//
+

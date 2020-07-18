@@ -1,0 +1,78 @@
+
+LOCUS       XP_007952869             436 aa            linear   MAM 14-MAY-2014
+DEFINITION  PREDICTED: solute carrier family 17 member 9 [Orycteropus afer
+            afer].
+ACCESSION   XP_007952869
+VERSION     XP_007952869.1
+DBLINK      BioProject: PRJNA237355
+DBSOURCE    REFSEQ: accession XM_007954678.1
+KEYWORDS    RefSeq.
+SOURCE      Orycteropus afer afer
+  ORGANISM  Orycteropus afer afer
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Afrotheria; Tubulidentata; Orycteropodidae;
+            Orycteropus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_006922056.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Orycteropus afer afer Annotation
+                                           Release 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 6.0
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..436
+                     /organism="Orycteropus afer afer"
+                     /isolate="SDZICR_OR568_19922"
+                     /sub_species="afer"
+                     /db_xref="taxon:1230840"
+                     /chromosome="Unknown"
+                     /sex="female"
+                     /country="USA: San Diego Zoo"
+     Protein         1..436
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=46906
+     Region          30..421
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Region          32..421
+                     /region_name="2A0114"
+                     /note="D-galactonate transporter; TIGR00893"
+                     /db_xref="CDD:273326"
+     Site            order(41,44..46,48..49,66,69..70,73,77..78,80..81,
+                     132..133,136..137,140..141,144,156..157,160..161,167,252,
+                     255..256,259..260,263,277,279,283,286,290,346,349..350,
+                     353,357..358,361,371..372,375..376,379..380,383)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..436
+                     /gene="SLC17A9"
+                     /coded_by="XM_007954678.1:1..1311"
+                     /db_xref="GeneID:103208917"
+ORIGIN      
+        1 mqpapdearr daaqdalwsr pecqawtrtl llgtcllyca rvsmsvctvs msqdfgwsrk
+       61 eagialssff wgycltqvvg ghlgdrigge kvillsasaw glitaatpll grlgtahltf
+      121 mtcsrvltgl lqgvyfpalt sllsqkvgds eraftystvg tgsqvgtllt ggvgsllldc
+      181 cgwpsvfyas ggftllwvyy vhryllnekd lmmalgalmq glsvsrhtkv rrgqlfrksa
+      241 vwaavfsqls sactfftlls wlptffretf pnskgwvfnv vpwlvsipas llsgflsdhl
+      301 ishgyrtivv rkfmqamglg lssvfalclg htssfcksmv fasvsiglqt fnhsgisvnf
+      361 qdlapscagf lfgvantaga lagvvgvclg gyliettgsw tslfylvavv snlglctflv
+      421 fgkaqrvdls paredl
+//
+

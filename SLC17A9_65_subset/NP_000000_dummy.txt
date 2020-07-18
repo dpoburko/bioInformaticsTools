@@ -1,0 +1,205 @@
+
+LOCUS       NP_0123456               436 aa            linear   PRI 09-MAY-2020
+DEFINITION  solute carrier family 17 member 9 isoform 1 [Homo sapiens].
+ACCESSION   NP_0123456
+VERSION     NP_0123456
+DBSOURCE    REFSEQ: accession NM_022082.4
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      dummy file
+  ORGANISM  dummy file
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (residues 1 to 436)
+  AUTHORS   Yang L, Chen Z, Xiong W, Ren H, Zhai E, Xu K, Yang H, Zhang Z, Ding
+            L, He Y, Song X and Liu J.
+  TITLE     High expression of SLC17A9 correlates with poor prognosis in
+            colorectal cancer
+  JOURNAL   Hum. Pathol. 84, 62-70 (2019)
+   PUBMED   30236596
+  REMARK    GeneRIF: our data suggested that SLC17A9 may play an important role
+            in the progression of colorectal cancer
+REFERENCE   2  (residues 1 to 436)
+  AUTHORS   Mihara H, Uchida K, Koizumi S and Moriyama Y.
+  TITLE     Involvement of VNUT-exocytosis in transient receptor potential
+            vanilloid 4-dependent ATP release from gastrointestinal epithelium
+  JOURNAL   PLoS ONE 13 (10), e0206276 (2018)
+   PUBMED   30365528
+  REMARK    GeneRIF: expression of TRPV4 and VNUT in normal human
+            gastrointestinal cell derived cell lines
+            Publication Status: Online-Only
+REFERENCE   3  (residues 1 to 436)
+  AUTHORS   Harada Y, Kato Y, Miyaji T, Omote H, Moriyama Y and Hiasa M.
+  TITLE     Vesicular nucleotide transporter mediates ATP release and migration
+            in neutrophils
+  JOURNAL   J. Biol. Chem. 293 (10), 3770-3779 (2018)
+   PUBMED   29363573
+  REMARK    GeneRIF: Data (including data from studies using knockout mice)
+            suggest that VNUT/SLC17A9 localized in tertiary/secretory granules
+            of neutrophils is responsible for vesicular ATP release and
+            subsequent neutrophil migration/infiltration.
+REFERENCE   4  (residues 1 to 436)
+  AUTHORS   Cui H, Li L, Wang W, Shen J, Yue Z, Zheng X, Zuo X, Liang B, Gao M,
+            Fan X, Yin X, Shen C, Yang C, Zhang C, Zhang X, Sheng Y, Gao J, Zhu
+            Z, Lin D, Zhang A, Wang Z, Liu S, Sun L, Yang S, Cui Y and Zhang X.
+  TITLE     Exome sequencing identifies SLC17A9 pathogenic gene in two Chinese
+            pedigrees with disseminated superficial actinic porokeratosis
+  JOURNAL   J. Med. Genet. 51 (10), 699-704 (2014)
+   PUBMED   25180256
+  REMARK    GeneRIF: Results identified SLC17A9 as another pathogenic gene for
+            DSAP, which suggests a correlation between the aberrant vesicular
+            nucleotide transporter and the pathogenesis of DSAP.
+REFERENCE   5  (residues 1 to 436)
+  AUTHORS   Cao Q, Zhao K, Zhong XZ, Zou Y, Yu H, Huang P, Xu TL and Dong XP.
+  TITLE     SLC17A9 protein functions as a lysosomal ATP transporter and
+            regulates cell viability
+  JOURNAL   J. Biol. Chem. 289 (33), 23189-23199 (2014)
+   PUBMED   24962569
+  REMARK    GeneRIF: data suggest that SLC17A9 activity mediates lysosomal ATP
+            accumulation and plays an important role in lysosomal physiology
+            and cell viability.
+REFERENCE   6  (residues 1 to 436)
+  AUTHORS   Inoue K, Komatsu R, Imura Y, Fujishita K, Shibata K, Moriyama Y and
+            Koizumi S.
+  TITLE     Mechanism underlying ATP release in human epidermal keratinocytes
+  JOURNAL   J. Invest. Dermatol. 134 (5), 1465-1468 (2014)
+   PUBMED   24292772
+  REMARK    GeneRIF: It is suggested that the functions of VNUT, in addition to
+            P2 receptors may be a target for anti-inflammatory response in
+            skin.
+REFERENCE   7  (residues 1 to 436)
+  AUTHORS   Sesma JI, Kreda SM, Okada SF, van Heusden C, Moussa L, Jones LC,
+            O'Neal WK, Togawa N, Hiasa M, Moriyama Y and Lazarowski ER.
+  TITLE     Vesicular nucleotide transporter regulates the nucleotide content
+            in airway epithelial mucin granules
+  JOURNAL   Am. J. Physiol., Cell Physiol. 304 (10), C976-C984 (2013)
+   PUBMED   23467297
+  REMARK    GeneRIF: These results suggest that SLC17A9 is the relevant
+            nucleotide transporter responsible for the uptake of cytosolic
+            nucleotides into mucin granules.
+            Erratum:[Am J Physiol Cell Physiol. 2014 Feb 15;306(4):C415]
+REFERENCE   8  (residues 1 to 436)
+  AUTHORS   Sathe MN, Woo K, Kresge C, Bugde A, Luby-Phelps K, Lewis MA and
+            Feranchak AP.
+  TITLE     Regulation of purinergic signaling in biliary epithelial cells by
+            exocytosis of SLC17A9-dependent ATP-enriched vesicles
+  JOURNAL   J. Biol. Chem. 286 (28), 25363-25376 (2011)
+   PUBMED   21613220
+  REMARK    GeneRIF: the existence of an SLC17A9-dependent ATP-enriched
+            vesicular pool in biliary epithelium that undergoes regulated
+            exocytosis to initiate purinergic signaling.
+REFERENCE   9  (residues 1 to 436)
+  AUTHORS   Tokunaga A, Tsukimoto M, Harada H, Moriyama Y and Kojima S.
+  TITLE     Involvement of SLC17A9-dependent vesicular exocytosis in the
+            mechanism of ATP release during T cell activation
+  JOURNAL   J. Biol. Chem. 285 (23), 17406-17416 (2010)
+   PUBMED   20382737
+  REMARK    GeneRIF: analysis of involvement of SLC17A9-dependent vesicular
+            exocytosis in the mechanism of ATP release during T cell activation
+REFERENCE   10 (residues 1 to 436)
+  AUTHORS   Sawada K, Echigo N, Juge N, Miyaji T, Otsuka M, Omote H, Yamamoto A
+            and Moriyama Y.
+  TITLE     Identification of a vesicular nucleotide transporter
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 105 (15), 5683-5686 (2008)
+   PUBMED   18375752
+  REMARK    GeneRIF: SLC17A9 protein acts as a vesicular nucleotide transporter
+            (VNUT) and plays an essential role in vesicular storage of ATP in
+            the ATP-secreting cells [SLC17A9]
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AL121673.41.
+            On Nov 24, 2018 this sequence version replaced NP_071365.3.
+            
+            Summary: This gene encodes a member of a family of transmembrane
+            proteins that are involved in the transport of small molecules. The
+            encoded protein participates in the vesicular uptake, storage, and
+            secretion of adenoside triphosphate (ATP) and other nucleotides. A
+            mutation in this gene was found in individuals with autosomal
+            dominant disseminated superficial actinic porokeratosis-8.
+            Alternative splicing results in multiple transcript variants.
+            [provided by RefSeq, Nov 2014].
+            
+            Transcript Variant: This variant (1) represents the shorter
+            transcript and encodes the longer isoform (1).
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: AK095473.1, BC038593.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMEA1965299, SAMEA1966682
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match     :: ENST00000370351.9/ ENSP00000359376.4
+            RefSeq Select criteria :: based on conservation, expression,
+                                      longest protein
+            ##RefSeq-Attributes-END##
+FEATURES             Location/Qualifiers
+     source          1..436
+                     /organism="Homo sapiens"
+                     /db_xref="taxon:9606"
+                     /chromosome="20"
+                     /map="20q13.33"
+     Protein         1..436
+                     /product="solute carrier family 17 member 9 isoform 1"
+                     /note="vesicular nucleotide transporter SLC17A9; solute
+                     carrier family 17 (vesicular nucleotide transporter),
+                     member 9"
+                     /calculated_mol_wt=47351
+     Region          44..386
+                     /region_name="MFS_1"
+                     /note="Major Facilitator Superfamily; pfam07690"
+                     /db_xref="CDD:311564"
+     Site            64..84
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9BYT1.2)"
+     Site            92..112
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9BYT1.2)"
+     Site            118..138
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9BYT1.2)"
+     Site            158..178
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9BYT1.2)"
+     Site            181..201
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9BYT1.2)"
+     Site            239..259
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9BYT1.2)"
+     Site            276..296
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9BYT1.2)"
+     Site            316..336
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9BYT1.2)"
+     Site            369..389
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9BYT1.2)"
+     Site            402..422
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9BYT1.2)"
+     CDS             1..436
+                     /gene="SLC17A9"
+                     /gene_synonym="C20orf59; POROK8; VNUT"
+                     /coded_by="NM_022082.4:123..1433"
+                     /note="isoform 1 is encoded by transcript variant 1"
+                     /db_xref="CCDS:CCDS42901.1"
+                     /db_xref="GeneID:63910"
+                     /db_xref="HGNC:HGNC:16192"
+                     /db_xref="MIM:612107"
+ORIGIN      
+        1 dmagdtqwsr rlvfdeqaff pecqawtgtl KRPAATKKAG QAKKKKictvs msqdfgwnkk
+       61 eagivlssff wgycltqvvg ghlgdrigge kvillsasaw gsitavtpll ahlssahlaf
+      121 mtfsrilmgl lqgvyfpalt sllsqkvres eraftysivg agsqfgtllt gavgslllew
+      181 ygwqsifyfs ggltllwvwy vyryvlsekd lilalgvlaq srpvsrhnrv pwrrlfrkpa
+      241 vwaavvsqls aacsffills wlptffeetf pdakgwifnv vpwlvaipas lfsgflsdhl
+      301 inqgyraitv rklmqgmglg lssvfalclg htssfcesvv fasasiglqt fnhsgisvni
+      361 qdlapscagf lfgvantaga lagvvgvclg gylmettgsw tclfnlvaii snlglctflv
+      421 fgqaqrvdls sthedl
+//
+

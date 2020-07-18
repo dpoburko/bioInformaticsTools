@@ -1,0 +1,63 @@
+
+LOCUS       XP_010720717             237 aa            linear   VRT 18-NOV-2019
+DEFINITION  solute carrier family 17 member 9 [Meleagris gallopavo].
+ACCESSION   XP_010720717
+VERSION     XP_010720717.2
+DBLINK      BioProject: PRJNA62397
+DBSOURCE    REFSEQ: accession XM_010722415.3
+KEYWORDS    RefSeq; includes ab initio.
+SOURCE      Meleagris gallopavo (turkey)
+  ORGANISM  Meleagris gallopavo
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Galloanserae; Galliformes;
+            Phasianidae; Meleagridinae; Meleagris.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_015032.2) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            On Dec 20, 2016 this sequence version replaced XP_010720717.1.
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Meleagris gallopavo Annotation
+                                           Release 103
+            Annotation Version          :: 103
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            ab initio :: 24% of CDS bases
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..237
+                     /organism="Meleagris gallopavo"
+                     /isolate="NT-WF06-2002-E0010"
+                     /db_xref="taxon:9103"
+                     /chromosome="22"
+                     /sex="female"
+                     /tissue_type="blood"
+                     /breed="Aviagen turkey brand Nicholas breeding stock"
+                     /note="donated by Nicholas Turkey Breeding Farms"
+     Protein         1..237
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=25350
+     CDS             1..237
+                     /gene="LOC104914029"
+                     /coded_by="XM_010722415.3:1..714"
+                     /db_xref="GeneID:104914029"
+ORIGIN      
+        1 mvmksqevnt pppsshlgpp vtkccivafs ernqrchdwe rvwstgksyg eyqtfakhlq
+       61 tssdsspllt favfqgwvfn vvpwlvaipt slfsgflsdh linqgyktit vrkfmqvigs
+      121 gvssmfalcl gqtssfcnai vfasasvglq tfnhsgisvn vqdlapscag llfgvgntgg
+      181 allgvvcvyl agylmettgs wisvfnlvaa vnsvglcafl vfgeaqrvdt dsayidm
+//
+

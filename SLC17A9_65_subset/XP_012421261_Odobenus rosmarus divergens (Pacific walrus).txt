@@ -1,0 +1,80 @@
+
+LOCUS       XP_012421261             439 aa            linear   MAM 26-MAY-2015
+DEFINITION  PREDICTED: solute carrier family 17 member 9 [Odobenus rosmarus
+            divergens].
+ACCESSION   XP_012421261
+VERSION     XP_012421261.1
+DBLINK      BioProject: PRJNA189954
+DBSOURCE    REFSEQ: accession XM_012565807.1
+KEYWORDS    RefSeq.
+SOURCE      Odobenus rosmarus divergens (Pacific walrus)
+  ORGANISM  Odobenus rosmarus divergens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Carnivora; Caniformia;
+            Odobenidae; Odobenus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_004450733.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Odobenus rosmarus divergens
+                                           Annotation Release 101
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 6.3
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..439
+                     /organism="Odobenus rosmarus divergens"
+                     /isolate="Ivan"
+                     /isolation_source="blood"
+                     /sub_species="divergens"
+                     /db_xref="taxon:9708"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /country="USA:AK, Round Island"
+                     /collection_date="06-Sep-2011"
+     Protein         1..439
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=47356
+     Region          41..424
+                     /region_name="2A0114"
+                     /note="D-galactonate transporter; TIGR00893"
+                     /db_xref="CDD:273326"
+     Region          41..424
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Site            order(44,47..49,51..52,69,72..73,76,80..81,83..84,
+                     135..136,139..140,143..144,147,159..160,163..164,170,255,
+                     258..259,262..263,266,280,282,286,289,293,349,352..353,
+                     356,360..361,364,374..375,378..379,382..383,386)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..439
+                     /gene="SLC17A9"
+                     /coded_by="XM_012565807.1:1..1320"
+                     /db_xref="GeneID:101369159"
+ORIGIN      
+        1 mqplppppee arrdgaedaq wsrpecqvwt gtlllgtcll ycarvsmpvc tvsmsqdfgw
+       61 nkkeagivls sffwgycltq vvgghlgdri ggekvillsa sawgiitaat pllaqlssah
+      121 lffmtfsril tgllqgvyfp altsllsqkv reseraftys avgagsqfgt lvtgavgsll
+      181 ldwygwpsvf yfsggltllw vcyvyrylls eqdlilalgv laqgvpvsrh tkvpwrqlfr
+      241 kpsvwaaiss qlssacsffi llswlptffe etfpsskgwv fnvvpwlvai paslfsgfls
+      301 dhlinqgyrt iavrkfmqvm glglssvfal clghtssfck svvfasasig lqtfnhsgis
+      361 vniqdlapsc agflfgvant agalagvvgv clggyliett gswtsmfnlv aavsslglct
+      421 fllfgeaqrv dlspthedl
+//
+

@@ -1,0 +1,69 @@
+
+LOCUS       XP_033202761             423 aa            linear   INV 12-APR-2020
+DEFINITION  solute carrier family 17 member 9 [Bombus vancouverensis
+            nearcticus].
+ACCESSION   XP_033202761
+VERSION     XP_033202761.1
+DBLINK      BioProject: PRJNA623917
+DBSOURCE    REFSEQ: accession XM_033346870.1
+KEYWORDS    RefSeq.
+SOURCE      Bombus vancouverensis nearcticus
+  ORGANISM  Bombus vancouverensis nearcticus
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta;
+            Pterygota; Neoptera; Holometabola; Hymenoptera; Apocrita; Aculeata;
+            Apoidea; Apidae; Bombus; Pyrobombus; Bombus vancouverensis.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_022882457.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Bombus vancouverensis nearcticus
+                                           Annotation Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.4
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..423
+                     /organism="Bombus vancouverensis nearcticus"
+                     /isolate="JDL1245"
+                     /isolation_source="worker"
+                     /sub_species="nearcticus"
+                     /db_xref="taxon:2705178"
+                     /chromosome="Unknown"
+                     /sex="female"
+                     /tissue_type="muscle"
+                     /dev_stage="adult"
+                     /country="USA: California, Tulare County, Sequoia National
+                     Park"
+                     /lat_lon="36.59 N 118.74 W"
+                     /altitude="2214 m"
+                     /collection_date="17-Jul-2015"
+                     /collected_by="Jeff Lozier"
+                     /identified_by="Jeff Lozier"
+     Protein         1..423
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=46796
+     CDS             1..423
+                     /gene="LOC117164080"
+                     /coded_by="XM_033346870.1:497..1768"
+                     /db_xref="GeneID:117164080"
+ORIGIN      
+        1 mqmqipliqd ektnsswsrk erqkwflsll cgtcliyatr tsvpllmpii skekqwskpd
+       61 sgvilssffw gytltqvasg yisdriggqk vllisalgws mttffmpevi elfskddssv
+      121 llvavvrtin gafqgmhfps mislisqrlh eterasffsl ltsgsalgtl ltgslgsyll
+      181 enynwvvvfq tlgglslawa vllsyhtlpf kekaastksa tnyslpwlkl lkkppfwscv
+      241 ighacqnncf fvllswmpmy fhdtfpevkg wvvnmvpwls mlpctffgka lsekiikagy
+      301 sitvtrkiie ticflteiis llflakvetf qsaiiclafi iggsgfhnna iavnpsdlap
+      361 khsgsvfglm ntvgaipgfl gvyfsgyilh vthswpvvfi fiaiidalgc ivyllfgsgq
+      421 aii
+//
+

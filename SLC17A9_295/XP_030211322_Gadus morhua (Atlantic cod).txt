@@ -1,0 +1,56 @@
+
+LOCUS       XP_030211322             466 aa            linear   VRT 12-AUG-2019
+DEFINITION  solute carrier family 17 member 9 [Gadus morhua].
+ACCESSION   XP_030211322
+VERSION     XP_030211322.1
+DBLINK      BioProject: PRJNA557709
+DBSOURCE    REFSEQ: accession XM_030355462.1
+KEYWORDS    RefSeq.
+SOURCE      Gadus morhua (Atlantic cod)
+  ORGANISM  Gadus morhua
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Zeiogadaria; Gadariae; Gadiformes; Gadoidei;
+            Gadidae; Gadus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_044048.1) annotated using gene prediction method: Gnomon,
+            supported by EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Gadus morhua Annotation Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..466
+                     /organism="Gadus morhua"
+                     /db_xref="taxon:8049"
+                     /chromosome="1"
+     Protein         1..466
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=50884
+     CDS             1..466
+                     /gene="slc17a9"
+                     /coded_by="XM_030355462.1:437..1837"
+                     /db_xref="GeneID:115542945"
+ORIGIN      
+        1 maiiqkhgkn scpqlvcnke thphdksgvs gcqkkwpeqn ahwsrplart wtvvllfgtc
+       61 llycarvamp icsvsmaqqf nwtkresgmv lgsffwgycf tqvlggyvsd rvggekvlll
+      121 saaawgamta ftpvlahfcs qpifsmtlar flmgllqgvh ypslaslcsq kvvesergfl
+      181 mstvgsgsyl gtliiggags lmldvygwes vfyltgllsv lwaycmwkcl lkgegpiitl
+      241 eslgsggsqs kltkrhwlrl fkqpavcavi vahlctastf ftllswlptf fkdtfpdakg
+      301 wvfnvipwlv aipssllsgc lsdhlicqgf dtasvrklmq ffsmgvtsvf tillcgtstf
+      361 pwavafvsit mglttfshsg vsvnvqdlap scagslfgvm ntcgafsgvl mvyfsgylie
+      421 stgswasvff litvvnlfgl ftflafaear rvdidsakqr ynhihi
+//
+

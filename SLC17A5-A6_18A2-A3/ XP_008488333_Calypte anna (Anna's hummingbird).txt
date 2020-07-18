@@ -1,0 +1,81 @@
+
+LOCUS       XP_008488333             517 aa            linear   VRT 20-AUG-2019
+DEFINITION  synaptic vesicular amine transporter [Calypte anna].
+ACCESSION   XP_008488333
+VERSION     XP_008488333.1
+DBLINK      BioProject: PRJNA558503
+DBSOURCE    REFSEQ: accession XM_008490111.2
+KEYWORDS    RefSeq.
+SOURCE      Calypte anna (Anna's hummingbird)
+  ORGANISM  Calypte anna
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Apodiformes; Trochilidae; Calypte.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_044252.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Calypte anna Annotation Release 101
+            Annotation Version          :: 101
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..517
+                     /organism="Calypte anna"
+                     /isolate="BGI_N300"
+                     /db_xref="taxon:9244"
+                     /chromosome="6"
+                     /sex="female"
+                     /country="USA"
+     Protein         1..517
+                     /product="synaptic vesicular amine transporter"
+                     /calculated_mol_wt=56134
+     Region          133..440
+                     /region_name="MFS_1"
+                     /note="Major Facilitator Superfamily; pfam07690"
+                     /db_xref="CDD:284993"
+     Region          135..275
+                     /region_name="2_A_01_02"
+                     /note="Multidrug resistance protein; TIGR00880"
+                     /db_xref="CDD:273318"
+     Site            order(138,141..142,145,149..150,152..153,199..200,
+                     203..204,207..208,211,224..225,228..229,235,308,311..312,
+                     315..316,319,333,337,341,344,348,395,398..399,405,
+                     409..410,413,424..425,428..429,432..433,436)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     Region          297..>474
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     CDS             1..517
+                     /gene="SLC18A2"
+                     /coded_by="XM_008490111.2:1..1554"
+                     /db_xref="GeneID:103525194"
+ORIGIN      
+        1 mawgelsllr wlresrqsrk lillivfial lldnmlltvv vpiipsylys irheknatei
+       61 qtskpntvst mtdnfqsifs yydnstmltg nesdktqpge lhqtqteqmm vnvtpspadc
+      121 predkdllne nvqvgllfas katvqlitnp figsltnrig yqiplfagfc imfvstimfa
+      181 fsgsytllfi arslqgvgss cssvagmgml asvytddeer gnamgialgg lamgvlvgpp
+      241 fgsvmyefvg ksspflvlaa lalldgavql fvlqparaqa esqkgtpllt llkdpyiiia
+      301 agsicfanma iamlepalpi wmmetmcskk wqlgvafipa sisyligtnl fgilahkmgr
+      361 wlcallgmli vgisilcvpf akniygliap nfgvgfaigm vdssmmpimg ylvdlrhvsv
+      421 ygsvyaiadv afcmgfaigp saggaiakai gfpwlmtiig ivdilfaplc fflrsppake
+      481 ekmailmdhn cpvktkmytq nniqsypigd eeeyese
+//
+

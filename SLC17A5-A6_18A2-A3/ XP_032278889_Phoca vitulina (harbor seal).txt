@@ -1,0 +1,63 @@
+
+LOCUS       XP_032278889             517 aa            linear   MAM 11-FEB-2020
+DEFINITION  synaptic vesicular amine transporter [Phoca vitulina].
+ACCESSION   XP_032278889
+VERSION     XP_032278889.1
+DBLINK      BioProject: PRJNA605348
+DBSOURCE    REFSEQ: accession XM_032422998.1
+KEYWORDS    RefSeq.
+SOURCE      Phoca vitulina (harbor seal)
+  ORGANISM  Phoca vitulina
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Carnivora; Caniformia;
+            Phocidae; Phoca.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_022589731.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA and EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Phoca vitulina Annotation Release
+                                           100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.3
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..517
+                     /organism="Phoca vitulina"
+                     /isolate="PV1807"
+                     /db_xref="taxon:9720"
+                     /chromosome="Unknown"
+                     /sex="female"
+                     /tissue_type="blood"
+                     /dev_stage="Pup"
+                     /country="Canada: Boundary Bay, Tsawwassen, British
+                     Columbia"
+     Protein         1..517
+                     /product="synaptic vesicular amine transporter"
+                     /calculated_mol_wt=55612
+     CDS             1..517
+                     /gene="SLC18A2"
+                     /coded_by="XM_032422998.1:100..1653"
+                     /db_xref="GeneID:116643907"
+ORIGIN      
+        1 malselallr wllesrhsrk lilfivflal lldnmlltvv vpiipsylys inheknttei
+       61 qtakpgltas tsdsfqsifs yydnttivtg nstqalrggl lppattqrav tntstgpsdc
+      121 psedkdllne nvqvgllfas katvqlltnp fvgmltnrig ypipmfagfc imfvstimfa
+      181 fsssyaflli arslqgigss cssvagmgml asvytddeer gnamgialgg lamgvlvgpp
+      241 fgsvlyefvg ktapflvlaa lvlldgaiql fvlqpsrvqp esqkgtpltt llkdpyilia
+      301 agsicfanmg iamlepalpi wmmetmcsrk wqlgiaflpa sisyligtni fgmlahkmgr
+      361 wlcallgmii vgisilcipf akniygliap nfgvgfaigm vdssmmpimg ylvdlrhvsv
+      421 ygsvyaiadv afcmgyaigp saggaiakai gfpwlmtiig iidilfaplc fflrsppake
+      481 ekmailmdhn cpiktkmytq nniqsypvgd deesesd
+//
+

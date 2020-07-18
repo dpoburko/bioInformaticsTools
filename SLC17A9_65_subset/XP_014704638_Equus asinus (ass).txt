@@ -1,0 +1,78 @@
+
+LOCUS       XP_014704638             454 aa            linear   MAM 02-DEC-2015
+DEFINITION  PREDICTED: solute carrier family 17 member 9 [Equus asinus].
+ACCESSION   XP_014704638
+VERSION     XP_014704638.1
+DBLINK      BioProject: PRJNA304024
+DBSOURCE    REFSEQ: accession XM_014849152.1
+KEYWORDS    RefSeq.
+SOURCE      Equus asinus (ass)
+  ORGANISM  Equus asinus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Perissodactyla; Equidae; Equus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_014638014.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Equus asinus Annotation Release 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 6.5
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..454
+                     /organism="Equus asinus"
+                     /isolate="Maral har"
+                     /isolation_source="blood sample"
+                     /db_xref="taxon:9793"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /tissue_type="blood"
+                     /country="China: Xilingol League, Inner Mongolia"
+                     /collection_date="26-Feb-2012"
+                     /breed="Guanzhong donkey"
+     Protein         1..454
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=49028
+     Region          47..439
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Region          50..439
+                     /region_name="2A0114"
+                     /note="D-galactonate transporter; TIGR00893"
+                     /db_xref="CDD:273326"
+     Site            order(59,62..64,66..67,84,87..88,91,95..96,98..99,
+                     150..151,154..155,158..159,162,174..175,178..179,185,270,
+                     273..274,277..278,281,295,297,301,304,308,364,367..368,
+                     371,375..376,379,389..390,393..394,397..398,401)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..454
+                     /gene="SLC17A9"
+                     /coded_by="XM_014849152.1:74..1438"
+                     /db_xref="GeneID:106836326"
+ORIGIN      
+        1 mcsqrarlqg hretvglcgp rdscleaaag lwsrracrpe cqawtgalll gtcllycarv
+       61 smpvcsvsms qdfgwnkkea givlssffwg ycltqivggh lgdriggekv illsasawgf
+      121 itaatpmlah lgsthlvfmt fsriltgllq gvyfpaltsl lsqkvreser aftystvgag
+      181 sqfgtlvtga vgsllldwyg wqsvfyfsgg ltllwvcyvy ryllseqdli lalgvlaqgl
+      241 pmsqhtkvpw rqlfrkpsvw avifsqlssa csffillswl ptffketfps skgwifnvvp
+      301 wlvaipaslf sgflsdhlis qgyrtitvrk fmqvmglgls sifalclght ssfcksvvfa
+      361 sasiglqtfn hsgisvniqd lapscagflf gvantagala givgvclggy liettgswts
+      421 vfnlvaaiss lglctflvfg qakrvdlspa hedl
+//
+

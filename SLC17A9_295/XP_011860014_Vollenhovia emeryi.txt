@@ -1,0 +1,74 @@
+
+LOCUS       XP_011860014             423 aa            linear   INV 30-MAR-2015
+DEFINITION  PREDICTED: solute carrier family 17 member 9 [Vollenhovia emeryi].
+ACCESSION   XP_011860014
+VERSION     XP_011860014.1
+DBLINK      BioProject: PRJNA278668
+DBSOURCE    REFSEQ: accession XM_012004624.1
+KEYWORDS    RefSeq.
+SOURCE      Vollenhovia emeryi
+  ORGANISM  Vollenhovia emeryi
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta;
+            Pterygota; Neoptera; Holometabola; Hymenoptera; Apocrita; Aculeata;
+            Vespoidea; Formicidae; Myrmicinae; Vollenhovia.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_011966867.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Vollenhovia emeryi Annotation
+                                           Release 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 6.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..423
+                     /organism="Vollenhovia emeryi"
+                     /isolate="VEMERY1.0"
+                     /db_xref="taxon:411798"
+                     /chromosome="Unknown"
+     Protein         1..423
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=46660
+     Region          29..416
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Region          32..381
+                     /region_name="MFS_1"
+                     /note="Major Facilitator Superfamily; pfam07690"
+                     /db_xref="CDD:284993"
+     Site            order(43,46..48,50..51,68,71..72,75,79..80,82..83,
+                     137..138,141..142,145..146,149,161..162,165..166,172,247,
+                     250..251,254..255,258,270,274,278,281,285,341,344..345,
+                     348,352..353,356,366..367,370..371,374..375,378)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..423
+                     /gene="LOC105557388"
+                     /coded_by="XM_012004624.1:538..1809"
+                     /db_xref="GeneID:105557388"
+ORIGIN      
+        1 mmqsqipldt pfddrtilsw srrerqkwfl sllcgtcliy atrtsvplli pivsqeknws
+       61 ksdsgiilss ffwgymltqv asgyisdkig gqrvlwisal gcsattflmp eiieffsgdg
+      121 tsvwlvaamr mingafqgmh fpsmislisq rlheaerasf fslltsgsal gtlltgslgs
+      181 yllenynwmt vfrtlggmsl awtallsyhi lpfkekttst ksttlpwskl lsqppfwscv
+      241 ighacqnncf fvllswmpty fhdtfpeirg wvvnmvpwls mlpctflgka lseeiikagy
+      301 svtvtrktiq ticfvieigs llflakvesl qsaifclali iggsgfhnna iavnpsdlap
+      361 khsgsvfglm ntvgaipgfl gvyfsghild vthswpvvfl fiavidalgc imyllfgsgr
+      421 aii
+//
+

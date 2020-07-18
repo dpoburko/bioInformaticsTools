@@ -1,0 +1,67 @@
+
+LOCUS       XP_010983622             528 aa            linear   MAM 23-OCT-2019
+DEFINITION  vesicular acetylcholine transporter [Camelus dromedarius].
+ACCESSION   XP_010983622
+VERSION     XP_010983622.2
+DBLINK      BioProject: PRJNA565028
+DBSOURCE    REFSEQ: accession XM_010985320.2
+KEYWORDS    RefSeq.
+SOURCE      Camelus dromedarius (Arabian camel)
+  ORGANISM  Camelus dromedarius
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Cetartiodactyla; Tylopoda;
+            Camelidae; Camelus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_044521.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            On Oct 23, 2019 this sequence version replaced XP_010983622.1.
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Camelus dromedarius Annotation
+                                           Release 101
+            Annotation Version          :: 101
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..528
+                     /organism="Camelus dromedarius"
+                     /isolate="Drom800"
+                     /isolation_source="isolated from an animal called Varis"
+                     /db_xref="taxon:9838"
+                     /chromosome="11"
+                     /sex="female"
+                     /tissue_type="blood"
+                     /dev_stage="adult"
+                     /country="Austria: Eithental"
+                     /collection_date="13-Jan-2013"
+                     /collected_by="Pamela Burger"
+                     /breed="African"
+     Protein         1..528
+                     /product="vesicular acetylcholine transporter"
+                     /calculated_mol_wt=56587
+     CDS             1..528
+                     /gene="SLC18A3"
+                     /coded_by="XM_010985320.2:458..2044"
+                     /db_xref="GeneID:105093439"
+ORIGIN      
+        1 mepaaptrqa paaasklsea vgaalqdprr qrrlvlvivc valfldnmly mvivpivpyy
+       61 mraasemptp tskisvpnlp tpipanasts tvnssesstg gmptgsaeqh hypadsedvk
+      121 igvlfaskai lqllvnplsg tfidrmsydl pllmglgvlf astvmfafae gyamlfaars
+      181 lqglgsafad tssiamiadk ypeepersra lgwalafisf gslvappfgg flhefagkta
+      241 pflvlaivsl ldallllava kpfsaaarar anlpvgtpih rlmldpyiav vagalttcni
+      301 plafleptia twmkhtmaas ewetglawlp afvphvlgvy ltvrlaaryp hlqwlygafg
+      361 lavigasscl vpacrsfapl vvslcglcfg ialvdtallp tlaflvdvrh vsvygsvyai
+      421 adisycvaya lgpivaghiv hsfgfvqlsl gmglvnllya pvllllrnvg llkrsrserd
+      481 vlldeppqgl ydavrlrerp vsdwdreprs ppgpfdeced gydyytrs
+//
+

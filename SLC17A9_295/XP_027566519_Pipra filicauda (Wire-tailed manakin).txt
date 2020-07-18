@@ -1,0 +1,64 @@
+
+LOCUS       XP_027566519             449 aa            linear   VRT 15-JAN-2019
+DEFINITION  solute carrier family 17 member 9 [Pipra filicauda].
+ACCESSION   XP_027566519
+VERSION     XP_027566519.1
+DBLINK      BioProject: PRJNA513059
+DBSOURCE    REFSEQ: accession XM_027710718.1
+KEYWORDS    RefSeq.
+SOURCE      Pipra filicauda (Wire-tailed manakin)
+  ORGANISM  Pipra filicauda
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Passeriformes; Pipridae; Pipra.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_020897148.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA and EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Pipra filicauda Annotation Release
+                                           100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.1
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..449
+                     /organism="Pipra filicauda"
+                     /isolate="LSUMZ 115617"
+                     /specimen_voucher="LSUMZ:B-4331"
+                     /db_xref="taxon:649802"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /tissue_type="muscle"
+                     /dev_stage="adult"
+                     /country="Peru: Loreto Department, Lower Rio Napo region,
+                     E Bank Rio Yanayacu, ca 90 km N Iquitos"
+                     /collected_by="Steven W. Cardiff"
+     Protein         1..449
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=48826
+     CDS             1..449
+                     /gene="SLC17A9"
+                     /coded_by="XM_027710718.1:72..1421"
+                     /db_xref="GeneID:113982468"
+ORIGIN      
+        1 maaggggrnv pvgtaergph dgmrrdgdpy wsrpesrvwt vmlllgtcll ycarvtvpic
+       61 avalssyfdw dkkqsgvvls sffwgycltq iigghisdqi ggekvlllsa sawgfltvlt
+      121 pvlthitsah lvfmtssrfl mgllqgvyfp slasllsqrv reseraftys tvgtgsqfgt
+      181 lviggagsll ldwygwesvf yfsglltllw vyctckylls ekeliipidy ltrglsipkq
+      241 tkvpwkqlfr kapiwaviia qlstastfft llswlptffk etfpeskgwv fnvvpwlvai
+      301 ptslfsgfls dhlisqgyrt itirkfmqvi gsgvssvfal clgqtssfcr avvfasasvg
+      361 lqtfnhsgis vnvqdlapsc agllfgvant ggallgvicv ylagyliett gswisvfnlv
+      421 aavnsiglcv fllfgeaqrv dtdsaymdl
+//
+

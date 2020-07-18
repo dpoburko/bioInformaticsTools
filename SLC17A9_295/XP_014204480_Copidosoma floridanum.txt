@@ -1,0 +1,78 @@
+
+LOCUS       XP_014204480             414 aa            linear   INV 26-DEC-2017
+DEFINITION  solute carrier family 17 member 9 [Copidosoma floridanum].
+ACCESSION   XP_014204480
+VERSION     XP_014204480.1
+DBLINK      BioProject: PRJNA297581
+DBSOURCE    REFSEQ: accession XM_014348994.1
+KEYWORDS    RefSeq.
+SOURCE      Copidosoma floridanum
+  ORGANISM  Copidosoma floridanum
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta;
+            Pterygota; Neoptera; Holometabola; Hymenoptera; Apocrita;
+            Terebrantes; Chalcidoidea; Encyrtidae; Encyrtinae; Copidosoma.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_019379523.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Copidosoma floridanum Annotation
+                                           Release 101
+            Annotation Version          :: 101
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.0
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..414
+                     /organism="Copidosoma floridanum"
+                     /isolate="CFLO.00-Male"
+                     /isolation_source="Michael Strand lab raised"
+                     /db_xref="taxon:29053"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /country="USA: South Carolina"
+                     /collection_date="Sep-1985"
+     Protein         1..414
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=45695
+     Region          22..407
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Region          24..372
+                     /region_name="MFS_1"
+                     /note="Major Facilitator Superfamily; pfam07690"
+                     /db_xref="CDD:284993"
+     Site            order(35,38..40,42..43,60,63..64,67,71..72,74..75,
+                     125..126,129..130,133..134,137,149..150,153..154,160,238,
+                     241..242,245..246,249,261,265,269,272,276,332,335..336,
+                     339,343..344,347,357..358,361..362,365..366,369)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..414
+                     /gene="LOC106636581"
+                     /coded_by="XM_014348994.1:112..1356"
+                     /db_xref="GeneID:106636581"
+ORIGIN      
+        1 mqahdfinnl hwtrrerfkw gvilligtcl vyasrtsvpl lvptigkekk wtktdsgtil
+       61 ssffwgyttt qvlsgyvsdr iggqrimcia aigwaastff lpdviryfng ngmvtftrvi
+      121 ngafqgmhfp smisltsqrl seperasffs lvtsgsalgt lltgvlgsyi ldnyqwdtvf
+      181 rvlgcisigw tfvliyystl lngrpiasrq ssntklpvrk litkapfwsc vighacqnnc
+      241 ffiilswmpt yfhdtfpevk gwivnmvpwl asipsifigr alsekllktg ysvtatrkii
+      301 qttcfalqav nllflagtdi pekaiayltl iiagsgfhns aivvnpsdla pkhsgsvfgf
+      361 mntigaipgf lgvyiaglil hythswavvf iyifiveiig gtiylmfgsg kail
+//
+

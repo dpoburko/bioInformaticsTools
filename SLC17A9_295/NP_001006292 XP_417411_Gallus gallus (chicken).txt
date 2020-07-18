@@ -1,0 +1,77 @@
+
+LOCUS       NP_001006292             454 aa            linear   VRT 21-MAY-2018
+DEFINITION  solute carrier family 17 member 9 [Gallus gallus].
+ACCESSION   NP_001006292 XP_417411
+VERSION     NP_001006292.1
+DBSOURCE    REFSEQ: accession NM_001006292.1
+KEYWORDS    RefSeq.
+SOURCE      Gallus gallus (chicken)
+  ORGANISM  Gallus gallus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Galloanserae; Galliformes;
+            Phasianidae; Phasianinae; Gallus.
+REFERENCE   1  (residues 1 to 454)
+  AUTHORS   Caldwell RB, Kierzek AM, Arakawa H, Bezzubov Y, Zaim J, Fiedler P,
+            Kutter S, Blagodatski A, Kostovska D, Koter M, Plachy J, Carninci
+            P, Hayashizaki Y and Buerstedde JM.
+  TITLE     Full-length cDNAs from chicken bursal lymphocytes to facilitate
+            gene function analysis
+  JOURNAL   Genome Biol. 6 (1), R6 (2005)
+   PUBMED   15642098
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. The reference sequence was derived from AJ719293.1.
+            On Jan 13, 2005 this sequence version replaced XP_417411.1.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: AJ719293.1 [ECO:0000332]
+            ##Evidence-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..454
+                     /organism="Gallus gallus"
+                     /db_xref="taxon:9031"
+                     /chromosome="20"
+                     /map="20"
+                     /breed="Leghorn"
+     Protein         1..454
+                     /product="solute carrier family 17 member 9"
+                     /note="vesicular nucleotide transporter SLC17A9; solute
+                     carrier family 17 (vesicular nucleotide transporter),
+                     member 9"
+                     /calculated_mol_wt=49117
+     Region          45..439
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Region          50..439
+                     /region_name="2A0114"
+                     /note="D-galactonate transporter; TIGR00893"
+                     /db_xref="CDD:273326"
+     Site            order(59,62..64,66..67,84,87..88,91,95..96,98..99,
+                     150..151,154..155,158..159,162,174..175,178..179,185,270,
+                     273..274,277..278,281,295,297,301,304,308,364,367..368,
+                     371,375..376,379,389..390,393..394,397..398,401)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..454
+                     /gene="SLC17A9"
+                     /gene_synonym="C20orf59; POROK8; VNUT"
+                     /coded_by="NM_001006292.1:6..1370"
+                     /db_xref="CGNC:4260"
+                     /db_xref="GeneID:419236"
+ORIGIN      
+        1 maagggrnap vcggergsra pqhdgmwkdg ggeqywsrpe crawtavlll gtcllycarv
+       61 tvpicavals ahfgwdkkqs gvvlssffwg ycltqviggh isdqiggekv lllsasawgf
+      121 ltfitplltq itsahlvfmt csrflmgllq gvyfpslasl lsqrvreser aftystvgtg
+      181 sqfgtlviga agsllldwyg wesvfyfsgl ltllwvyctc kyllvekdlv ipidylrrgi
+      241 siskqskvpw kqlfkkapiw avivaqlcta stfctllswl ptffketfpe skgwvfnvvp
+      301 wlvaiptslf sgflsdhlin qgyktitvrk fmqvigsgvs svfalclgqt ssfckaivfa
+      361 sasvglqtfn hsgisvnvqd lapscagllf gvgntggall gvvcvylagy lmettgswis
+      421 vfnlvavvns vglcvflvfg eaqrvdtdsa yidl
+//
+

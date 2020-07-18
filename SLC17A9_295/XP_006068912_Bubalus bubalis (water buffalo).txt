@@ -1,0 +1,78 @@
+
+LOCUS       XP_006068912             436 aa            linear   MAM 24-JUN-2018
+DEFINITION  solute carrier family 17 member 9 [Bubalus bubalis].
+ACCESSION   XP_006068912
+VERSION     XP_006068912.1
+DBLINK      BioProject: PRJNA471901
+DBSOURCE    REFSEQ: accession XM_006068850.2
+KEYWORDS    RefSeq.
+SOURCE      Bubalus bubalis (water buffalo)
+  ORGANISM  Bubalus bubalis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Cetartiodactyla; Ruminantia;
+            Pecora; Bovidae; Bovinae; Bubalus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_037558.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Bubalus bubalis Annotation Release
+                                           101
+            Annotation Version          :: 101
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.0
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..436
+                     /organism="Bubalus bubalis"
+                     /db_xref="taxon:89462"
+                     /chromosome="14"
+                     /sex="female"
+                     /tissue_type="blood"
+                     /dev_stage="adult"
+                     /breed="Mediterranean"
+     Protein         1..436
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=46880
+     Region          38..421
+                     /region_name="2A0114"
+                     /note="D-galactonate transporter; TIGR00893"
+                     /db_xref="CDD:273326"
+     Region          38..421
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Site            order(41,44..46,48..49,66,69..70,73,77..78,80..81,
+                     132..133,136..137,140..141,144,156..157,160..161,167,252,
+                     255..256,259..260,263,277,279,283,286,290,346,349..350,
+                     353,357..358,361,371..372,375..376,379..380,383)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..436
+                     /gene="SLC17A9"
+                     /coded_by="XM_006068850.2:141..1451"
+                     /db_xref="GeneID:102409225"
+ORIGIN      
+        1 mqpppdetrr daaedtqwsr pecqvwtgtl llgtcllyca rvsmpvcaas msqdfgwnkk
+       61 eagvvlssff wgycltqvvg ghlgdrigge kvillsasaw gfitvatpll ahlgsahlaf
+      121 mtfsriltgl lqgvyfpalt sllsqkvres eraftystvg agsqfgtlvt gavgsllldw
+      181 ygwpsvfyfs ggltllwvgy vyrcllserd lilalgilaq glpvsrhtkv pwrqlfrkts
+      241 vwaaiisqls aacsffills wlptffketf psskgwvfnv vpwlvaipas llsgllsdhl
+      301 inqgyrtitv rkfmqvmglg lssvfalclg htssfcnsvv fasasiglqt fnhsgisvni
+      361 qdlapscagf lfgvantaga lagvvgvclg gyliettgsw tsvfnlvaai sslglctflv
+      421 fgkaqrvdls pahedl
+//
+

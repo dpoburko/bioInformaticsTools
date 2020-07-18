@@ -1,0 +1,60 @@
+
+LOCUS       XP_033341709             425 aa            linear   INV 16-APR-2020
+DEFINITION  solute carrier family 17 member 9 [Megalopta genalis].
+ACCESSION   XP_033341709
+VERSION     XP_033341709.1
+DBLINK      BioProject: PRJNA625282
+DBSOURCE    REFSEQ: accession XM_033485818.1
+KEYWORDS    RefSeq.
+SOURCE      Megalopta genalis
+  ORGANISM  Megalopta genalis
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta;
+            Pterygota; Neoptera; Holometabola; Hymenoptera; Apocrita; Aculeata;
+            Apoidea; Halictidae; Halictinae; Augochlorini; Megalopta.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_022887712.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Megalopta genalis Annotation Release
+                                           100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.4
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..425
+                     /organism="Megalopta genalis"
+                     /isolate="nest CK6"
+                     /isolation_source="twig"
+                     /db_xref="taxon:115081"
+                     /chromosome="Unknown"
+                     /country="Panama: Barro Colorado Island"
+                     /lat_lon="9.1521 N 79.8465 W"
+                     /collection_date="2014"
+     Protein         1..425
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=47035
+     CDS             1..425
+                     /gene="LOC117229385"
+                     /coded_by="XM_033485818.1:361..1638"
+                     /db_xref="GeneID:117229385"
+ORIGIN      
+        1 mqmqiplgti qneksnssws rkekrkwfls llcgtcliya trtsvpllip iiskkkqwsk
+       61 pdsgvilssf fwgytltqva sgyisdrigg qkvllisaig wstttyfmpe iiefvsksdt
+      121 svllvatvrt ingafqgmhf psmislisqr lheterasff slltsgsalg tlltgslgsy
+      181 llenynwmtv fqtlgglslt wtlllsyhtl pfkersastk ittndplqwl kllrkppfws
+      241 cvighacqnn cffvllswmp tyfhdtfpev kswvvnmvpw lsmlpctflg kalsekilka
+      301 gysvtitrki ieticfvtei isllflakae tfqsaiicla fiiggsgfhn naiavnpsdl
+      361 apkhsgsvfg lmntvgaipg flgvyfaghi lhvthswpvv fifiaiidtl gcviyllfgs
+      421 gqaii
+//
+

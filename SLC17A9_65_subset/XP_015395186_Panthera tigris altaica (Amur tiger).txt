@@ -1,0 +1,73 @@
+
+LOCUS       XP_015395186             498 aa            linear   MAM 08-FEB-2016
+DEFINITION  PREDICTED: solute carrier family 17 member 9 [Panthera tigris
+            altaica].
+ACCESSION   XP_015395186
+VERSION     XP_015395186.1
+DBLINK      BioProject: PRJNA236771
+DBSOURCE    REFSEQ: accession XM_015539700.1
+KEYWORDS    RefSeq; includes ab initio.
+SOURCE      Panthera tigris altaica (Amur tiger)
+  ORGANISM  Panthera tigris altaica
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Carnivora; Feliformia; Felidae;
+            Pantherinae; Panthera.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_006711941.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Panthera tigris altaica Annotation
+                                           Release 101
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 6.5
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            ab initio :: 26% of CDS bases
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..498
+                     /organism="Panthera tigris altaica"
+                     /isolate="TaeGuk"
+                     /sub_species="altaica"
+                     /db_xref="taxon:74533"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /tissue_type="blood"
+                     /dev_stage="9 years old"
+     Protein         1..498
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=52491
+     Region          <197..483
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     CDS             1..498
+                     /gene="SLC17A9"
+                     /coded_by="XM_015539700.1:1..1497"
+                     /db_xref="GeneID:102957908"
+ORIGIN      
+        1 mtedpmceas gdkevvpppn avkmhpeavw gnvlrtvsvk varcpyfsvy dagfgewgdq
+       61 gfqkepytly vkdngvlrrt erdllgsypg pgggavvcgg vtvrsactnq hvacvcecec
+      121 apglelvcqe cqlrlrrshs pfctrtlstp vpqlrvqltg prspvllvpg gasqsssrsw
+      181 lappwpqvta wgrssllvsg vyfpaltsll sqkvresera ftysavgags qfgtlvtgav
+      241 gsllldwygw psnllhlhtv glcppcsals rraalvdvel gqggggqgqg gpparepslw
+      301 aggdlpgira hgqppacats rgwpgacppr ppsslqgwvf nvvpwlvaip aglfsgflsd
+      361 hlinqgyrti tvrkfmqvmg lglssvfalc lghtssfcks vvfasasigl qtfnhsgisv
+      421 niqdlapsca gflfgeshwa gavagvvgvc lggyliettg swtsmfslva avsslglcvf
+      481 llfgeaqrvd lspthedl
+//
+

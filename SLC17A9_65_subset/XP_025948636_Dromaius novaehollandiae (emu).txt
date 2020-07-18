@@ -1,0 +1,68 @@
+
+LOCUS       XP_025948636             454 aa            linear   VRT 09-AUG-2018
+DEFINITION  solute carrier family 17 member 9 [Dromaius novaehollandiae].
+ACCESSION   XP_025948636
+VERSION     XP_025948636.1
+DBLINK      BioProject: PRJNA484763
+DBSOURCE    REFSEQ: accession XM_026092851.1
+KEYWORDS    RefSeq.
+SOURCE      Dromaius novaehollandiae (emu)
+  ORGANISM  Dromaius novaehollandiae
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Palaeognathae; Casuariiformes; Dromaiidae;
+            Dromaius.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_020451684.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA and EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Dromaius novaehollandiae Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.1
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..454
+                     /organism="Dromaius novaehollandiae"
+                     /isolate="6597"
+                     /specimen_voucher="MCZ:Cryo:6597"
+                     /db_xref="taxon:8790"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /tissue_type="muscle"
+                     /dev_stage="adult"
+                     /collected_by="Dan Janes"
+     Protein         1..454
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=49164
+     Region          73..449
+                     /region_name="UhpC"
+                     /note="Sugar phosphate permease [Carbohydrate transport
+                     and metabolism]; cl27298"
+                     /db_xref="CDD:332119"
+     CDS             1..454
+                     /gene="SLC17A9"
+                     /coded_by="XM_026092851.1:1..1365"
+                     /db_xref="GeneID:112979002"
+ORIGIN      
+        1 maagggrkvp pcsaehgprp aqppgvrrdg gaepywsrpe srvwtvmlll gtcllycarv
+       61 avpicavals srfdwdkkqs gvvlssffwg ycltqviggh isdriggekv lllsasawgf
+      121 ltvitpllth vssahlvfmt csrflmgllq gvyfpalasl lsqkvreser aftystvgtg
+      181 sqfgtlvigg agsllldwyg wesvfyfsgl ltllwvyctc kyllnekeli ipldyltrgl
+      241 svskqtkvpw kqlfrkapiw aviiaqlsta stfftllswl ptffketfpe skgwvfnvvp
+      301 wlvaiptslf sgflsdhlin qgyktitirk fmqvigsgvs sifalclgqt ssfckaivfa
+      361 sasvglqtfn hsgisvnvqd lapscagllf gvgntggall gvvcvylagy liettgswas
+      421 vfnlvavvns vglctflifg eaqrvdtdsa yidl
+//
+

@@ -1,0 +1,72 @@
+
+LOCUS       XP_022594977             466 aa            linear   VRT 04-OCT-2017
+DEFINITION  solute carrier family 17 member 9 [Seriola dumerili].
+ACCESSION   XP_022594977
+VERSION     XP_022594977.1
+DBLINK      BioProject: PRJNA412910
+DBSOURCE    REFSEQ: accession XM_022739256.1
+KEYWORDS    RefSeq.
+SOURCE      Seriola dumerili (greater amberjack)
+  ORGANISM  Seriola dumerili
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Carangaria; Carangiformes; Carangidae; Seriola.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_019174298.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Seriola dumerili Annotation Release
+                                           100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 7.4
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..466
+                     /organism="Seriola dumerili"
+                     /isolate="Sdu_G_001"
+                     /db_xref="taxon:41447"
+                     /chromosome="Unknown"
+                     /country="Japan:Kochi, Yawata-gun"
+                     /collection_date="2014-06"
+     Protein         1..466
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=50726
+     Region          52..447
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Site            order(66,69..71,73..74,91,94..95,98,102..103,105..106,
+                     157..158,161..162,165..166,169,181..182,185..186,192,277,
+                     280..281,284..285,288,300,304,308,311,315,370,373..374,
+                     377,381..382,385,396..397,400..401,404..405,408)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..466
+                     /gene="slc17a9"
+                     /coded_by="XM_022739256.1:336..1736"
+                     /db_xref="GeneID:111217402"
+ORIGIN      
+        1 maviqkygkn yspdlvchke nhpsdkigap gchkkwaehn tnwprpvarv wtvvlllgtc
+       61 llycarvamp icavsmaeqf swtkresgmv lgsffwgycf tqvfggyvsd rvggekvlll
+      121 saaawgsmta ftpilahfcs qpilsmtlar flmgllqgvh ypslaslcsq kvvesergfl
+      181 mstvgsgsyl gtlviggags lmldlygwes vfyvsgllsv mwaycmwkyl lkgegpiitl
+      241 eslgsggpqs klskrhwlrl lkqpavcavi vthlctastf ftllswlptf fkdtfpdakg
+      301 wvfnvipwfv aipsslfsgc lsdhlisqgf dtasvrklmq ffsmgvssvf tlllcgnttf
+      361 pwavafvsat mglttfshsg vsvnvqdlap scagalfgvm ntcgafsgvl mvyfsgylie
+      421 atgswasvfa littvnllgl ctflafaear rvdidsskvr hhnihi
+//
+

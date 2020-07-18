@@ -1,0 +1,168 @@
+
+LOCUS       NP_777078                517 aa            linear   MAM 25-JUN-2020
+DEFINITION  synaptic vesicular amine transporter [Bos taurus].
+ACCESSION   NP_777078
+VERSION     NP_777078.1
+DBSOURCE    REFSEQ: accession NM_174653.2
+KEYWORDS    RefSeq.
+SOURCE      Bos taurus (cattle)
+  ORGANISM  Bos taurus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Artiodactyla; Ruminantia;
+            Pecora; Bovidae; Bovinae; Bos.
+REFERENCE   1  (residues 1 to 517)
+  AUTHORS   Zimin AV, Delcher AL, Florea L, Kelley DR, Schatz MC, Puiu D,
+            Hanrahan F, Pertea G, Van Tassell CP, Sonstegard TS, Marcais G,
+            Roberts M, Subramanian P, Yorke JA and Salzberg SL.
+  TITLE     A whole-genome assembly of the domestic cow, Bos taurus
+  JOURNAL   Genome Biol. 10 (4), R42 (2009)
+   PUBMED   19393038
+REFERENCE   2  (residues 1 to 517)
+  AUTHORS   Howell M, Shirvan A, Stern-Bach Y, Steiner-Mordoch S, Strasser JE,
+            Dean GE and Schuldiner S.
+  TITLE     Cloning and functional expression of a tetrabenazine sensitive
+            vesicular monoamine transporter from bovine chromaffin granules
+  JOURNAL   FEBS Lett. 338 (1), 16-22 (1994)
+   PUBMED   8307150
+REFERENCE   3  (residues 1 to 517)
+  AUTHORS   Krejci E, Gasnier B, Botton D, Isambert MF, Sagne C, Gagnon J,
+            Massoulie J and Henry JP.
+  TITLE     Expression and regulation of the bovine vesicular monoamine
+            transporter gene
+  JOURNAL   FEBS Lett. 335 (1), 27-32 (1993)
+   PUBMED   7902299
+REFERENCE   4  (residues 1 to 517)
+  AUTHORS   Desnos C, Laran MP and Scherman D.
+  TITLE     Regulation of the chromaffin granule catecholamine transporter in
+            cultured bovine adrenal medullary cells: stimulus-biosynthesis
+            coupling
+  JOURNAL   J. Neurochem. 59 (6), 2105-2112 (1992)
+   PUBMED   1279122
+REFERENCE   5  (residues 1 to 517)
+  AUTHORS   Stern-Bach Y, Keen JN, Bejerano M, Steiner-Mordoch S, Wallach M,
+            Findlay JB and Schuldiner S.
+  TITLE     Homology of a vesicular amine transporter to a gene conferring
+            resistance to 1-methyl-4-phenylpyridinium
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 89 (20), 9730-9733 (1992)
+   PUBMED   1357668
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. The reference sequence was derived from U02876.1.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: U02876.1, BC151472.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMN03145413, SAMN03145415
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..517
+                     /organism="Bos taurus"
+                     /db_xref="taxon:9913"
+                     /chromosome="26"
+                     /map="26"
+     Protein         1..517
+                     /product="synaptic vesicular amine transporter"
+                     /function="transport of biogenic monoamines"
+                     /note="VAT2; monoamine transporter; solute carrier family
+                     18 (vesicular monoamine), member 2; vesicular amine
+                     transporter 2; solute carrier family 18 member 2"
+                     /calculated_mol_wt=55625
+     Site            21..41
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q27963.1)"
+     Site            84
+                     /site_type="glycosylation"
+                     /note="N-linked (GlcNAc...) asparagine. {ECO:0000255};
+                     propagated from UniProtKB/Swiss-Prot (Q27963.1)"
+     Site            91
+                     /site_type="glycosylation"
+                     /note="N-linked (GlcNAc...) asparagine. {ECO:0000255};
+                     propagated from UniProtKB/Swiss-Prot (Q27963.1)"
+     Site            112
+                     /site_type="glycosylation"
+                     /note="N-linked (GlcNAc...) asparagine. {ECO:0000255};
+                     propagated from UniProtKB/Swiss-Prot (Q27963.1)"
+     Region          133..440
+                     /region_name="MFS_1"
+                     /note="Major Facilitator Superfamily; pfam07690"
+                     /db_xref="CDD:284993"
+     Site            133..153
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q27963.1)"
+     Region          135..276
+                     /region_name="2_A_01_02"
+                     /note="Multidrug resistance protein; TIGR00880"
+                     /db_xref="CDD:273318"
+     Site            order(138,141..142,145,149..150,152..153,199..200,
+                     203..204,207..208,211,224..225,228..229,235,308,311..312,
+                     315..316,319,333,337,341,344,348,395,398..399,405,
+                     409..410,413,424..425,428..429,432..433,436)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     Site            163..183
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q27963.1)"
+     Site            193..213
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q27963.1)"
+     Site            223..245
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q27963.1)"
+     Site            252..274
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q27963.1)"
+     Site            295..314
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q27963.1)"
+     Region          297..>474
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Site            332..355
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q27963.1)"
+     Site            361..381
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q27963.1)"
+     Site            393..413
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q27963.1)"
+     Site            418..438
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q27963.1)"
+     Site            444..465
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q27963.1)"
+     Site            514
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine, by CK2.
+                     {ECO:0000250|UniProtKB:Q01827}; propagated from
+                     UniProtKB/Swiss-Prot (Q27963.1)"
+     Site            516
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine, by CK2.
+                     {ECO:0000250|UniProtKB:Q01827}; propagated from
+                     UniProtKB/Swiss-Prot (Q27963.1)"
+     CDS             1..517
+                     /gene="SLC18A2"
+                     /coded_by="NM_174653.2:56..1609"
+                     /db_xref="BGD:BT11375"
+                     /db_xref="GeneID:282471"
+                     /db_xref="VGNC:VGNC:34706"
+ORIGIN      
+        1 malselallr rlqesrhsrk lilfivflal lldnmlltvv vpiipsylys iehekdalei
+       61 qtakpgltas apgsfqnifs yydnstmvtg nstdhlqgal vheattqhma tnsssassdc
+      121 psedkdllne nvqvgllfas katvqlltnp figlltnrig ypipmftgfc imfistvmfa
+      181 fsrtyaflli arslqgigss cssvagmgml asvytddeer gnamgialgg lamgvlvgpp
+      241 fgsvlyefvg ktapflvlaa lvlldgaiql fvlqpsrvqp esqkgtpltt llrdpyilia
+      301 agsicfanmg iamlepalpi wmmetmcshk wqlgvaflpa svsyligtnv fgilahkmgr
+      361 wlcallgmii vgmsilcipl akniygliap nfgvgfaigm vdssmmpimg ylvdlrhvsv
+      421 ygsvyaiadv afcmgyaigp saggaiakai gfpwlmtiig iidilfaplc fflrsppake
+      481 ekmailmdhn cpiktkmytq nssqshpige deesesd
+//
+

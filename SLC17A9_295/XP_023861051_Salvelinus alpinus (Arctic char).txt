@@ -1,0 +1,74 @@
+
+LOCUS       XP_023861051             466 aa            linear   VRT 23-FEB-2018
+DEFINITION  solute carrier family 17 member 9 [Salvelinus alpinus].
+ACCESSION   XP_023861051
+VERSION     XP_023861051.1
+DBLINK      BioProject: PRJNA433373
+DBSOURCE    REFSEQ: accession XM_024005283.1
+KEYWORDS    RefSeq.
+SOURCE      Salvelinus alpinus (Arctic char)
+  ORGANISM  Salvelinus alpinus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Salvelinus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_036857.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Salvelinus alpinus Annotation
+                                           Release 101
+            Annotation Version          :: 101
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.0
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..466
+                     /organism="Salvelinus alpinus"
+                     /isolate="IW2-2015"
+                     /db_xref="taxon:8036"
+                     /tissue_type="liver"
+                     /dev_stage="juvenile"
+                     /collected_by="Jon Lucas"
+                     /linkage_group="LG17"
+     Protein         1..466
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=50685
+     Region          52..447
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Site            order(66,69..71,73..74,91,94..95,98,102..103,105..106,
+                     157..158,161..162,165..166,169,181..182,185..186,192,277,
+                     280..281,284..285,288,300,304,308,311,315,371,374..375,
+                     378,382..383,386,396..397,400..401,404..405,408)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..466
+                     /gene="LOC111976448"
+                     /coded_by="XM_024005283.1:799..2199"
+                     /db_xref="GeneID:111976448"
+ORIGIN      
+        1 mailqkhgkn sspdlvclke knpdktgvag shqkkwsepn tywprplarv wtvvlllgtc
+       61 llycarvamp icavsmaekf nwtkrdqgmv lgsffwgycf tqvlggyvsd rvggekvlll
+      121 saaawgamta ftpvlahfcs qpifsmtlar flmgllqgvh ypslaslcsq kvvesergfl
+      181 mstvgsgsyl gtlviggags lmldlygwes vfyvsgmlsv lwaycmwkyl lngegpiitl
+      241 eslgsggpqs klsrrhwlrl fkqpavcavi ithlctastf ftllswlpty fkdtfpdakg
+      301 wvfnvipwfv aipsslfsgc lsdhliskgy dtaavrklmq ffsmgvssvf tlllcgtttf
+      361 pmavafvsvt mglttfshsg vsvnvqdlap scagalfgvm ntcgafsgvl mvyfsgylie
+      421 atgswasvfa litvvnlvgl vtflafaear rvdidsskgr yhnihi
+//
+

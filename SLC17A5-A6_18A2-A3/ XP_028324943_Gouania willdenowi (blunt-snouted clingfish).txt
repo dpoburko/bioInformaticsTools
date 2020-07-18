@@ -1,0 +1,70 @@
+
+LOCUS       XP_028324943             492 aa            linear   VRT 18-MAR-2019
+DEFINITION  sialin [Gouania willdenowi].
+ACCESSION   XP_028324943
+VERSION     XP_028324943.1
+DBLINK      BioProject: PRJNA527273
+DBSOURCE    REFSEQ: accession XM_028469142.1
+KEYWORDS    RefSeq.
+SOURCE      Gouania willdenowi (blunt-snouted clingfish)
+  ORGANISM  Gouania willdenowi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Blenniimorphae; Blenniiformes;
+            Gobiesocoidei; Gobiesocidae; Gobiesocinae; Gouania.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_041058.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Gouania willdenowi Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..492
+                     /organism="Gouania willdenowi"
+                     /db_xref="taxon:441366"
+                     /chromosome="15"
+     Protein         1..492
+                     /product="sialin"
+                     /calculated_mol_wt=53630
+     Region          39..475
+                     /region_name="MFS_SLC17A5"
+                     /note="Solute carrier family 17 member 5 (also called
+                     sialin) of the Major Facilitator Superfamily of
+                     transporters; cd17381"
+                     /db_xref="CDD:340939"
+     Site            order(50..51,54..55,58,119,171..172,174..176,179,199,
+                     202..203,206,295,298..299,302..304,307,335,339,398..399,
+                     403,407,423,426..427,430..431,434)
+                     /site_type="other"
+                     /note="putative chemical substrate binding pocket
+                     [chemical binding]"
+                     /db_xref="CDD:340939"
+     CDS             1..492
+                     /gene="slc17a5"
+                     /coded_by="XM_028469142.1:118..1596"
+                     /db_xref="GeneID:114477063"
+ORIGIN      
+        1 mkrfgsdted deqetpllhr eqearvrkap acgsarycla flssygffvv yalrvnlsva
+       61 mvdmlnstht qsnhsgsvcp sqpspdrpkh nrtaavydwd sntqgwilss ffygyiitqi
+      121 pggylagrlg pkwlmgfgil gtvvftlltp vaadlgaayl ivlralegvg egvtfpamya
+      181 mwaawapple rsrlltityi gaqmgtvvcl plsaeicfyl gwpyvfyisg avgllwfvlw
+      241 salvfnspdt hpriseqerl yitnslknel sptakqipwc sivksvplwa ivvahssynw
+      301 tfytlltllp tymnvilgfs iqkngilsal pymgcavtav lsgqvvdylr esclyrtvvv
+      361 rkcatlmgmi gpavflvatg ytgcnyimai afltissslg gisasgfnin hldiapsyag
+      421 illgitntfa tipgmvgpvi ardltknnti gewqtvfyia avvnllgslv ftmfgrgtvq
+      481 pwaiqappth ad
+//
+

@@ -1,0 +1,64 @@
+
+LOCUS       XP_019535860             442 aa            linear   INV 15-JUL-2019
+DEFINITION  solute carrier family 17 member 9 [Aedes albopictus].
+ACCESSION   XP_019535860
+VERSION     XP_019535860.1
+DBLINK      BioProject: PRJNA552090
+DBSOURCE    REFSEQ: accession XM_019680315.2
+KEYWORDS    RefSeq.
+SOURCE      Aedes albopictus (Asian tiger mosquito)
+  ORGANISM  Aedes albopictus
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta;
+            Pterygota; Neoptera; Holometabola; Diptera; Nematocera; Culicoidea;
+            Culicidae; Culicinae; Aedini; Aedes; Stegomyia.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_021838153.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Aedes albopictus Annotation Release
+                                           102
+            Annotation Version          :: 102
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..442
+                     /organism="Aedes albopictus"
+                     /isolate="FPA"
+                     /isolation_source="pool of multiple individuals from the
+                     FPA inbred line that was generated from Foshan strain
+                     mosquitos"
+                     /db_xref="taxon:7160"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /tissue_type="all body"
+                     /dev_stage="pupae"
+                     /country="Italy: Pavia"
+                     /collection_date="2017"
+     Protein         1..442
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=48864
+     CDS             1..442
+                     /gene="LOC109407322"
+                     /coded_by="XM_019680315.2:327..1655"
+                     /db_xref="GeneID:109407322"
+ORIGIN      
+        1 mvkptpmeek lkysllrdln dsqsiwtrne krtwfltlla gtcmlystrt tmpllvpava
+       61 serkwsktds gtvlssffwg ytltqvlggy lsdkfggqkv vllsaigwsl itfwmpniit
+      121 sasylssysi pfivavrivn gacqgvhfps misitsqnls asertsffsi ltsgsalgtl
+      181 ltgilgsfil dyfgwptvfr vigflglswt lflryytmat drnriinlsq psricsklgh
+      241 setvpwlklf grtsfwacvl shacemncff vllswlptyf henfphakgw vvnmipwlal
+      301 ppvtilgkal tealisrqws ltkirklvqs fcflgqnaal fimchteqfn talacmsiii
+      361 glsgfhnnav tvnpqdlaps hsgsvfglmn tvgaipgflg vylaghilel tqswsavfst
+      421 aaaintvgwf vftifgsaea ii
+//
+

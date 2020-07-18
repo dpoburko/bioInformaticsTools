@@ -1,0 +1,74 @@
+
+LOCUS       XP_012690457             465 aa            linear   VRT 18-NOV-2019
+DEFINITION  solute carrier family 17 member 9 [Clupea harengus].
+ACCESSION   XP_012690457
+VERSION     XP_012690457.1
+DBLINK      BioProject: PRJNA587748
+DBSOURCE    REFSEQ: accession XM_012835003.2
+KEYWORDS    RefSeq.
+SOURCE      Clupea harengus (Atlantic herring)
+  ORGANISM  Clupea harengus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Clupei; Clupeiformes;
+            Clupeoidei; Clupeidae; Clupea.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_045155.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Clupea harengus Annotation Release
+                                           101
+            Annotation Version          :: 101
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..465
+                     /organism="Clupea harengus"
+                     /db_xref="taxon:7950"
+                     /chromosome="4"
+     Protein         1..465
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=50437
+     Region          51..446
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Region          56..443
+                     /region_name="2A0114"
+                     /note="D-galactonate transporter; TIGR00893"
+                     /db_xref="CDD:273326"
+     Site            order(65,68..70,72..73,90,93..94,97,101..102,104..105,
+                     156..157,160..161,164..165,168,180..181,184..185,191,276,
+                     279..280,283..284,287,299,303,307,310,314,370,373..374,
+                     377,381..382,385,395..396,399..400,403..404,407)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..465
+                     /gene="slc17a9"
+                     /coded_by="XM_012835003.2:1156..2553"
+                     /db_xref="GeneID:105906807"
+ORIGIN      
+        1 mailqkhgkn sspdlaslke npadnfgaag cqkkwaesss nwsrpvarvw tvvlllgtcl
+       61 lycarvampi cavtmaeryk wtkresgmvl gsffwgycft qviggyisdr vggekvllls
+      121 aaawgamtaf tpilahfcsq pivsmtlarf lmgllqgvhy pslaslcsqk vvesergflm
+      181 stvgsgsylg tlviggagsl mldlygwesv fyvsgllsll waycmwkyll kgegpiitle
+      241 slgtrgtqsk lsrrnwlrlf kqpavcaviv thlctastff tllswlptyf kdtfpdakgw
+      301 vfnvvpwfva ipsslfsgcl sdhlisqgfd tasvrklmqf fsmgvssvft lllcgtttfp
+      361 tavafvsatm gfttfshsgv svnvqdlaps cagalfgvmn tcgafsgvim vylagylies
+      421 tgswssvfml itvvnllgla iflafaearr vdidgakpry hnihi
+//
+

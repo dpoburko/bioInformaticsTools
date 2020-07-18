@@ -1,0 +1,82 @@
+
+LOCUS       KAF1661774               519 aa            linear   VRT 31-JAN-2020
+DEFINITION  Synaptic vesicular amine transporter, partial [Aptenodytes
+            patagonicus].
+ACCESSION   KAF1661774
+VERSION     KAF1661774.1
+DBLINK      BioProject: PRJNA556735
+            BioSample: SAMN12384866
+DBSOURCE    accession VULM01008345.1
+KEYWORDS    .
+SOURCE      Aptenodytes patagonicus (king penguin)
+  ORGANISM  Aptenodytes patagonicus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Sphenisciformes; Spheniscidae;
+            Aptenodytes.
+REFERENCE   1  (residues 1 to 519)
+  AUTHORS   Pan,H., Cole,T.L., Bi,X., Fang,M., Zhou,C., Yang,Z., Ksepka,D.T.,
+            Hart,T., Bouzat,J.L., Argilla,L.S., Bertelsen,M.F., Boersma,P.D.,
+            Bost,C.A., Cherel,Y., Dann,P., Fiddaman,S.R., Howard,P.,
+            Labuschagne,K., Mattern,T., Miller,G., Parker,P., Phillips,R.A.,
+            Quillfeldt,P., Ryan,P.G., Taylor,H., Thompson,D.R., Young,M.J.,
+            Ellegaard,M.R., Gilbert,M.T.P., Sinding,M.S., Pacheco,G.,
+            Shepherd,L.D., Tennyson,A.J.D., Grosser,S., Kay,E., Nupen,L.J.,
+            Ellenberg,U., Houston,D.M., Reeve,A.H., Johnson,K., Masello,J.F.,
+            Stracke,T., McKinlay,B., Borboroglu,P.G., Zhang,D.X. and Zhang,G.
+  TITLE     High-coverage genomes to elucidate the evolution of penguins
+  JOURNAL   Gigascience 8 (9) (2019)
+   PUBMED   31531675
+REFERENCE   2  (residues 1 to 519)
+  AUTHORS   Pan,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-AUG-2019) BGI-CNGB, BGI-Shenzhen, Build 11, Beishan
+            Industrial Zone, Yantian District, Shenzhen, Guangdong 518083,
+            China
+COMMENT     ##Genome-Assembly-Data-START##
+            Assembly Method        :: Supernova v. 2.0.0
+            Assembly Name          :: BGI_Apat.V1
+            Genome Representation  :: Full
+            Expected Final Version :: Yes
+            Genome Coverage        :: 120x
+            Sequencing Technology  :: BGISEQ
+            ##Genome-Assembly-Data-END##
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..519
+                     /organism="Aptenodytes patagonicus"
+                     /isolate="KP FORT 001"
+                     /db_xref="taxon:9234"
+                     /tissue_type="blood"
+     Protein         <1..>519
+                     /product="Synaptic vesicular amine transporter"
+     CDS             1..519
+                     /gene="SLC18A2"
+                     /locus_tag="FQA23_0008333"
+                     /coded_by="join(VULM01008345.1:<5962113..5962233,
+                     VULM01008345.1:5964020..5964371,
+                     VULM01008345.1:5972089..5972147,
+                     VULM01008345.1:5974092..5974175,
+                     VULM01008345.1:5976989..5977081,
+                     VULM01008345.1:5977500..5977589,
+                     VULM01008345.1:5977698..5977741,
+                     VULM01008345.1:5977817..5977877,
+                     VULM01008345.1:5983120..5983215,
+                     VULM01008345.1:5986581..5986659,
+                     VULM01008345.1:5986911..5986962,
+                     VULM01008345.1:5987408..5987471,
+                     VULM01008345.1:5988551..5988670,
+                     VULM01008345.1:5989253..5989386,
+                     VULM01008345.1:5992013..>5992120)"
+ORIGIN      
+        1 mawgelsllr wlresrqsrk lillivfial lldnmlltvv vpiipsylys ikheknatei
+       61 qtakpnvvlt tmdnfqsifs yydnstmvtg nesdktqpre lhhtqteqmi vnvtpspsdc
+      121 pkedkdllne nvqvgllfas katvqlitnp figpltnrig yqiplfagfc imfvstimfa
+      181 fsgsytllfi arslqgvgss cssvagmgml asvytddeer gnamgialgg lamgvlvgpp
+      241 fgsvmyefvg ksspflvlaa lalldgavql fvlqpsraqa esqkgtpllt llkdpyiiia
+      301 agsicfanma iamlepalpi wmmetmcskk wqlgvaflpa sisyligtnl fgilahkmgr
+      361 wlcallgmli vgisilcvpf akniygliap nfgvgfaigm vdssmmpimg ylvdlrhvsv
+      421 ygsvyaiadv afcmgfaigp saggaiakai gfpwlmtiig ivdilfaplc fflrsppake
+      481 ekmailmdhn cpvktkmytq nniqsypigd eeeeyesde
+//
+

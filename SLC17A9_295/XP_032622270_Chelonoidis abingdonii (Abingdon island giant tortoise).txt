@@ -1,0 +1,60 @@
+
+LOCUS       XP_032622270             466 aa            linear   VRT 13-MAR-2020
+DEFINITION  solute carrier family 17 member 9 [Chelonoidis abingdonii].
+ACCESSION   XP_032622270
+VERSION     XP_032622270.1
+DBLINK      BioProject: PRJNA611832
+DBSOURCE    REFSEQ: accession XM_032766379.1
+KEYWORDS    RefSeq.
+SOURCE      Chelonoidis abingdonii (Abingdon island giant tortoise)
+  ORGANISM  Chelonoidis abingdonii
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Testudines; Cryptodira; Durocryptodira;
+            Testudinoidea; Testudinidae; Chelonoidis.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_022648473.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Chelonoidis abingdonii Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.3
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..466
+                     /organism="Chelonoidis abingdonii"
+                     /isolate="Lonesome George"
+                     /db_xref="taxon:106734"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /tissue_type="blood"
+                     /dev_stage="adult"
+                     /country="Ecuador: Galapagos Islands"
+     Protein         1..466
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=51094
+     CDS             1..466
+                     /gene="SLC17A9"
+                     /coded_by="XM_032766379.1:210..1610"
+                     /db_xref="GeneID:116816825"
+ORIGIN      
+        1 masrngvqvy ssdlvslhhh shhyqqqqpv kntykegskk dgtvdsywsr pesriwtvml
+       61 llgtcllyca rvtmpicava msshfdwdkk qsgivlssff wgycltqiig ghlsdrigge
+      121 kvlllsasaw gfittitpll tyissahlif mtiarflmgl lqgvyfpala slfsqkvces
+      181 eraftcstvg tgsqfgtlvi ggagsllldw ygwesvfyfs glltllwvyc mckyllneke
+      241 liihlehlak glslskqtkv pwkqlfkkap iwavivaqls tgstfftlls wlptffkdtf
+      301 peskgwvfnv vpwlvaipts lfsgflsdhl inqgyktitv rkfmqvigsg vssifalcmg
+      361 qtssfckaiv fasvsiglqt fnhsgisvnv qdlapscagl lfgvgntgga llgvvcvyla
+      421 ghliettgsw vsvfnlvatv nalglctfli fgeaqrmdtd sayvdl
+//
+

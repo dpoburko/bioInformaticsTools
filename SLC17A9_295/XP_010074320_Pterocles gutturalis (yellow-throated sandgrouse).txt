@@ -1,0 +1,78 @@
+
+LOCUS       XP_010074320             416 aa            linear   VRT 06-NOV-2014
+DEFINITION  PREDICTED: solute carrier family 17 member 9, partial [Pterocles
+            gutturalis].
+ACCESSION   XP_010074320
+VERSION     XP_010074320.1
+DBLINK      BioProject: PRJNA265368
+DBSOURCE    REFSEQ: accession XM_010076018.1
+KEYWORDS    RefSeq.
+SOURCE      Pterocles gutturalis (yellow-throated sandgrouse)
+  ORGANISM  Pterocles gutturalis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Ciconiiformes; Pteroclidae;
+            Pterocles.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_010117965.1) annotated using gene prediction method: Gnomon,
+            supported by EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Pterocles gutturalis Annotation
+                                           Release 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 6.1
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: incomplete on the amino end.
+FEATURES             Location/Qualifiers
+     source          1..416
+                     /organism="Pterocles gutturalis"
+                     /isolate="BGI_N339"
+                     /db_xref="taxon:240206"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /country="Tanzania"
+     Protein         <1..416
+                     /product="solute carrier family 17 member 9"
+     Region          7..401
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Region          12..401
+                     /region_name="2A0114"
+                     /note="D-galactonate transporter; TIGR00893"
+                     /db_xref="CDD:273326"
+     Site            order(21,24..26,28..29,46,49..50,53,57..58,60..61,
+                     112..113,116..117,120..121,124,136..137,140..141,147,232,
+                     235..236,239..240,243,257,259,263,266,270,326,329..330,
+                     333,337..338,341,351..352,355..356,359..360,363)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..416
+                     /gene="SLC17A9"
+                     /coded_by="XM_010076018.1:<1..1252"
+                     /codon_start=2
+                     /db_xref="GeneID:104463616"
+ORIGIN      
+        1 pesrvwtvml llgtcllyca rvtvpicava lsthfswdkk qsgivlssff wgycltqilg
+       61 ghisdqtgge kvlllsasaw gfltvltpll thltsahlvf massrflmgl lqgvyfpsla
+      121 sllsqrvres eraftystvg tgsqfgtlvi ggagsllldw ygwesvfyfs glltllwvyc
+      181 tckyllgete liipidylmr glsiskqskv pwkqlfkkap iwaviiaqls tastfftlls
+      241 wlptffketf peskgwvfnv vpwlvaipts lfsgflsdhl inqgyrtiti rkfmqvigsg
+      301 vssifalclg qtssfckaiv fasasvglqt fnhsgisvnv qdlapscagl lfgvgntgga
+      361 llgvicvyla gyliettgsw nsvfnlvaav nsvglcaflv fgeaqrldtd saymdl
+//
+

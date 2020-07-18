@@ -1,0 +1,61 @@
+
+LOCUS       XP_017859436             438 aa            linear   INV 29-AUG-2016
+DEFINITION  PREDICTED: solute carrier family 17 member 9 [Drosophila arizonae].
+ACCESSION   XP_017859436
+VERSION     XP_017859436.1
+DBLINK      BioProject: PRJNA339865
+DBSOURCE    REFSEQ: accession XM_018003947.1
+KEYWORDS    RefSeq.
+SOURCE      Drosophila arizonae
+  ORGANISM  Drosophila arizonae
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta;
+            Pterygota; Neoptera; Holometabola; Diptera; Brachycera;
+            Muscomorpha; Ephydroidea; Drosophilidae; Drosophila.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_017127683.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Drosophila arizonae Annotation
+                                           Release 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 7.1
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..438
+                     /organism="Drosophila arizonae"
+                     /isolate="ariz_Son04"
+                     /isolation_source="banana trap"
+                     /db_xref="taxon:7263"
+                     /chromosome="3"
+                     /map="unlocalized"
+                     /tissue_type="whole organism"
+                     /country="Mexico: Guaymas, Sonora"
+                     /collection_date="Jan-2004"
+                     /collected_by="Luciano Matzkin"
+     Protein         1..438
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=48520
+     CDS             1..438
+                     /gene="LOC108611359"
+                     /coded_by="XM_018003947.1:234..1550"
+                     /db_xref="GeneID:108611359"
+ORIGIN      
+        1 mdeklkysll rgelvdtqsi wsrhekrvwf itlltgtcml ystrttmpll vpavaaaqkw
+       61 sktdsgtvls sffwgytltq vmggyfsdrf ggqrvilfaa lgwsiitflm ptiiwsaasv
+      121 ksytipiivt irilngalqg vhfpsmislt sqnlcqsers sffglltsgs amgtlltgil
+      181 gsfvldyfgw syvfrviglm gfawalvlry yamagernri inistparlc snkalteasv
+      241 pwlrffsrlp fwacvlthac emncffvlls wlptyfhdgf pqakgwvvnm ipwlalppct
+      301 ffakylttrl iarewstttv rkliqsccfa sqnvalfvms rttdfhtali cmtiiiggtg
+      361 fhnnavtvnp qdlaplhsgs vfglmntvga ipgflgvyla ghileltqsw pmvfsaaagi
+      421 nligwliflv fgsaeaiv
+//
+

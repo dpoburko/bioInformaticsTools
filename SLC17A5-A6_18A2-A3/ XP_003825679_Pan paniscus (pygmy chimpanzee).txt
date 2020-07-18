@@ -1,0 +1,75 @@
+
+LOCUS       XP_003825679             514 aa            linear   PRI 05-JUN-2020
+DEFINITION  synaptic vesicular amine transporter isoform X1 [Pan paniscus].
+ACCESSION   XP_003825679
+VERSION     XP_003825679.1
+DBLINK      BioProject: PRJNA633582
+DBSOURCE    REFSEQ: accession XM_003825631.4
+KEYWORDS    RefSeq.
+SOURCE      Pan paniscus (pygmy chimpanzee)
+  ORGANISM  Pan paniscus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Pan.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_048249.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Pan paniscus Annotation Release 104
+            Annotation Version          :: 104
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.4
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..514
+                     /organism="Pan paniscus"
+                     /isolate="Mhudiblu (Carbone #601152)"
+                     /db_xref="taxon:9597"
+                     /chromosome="10"
+                     /sex="female"
+                     /tissue_type="cell line"
+                     /dev_stage="adult"
+     Protein         1..514
+                     /product="synaptic vesicular amine transporter isoform X1"
+                     /calculated_mol_wt=55568
+     Region          130..437
+                     /region_name="MFS_1"
+                     /note="Major Facilitator Superfamily; pfam07690"
+                     /db_xref="CDD:311564"
+     Region          132..273
+                     /region_name="2_A_01_02"
+                     /note="Multidrug resistance protein; TIGR00880"
+                     /db_xref="CDD:273318"
+     Site            order(135,138..139,142,146..147,149..150,196..197,
+                     200..201,204..205,208,221..222,225..226,232,305,308..309,
+                     312..313,316,330,334,338,341,345,392,395..396,402,
+                     406..407,410,421..422,425..426,429..430,433)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..514
+                     /gene="SLC18A2"
+                     /coded_by="XM_003825631.4:119..1663"
+                     /db_xref="GeneID:100967958"
+ORIGIN      
+        1 malselalvr wlqesrrsrk lilfivflal lldnmlltvv vpiipsylys ikheknatei
+       61 qtarpvhtas isdsfqsifs yydnstmvtg natrdltlhq tatqhmvtna savpsdcpse
+      121 dkdllnenvq vgllfaskat vqlitnpfig lltnrigypi pifagfcimf vstimfafss
+      181 syaflliars lqgigsscss vagmgmlasv ytddeergnv mgialgglam gvlvgppfgs
+      241 vlyefvgkta pflvlaalvl ldgaiqlfvl qpsrvqpesq kgtplttllk dpyiliaags
+      301 icfanmgiam lepalpiwmm etmcsrkwql gvaflpasis yligtnifgi lahkmgrwlc
+      361 allgmiivgv silcipfakn iygliapnfg vgfaigmvds smmpimgylv dlrhvsvygs
+      421 vyaiadvafc mgyaigpsag gaiakaigfp wlmtiigiid ilfaplcffl rsppakeekm
+      481 ailmdhncpi ktkmytqnni qsypigddee sesd
+//
+

@@ -1,0 +1,75 @@
+
+LOCUS       XP_001336574             458 aa            linear   VRT 15-JUN-2017
+DEFINITION  solute carrier family 17 member 9 [Danio rerio].
+ACCESSION   XP_001336574
+VERSION     XP_001336574.1
+DBLINK      BioProject: PRJNA13922
+DBSOURCE    REFSEQ: accession XM_001336538.6
+KEYWORDS    RefSeq.
+SOURCE      Danio rerio (zebrafish)
+  ORGANISM  Danio rerio
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Danio.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_007119.7) annotated using gene prediction method: Gnomon,
+            supported by EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Danio rerio Annotation Release 106
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 7.4
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..458
+                     /organism="Danio rerio"
+                     /strain="Tuebingen"
+                     /db_xref="taxon:7955"
+                     /chromosome="8"
+     Protein         1..458
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=50142
+     Region          50..443
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Region          53..407
+                     /region_name="MFS_1"
+                     /note="Major Facilitator Superfamily; pfam07690"
+                     /db_xref="CDD:284993"
+     Site            order(64,67..69,71..72,89,92..93,96,100..101,103..104,
+                     155..156,159..160,163..164,167,179..180,183..184,190,274,
+                     277..278,281..282,285,299,301,305,308,312,367,370..371,
+                     374,378..379,382,393..394,397..398,401..402,405)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..458
+                     /gene="slc17a9a"
+                     /coded_by="XM_001336538.6:233..1609"
+                     /db_xref="GeneID:799506"
+                     /db_xref="ZFIN:ZDB-GENE-081021-1"
+ORIGIN      
+        1 madeqetglf nphedvpfik qcdcstpglq itqssskptv wprplartwt lmlllvtcvl
+       61 hwsrmampic avtmarefew sktetgmvlg affwgycftq vvgghasdri ggervlllst
+      121 sswgimtalt pilaktglsp lltmtasrfl lgvmqgvhyp slvsicsqrv tegergllms
+      181 tlacgcylgm mlvggvgslm ldwfgwqsvf ygagllavfw accvwkcllq gtdisldslw
+      241 isrkdvsess rinwlyllre psvwamiiah lcfsssyytl mswlptffkd tfphakdwvf
+      301 nvipwfvalp tslfggsisd hlirqgcgta avrklmqfcs mgvasvfilf lcktssfiqa
+      361 vacvsvtigl stfhnsgvsv nvndqapsca galygvmntc aaftgllmvy isgymievtg
+      421 swvnvfsvla lvnvigvavf itlgeakrid qldepeii
+//
+

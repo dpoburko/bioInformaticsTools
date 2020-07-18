@@ -1,0 +1,63 @@
+
+LOCUS       XP_031622735             437 aa            linear   INV 02-DEC-2019
+DEFINITION  solute carrier family 17 member 9 [Contarinia nasturtii].
+ACCESSION   XP_031622735
+VERSION     XP_031622735.1
+DBLINK      BioProject: PRJNA579966
+DBSOURCE    REFSEQ: accession XM_031766875.1
+KEYWORDS    RefSeq.
+SOURCE      Contarinia nasturtii (swede midge)
+  ORGANISM  Contarinia nasturtii
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta;
+            Pterygota; Neoptera; Holometabola; Diptera; Nematocera; Sciaroidea;
+            Cecidomyiidae; Contarinia.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_022198027.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Contarinia nasturtii Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.3
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..437
+                     /organism="Contarinia nasturtii"
+                     /isolate="CC-2019"
+                     /isolation_source="Lab colony"
+                     /host="Brassica napus"
+                     /db_xref="taxon:265458"
+                     /chromosome="Unknown"
+                     /sex="female"
+                     /tissue_type="Whole Pupae"
+                     /dev_stage="Pupae"
+                     /country="Canada: Saskatoon"
+                     /collection_date="2018-11-06"
+     Protein         1..437
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=49189
+     CDS             1..437
+                     /gene="LOC116340398"
+                     /coded_by="XM_031766875.1:490..1803"
+                     /db_xref="GeneID:116340398"
+ORIGIN      
+        1 mdeklkysll rdpnddisiw trhekrlwfm tllmgtcmly atrtsvplll pavssefrws
+       61 ktesgtvlss ffwgytitqv lggyfsdrmg gqrvifvaai gwslitfwmp ellvltprqw
+      121 yytipfivti rilngalqgv hfpsmisits qylnsserss ffsmltsgsa lgtlltgilg
+      181 sfildyfgwq mafriigflg ivwalmmrfy tmssdrnrii nlsipsrlct tnvgandsvp
+      241 wlllfrrsaf wamviahacq nncffvllsw lptyfhegfp qakgwvvnmv pwlalppctf
+      301 lgkyitdyli ardwpvtrvr kilqsccfmf qniallimcr tksfhtaltc mtfvigasgf
+      361 hssavivtpq diapthsgsv fglmntfgai pgflgvylag hileltqsws avfstaalin
+      421 tigwvvfcvf gssqkiv
+//
+

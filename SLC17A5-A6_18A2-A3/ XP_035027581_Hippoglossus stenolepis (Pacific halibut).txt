@@ -1,0 +1,64 @@
+
+LOCUS       XP_035027581             517 aa            linear   VRT 29-JUN-2020
+DEFINITION  synaptic vesicular amine transporter [Hippoglossus stenolepis].
+ACCESSION   XP_035027581
+VERSION     XP_035027581.1
+DBLINK      BioProject: PRJNA642014
+DBSOURCE    REFSEQ: accession XM_035171690.1
+KEYWORDS    RefSeq.
+SOURCE      Hippoglossus stenolepis (Pacific halibut)
+  ORGANISM  Hippoglossus stenolepis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Carangaria; Pleuronectiformes; Pleuronectoidei;
+            Pleuronectidae; Hippoglossus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_048938.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Hippoglossus stenolepis Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.4
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..517
+                     /organism="Hippoglossus stenolepis"
+                     /isolate="PH-IPHC-18"
+                     /db_xref="taxon:195615"
+                     /chromosome="12"
+                     /sex="female"
+                     /tissue_type="blood"
+                     /dev_stage="adult"
+                     /country="USA: Seward, Alaska"
+                     /collection_date="23-Oct-2018"
+                     /collected_by="Josep V. Planas"
+     Protein         1..517
+                     /product="synaptic vesicular amine transporter"
+                     /calculated_mol_wt=55773
+     CDS             1..517
+                     /gene="slc18a2"
+                     /coded_by="XM_035171690.1:88..1641"
+                     /db_xref="GeneID:118118565"
+ORIGIN      
+        1 mggldalrqf nlltwlreer qsrklilfiv fvallldnml ltvvvpiips ylynldemtd
+       61 vvsknnttlq qdpqgafhsi vslydntvrl pgsnttarsa glipttpaap alpqnssdcp
+      121 qansrllnen vkvgmlfask atvqlitnpf igpltnrigy qlpifigfci mflstimfaf
+      181 sssyallfla rslqgvgssc ssvagmgmla svytndeerg haigvalggl algvlvgppf
+      241 gsvmyefvgk tapflilafl alfdgalqlf vlqptkvepe sqkgtplltl mkdpyiviaa
+      301 gaicfgnmai ammeptlpiw mmetmcarkw qlgvaflpas isyligtnif gtlahkmgrw
+      361 lcaligmvvv gisvicvpfa ndiyglilpn fgvgfaigmv dssmmpimgy lvdlrhvsvy
+      421 gsvyaiadva fcmgfalgps iggsiaesig fpwlmtiigv vdiffapfci flrnppgqee
+      481 kiailsdtnc smktmsystq gthvqgenmd peyddyd
+//
+

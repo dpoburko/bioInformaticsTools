@@ -1,0 +1,61 @@
+
+LOCUS       XP_027785789             448 aa            linear   ROD 21-MAY-2020
+DEFINITION  synaptic vesicular amine transporter isoform X2 [Marmota
+            flaviventris].
+ACCESSION   XP_027785789
+VERSION     XP_027785789.1
+DBLINK      BioProject: PRJNA516936
+DBSOURCE    REFSEQ: accession XM_027929988.1
+KEYWORDS    RefSeq.
+SOURCE      Marmota flaviventris (yellow-bellied marmot)
+  ORGANISM  Marmota flaviventris
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia;
+            Sciuromorpha; Sciuridae; Xerinae; Marmotini; Marmota.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_023144652.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Marmota flaviventris Annotation
+                                           Release 101
+            Annotation Version          :: 101
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.4
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..448
+                     /organism="Marmota flaviventris"
+                     /isolate="SJ_83"
+                     /db_xref="taxon:93162"
+                     /chromosome="Unknown"
+                     /sex="female"
+                     /tissue_type="blood"
+                     /dev_stage="adult"
+     Protein         1..448
+                     /product="synaptic vesicular amine transporter isoform X2"
+                     /calculated_mol_wt=49751
+     CDS             1..448
+                     /gene="Slc18a2"
+                     /coded_by="XM_027929988.1:5..1351"
+                     /db_xref="GeneID:114088413"
+ORIGIN      
+        1 malselaplr wlqesrhsrk lilfivflal lldnmlltvv vpiipsylys ikheknatei
+       61 qtarpaltas asgsfqsifs yydnstmvtg natgnlhgeq lhraattqhm vtnkssapsd
+      121 cpsedkdlln envqvgllfa skatvqlltn pfiglltnri gypipmftgf cimfvstimf
+      181 afsssyafll iarslqgigs scssvagmgm lasvytddee rgnamgialg glamgvlvgp
+      241 pfgsvlyefv gktapflvla alvlldgese gdasnhsveg pihphcrrlh llrqhgdrha
+      301 gaspahlddg dyvfpkvaag rcflaseyfl shwnqyfwdt ctqngevalc tsrndncwnq
+      361 hfmysfckkh lwshssqlws wfcnwdggfi ndayhglpcg paarvrlwec vchcrcgvly
+      421 gicyrsfcww cyrkgnwlsm ahdnywdh
+//
+

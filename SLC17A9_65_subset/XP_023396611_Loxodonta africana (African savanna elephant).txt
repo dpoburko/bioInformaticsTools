@@ -1,0 +1,67 @@
+
+LOCUS       XP_023396611             519 aa            linear   MAM 16-JAN-2018
+DEFINITION  solute carrier family 17 member 9 [Loxodonta africana].
+ACCESSION   XP_023396611
+VERSION     XP_023396611.1
+DBLINK      BioProject: PRJNA70973
+DBSOURCE    REFSEQ: accession XM_023540843.1
+KEYWORDS    RefSeq; includes ab initio.
+SOURCE      Loxodonta africana (African savanna elephant)
+  ORGANISM  Loxodonta africana
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Afrotheria; Proboscidea; Elephantidae;
+            Loxodonta.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_003573541.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Loxodonta africana Annotation
+                                           Release 102
+            Annotation Version          :: 102
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.0
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            ab initio :: 1% of CDS bases
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..519
+                     /organism="Loxodonta africana"
+                     /isolate="ISIS603380"
+                     /db_xref="taxon:9785"
+                     /chromosome="Unknown"
+                     /sex="female"
+                     /country="USA: San Diego Zoo, CA"
+     Protein         1..519
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=55744
+     Region          30..>265
+                     /region_name="MFS_1"
+                     /note="Major Facilitator Superfamily; pfam07690"
+                     /db_xref="CDD:311564"
+     CDS             1..519
+                     /gene="SLC17A9"
+                     /coded_by="XM_023540843.1:48..1607"
+                     /db_xref="GeneID:100674391"
+ORIGIN      
+        1 mqpapdearr deaqdalwsr pecqawtrtl llgtcllyca rvsmpvcavs msqdfgwskk
+       61 eagvvlssff wgycltqvvg ghlgdrigge kvillsasaw gfitaatpll ahfgsahlaf
+      121 mtcsriltgl lqgvyfpalt sllsqkvrds eraftystvg tgsqvgtlvt ggvgsllldr
+      181 yswpsvfyfs ggltllwvyy vyryllnekd lvmtlgalak gppmsrhtka rwrqlfqkpa
+      241 vwaailsqls sacaffills wlptffretf psskvgllap rctqaglgle tgfevpglvw
+      301 sawgpcggwh lhglvagdas stlgmslfls rlgilgplhg shcgcgfvew dgaspkardv
+      361 vggrhgwwmw aavlfsgfls dhlishgyrt imvrkfmqam glglssvfal clghtssfck
+      421 smvfasaaig lqtfnhsgis vniqdlapsc agflfgvant agalagvvgv ylggyliett
+      481 gswtslfnlv avvsnlglct flvfgkaqrv dlspahedl
+//
+

@@ -1,0 +1,65 @@
+
+LOCUS       XP_035297632             522 aa            linear   ROD 10-JUL-2020
+DEFINITION  synaptic vesicular amine transporter isoform X2 [Cricetulus
+            griseus].
+ACCESSION   XP_035297632
+VERSION     XP_035297632.1
+DBLINK      BioProject: PRJNA498699
+DBSOURCE    REFSEQ: accession XM_035441741.1
+KEYWORDS    RefSeq.
+SOURCE      Cricetulus griseus (Chinese hamster)
+  ORGANISM  Cricetulus griseus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+            Muroidea; Cricetidae; Cricetinae; Cricetulus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_048596.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Cricetulus griseus Annotation
+                                           Release 104
+            Annotation Version          :: 104
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.4
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..522
+                     /organism="Cricetulus griseus"
+                     /strain="17A/GY"
+                     /isolation_source="Laboratory Animal"
+                     /db_xref="taxon:10029"
+                     /chromosome="3"
+                     /sex="female"
+                     /tissue_type="liver"
+                     /country="USA: Baltimore, MD"
+                     /lat_lon="39.299625 N 76.593518 W"
+                     /collection_date="2014-04-16"
+                     /note="pooled liver cells from 5 individuals"
+     Protein         1..522
+                     /product="synaptic vesicular amine transporter isoform X2"
+                     /calculated_mol_wt=56275
+     CDS             1..522
+                     /gene="Slc18a2"
+                     /coded_by="XM_035441741.1:1..1569"
+                     /db_xref="GeneID:100774860"
+ORIGIN      
+        1 malgelallr wlrdtrhsrk lilfivflal lldnmlltvv vpiipsylys ieheknttei
+       61 qttkaaltas tsgsfqgifs yydnatipit gnvtrnasrg fpgeqpykat tqhivtntst
+      121 vpsdcpskdk dllnenvqvg llfaskatvq lltnpfigll tnrigypipm fagfcimfis
+      181 tvmfafsssy aflliarslq gigsscssva gmgmlasvyt ddeergnamg ialgglamgv
+      241 lvgppfgsvl yefvgktapf lvlaalvlld gaiqlfvlqp srvqpesqkg tpltillkdp
+      301 yiliaagsic fanmgiamle palpiwmmet mcsrkwqlgi aflpasisyl igtnifgila
+      361 hkmgrwlcal lgmiivgisi lcipfakniy gliapnfgvg faigmvdssm mpimgylvdl
+      421 rhvsvygsvy aiadvafcmg yaigpsagga iakaigfpwl mtiigivdiv faplcfflrs
+      481 ppakeekmai lmdhncpikt kmytqnnvqs ypigddeese sd
+//
+

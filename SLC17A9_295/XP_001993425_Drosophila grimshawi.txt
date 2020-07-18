@@ -1,0 +1,76 @@
+
+LOCUS       XP_001993425             438 aa            linear   INV 10-MAR-2020
+DEFINITION  solute carrier family 17 member 9 [Drosophila grimshawi].
+ACCESSION   XP_001993425
+VERSION     XP_001993425.1
+DBLINK      BioProject: PRJNA29983
+DBSOURCE    REFSEQ: accession XM_001993389.2
+KEYWORDS    RefSeq.
+SOURCE      Drosophila grimshawi
+  ORGANISM  Drosophila grimshawi
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta;
+            Pterygota; Neoptera; Holometabola; Diptera; Brachycera;
+            Muscomorpha; Ephydroidea; Drosophilidae; Drosophila; Hawaiian
+            Drosophila.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_001961678.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Drosophila grimshawi Annotation
+                                           Release 102
+            Annotation Version          :: 102
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.3
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..438
+                     /organism="Drosophila grimshawi"
+                     /strain="TSC#15287-2541.00"
+                     /db_xref="taxon:7222"
+                     /chromosome="Unknown"
+     Protein         1..438
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=48547
+     Region          30..431
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Region          32..396
+                     /region_name="MFS_1"
+                     /note="Major Facilitator Superfamily; pfam07690"
+                     /db_xref="CDD:284993"
+     Site            order(44,47..49,51..52,69,72..73,76,80..81,83..84,
+                     139..140,143..144,147..148,151,163..164,167..168,174,262,
+                     265..266,269..270,273,285,289,293,296,300,356,359..360,
+                     363,367..368,371,381..382,385..386,389..390,393)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..438
+                     /gene="LOC6566558"
+                     /coded_by="XM_001993389.2:305..1621"
+                     /db_xref="GeneID:6566558"
+ORIGIN      
+        1 meeklkysll rgelvdtqni wtrhekrvwf mtlltgtcml ystrttmpll vpavaaaqkw
+       61 sktdsgtvls sffwgytltq vmggyfsdrf ggqrvillaa igwsiitflm ptiiwsaasv
+      121 ksyaipiivt irifngalqg vhfpsmislt sqnlcqners sffglltsgs amgtlltgim
+      181 gsfvldyfgw syvfrviglm gfawalvlry yamagernri inistparlc anktpaettv
+      241 pwlryfsrls fwacvlthac emncffvlls wlptyfhdgf phakgwvvnm ipwlalppct
+      301 ffakylttrl iardwsttav rkliqsccfa aqnvalfvms rttdfhtali cmtiiiggtg
+      361 fhnnavtvnp qdlaplhsgs vfglmntvga ipgflgvyla ghileltqsw pmvfsaaagi
+      421 nligwiifla fgsaeaiv
+//
+

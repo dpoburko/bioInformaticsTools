@@ -1,0 +1,83 @@
+
+LOCUS       XP_010952673             413 aa            linear   MAM 06-JAN-2015
+DEFINITION  PREDICTED: solute carrier family 17 member 9 [Camelus bactrianus].
+ACCESSION   XP_010952673
+VERSION     XP_010952673.1
+DBLINK      BioProject: PRJNA269612
+DBSOURCE    REFSEQ: accession XM_010954371.1
+KEYWORDS    RefSeq; corrected model; includes ab initio.
+SOURCE      Camelus bactrianus (Bactrian camel)
+  ORGANISM  Camelus bactrianus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Cetartiodactyla; Tylopoda;
+            Camelidae; Camelus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_011513418.1) and transcript sequence (GAEU01009716.1) annotated
+            using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Camelus bactrianus Annotation
+                                           Release 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 6.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            ab initio    :: 1% of CDS bases
+            assembly gap :: added 73 transcript bases to patch genome assembly
+                            gap
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..413
+                     /organism="Camelus bactrianus"
+                     /db_xref="taxon:9837"
+                     /chromosome="Unknown"
+     Protein         1..413
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=44374
+     Region          38..398
+                     /region_name="2A0114"
+                     /note="D-galactonate transporter; TIGR00893"
+                     /db_xref="CDD:273326"
+     Region          38..398
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Site            order(41,44..46,48..49,66,69..70,73,77..78,80..81,
+                     132..133,136..137,140..141,144,156..157,160..161,167,220,
+                     223..224,227..228,231,245,249,253,256,260,323,326..327,
+                     330,334..335,338,348..349,352..353,356..357,360)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..413
+                     /gene="SLC17A9"
+                     /coded_by="XM_010954371.1:15..1256"
+                     /note="The sequence of the model RefSeq protein was
+                     modified relative to its source genomic sequence to
+                     represent the inferred CDS: added 59 bases not found in
+                     genome assembly"
+                     /db_xref="GeneID:105068493"
+ORIGIN      
+        1 mqpppdetrr dpaedvqwsr pecqlwtgtl llgtcllyca rvsmpicavs msqdfgwnkk
+       61 eaglvlssff wgycltqvvg ghlgdrigge kvillsasaw gcitaatpll aqlgsahlaf
+      121 mtfsriltgl lqgvyfpalt sllsqkvres eraftystvg agsqfgwrsr gnallpsdll
+      181 lalgvlaqgl rvtrhtkvpw rrlfwkssvw aaiisqlsaa csffillswl ptffketfpn
+      241 skgwawllvl srvaaswlst llpaglglfs gllsdrlisq gyrtitvrkf mqvmglglsg
+      301 vfvlclghts sfcmsvvfas asiglqtfnh sgisvniqdl apscagflfg vantagalag
+      361 vvgvclggyl iettgswtsv fnlvaaissl glctflvfgk aqrvdlspth edl
+//
+

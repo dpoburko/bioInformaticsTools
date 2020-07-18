@@ -1,0 +1,62 @@
+
+LOCUS       XP_032243559             439 aa            linear   MAM 11-FEB-2020
+DEFINITION  solute carrier family 17 member 9 [Phoca vitulina].
+ACCESSION   XP_032243559
+VERSION     XP_032243559.1
+DBLINK      BioProject: PRJNA605348
+DBSOURCE    REFSEQ: accession XM_032387668.1
+KEYWORDS    RefSeq.
+SOURCE      Phoca vitulina (harbor seal)
+  ORGANISM  Phoca vitulina
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Carnivora; Caniformia;
+            Phocidae; Phoca.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_022589753.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Phoca vitulina Annotation Release
+                                           100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.3
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..439
+                     /organism="Phoca vitulina"
+                     /isolate="PV1807"
+                     /db_xref="taxon:9720"
+                     /chromosome="Unknown"
+                     /sex="female"
+                     /tissue_type="blood"
+                     /dev_stage="Pup"
+                     /country="Canada: Boundary Bay, Tsawwassen, British
+                     Columbia"
+     Protein         1..439
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=47180
+     CDS             1..439
+                     /gene="SLC17A9"
+                     /coded_by="XM_032387668.1:80..1399"
+                     /db_xref="GeneID:116621717"
+ORIGIN      
+        1 mqplppppee ahrdgaedsq wsrpecqvwt gtlllgtcll ysarvsmpvc avsmsqdfgw
+       61 nkkeagivls sffwgycltq vvgghlgdri ggekvillsa sawgvitaat pllarlgsah
+      121 lvfmtfsril tgllqgvyfp altsllsqkv reseraftys avgagsqfgt lvtgavgsll
+      181 ldwcgwpsvf yfsggltllw vcyvdrylls ekdlilalgv laqgvpvsrh tkvpwrqlfr
+      241 kpsvwaaifs qlssacsffi llswlptffe etfpsskgwv fnvvpwlvai paslfsgfls
+      301 dhlinqgyrt iavrkfmqvm glglssvfal clghtssfck svvfasasig lqtfnhsgis
+      361 vniqdlapsc agflfgvant agalagvvgv clggyliett gswtsmfnlv aavsslglct
+      421 flllgeaqrv dlsptredl
+//
+

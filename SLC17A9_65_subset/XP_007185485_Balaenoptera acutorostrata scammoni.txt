@@ -1,0 +1,85 @@
+
+LOCUS       XP_007185485             532 aa            linear   MAM 12-FEB-2019
+DEFINITION  solute carrier family 17 member 9 [Balaenoptera acutorostrata
+            scammoni].
+ACCESSION   XP_007185485
+VERSION     XP_007185485.1
+DBLINK      BioProject: PRJNA237330
+DBSOURCE    REFSEQ: accession XM_007185423.2
+KEYWORDS    RefSeq; includes ab initio.
+SOURCE      Balaenoptera acutorostrata scammoni
+  ORGANISM  Balaenoptera acutorostrata scammoni
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Cetartiodactyla; Cetacea;
+            Mysticeti; Balaenopteridae; Balaenoptera.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_006728129.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Balaenoptera acutorostrata scammoni
+                                           Annotation Release 101
+            Annotation Version          :: 101
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.1
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            ab initio :: 20% of CDS bases
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..532
+                     /organism="Balaenoptera acutorostrata scammoni"
+                     /sub_species="scammoni"
+                     /db_xref="taxon:310752"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /tissue_type="muscle"
+                     /country="South Korea"
+                     /collection_date="16-Feb-2011"
+     Protein         1..532
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=55738
+     Region          121..517
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Region          124..517
+                     /region_name="2A0114"
+                     /note="D-galactonate transporter; TIGR00893"
+                     /db_xref="CDD:273326"
+     Site            order(133,136..138,140..141,158,161..162,165,169..170,
+                     172..173,224..225,228..229,232..233,236,248..249,252..253,
+                     259,348,351..352,355..356,359,373,375,379,382,386,442,
+                     445..446,449,453..454,457,467..468,471..472,475..476,479)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..532
+                     /gene="SLC17A9"
+                     /coded_by="XM_007185423.2:1..1599"
+                     /db_xref="GeneID:103008467"
+ORIGIN      
+        1 mglglsavwk spswkarftv tsdrgtegsl pgsftpssdq veqrlempvq qqahcstrlr
+       61 prrafgagda pgrwdpealc vfglhpellp fvrltpppts pprgeplaql grpecqvwtg
+      121 alllgtclly carasmpvca atmsqdfgwn kkeagvvlss ffwgycltqv vgghlgdrig
+      181 gekvillsas awgfitaatp llshlgsahl afmtfsrvlt gllqgvyfpa ltsllsqker
+      241 eseraftyst vgagsqfgtl vtgavgslll dwygwpsvfy fsggltllwv cyvyrcllge
+      301 kdlilalgvl aqglpvsrht xxxxxxxxxx xfrkpsvwaa iisqlsaacs ffillswlpt
+      361 ffketfpgsk gwvfnvvpwl vaipaslfsg llsdrlinqg yrtitvrkfm qvmglglssv
+      421 falclghtss fcksvvfasa siglqtfnhs gisvniqdla pscagflfgv antagalagv
+      481 vgvclggyli ettgswtsvf nlaaaisslg lctflvlgka qrvdlspthe dl
+//
+

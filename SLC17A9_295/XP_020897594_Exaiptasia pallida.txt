@@ -1,0 +1,67 @@
+
+LOCUS       XP_020897594             453 aa            linear   INV 17-APR-2019
+DEFINITION  solute carrier family 17 member 9 [Exaiptasia pallida].
+ACCESSION   XP_020897594
+VERSION     XP_020897594.1
+DBLINK      BioProject: PRJNA386175
+DBSOURCE    REFSEQ: accession XM_021041935.2
+KEYWORDS    RefSeq; includes ab initio.
+SOURCE      Exaiptasia pallida
+  ORGANISM  Exaiptasia pallida
+            Eukaryota; Metazoa; Cnidaria; Anthozoa; Hexacorallia; Actiniaria;
+            Aiptasiidae; Exaiptasia.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_018385176.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Exaiptasia pallida Annotation
+                                           Release 101
+            Annotation Version          :: 101
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            ab initio :: 1% of CDS bases
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..453
+                     /organism="Exaiptasia pallida"
+                     /isolate="CC7"
+                     /isolation_source="whole animal"
+                     /db_xref="taxon:1720309"
+                     /chromosome="Unknown"
+                     /country="Saudi Arabia: KAUST"
+                     /collection_date="Mar-2014"
+     Protein         1..453
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=49302
+     Region          82..448
+                     /region_name="UhpC"
+                     /note="Sugar phosphate permease [Carbohydrate transport
+                     and metabolism]; cl27298"
+                     /db_xref="CDD:332119"
+     CDS             1..453
+                     /gene="LOC110236414"
+                     /coded_by="XM_021041935.2:240..1601"
+                     /db_xref="GeneID:110236414"
+ORIGIN      
+        1 mtrvrsrtsr qseqqmeddl piqaslqlgq pkdesflatk fhwsrndrpk wllvllagcm
+       61 slymtriimp lcvvslaeel hwdkrqsgli lssffwgyli tqvpggflsd vygaeklvlw
+      121 siigssvstl aiplvtsqsf staipxvspi iiivavrvml gcsqgvfypa lysligkslp
+      181 vndrssgsar asaggpigsl lmgsvgsvml mtygwrtvff vfgsyglfwa vlfykrfink
+      241 nlavinmngn vrkektttlt ktpkteiivp wgkimrepai cnliswlptf fhekypdapg
+      301 wvfnvlpyva nligkisggh iadnmiqngf svafvrkgle tvgtsgasii lfassymtgf
+      361 whtlfgmslv lglsglttsg slcnvqdlsp tfagliagiv csigaipgif gvyatgyilh
+      421 ltnswnsvff ltciicisgn lfynfvgsdk kia
+//
+

@@ -1,0 +1,978 @@
+V1,V2,V3,V4,V5,V6,V7,V8,V9,V10
+EDKDLL,123..128,AAH78449,Mus musculus (house mouse),Slc18a2 protein,447,123,,128,319
+ERGNAM,219..224,AAH78449,Mus musculus (house mouse),Slc18a2 protein,447,219,,224,223
+DGDHVF,308..313,AAH78449,Mus musculus (house mouse),Slc18a2 protein,447,308,,313,134
+ERNMLL,454..459,XP_026873242,Electrophorus electricus (electric eel),probable vesicular acetylcholine transporter-A,515,454,,459,56
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+DSTPLL,18..23,ACJ74006,Oryctolagus cuniculus (rabbit),sialin (predicted),495,18,,23,472
+ETQGWI,106..111,ACJ74006,Oryctolagus cuniculus (rabbit),sialin (predicted),495,106,,111,384
+ERSKLL,194..199,ACJ74006,Oryctolagus cuniculus (rabbit),sialin (predicted),495,194,,199,296
+EKEYIL,262..267,ACJ74006,Oryctolagus cuniculus (rabbit),sialin (predicted),495,262,,267,228
+DYSLAV,388..393,ACJ74006,Oryctolagus cuniculus (rabbit),sialin (predicted),495,388,,393,102
+EHGKFA,493..498,XP_026873242,Electrophorus electricus (electric eel),probable vesicular acetylcholine transporter-A,515,493,,498,17
+ERNVLL,440..445,NP_957401,Danio rerio (zebrafish),probable vesicular acetylcholine transporter-B,493,440,,445,48
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+DSSFFW,142..147,ALC38224,Drosophila busckii,VGlut,622,142,,147,475
+ERSRLA,225..230,ALC38224,Drosophila busckii,VGlut,622,225,,230,392
+EEAGFV,360..365,ALC38224,Drosophila busckii,VGlut,622,360,,365,257
+EGLFFL,410..415,ALC38224,Drosophila busckii,VGlut,622,410,,415,207
+ELQPWA,515..520,ALC38224,Drosophila busckii,VGlut,622,515,,520,102
+EWQIVF,274..279,JAV42295,Castor canadensis (American beaver),sialin,314,274,,279,35
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+DVFGAI,286..291,JAV42295,Castor canadensis (American beaver),sialin,314,286,,291,23
+EVQNWA,300..305,JAV42295,Castor canadensis (American beaver),sialin,314,300,,305,9
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+ERSKLI,210..215,CAC5356936,Mytilus coruscus,SLC17A5,526,210,,215,311
+EHRTLA,408..413,CAC5356936,Mytilus coruscus,SLC17A5,526,408,,413,113
+EWQTVF,444..449,NP_001026257,Gallus gallus (chicken),sialin,484,444,,449,35
+EVQDWA,470..475,NP_001026257,Gallus gallus (chicken),sialin,484,470,,475,9
+EWQIVF,455..460,NP_001164764,Oryctolagus cuniculus (rabbit),sialin,495,455,,460,35
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+ERSKLI,171..176,CAC5356937,Mytilus coruscus,SLC17A5,487,171,,176,311
+EHRTLA,369..374,CAC5356937,Mytilus coruscus,SLC17A5,487,369,,374,113
+EVQNWA,481..486,NP_001164764,Oryctolagus cuniculus (rabbit),sialin,495,481,,486,9
+EWQTVF,452..457,NP_001167306,Salmo salar (Atlantic salmon),sialin,492,452,,457,35
+EWQTVF,455..460,NP_001192903,Bos taurus (cattle),sialin,495,455,,460,35
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+DNMLYM,45..50,CAC5389477,Mytilus coruscus,SLC18A3,541,45,,50,491
+EGGGAI,120..125,CAC5389477,Mytilus coruscus,SLC18A3,541,120,,125,416
+DRPLMI,153..158,CAC5389477,Mytilus coruscus,SLC18A3,541,153,,158,383
+DTSGLA,194..199,CAC5389477,Mytilus coruscus,SLC18A3,541,194,,199,342
+ERTKAL,210..215,CAC5389477,Mytilus coruscus,SLC18A3,541,210,,215,326
+DGILLL,256..261,CAC5389477,Mytilus coruscus,SLC18A3,541,256,,261,280
+DPYILV,291..296,CAC5389477,Mytilus coruscus,SLC18A3,541,291,,296,245
+EPTIAM,312..317,CAC5389477,Mytilus coruscus,SLC18A3,541,312,,317,224
+EAFFVV,381..386,CAC5389477,Mytilus coruscus,SLC18A3,541,381,,386,155
+EVQNWA,481..486,NP_001192903,Bos taurus (cattle),sialin,495,481,,486,9
+EWQTVF,455..460,NP_001247561,Macaca mulatta (Rhesus monkey),sialin,495,455,,460,35
+EVQNWA,481..486,NP_001247561,Macaca mulatta (Rhesus monkey),sialin,495,481,,486,9
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+ERSRLA,207..212,CBL54109,Lampetra fluviatilis (European river lamprey),VGlut,597,207,,212,385
+EEKTYI,274..279,CBL54109,Lampetra fluviatilis (European river lamprey),VGlut,597,274,,279,318
+ESYGIL,285..290,CBL54109,Lampetra fluviatilis (European river lamprey),VGlut,597,285,,290,307
+EATLLL,393..398,CBL54109,Lampetra fluviatilis (European river lamprey),VGlut,597,393,,398,199
+EWQNVF,472..477,CBL54109,Lampetra fluviatilis (European river lamprey),VGlut,597,472,,477,120
+EWQTVF,455..460,XP_003503243,Cricetulus griseus (Chinese hamster),sialin,495,455,,460,35
+EVQNWA,481..486,XP_003503243,Cricetulus griseus (Chinese hamster),sialin,495,481,,486,9
+EWQTVF,453..458,XP_010744211,Larimichthys crocea (large yellow croaker),sialin,493,453,,458,35
+EWQTVF,453..458,XP_028280030,Parambassis ranga (Indian glassy fish),sialin,493,453,,458,35
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+DNSTIV,53..58,ETE65526,Ophiophagus hannah (king cobra),Synaptic vesicular amine transporter, partial,53,,58,#VALUE!
+EDYYYA,69..74,ETE65526,Ophiophagus hannah (king cobra),Synaptic vesicular amine transporter, partial,69,,74,#VALUE!
+EVGLLF,106..111,ETE65526,Ophiophagus hannah (king cobra),Synaptic vesicular amine transporter, partial,106,,111,#VALUE!
+ESYKLL,156..161,ETE65526,Ophiophagus hannah (king cobra),Synaptic vesicular amine transporter, partial,156,,161,#VALUE!
+DPYILI,206..211,ETE65526,Ophiophagus hannah (king cobra),Synaptic vesicular amine transporter, partial,206,,211,#VALUE!
+EEKMAI,370..375,ETE65526,Ophiophagus hannah (king cobra),Synaptic vesicular amine transporter, partial,370,,375,#VALUE!
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+ERSTLL,13..18,JAV42295,Castor canadensis (American beaver),sialin,314,13,,18,296
+EKRYIL,81..86,JAV42295,Castor canadensis (American beaver),sialin,314,81,,86,228
+DYPLAV,207..212,JAV42295,Castor canadensis (American beaver),sialin,314,207,,212,102
+EWQTVF,452..457,XP_028324943,Gouania willdenowi (blunt-snouted clingfish),sialin,492,452,,457,35
+EWQTVF,450..455,XP_035257046,Anguilla anguilla (European eel),sialin,490,450,,455,35
+EWQIVF,455..460,ACJ74006,Oryctolagus cuniculus (rabbit),sialin (predicted),495,455,,460,35
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+EAMGAV,18..23,KAF0872732,Crocuta crocuta (spotted hyena),VACHT protein, partial,18,,23,#VALUE!
+DNMLYM,45..50,KAF0872732,Crocuta crocuta (spotted hyena),VACHT protein, partial,45,,50,#VALUE!
+DVPLLI,133..138,KAF0872732,Crocuta crocuta (spotted hyena),VACHT protein, partial,133,,138,#VALUE!
+DYATLF,155..160,KAF0872732,Crocuta crocuta (spotted hyena),VACHT protein, partial,155,,160,#VALUE!
+DTSGIA,174..179,KAF0872732,Crocuta crocuta (spotted hyena),VACHT protein, partial,174,,179,#VALUE!
+ERSRAL,190..195,KAF0872732,Crocuta crocuta (spotted hyena),VACHT protein, partial,190,,195,#VALUE!
+DALLLL,236..241,KAF0872732,Crocuta crocuta (spotted hyena),VACHT protein, partial,236,,241,#VALUE!
+DPYIAV,269..274,KAF0872732,Crocuta crocuta (spotted hyena),VACHT protein, partial,269,,274,#VALUE!
+EHTMAA,298..303,KAF0872732,Crocuta crocuta (spotted hyena),VACHT protein, partial,298,,303,#VALUE!
+ERDVLL,462..467,KAF0872732,Crocuta crocuta (spotted hyena),VACHT protein, partial,462,,467,#VALUE!
+ECEDVY,501..506,KAF0872732,Crocuta crocuta (spotted hyena),VACHT protein, partial,501,,506,#VALUE!
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+DNSVIV,49..54,KAF0873989,Crocuta crocuta (spotted hyena),VMAT2 protein, partial,49,,54,#VALUE!
+EDRDLL,88..93,KAF0873989,Crocuta crocuta (spotted hyena),VMAT2 protein, partial,88,,93,#VALUE!
+ERGNAM,184..189,KAF0873989,Crocuta crocuta (spotted hyena),VMAT2 protein, partial,184,,189,#VALUE!
+DPYILI,259..264,KAF0873989,Crocuta crocuta (spotted hyena),VMAT2 protein, partial,259,,264,#VALUE!
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+DNSTMV,83..88,KAF1661774,Aptenodytes patagonicus (king penguin),Synaptic vesicular amine transporter, partial,83,,88,#VALUE!
+EDKDLL,123..128,KAF1661774,Aptenodytes patagonicus (king penguin),Synaptic vesicular amine transporter, partial,123,,128,#VALUE!
+ERGNAM,219..224,KAF1661774,Aptenodytes patagonicus (king penguin),Synaptic vesicular amine transporter, partial,219,,224,#VALUE!
+DPYIII,294..299,KAF1661774,Aptenodytes patagonicus (king penguin),Synaptic vesicular amine transporter, partial,294,,299,#VALUE!
+EEKMAI,480..485,KAF1661774,Aptenodytes patagonicus (king penguin),Synaptic vesicular amine transporter, partial,480,,485,#VALUE!
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+DNSTMV,83..88,NP_003045,Homo sapiens (human),synaptic vesicular amine transporter,514,83,,88,426
+EDKDLL,120..125,NP_003045,Homo sapiens (human),synaptic vesicular amine transporter,514,120,,125,389
+ERGNVM,216..221,NP_003045,Homo sapiens (human),synaptic vesicular amine transporter,514,216,,221,293
+DPYILI,291..296,NP_003045,Homo sapiens (human),synaptic vesicular amine transporter,514,291,,296,218
+EVQNWA,481..486,ACJ74006,Oryctolagus cuniculus (rabbit),sialin (predicted),495,481,,486,9
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+EAVGAA,19..24,NP_003046,Homo sapiens (human),vesicular acetylcholine transporter,532,19,,24,508
+DNMLYM,46..51,NP_003046,Homo sapiens (human),vesicular acetylcholine transporter,532,46,,51,481
+DVPLLI,152..157,NP_003046,Homo sapiens (human),vesicular acetylcholine transporter,532,152,,157,375
+DYATLF,174..179,NP_003046,Homo sapiens (human),vesicular acetylcholine transporter,532,174,,179,353
+DTSGIA,193..198,NP_003046,Homo sapiens (human),vesicular acetylcholine transporter,532,193,,198,334
+ERSRAL,209..214,NP_003046,Homo sapiens (human),vesicular acetylcholine transporter,532,209,,214,318
+DALLLL,255..260,NP_003046,Homo sapiens (human),vesicular acetylcholine transporter,532,255,,260,272
+DPYIAV,288..293,NP_003046,Homo sapiens (human),vesicular acetylcholine transporter,532,288,,293,239
+EMGMAW,326..331,NP_003046,Homo sapiens (human),vesicular acetylcholine transporter,532,326,,331,201
+EWQTVF,455..460,NP_036566,Homo sapiens (human),sialin isoform 1,495,455,,460,35
+EVQNWA,481..486,NP_036566,Homo sapiens (human),sialin isoform 1,495,481,,486,9
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+DRTPLL,18..23,NP_036566,Homo sapiens (human),sialin isoform 1,495,18,,23,472
+ETQGWI,106..111,NP_036566,Homo sapiens (human),sialin isoform 1,495,106,,111,384
+ERSKLL,194..199,NP_036566,Homo sapiens (human),sialin isoform 1,495,194,,199,296
+EKEYIL,262..267,NP_036566,Homo sapiens (human),sialin isoform 1,495,262,,267,228
+DYSLAV,388..393,NP_036566,Homo sapiens (human),sialin isoform 1,495,388,,393,102
+EWRNIF,476..481,CAC5356936,Mytilus coruscus,SLC17A5,526,476,,481,45
+EIQEWA,502..507,CAC5356936,Mytilus coruscus,SLC17A5,526,502,,507,19
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+EDRDLL,121..126,NP_037163,Rattus norvegicus (Norway rat),synaptic vesicular amine transporter,515,121,,126,389
+ERGNAM,217..222,NP_037163,Rattus norvegicus (Norway rat),synaptic vesicular amine transporter,515,217,,222,293
+DPYILI,292..297,NP_037163,Rattus norvegicus (Norway rat),synaptic vesicular amine transporter,515,292,,297,218
+DDEEIV,509..514,CAC5356936,Mytilus coruscus,SLC17A5,526,509,,514,12
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+EAVGAA,19..24,NP_068358,Mus musculus (house mouse),vesicular acetylcholine transporter,530,19,,24,506
+DNMLYM,46..51,NP_068358,Mus musculus (house mouse),vesicular acetylcholine transporter,530,46,,51,479
+ESPTLI,69..74,NP_068358,Mus musculus (house mouse),vesicular acetylcholine transporter,530,69,,74,456
+DVPLLI,152..157,NP_068358,Mus musculus (house mouse),vesicular acetylcholine transporter,530,152,,157,373
+DYATLF,174..179,NP_068358,Mus musculus (house mouse),vesicular acetylcholine transporter,530,174,,179,351
+DTSGIA,193..198,NP_068358,Mus musculus (house mouse),vesicular acetylcholine transporter,530,193,,198,332
+ERSRAL,209..214,NP_068358,Mus musculus (house mouse),vesicular acetylcholine transporter,530,209,,214,316
+DALLLL,255..260,NP_068358,Mus musculus (house mouse),vesicular acetylcholine transporter,530,255,,260,270
+DPYIAV,288..293,NP_068358,Mus musculus (house mouse),vesicular acetylcholine transporter,530,288,,293,237
+EMGMVW,326..331,NP_068358,Mus musculus (house mouse),vesicular acetylcholine transporter,530,326,,331,199
+EWRNIF,437..442,CAC5356937,Mytilus coruscus,SLC17A5,487,437,,442,45
+EIQEWA,463..468,CAC5356937,Mytilus coruscus,SLC17A5,487,463,,468,19
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+EAVGAA,19..24,NP_113851,Rattus norvegicus (Norway rat),vesicular acetylcholine transporter,530,19,,24,506
+DNMLYM,46..51,NP_113851,Rattus norvegicus (Norway rat),vesicular acetylcholine transporter,530,46,,51,479
+EGPTLV,69..74,NP_113851,Rattus norvegicus (Norway rat),vesicular acetylcholine transporter,530,69,,74,456
+DVPLLI,152..157,NP_113851,Rattus norvegicus (Norway rat),vesicular acetylcholine transporter,530,152,,157,373
+DYATLF,174..179,NP_113851,Rattus norvegicus (Norway rat),vesicular acetylcholine transporter,530,174,,179,351
+DTSGIA,193..198,NP_113851,Rattus norvegicus (Norway rat),vesicular acetylcholine transporter,530,193,,198,332
+ERSRAL,209..214,NP_113851,Rattus norvegicus (Norway rat),vesicular acetylcholine transporter,530,209,,214,316
+DALLLL,255..260,NP_113851,Rattus norvegicus (Norway rat),vesicular acetylcholine transporter,530,255,,260,270
+DPYIAV,288..293,NP_113851,Rattus norvegicus (Norway rat),vesicular acetylcholine transporter,530,288,,293,237
+EMGMVW,326..331,NP_113851,Rattus norvegicus (Norway rat),vesicular acetylcholine transporter,530,326,,331,199
+DDEEIV,470..475,CAC5356937,Mytilus coruscus,SLC17A5,487,470,,475,12
+DQHFMY,358..363,AAH78449,Mus musculus (house mouse),Slc18a2 protein,447,358,,363,84
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+DNSTMV,83..88,NP_777078,Bos taurus (cattle),synaptic vesicular amine transporter,517,83,,88,429
+EDKDLL,123..128,NP_777078,Bos taurus (cattle),synaptic vesicular amine transporter,517,123,,128,389
+ERGNAM,219..224,NP_777078,Bos taurus (cattle),synaptic vesicular amine transporter,517,219,,224,293
+DPYILI,294..299,NP_777078,Bos taurus (cattle),synaptic vesicular amine transporter,517,294,,299,218
+ECDVLV,464..469,CAC5389477,Mytilus coruscus,SLC18A3,541,464,,469,72
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+ELGGAL,26..31,NP_957401,Danio rerio (zebrafish),probable vesicular acetylcholine transporter-B,493,26,,31,462
+DNMLYM,52..57,NP_957401,Danio rerio (zebrafish),probable vesicular acetylcholine transporter-B,493,52,,57,436
+DLPLLI,113..118,NP_957401,Danio rerio (zebrafish),probable vesicular acetylcholine transporter-B,493,113,,118,375
+DTSGIA,154..159,NP_957401,Danio rerio (zebrafish),probable vesicular acetylcholine transporter-B,493,154,,159,334
+ERSRAL,170..175,NP_957401,Danio rerio (zebrafish),probable vesicular acetylcholine transporter-B,493,170,,175,318
+DGVLLL,216..221,NP_957401,Danio rerio (zebrafish),probable vesicular acetylcholine transporter-B,493,216,,221,272
+DPYIAV,247..252,NP_957401,Danio rerio (zebrafish),probable vesicular acetylcholine transporter-B,493,247,,252,241
+ERQWFY,313..318,NP_957401,Danio rerio (zebrafish),probable vesicular acetylcholine transporter-B,493,313,,318,175
+EEIDYF,522..527,CAC5389477,Mytilus coruscus,SLC18A3,541,522,,527,14
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+DNMLYM,53..58,NP_996865,Gallus gallus (chicken),vesicular acetylcholine transporter,522,53,,58,464
+EYFAAV,66..71,NP_996865,Gallus gallus (chicken),vesicular acetylcholine transporter,522,66,,71,451
+EAPLLA,135..140,NP_996865,Gallus gallus (chicken),vesicular acetylcholine transporter,522,135,,140,382
+DTAGIA,176..181,NP_996865,Gallus gallus (chicken),vesicular acetylcholine transporter,522,176,,181,341
+DGLLLL,238..243,NP_996865,Gallus gallus (chicken),vesicular acetylcholine transporter,522,238,,243,279
+DPYIAV,269..274,NP_996865,Gallus gallus (chicken),vesicular acetylcholine transporter,522,269,,274,248
+EPFSFY,533..538,CAC5389477,Mytilus coruscus,SLC18A3,541,533,,538,3
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+DRTPLL,8..13,NP_001026257,Gallus gallus (chicken),sialin,484,8,,13,471
+DTQGWI,95..100,NP_001026257,Gallus gallus (chicken),sialin,484,95,,100,384
+ERSKLL,183..188,NP_001026257,Gallus gallus (chicken),sialin,484,183,,188,296
+EREYIL,251..256,NP_001026257,Gallus gallus (chicken),sialin,484,251,,256,228
+ESLPLW,276..281,NP_001026257,Gallus gallus (chicken),sialin,484,276,,281,203
+ELAVAF,379..384,NP_001026257,Gallus gallus (chicken),sialin,484,379,,384,100
+ETKPLL,462..467,NP_001080038,Xenopus laevis (African clawed frog),solute carrier family 18 member A2 L homeolog,475,462,,467,8
+EEKMAI,477..482,NP_003045,Homo sapiens (human),synaptic vesicular amine transporter,514,477,,482,32
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+ESRRLI,15..20,NP_001080038,Xenopus laevis (African clawed frog),solute carrier family 18 member A2 L homeolog,475,15,,20,455
+DFSSVI,64..69,NP_001080038,Xenopus laevis (African clawed frog),solute carrier family 18 member A2 L homeolog,475,64,,69,406
+EGKDYL,103..108,NP_001080038,Xenopus laevis (African clawed frog),solute carrier family 18 member A2 L homeolog,475,103,,108,367
+DAPLFY,143..148,NP_001080038,Xenopus laevis (African clawed frog),solute carrier family 18 member A2 L homeolog,475,143,,148,327
+DSYAFL,164..169,NP_001080038,Xenopus laevis (African clawed frog),solute carrier family 18 member A2 L homeolog,475,164,,169,306
+ERGKVM,200..205,NP_001080038,Xenopus laevis (African clawed frog),solute carrier family 18 member A2 L homeolog,475,200,,205,270
+DPYILV,275..280,NP_001080038,Xenopus laevis (African clawed frog),solute carrier family 18 member A2 L homeolog,475,275,,280,195
+EEKMAI,478..483,NP_037163,Rattus norvegicus (Norway rat),synaptic vesicular amine transporter,515,478,,483,32
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+DSTPLL,18..23,NP_001164764,Oryctolagus cuniculus (rabbit),sialin,495,18,,23,472
+ETQGWI,106..111,NP_001164764,Oryctolagus cuniculus (rabbit),sialin,495,106,,111,384
+ERSKLL,194..199,NP_001164764,Oryctolagus cuniculus (rabbit),sialin,495,194,,199,296
+EKEYIL,262..267,NP_001164764,Oryctolagus cuniculus (rabbit),sialin,495,262,,267,228
+DYSLAV,388..393,NP_001164764,Oryctolagus cuniculus (rabbit),sialin,495,388,,393,102
+EEKMAI,480..485,NP_777078,Bos taurus (cattle),synaptic vesicular amine transporter,517,480,,485,32
+EEKMAI,478..483,NP_001243154,Danio rerio (zebrafish),synaptic vesicular amine transporter,515,478,,483,32
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+EQPLLL,14..19,NP_001167306,Salmo salar (Atlantic salmon),sialin,492,14,,19,473
+ETQGWI,102..107,NP_001167306,Salmo salar (Atlantic salmon),sialin,492,102,,107,385
+ERSRLL,190..195,NP_001167306,Salmo salar (Atlantic salmon),sialin,492,190,,195,297
+DWTWVF,221..226,NP_001167306,Salmo salar (Atlantic salmon),sialin,492,221,,226,266
+EQERLY,256..261,NP_001167306,Salmo salar (Atlantic salmon),sialin,492,256,,261,231
+EEKMAI,480..485,NP_001302583,Sus scrofa (pig),synaptic vesicular amine transporter,517,480,,485,32
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+DRTPLL,18..23,NP_001192903,Bos taurus (cattle),sialin,495,18,,23,472
+ETQGWI,106..111,NP_001192903,Bos taurus (cattle),sialin,495,106,,111,384
+ERSKLL,194..199,NP_001192903,Bos taurus (cattle),sialin,495,194,,199,296
+EKEYIL,262..267,NP_001192903,Bos taurus (cattle),sialin,495,262,,267,228
+DYSLAV,388..393,NP_001192903,Bos taurus (cattle),sialin,495,388,,393,102
+EEKMAI,480..485,XP_002807513,Callithrix jacchus (white-tufted-ear marmoset),synaptic vesicular amine transporter,517,480,,485,32
+EEKMAI,477..482,XP_003255054,Nomascus leucogenys (northern white-cheeked gibbon),synaptic vesicular amine transporter,514,477,,482,32
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+EAAQMV,58..63,NP_001243154,Danio rerio (zebrafish),synaptic vesicular amine transporter,515,58,,63,452
+ERGNAI,217..222,NP_001243154,Danio rerio (zebrafish),synaptic vesicular amine transporter,515,217,,222,293
+DPYILI,292..297,NP_001243154,Danio rerio (zebrafish),synaptic vesicular amine transporter,515,292,,297,218
+DIYGLI,381..386,NP_001243154,Danio rerio (zebrafish),synaptic vesicular amine transporter,515,381,,386,129
+EEKMAI,477..482,XP_004050210,Gorilla gorilla gorilla (western lowland gorilla),synaptic vesicular amine transporter,514,477,,482,32
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+DRTPLL,18..23,NP_001247561,Macaca mulatta (Rhesus monkey),sialin,495,18,,23,472
+ETQGWI,106..111,NP_001247561,Macaca mulatta (Rhesus monkey),sialin,495,106,,111,384
+ERSKLL,194..199,NP_001247561,Macaca mulatta (Rhesus monkey),sialin,495,194,,199,296
+EKEYIL,262..267,NP_001247561,Macaca mulatta (Rhesus monkey),sialin,495,262,,267,228
+DYSLAV,388..393,NP_001247561,Macaca mulatta (Rhesus monkey),sialin,495,388,,393,102
+EEKMAI,481..486,XP_006183531,Camelus ferus (Wild Bactrian camel),synaptic vesicular amine transporter,518,481,,486,32
+EEKMAI,450..455,XP_006200296,Vicugna pacos (alpaca),synaptic vesicular amine transporter,487,450,,455,32
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+DNSTMA,83..88,NP_001302583,Sus scrofa (pig),synaptic vesicular amine transporter,517,83,,88,429
+EDKDLL,123..128,NP_001302583,Sus scrofa (pig),synaptic vesicular amine transporter,517,123,,128,389
+ERGNAM,219..224,NP_001302583,Sus scrofa (pig),synaptic vesicular amine transporter,517,219,,224,293
+DPYILI,294..299,NP_001302583,Sus scrofa (pig),synaptic vesicular amine transporter,517,294,,299,218
+EEKMAI,480..485,XP_008488333,Calypte anna (Anna's hummingbird),synaptic vesicular amine transporter,517,480,,485,32
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+EAAGAA,30..35,XP_543901,Canis lupus familiaris (dog),vesicular acetylcholine transporter,528,30,,35,493
+DNMLYM,57..62,XP_543901,Canis lupus familiaris (dog),vesicular acetylcholine transporter,528,57,,62,466
+ESPTAA,107..112,XP_543901,Canis lupus familiaris (dog),vesicular acetylcholine transporter,528,107,,112,416
+DVPLLI,148..153,XP_543901,Canis lupus familiaris (dog),vesicular acetylcholine transporter,528,148,,153,375
+DYATLF,170..175,XP_543901,Canis lupus familiaris (dog),vesicular acetylcholine transporter,528,170,,175,353
+DTSGIA,189..194,XP_543901,Canis lupus familiaris (dog),vesicular acetylcholine transporter,528,189,,194,334
+ERSRAL,205..210,XP_543901,Canis lupus familiaris (dog),vesicular acetylcholine transporter,528,205,,210,318
+DALLLL,251..256,XP_543901,Canis lupus familiaris (dog),vesicular acetylcholine transporter,528,251,,256,272
+DPYIAV,284..289,XP_543901,Canis lupus familiaris (dog),vesicular acetylcholine transporter,528,284,,289,239
+EHTMAA,313..318,XP_543901,Canis lupus familiaris (dog),vesicular acetylcholine transporter,528,313,,318,210
+ETGMAW,322..327,XP_543901,Canis lupus familiaris (dog),vesicular acetylcholine transporter,528,322,,327,201
+EEKMAI,455..460,XP_010632962,Fukomys damarensis (Damara mole-rat),synaptic vesicular amine transporter,492,455,,460,32
+EEKMAI,481..486,XP_010985508,Camelus dromedarius (Arabian camel),synaptic vesicular amine transporter,518,481,,486,32
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+DNMLYM,46..51,XP_001107292,Macaca mulatta (Rhesus monkey),vesicular acetylcholine transporter,532,46,,51,481
+DVPLLI,152..157,XP_001107292,Macaca mulatta (Rhesus monkey),vesicular acetylcholine transporter,532,152,,157,375
+DYATLF,174..179,XP_001107292,Macaca mulatta (Rhesus monkey),vesicular acetylcholine transporter,532,174,,179,353
+DTSGIA,193..198,XP_001107292,Macaca mulatta (Rhesus monkey),vesicular acetylcholine transporter,532,193,,198,334
+ERSRAL,209..214,XP_001107292,Macaca mulatta (Rhesus monkey),vesicular acetylcholine transporter,532,209,,214,318
+DALLLL,255..260,XP_001107292,Macaca mulatta (Rhesus monkey),vesicular acetylcholine transporter,532,255,,260,272
+DPYIAV,288..293,XP_001107292,Macaca mulatta (Rhesus monkey),vesicular acetylcholine transporter,532,288,,293,239
+EMGMAW,326..331,XP_001107292,Macaca mulatta (Rhesus monkey),vesicular acetylcholine transporter,532,326,,331,201
+EEKMAI,487..492,XP_019902634,Esox lucius (northern pike),synaptic vesicular amine transporter,522,487,,492,30
+EEKMAI,477..482,XP_026799855,Pangasianodon hypophthalmus (striped catfish),synaptic vesicular amine transporter,514,477,,482,32
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+EAVGAA,19..24,XP_001138996,Pan troglodytes (chimpanzee),vesicular acetylcholine transporter,532,19,,24,508
+DNMLYM,46..51,XP_001138996,Pan troglodytes (chimpanzee),vesicular acetylcholine transporter,532,46,,51,481
+DVPLLI,152..157,XP_001138996,Pan troglodytes (chimpanzee),vesicular acetylcholine transporter,532,152,,157,375
+DYATLF,174..179,XP_001138996,Pan troglodytes (chimpanzee),vesicular acetylcholine transporter,532,174,,179,353
+DTSGIA,193..198,XP_001138996,Pan troglodytes (chimpanzee),vesicular acetylcholine transporter,532,193,,198,334
+ERSRAL,209..214,XP_001138996,Pan troglodytes (chimpanzee),vesicular acetylcholine transporter,532,209,,214,318
+DALLLL,255..260,XP_001138996,Pan troglodytes (chimpanzee),vesicular acetylcholine transporter,532,255,,260,272
+DPYIAV,288..293,XP_001138996,Pan troglodytes (chimpanzee),vesicular acetylcholine transporter,532,288,,293,239
+EMGMAW,326..331,XP_001138996,Pan troglodytes (chimpanzee),vesicular acetylcholine transporter,532,326,,331,201
+EEKMAI,480..485,XP_030060607,Microcaecilia unicolor,synaptic vesicular amine transporter,517,480,,485,32
+EEKMAI,480..485,XP_031691641,Oncorhynchus kisutch (coho salmon),synaptic vesicular amine transporter,516,480,,485,31
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+DNMLYM,44..49,XP_001519989,Ornithorhynchus anatinus (platypus),vesicular acetylcholine transporter,555,44,,49,506
+DAPLLI,112..117,XP_001519989,Ornithorhynchus anatinus (platypus),vesicular acetylcholine transporter,555,112,,117,438
+EDYAAL,133..138,XP_001519989,Ornithorhynchus anatinus (platypus),vesicular acetylcholine transporter,555,133,,138,417
+DTSGIA,153..158,XP_001519989,Ornithorhynchus anatinus (platypus),vesicular acetylcholine transporter,555,153,,158,397
+ERSRAL,169..174,XP_001519989,Ornithorhynchus anatinus (platypus),vesicular acetylcholine transporter,555,169,,174,381
+DGLLLL,215..220,XP_001519989,Ornithorhynchus anatinus (platypus),vesicular acetylcholine transporter,555,215,,220,335
+DPYVAV,248..253,XP_001519989,Ornithorhynchus anatinus (platypus),vesicular acetylcholine transporter,555,248,,253,302
+EPTVAA,269..274,XP_001519989,Ornithorhynchus anatinus (platypus),vesicular acetylcholine transporter,555,269,,274,281
+EREILL,441..446,XP_001519989,Ornithorhynchus anatinus (platypus),vesicular acetylcholine transporter,555,441,,446,109
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+EAVGAA,19..24,XP_002699016,Bos taurus (cattle),vesicular acetylcholine transporter,524,19,,24,500
+DNMLYM,46..51,XP_002699016,Bos taurus (cattle),vesicular acetylcholine transporter,524,46,,51,473
+EPPTAA,91..96,XP_002699016,Bos taurus (cattle),vesicular acetylcholine transporter,524,91,,96,428
+DLPLLL,144..149,XP_002699016,Bos taurus (cattle),vesicular acetylcholine transporter,524,144,,149,375
+DYATLF,166..171,XP_002699016,Bos taurus (cattle),vesicular acetylcholine transporter,524,166,,171,353
+DTSGIA,185..190,XP_002699016,Bos taurus (cattle),vesicular acetylcholine transporter,524,185,,190,334
+ERSRAL,201..206,XP_002699016,Bos taurus (cattle),vesicular acetylcholine transporter,524,201,,206,318
+DALLLL,247..252,XP_002699016,Bos taurus (cattle),vesicular acetylcholine transporter,524,247,,252,272
+DPYIAV,280..285,XP_002699016,Bos taurus (cattle),vesicular acetylcholine transporter,524,280,,285,239
+ERTMAA,309..314,XP_002699016,Bos taurus (cattle),vesicular acetylcholine transporter,524,309,,314,210
+EAGIAW,318..323,XP_002699016,Bos taurus (cattle),vesicular acetylcholine transporter,524,318,,323,201
+EEKMAI,480..485,XP_032167931,Mustela erminea (ermine),synaptic vesicular amine transporter,517,480,,485,32
+EEKMAI,480..485,XP_032278889,Phoca vitulina (harbor seal),synaptic vesicular amine transporter,517,480,,485,32
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+DNSTMV,83..88,XP_002807513,Callithrix jacchus (white-tufted-ear marmoset),synaptic vesicular amine transporter,517,83,,88,429
+EDKDLL,123..128,XP_002807513,Callithrix jacchus (white-tufted-ear marmoset),synaptic vesicular amine transporter,517,123,,128,389
+ERGNAM,219..224,XP_002807513,Callithrix jacchus (white-tufted-ear marmoset),synaptic vesicular amine transporter,517,219,,224,293
+DPYILI,294..299,XP_002807513,Callithrix jacchus (white-tufted-ear marmoset),synaptic vesicular amine transporter,517,294,,299,218
+EEKMAI,480..485,XP_032636684,Chelonoidis abingdonii (Abingdon island giant tortoise),synaptic vesicular amine transporter,519,480,,485,34
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+DNLTMV,83..88,XP_003255054,Nomascus leucogenys (northern white-cheeked gibbon),synaptic vesicular amine transporter,514,83,,88,426
+EDKDLL,120..125,XP_003255054,Nomascus leucogenys (northern white-cheeked gibbon),synaptic vesicular amine transporter,514,120,,125,389
+ERGNVM,216..221,XP_003255054,Nomascus leucogenys (northern white-cheeked gibbon),synaptic vesicular amine transporter,514,216,,221,293
+DPYILI,291..296,XP_003255054,Nomascus leucogenys (northern white-cheeked gibbon),synaptic vesicular amine transporter,514,291,,296,218
+EEKMAI,480..485,XP_032734779,Lontra canadensis (Northern American river otter),synaptic vesicular amine transporter,517,480,,485,32
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+DSTPLL,18..23,XP_003503243,Cricetulus griseus (Chinese hamster),sialin,495,18,,23,472
+ETQGWI,106..111,XP_003503243,Cricetulus griseus (Chinese hamster),sialin,495,106,,111,384
+DLGVVA,158..163,XP_003503243,Cricetulus griseus (Chinese hamster),sialin,495,158,,163,332
+ERSKLL,194..199,XP_003503243,Cricetulus griseus (Chinese hamster),sialin,495,194,,199,296
+EKEYIV,262..267,XP_003503243,Cricetulus griseus (Chinese hamster),sialin,495,262,,267,228
+DYSLAV,388..393,XP_003503243,Cricetulus griseus (Chinese hamster),sialin,495,388,,393,102
+EEKMAI,478..483,XP_032748120,Rattus rattus (black rat),synaptic vesicular amine transporter,515,478,,483,32
+EEKMAI,480..485,XP_032844634,Tyto alba alba,synaptic vesicular amine transporter,519,480,,485,34
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+DNSTMV,83..88,XP_003825679,Pan paniscus (pygmy chimpanzee),synaptic vesicular amine transporter isoform X1,514,83,,88,426
+EDKDLL,120..125,XP_003825679,Pan paniscus (pygmy chimpanzee),synaptic vesicular amine transporter isoform X1,514,120,,125,389
+ERGNVM,216..221,XP_003825679,Pan paniscus (pygmy chimpanzee),synaptic vesicular amine transporter isoform X1,514,216,,221,293
+DPYILI,291..296,XP_003825679,Pan paniscus (pygmy chimpanzee),synaptic vesicular amine transporter isoform X1,514,291,,296,218
+EEKMAI,480..485,XP_032987258,Rhinolophus ferrumequinum (greater horseshoe bat),synaptic vesicular amine transporter,516,480,,485,31
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+EAVGAA,19..24,XP_003903673,Papio anubis (olive baboon),vesicular acetylcholine transporter,532,19,,24,508
+DNMLYM,46..51,XP_003903673,Papio anubis (olive baboon),vesicular acetylcholine transporter,532,46,,51,481
+DVPLLI,152..157,XP_003903673,Papio anubis (olive baboon),vesicular acetylcholine transporter,532,152,,157,375
+DYATLF,174..179,XP_003903673,Papio anubis (olive baboon),vesicular acetylcholine transporter,532,174,,179,353
+DTSGIA,193..198,XP_003903673,Papio anubis (olive baboon),vesicular acetylcholine transporter,532,193,,198,334
+ERSRAL,209..214,XP_003903673,Papio anubis (olive baboon),vesicular acetylcholine transporter,532,209,,214,318
+DALLLL,255..260,XP_003903673,Papio anubis (olive baboon),vesicular acetylcholine transporter,532,255,,260,272
+DPYIAV,288..293,XP_003903673,Papio anubis (olive baboon),vesicular acetylcholine transporter,532,288,,293,239
+EMGMAW,326..331,XP_003903673,Papio anubis (olive baboon),vesicular acetylcholine transporter,532,326,,331,201
+EEKIAI,479..484,XP_033469347,Epinephelus lanceolatus (giant grouper),synaptic vesicular amine transporter,517,479,,484,33
+EEKMAI,480..485,XP_034041067,Thalassophryne amazonica,synaptic vesicular amine transporter,512,480,,485,27
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+EAMGAV,19..24,XP_003994226,Felis catus (domestic cat),vesicular acetylcholine transporter,514,19,,24,490
+DNMLYM,46..51,XP_003994226,Felis catus (domestic cat),vesicular acetylcholine transporter,514,46,,51,463
+DVPLLI,134..139,XP_003994226,Felis catus (domestic cat),vesicular acetylcholine transporter,514,134,,139,375
+EDYAML,155..160,XP_003994226,Felis catus (domestic cat),vesicular acetylcholine transporter,514,155,,160,354
+DTSGIA,175..180,XP_003994226,Felis catus (domestic cat),vesicular acetylcholine transporter,514,175,,180,334
+ERSRAL,191..196,XP_003994226,Felis catus (domestic cat),vesicular acetylcholine transporter,514,191,,196,318
+DALLLL,237..242,XP_003994226,Felis catus (domestic cat),vesicular acetylcholine transporter,514,237,,242,272
+DPYIAV,270..275,XP_003994226,Felis catus (domestic cat),vesicular acetylcholine transporter,514,270,,275,239
+EHTMAA,299..304,XP_003994226,Felis catus (domestic cat),vesicular acetylcholine transporter,514,299,,304,210
+EEKMAI,482..487,XP_034296122,Pantherophis guttatus,synaptic vesicular amine transporter,521,482,,487,34
+EEKMAI,480..485,XP_034350778,Arvicanthis niloticus (African grass rat),synaptic vesicular amine transporter,517,480,,485,32
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+EAVGAA,19..24,XP_004049445,Gorilla gorilla gorilla (western lowland gorilla),vesicular acetylcholine transporter,532,19,,24,508
+DNMLYM,46..51,XP_004049445,Gorilla gorilla gorilla (western lowland gorilla),vesicular acetylcholine transporter,532,46,,51,481
+DVPLLI,152..157,XP_004049445,Gorilla gorilla gorilla (western lowland gorilla),vesicular acetylcholine transporter,532,152,,157,375
+DYATLF,174..179,XP_004049445,Gorilla gorilla gorilla (western lowland gorilla),vesicular acetylcholine transporter,532,174,,179,353
+DTSGIA,193..198,XP_004049445,Gorilla gorilla gorilla (western lowland gorilla),vesicular acetylcholine transporter,532,193,,198,334
+ERSRAL,209..214,XP_004049445,Gorilla gorilla gorilla (western lowland gorilla),vesicular acetylcholine transporter,532,209,,214,318
+DALLLL,255..260,XP_004049445,Gorilla gorilla gorilla (western lowland gorilla),vesicular acetylcholine transporter,532,255,,260,272
+DPYIAV,288..293,XP_004049445,Gorilla gorilla gorilla (western lowland gorilla),vesicular acetylcholine transporter,532,288,,293,239
+EMGMAW,326..331,XP_004049445,Gorilla gorilla gorilla (western lowland gorilla),vesicular acetylcholine transporter,532,326,,331,201
+EEKIAI,479..484,XP_034464985,Hippoglossus hippoglossus (Atlantic halibut),synaptic vesicular amine transporter,517,479,,484,33
+EEKMAI,479..484,XP_034885806,Mirounga leonina (Southern elephant seal),synaptic vesicular amine transporter,516,479,,484,32
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+DNSTMV,83..88,XP_004050210,Gorilla gorilla gorilla (western lowland gorilla),synaptic vesicular amine transporter,514,83,,88,426
+EDKDLL,120..125,XP_004050210,Gorilla gorilla gorilla (western lowland gorilla),synaptic vesicular amine transporter,514,120,,125,389
+ERGNVM,216..221,XP_004050210,Gorilla gorilla gorilla (western lowland gorilla),synaptic vesicular amine transporter,514,216,,221,293
+DPYILI,291..296,XP_004050210,Gorilla gorilla gorilla (western lowland gorilla),synaptic vesicular amine transporter,514,291,,296,218
+EEKIAI,479..484,XP_035027581,Hippoglossus stenolepis (Pacific halibut),synaptic vesicular amine transporter,517,479,,484,33
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+EAVGAA,19..24,XP_004286432,Orcinus orca (killer whale),vesicular acetylcholine transporter,528,19,,24,504
+DNMLYM,46..51,XP_004286432,Orcinus orca (killer whale),vesicular acetylcholine transporter,528,46,,51,477
+ESSTAA,96..101,XP_004286432,Orcinus orca (killer whale),vesicular acetylcholine transporter,528,96,,101,427
+DLPLLM,149..154,XP_004286432,Orcinus orca (killer whale),vesicular acetylcholine transporter,528,149,,154,374
+DYATLF,171..176,XP_004286432,Orcinus orca (killer whale),vesicular acetylcholine transporter,528,171,,176,352
+DTSGIA,190..195,XP_004286432,Orcinus orca (killer whale),vesicular acetylcholine transporter,528,190,,195,333
+ERSRAL,206..211,XP_004286432,Orcinus orca (killer whale),vesicular acetylcholine transporter,528,206,,211,317
+DALLLL,252..257,XP_004286432,Orcinus orca (killer whale),vesicular acetylcholine transporter,528,252,,257,271
+DPYIAV,285..290,XP_004286432,Orcinus orca (killer whale),vesicular acetylcholine transporter,528,285,,290,238
+EHTMAA,314..319,XP_004286432,Orcinus orca (killer whale),vesicular acetylcholine transporter,528,314,,319,209
+DAGIAW,323..328,XP_004286432,Orcinus orca (killer whale),vesicular acetylcholine transporter,528,323,,328,200
+EEKMAI,481..486,XP_035255488,Anguilla anguilla (European eel),synaptic vesicular amine transporter,519,481,,486,33
+EEKMAI,477..482,XP_003825679,Pan paniscus (pygmy chimpanzee),synaptic vesicular amine transporter isoform X1,514,477,,482,32
+EEKMAI,481..486,XP_027785788,Marmota flaviventris (yellow-bellied marmot),synaptic vesicular amine transporter isoform X1,518,481,,486,32
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+DPYIAV,29..34,XP_005236815,Falco peregrinus (peregrine falcon),vesicular acetylcholine transporter,281,29,,34,247
+EEKIAI,479..484,XP_031728942,Anarrhichthys ocellatus (wolf-eel),synaptic vesicular amine transporter isoform X1,517,479,,484,33
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+EAVGAA,19..24,XP_005615273,Equus caballus (horse),vesicular acetylcholine transporter,528,19,,24,504
+DNMLYM,46..51,XP_005615273,Equus caballus (horse),vesicular acetylcholine transporter,528,46,,51,477
+ESPTAA,96..101,XP_005615273,Equus caballus (horse),vesicular acetylcholine transporter,528,96,,101,427
+DVPLLI,149..154,XP_005615273,Equus caballus (horse),vesicular acetylcholine transporter,528,149,,154,374
+DYATLF,171..176,XP_005615273,Equus caballus (horse),vesicular acetylcholine transporter,528,171,,176,352
+DTSGIA,190..195,XP_005615273,Equus caballus (horse),vesicular acetylcholine transporter,528,190,,195,333
+ERSRAL,206..211,XP_005615273,Equus caballus (horse),vesicular acetylcholine transporter,528,206,,211,317
+DAVLLL,252..257,XP_005615273,Equus caballus (horse),vesicular acetylcholine transporter,528,252,,257,271
+DPYIAV,285..290,XP_005615273,Equus caballus (horse),vesicular acetylcholine transporter,528,285,,290,238
+EVGMAW,323..328,XP_005615273,Equus caballus (horse),vesicular acetylcholine transporter,528,323,,328,200
+EEKMAI,480..485,XP_032463277,Phocoena sinus (vaquita),synaptic vesicular amine transporter isoform X1,517,480,,485,32
+EEKMAI,480..485,XP_033276842,Orcinus orca (killer whale),synaptic vesicular amine transporter isoform X1,517,480,,485,32
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+DNSTMV,83..88,XP_006183531,Camelus ferus (Wild Bactrian camel),synaptic vesicular amine transporter,518,83,,88,430
+EDKDLL,124..129,XP_006183531,Camelus ferus (Wild Bactrian camel),synaptic vesicular amine transporter,518,124,,129,389
+ERGNAM,220..225,XP_006183531,Camelus ferus (Wild Bactrian camel),synaptic vesicular amine transporter,518,220,,225,293
+DPYILI,295..300,XP_006183531,Camelus ferus (Wild Bactrian camel),synaptic vesicular amine transporter,518,295,,300,218
+EEKMAI,485..490,XP_035297632,Cricetulus griseus (Chinese hamster),synaptic vesicular amine transporter isoform X2,522,485,,490,32
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+EAVGAA,19..24,XP_006188855,Camelus ferus (Wild Bactrian camel),vesicular acetylcholine transporter,528,19,,24,504
+DNMLYM,46..51,XP_006188855,Camelus ferus (Wild Bactrian camel),vesicular acetylcholine transporter,528,46,,51,477
+DLPLLM,149..154,XP_006188855,Camelus ferus (Wild Bactrian camel),vesicular acetylcholine transporter,528,149,,154,374
+EGYAML,170..175,XP_006188855,Camelus ferus (Wild Bactrian camel),vesicular acetylcholine transporter,528,170,,175,353
+DTSSIA,190..195,XP_006188855,Camelus ferus (Wild Bactrian camel),vesicular acetylcholine transporter,528,190,,195,333
+ERSRAL,206..211,XP_006188855,Camelus ferus (Wild Bactrian camel),vesicular acetylcholine transporter,528,206,,211,317
+DALLLL,252..257,XP_006188855,Camelus ferus (Wild Bactrian camel),vesicular acetylcholine transporter,528,252,,257,271
+DPYIAV,285..290,XP_006188855,Camelus ferus (Wild Bactrian camel),vesicular acetylcholine transporter,528,285,,290,238
+ETGLAW,323..328,XP_006188855,Camelus ferus (Wild Bactrian camel),vesicular acetylcholine transporter,528,323,,328,200
+ERDVLL,481..486,NP_003046,Homo sapiens (human),vesicular acetylcholine transporter,532,481,,486,46
+DDYNYY,523..528,NP_003046,Homo sapiens (human),vesicular acetylcholine transporter,532,523,,528,4
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+DNSTMV,83..88,XP_006200296,Vicugna pacos (alpaca),synaptic vesicular amine transporter,487,83,,88,399
+EDKDLL,123..128,XP_006200296,Vicugna pacos (alpaca),synaptic vesicular amine transporter,487,123,,128,359
+ERGNAM,219..224,XP_006200296,Vicugna pacos (alpaca),synaptic vesicular amine transporter,487,219,,224,263
+DPYILV,264..269,XP_006200296,Vicugna pacos (alpaca),synaptic vesicular amine transporter,487,264,,269,218
+ERDVLL,481..486,NP_068358,Mus musculus (house mouse),vesicular acetylcholine transporter,530,481,,486,44
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+EAVGAA,19..24,XP_006216153,Vicugna pacos (alpaca),vesicular acetylcholine transporter,528,19,,24,504
+DNMLYM,46..51,XP_006216153,Vicugna pacos (alpaca),vesicular acetylcholine transporter,528,46,,51,477
+DLPLLM,149..154,XP_006216153,Vicugna pacos (alpaca),vesicular acetylcholine transporter,528,149,,154,374
+EGYAML,170..175,XP_006216153,Vicugna pacos (alpaca),vesicular acetylcholine transporter,528,170,,175,353
+DTSSIA,190..195,XP_006216153,Vicugna pacos (alpaca),vesicular acetylcholine transporter,528,190,,195,333
+ERSRAL,206..211,XP_006216153,Vicugna pacos (alpaca),vesicular acetylcholine transporter,528,206,,211,317
+DALLLL,252..257,XP_006216153,Vicugna pacos (alpaca),vesicular acetylcholine transporter,528,252,,257,271
+DPYIAV,285..290,XP_006216153,Vicugna pacos (alpaca),vesicular acetylcholine transporter,528,285,,290,238
+ETGLAW,323..328,XP_006216153,Vicugna pacos (alpaca),vesicular acetylcholine transporter,528,323,,328,200
+DDYNYY,522..527,NP_068358,Mus musculus (house mouse),vesicular acetylcholine transporter,530,522,,527,3
+ERDVLL,481..486,NP_113851,Rattus norvegicus (Norway rat),vesicular acetylcholine transporter,530,481,,486,44
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+DNMLYM,13..18,XP_007442165,Python bivittatus (Burmese python),vesicular acetylcholine transporter, partial,13,,18,#VALUE!
+DRMGYV,100..105,XP_007442165,Python bivittatus (Burmese python),vesicular acetylcholine transporter, partial,100,,105,#VALUE!
+DTSGIA,146..151,XP_007442165,Python bivittatus (Burmese python),vesicular acetylcholine transporter, partial,146,,151,#VALUE!
+ERNRAL,162..167,XP_007442165,Python bivittatus (Burmese python),vesicular acetylcholine transporter, partial,162,,167,#VALUE!
+ESPFLV,195..200,XP_007442165,Python bivittatus (Burmese python),vesicular acetylcholine transporter, partial,195,,200,#VALUE!
+DGLLLL,208..213,XP_007442165,Python bivittatus (Burmese python),vesicular acetylcholine transporter, partial,208,,213,#VALUE!
+DPYIAV,239..244,XP_007442165,Python bivittatus (Burmese python),vesicular acetylcholine transporter, partial,239,,244,#VALUE!
+EPTIAI,260..265,XP_007442165,Python bivittatus (Burmese python),vesicular acetylcholine transporter, partial,260,,265,#VALUE!
+ERNILL,432..437,XP_007442165,Python bivittatus (Burmese python),vesicular acetylcholine transporter, partial,432,,437,#VALUE!
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+DNSTML,83..88,XP_008488333,Calypte anna (Anna's hummingbird),synaptic vesicular amine transporter,517,83,,88,429
+EDKDLL,123..128,XP_008488333,Calypte anna (Anna's hummingbird),synaptic vesicular amine transporter,517,123,,128,389
+ERGNAM,219..224,XP_008488333,Calypte anna (Anna's hummingbird),synaptic vesicular amine transporter,517,219,,224,293
+DPYIII,294..299,XP_008488333,Calypte anna (Anna's hummingbird),synaptic vesicular amine transporter,517,294,,299,218
+DDYNYY,522..527,NP_113851,Rattus norvegicus (Norway rat),vesicular acetylcholine transporter,530,522,,527,3
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+DNSTVV,57..62,XP_010632962,Fukomys damarensis (Damara mole-rat),synaptic vesicular amine transporter,492,57,,62,430
+EDKDLL,98..103,XP_010632962,Fukomys damarensis (Damara mole-rat),synaptic vesicular amine transporter,492,98,,103,389
+ERGNAM,194..199,XP_010632962,Fukomys damarensis (Damara mole-rat),synaptic vesicular amine transporter,492,194,,199,293
+DPYILI,269..274,XP_010632962,Fukomys damarensis (Damara mole-rat),synaptic vesicular amine transporter,492,269,,274,218
+ERNILL,462..467,NP_996865,Gallus gallus (chicken),vesicular acetylcholine transporter,522,462,,467,55
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+ETQGWI,103..108,XP_010744211,Larimichthys crocea (large yellow croaker),sialin,493,103,,108,385
+ERSRLL,191..196,XP_010744211,Larimichthys crocea (large yellow croaker),sialin,493,191,,196,297
+EICFYL,216..221,XP_010744211,Larimichthys crocea (large yellow croaker),sialin,493,216,,221,272
+DWTYVF,222..227,XP_010744211,Larimichthys crocea (large yellow croaker),sialin,493,222,,227,266
+DYTLAV,386..391,XP_010744211,Larimichthys crocea (large yellow croaker),sialin,493,386,,391,102
+ERDVLL,477..482,XP_543901,Canis lupus familiaris (dog),vesicular acetylcholine transporter,528,477,,482,46
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+EAVGAA,19..24,XP_010983622,Camelus dromedarius (Arabian camel),vesicular acetylcholine transporter,528,19,,24,504
+DNMLYM,46..51,XP_010983622,Camelus dromedarius (Arabian camel),vesicular acetylcholine transporter,528,46,,51,477
+DLPLLM,149..154,XP_010983622,Camelus dromedarius (Arabian camel),vesicular acetylcholine transporter,528,149,,154,374
+EGYAML,170..175,XP_010983622,Camelus dromedarius (Arabian camel),vesicular acetylcholine transporter,528,170,,175,353
+DTSSIA,190..195,XP_010983622,Camelus dromedarius (Arabian camel),vesicular acetylcholine transporter,528,190,,195,333
+ERSRAL,206..211,XP_010983622,Camelus dromedarius (Arabian camel),vesicular acetylcholine transporter,528,206,,211,317
+DALLLL,252..257,XP_010983622,Camelus dromedarius (Arabian camel),vesicular acetylcholine transporter,528,252,,257,271
+DPYIAV,285..290,XP_010983622,Camelus dromedarius (Arabian camel),vesicular acetylcholine transporter,528,285,,290,238
+ETGLAW,323..328,XP_010983622,Camelus dromedarius (Arabian camel),vesicular acetylcholine transporter,528,323,,328,200
+ECEDVY,516..521,XP_543901,Canis lupus familiaris (dog),vesicular acetylcholine transporter,528,516,,521,7
+ERDVLL,481..486,XP_001107292,Macaca mulatta (Rhesus monkey),vesicular acetylcholine transporter,532,481,,486,46
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+DNSTMV,83..88,XP_010985508,Camelus dromedarius (Arabian camel),synaptic vesicular amine transporter,518,83,,88,430
+EDKDLL,124..129,XP_010985508,Camelus dromedarius (Arabian camel),synaptic vesicular amine transporter,518,124,,129,389
+ERGNAM,220..225,XP_010985508,Camelus dromedarius (Arabian camel),synaptic vesicular amine transporter,518,220,,225,293
+DPYILI,295..300,XP_010985508,Camelus dromedarius (Arabian camel),synaptic vesicular amine transporter,518,295,,300,218
+DDYNYY,523..528,XP_001107292,Macaca mulatta (Rhesus monkey),vesicular acetylcholine transporter,532,523,,528,4
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+EAPLLA,48..53,XP_014164712,Geospiza fortis (medium ground-finch),vesicular acetylcholine transporter,435,48,,53,382
+DTAGIA,89..94,XP_014164712,Geospiza fortis (medium ground-finch),vesicular acetylcholine transporter,435,89,,94,341
+DGLMLL,151..156,XP_014164712,Geospiza fortis (medium ground-finch),vesicular acetylcholine transporter,435,151,,156,279
+DPYIAV,182..187,XP_014164712,Geospiza fortis (medium ground-finch),vesicular acetylcholine transporter,435,182,,187,248
+ERDVLL,481..486,XP_001138996,Pan troglodytes (chimpanzee),vesicular acetylcholine transporter,532,481,,486,46
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+DNMLYM,53..58,XP_015487989,Parus major (Great Tit),vesicular acetylcholine transporter,528,53,,58,470
+DYIAAM,66..71,XP_015487989,Parus major (Great Tit),vesicular acetylcholine transporter,528,66,,71,457
+ELPLLA,141..146,XP_015487989,Parus major (Great Tit),vesicular acetylcholine transporter,528,141,,146,382
+DTAGIA,182..187,XP_015487989,Parus major (Great Tit),vesicular acetylcholine transporter,528,182,,187,341
+DGLLLL,244..249,XP_015487989,Parus major (Great Tit),vesicular acetylcholine transporter,528,244,,249,279
+DPYIAV,275..280,XP_015487989,Parus major (Great Tit),vesicular acetylcholine transporter,528,275,,280,248
+DDYNYY,523..528,XP_001138996,Pan troglodytes (chimpanzee),vesicular acetylcholine transporter,532,523,,528,4
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+DNMLYM,53..58,XP_015721554,Coturnix japonica (Japanese quail),vesicular acetylcholine transporter,522,53,,58,464
+EYFAAV,66..71,XP_015721554,Coturnix japonica (Japanese quail),vesicular acetylcholine transporter,522,66,,71,451
+EAPLLA,135..140,XP_015721554,Coturnix japonica (Japanese quail),vesicular acetylcholine transporter,522,135,,140,382
+DTAGIA,176..181,XP_015721554,Coturnix japonica (Japanese quail),vesicular acetylcholine transporter,522,176,,181,341
+DGLLLL,238..243,XP_015721554,Coturnix japonica (Japanese quail),vesicular acetylcholine transporter,522,238,,243,279
+DPYIAV,269..274,XP_015721554,Coturnix japonica (Japanese quail),vesicular acetylcholine transporter,522,269,,274,248
+ERDVLL,473..478,XP_002699016,Bos taurus (cattle),vesicular acetylcholine transporter,524,473,,478,46
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+ERGNAI,226..231,XP_019902634,Esox lucius (northern pike),synaptic vesicular amine transporter,522,226,,231,291
+DPYILI,301..306,XP_019902634,Esox lucius (northern pike),synaptic vesicular amine transporter,522,301,,306,216
+DDYDYY,516..521,XP_002699016,Bos taurus (cattle),vesicular acetylcholine transporter,524,516,,521,3
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+EAAGAA,30..35,XP_025322134,Canis lupus dingo (dingo),vesicular acetylcholine transporter,528,30,,35,493
+DNMLYM,57..62,XP_025322134,Canis lupus dingo (dingo),vesicular acetylcholine transporter,528,57,,62,466
+ESPTAA,107..112,XP_025322134,Canis lupus dingo (dingo),vesicular acetylcholine transporter,528,107,,112,416
+DVPLLI,148..153,XP_025322134,Canis lupus dingo (dingo),vesicular acetylcholine transporter,528,148,,153,375
+DYATLF,170..175,XP_025322134,Canis lupus dingo (dingo),vesicular acetylcholine transporter,528,170,,175,353
+DTSGIA,189..194,XP_025322134,Canis lupus dingo (dingo),vesicular acetylcholine transporter,528,189,,194,334
+ERSRAL,205..210,XP_025322134,Canis lupus dingo (dingo),vesicular acetylcholine transporter,528,205,,210,318
+DALLLL,251..256,XP_025322134,Canis lupus dingo (dingo),vesicular acetylcholine transporter,528,251,,256,272
+DPYIAV,284..289,XP_025322134,Canis lupus dingo (dingo),vesicular acetylcholine transporter,528,284,,289,239
+EHTMAA,313..318,XP_025322134,Canis lupus dingo (dingo),vesicular acetylcholine transporter,528,313,,318,210
+ETGMAW,322..327,XP_025322134,Canis lupus dingo (dingo),vesicular acetylcholine transporter,528,322,,327,201
+ERDVLL,481..486,XP_003903673,Papio anubis (olive baboon),vesicular acetylcholine transporter,532,481,,486,46
+DDYNYY,523..528,XP_003903673,Papio anubis (olive baboon),vesicular acetylcholine transporter,532,523,,528,4
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+EAMGAV,19..24,XP_025736178,Callorhinus ursinus (northern fur seal),vesicular acetylcholine transporter,517,19,,24,493
+DNMLYM,46..51,XP_025736178,Callorhinus ursinus (northern fur seal),vesicular acetylcholine transporter,517,46,,51,466
+DVPLLI,137..142,XP_025736178,Callorhinus ursinus (northern fur seal),vesicular acetylcholine transporter,517,137,,142,375
+DYATLF,159..164,XP_025736178,Callorhinus ursinus (northern fur seal),vesicular acetylcholine transporter,517,159,,164,353
+DTSGIA,178..183,XP_025736178,Callorhinus ursinus (northern fur seal),vesicular acetylcholine transporter,517,178,,183,334
+ERSRAL,194..199,XP_025736178,Callorhinus ursinus (northern fur seal),vesicular acetylcholine transporter,517,194,,199,318
+DALLLL,240..245,XP_025736178,Callorhinus ursinus (northern fur seal),vesicular acetylcholine transporter,517,240,,245,272
+DPYIAV,273..278,XP_025736178,Callorhinus ursinus (northern fur seal),vesicular acetylcholine transporter,517,273,,278,239
+EHTMAA,302..307,XP_025736178,Callorhinus ursinus (northern fur seal),vesicular acetylcholine transporter,517,302,,307,210
+ERGMAW,311..316,XP_025736178,Callorhinus ursinus (northern fur seal),vesicular acetylcholine transporter,517,311,,316,201
+ERDVLL,463..468,XP_003994226,Felis catus (domestic cat),vesicular acetylcholine transporter,514,463,,468,46
+ECEDVY,502..507,XP_003994226,Felis catus (domestic cat),vesicular acetylcholine transporter,514,502,,507,7
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+EAMGAV,19..24,XP_025774133,Puma concolor (puma),vesicular acetylcholine transporter,514,19,,24,490
+DNMLYM,46..51,XP_025774133,Puma concolor (puma),vesicular acetylcholine transporter,514,46,,51,463
+DVPLLI,134..139,XP_025774133,Puma concolor (puma),vesicular acetylcholine transporter,514,134,,139,375
+EDYAML,155..160,XP_025774133,Puma concolor (puma),vesicular acetylcholine transporter,514,155,,160,354
+DTSGIA,175..180,XP_025774133,Puma concolor (puma),vesicular acetylcholine transporter,514,175,,180,334
+ERSRAL,191..196,XP_025774133,Puma concolor (puma),vesicular acetylcholine transporter,514,191,,196,318
+DALLLL,237..242,XP_025774133,Puma concolor (puma),vesicular acetylcholine transporter,514,237,,242,272
+DPYIAV,270..275,XP_025774133,Puma concolor (puma),vesicular acetylcholine transporter,514,270,,275,239
+EHTMAA,299..304,XP_025774133,Puma concolor (puma),vesicular acetylcholine transporter,514,299,,304,210
+ERDVLL,481..486,XP_004049445,Gorilla gorilla gorilla (western lowland gorilla),vesicular acetylcholine transporter,532,481,,486,46
+DYNHYY,524..529,XP_004049445,Gorilla gorilla gorilla (western lowland gorilla),vesicular acetylcholine transporter,532,524,,529,3
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+EAVGAA,4..9,XP_025851322,Vulpes vulpes (red fox),vesicular acetylcholine transporter, partial,4,,9,#VALUE!
+DNMLYM,31..36,XP_025851322,Vulpes vulpes (red fox),vesicular acetylcholine transporter, partial,31,,36,#VALUE!
+ESPTAA,81..86,XP_025851322,Vulpes vulpes (red fox),vesicular acetylcholine transporter, partial,81,,86,#VALUE!
+DVPLLI,122..127,XP_025851322,Vulpes vulpes (red fox),vesicular acetylcholine transporter, partial,122,,127,#VALUE!
+DYATLF,144..149,XP_025851322,Vulpes vulpes (red fox),vesicular acetylcholine transporter, partial,144,,149,#VALUE!
+DTSGIA,163..168,XP_025851322,Vulpes vulpes (red fox),vesicular acetylcholine transporter, partial,163,,168,#VALUE!
+ERSRAL,179..184,XP_025851322,Vulpes vulpes (red fox),vesicular acetylcholine transporter, partial,179,,184,#VALUE!
+DALLLL,225..230,XP_025851322,Vulpes vulpes (red fox),vesicular acetylcholine transporter, partial,225,,230,#VALUE!
+DPYIAV,258..263,XP_025851322,Vulpes vulpes (red fox),vesicular acetylcholine transporter, partial,258,,263,#VALUE!
+EHTMAA,287..292,XP_025851322,Vulpes vulpes (red fox),vesicular acetylcholine transporter, partial,287,,292,#VALUE!
+ETGMAW,296..301,XP_025851322,Vulpes vulpes (red fox),vesicular acetylcholine transporter, partial,296,,301,#VALUE!
+ERDVLL,451..456,XP_025851322,Vulpes vulpes (red fox),vesicular acetylcholine transporter, partial,451,,456,#VALUE!
+ECEDVY,490..495,XP_025851322,Vulpes vulpes (red fox),vesicular acetylcholine transporter, partial,490,,495,#VALUE!
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+DVPLLI,38..43,XP_025925734,Apteryx rowi (Okarito brown kiwi),vesicular acetylcholine transporter, partial,38,,43,#VALUE!
+DTAGIA,79..84,XP_025925734,Apteryx rowi (Okarito brown kiwi),vesicular acetylcholine transporter, partial,79,,84,#VALUE!
+DGLLLL,141..146,XP_025925734,Apteryx rowi (Okarito brown kiwi),vesicular acetylcholine transporter, partial,141,,146,#VALUE!
+DPYIAV,172..177,XP_025925734,Apteryx rowi (Okarito brown kiwi),vesicular acetylcholine transporter, partial,172,,177,#VALUE!
+ERNILL,365..370,XP_025925734,Apteryx rowi (Okarito brown kiwi),vesicular acetylcholine transporter, partial,365,,370,#VALUE!
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+EALGAV,19..24,XP_026337281,Ursus arctos horribilis,vesicular acetylcholine transporter,517,19,,24,493
+DNMLYM,46..51,XP_026337281,Ursus arctos horribilis,vesicular acetylcholine transporter,517,46,,51,466
+DVPLLI,137..142,XP_026337281,Ursus arctos horribilis,vesicular acetylcholine transporter,517,137,,142,375
+DTSGIA,178..183,XP_026337281,Ursus arctos horribilis,vesicular acetylcholine transporter,517,178,,183,334
+ERSRAL,194..199,XP_026337281,Ursus arctos horribilis,vesicular acetylcholine transporter,517,194,,199,318
+DALLLL,240..245,XP_026337281,Ursus arctos horribilis,vesicular acetylcholine transporter,517,240,,245,272
+DPYIAV,273..278,XP_026337281,Ursus arctos horribilis,vesicular acetylcholine transporter,517,273,,278,239
+ERTMAA,302..307,XP_026337281,Ursus arctos horribilis,vesicular acetylcholine transporter,517,302,,307,210
+ETGMAW,311..316,XP_026337281,Ursus arctos horribilis,vesicular acetylcholine transporter,517,311,,316,201
+EQLSLV,446..451,XP_004286432,Orcinus orca (killer whale),vesicular acetylcholine transporter,528,446,,451,77
+ERDVLL,478..483,XP_004286432,Orcinus orca (killer whale),vesicular acetylcholine transporter,528,478,,483,45
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+DEASAA,57..62,XP_026799855,Pangasianodon hypophthalmus (striped catfish),synaptic vesicular amine transporter,514,57,,62,452
+ERGNAI,216..221,XP_026799855,Pangasianodon hypophthalmus (striped catfish),synaptic vesicular amine transporter,514,216,,221,293
+DPYILI,291..296,XP_026799855,Pangasianodon hypophthalmus (striped catfish),synaptic vesicular amine transporter,514,291,,296,218
+DIYGLI,380..385,XP_026799855,Pangasianodon hypophthalmus (striped catfish),synaptic vesicular amine transporter,514,380,,385,129
+DDYDYY,520..525,XP_004286432,Orcinus orca (killer whale),vesicular acetylcholine transporter,528,520,,525,3
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+ESAGLA,5..10,XP_026873242,Electrophorus electricus (electric eel),probable vesicular acetylcholine transporter-A,515,5,,10,505
+DNMLYM,52..57,XP_026873242,Electrophorus electricus (electric eel),probable vesicular acetylcholine transporter-A,515,52,,57,458
+DIPLLI,127..132,XP_026873242,Electrophorus electricus (electric eel),probable vesicular acetylcholine transporter-A,515,127,,132,383
+DTSGIA,168..173,XP_026873242,Electrophorus electricus (electric eel),probable vesicular acetylcholine transporter-A,515,168,,173,342
+ERSRAL,184..189,XP_026873242,Electrophorus electricus (electric eel),probable vesicular acetylcholine transporter-A,515,184,,189,326
+DPYIAV,261..266,XP_026873242,Electrophorus electricus (electric eel),probable vesicular acetylcholine transporter-A,515,261,,266,249
+ERNILL,222..227,XP_005236815,Falco peregrinus (peregrine falcon),vesicular acetylcholine transporter,281,222,,227,54
+ERDVLL,478..483,XP_005615273,Equus caballus (horse),vesicular acetylcholine transporter,528,478,,483,45
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+EAVGAA,19..24,XP_027245140,Cricetulus griseus (Chinese hamster),vesicular acetylcholine transporter,534,19,,24,510
+DNMLYM,46..51,XP_027245140,Cricetulus griseus (Chinese hamster),vesicular acetylcholine transporter,534,46,,51,483
+ESPTLA,69..74,XP_027245140,Cricetulus griseus (Chinese hamster),vesicular acetylcholine transporter,534,69,,74,460
+DVPLLI,152..157,XP_027245140,Cricetulus griseus (Chinese hamster),vesicular acetylcholine transporter,534,152,,157,377
+DYATLF,174..179,XP_027245140,Cricetulus griseus (Chinese hamster),vesicular acetylcholine transporter,534,174,,179,355
+DTSGIA,193..198,XP_027245140,Cricetulus griseus (Chinese hamster),vesicular acetylcholine transporter,534,193,,198,336
+ERSRAL,209..214,XP_027245140,Cricetulus griseus (Chinese hamster),vesicular acetylcholine transporter,534,209,,214,320
+DALLLL,255..260,XP_027245140,Cricetulus griseus (Chinese hamster),vesicular acetylcholine transporter,534,255,,260,274
+DPYIAV,288..293,XP_027245140,Cricetulus griseus (Chinese hamster),vesicular acetylcholine transporter,534,288,,293,241
+EMGMAW,326..331,XP_027245140,Cricetulus griseus (Chinese hamster),vesicular acetylcholine transporter,534,326,,331,203
+DDYDYY,520..525,XP_005615273,Equus caballus (horse),vesicular acetylcholine transporter,528,520,,525,3
+ERDVLL,478..483,XP_006188855,Camelus ferus (Wild Bactrian camel),vesicular acetylcholine transporter,528,478,,483,45
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+EAVGAA,19..24,XP_027386751,Bos indicus x Bos taurus (hybrid cattle),vesicular acetylcholine transporter,524,19,,24,500
+DNMLYM,46..51,XP_027386751,Bos indicus x Bos taurus (hybrid cattle),vesicular acetylcholine transporter,524,46,,51,473
+EPPTAA,91..96,XP_027386751,Bos indicus x Bos taurus (hybrid cattle),vesicular acetylcholine transporter,524,91,,96,428
+DLPLLL,144..149,XP_027386751,Bos indicus x Bos taurus (hybrid cattle),vesicular acetylcholine transporter,524,144,,149,375
+DYATLF,166..171,XP_027386751,Bos indicus x Bos taurus (hybrid cattle),vesicular acetylcholine transporter,524,166,,171,353
+DTSGIA,185..190,XP_027386751,Bos indicus x Bos taurus (hybrid cattle),vesicular acetylcholine transporter,524,185,,190,334
+ERSRAL,201..206,XP_027386751,Bos indicus x Bos taurus (hybrid cattle),vesicular acetylcholine transporter,524,201,,206,318
+DALLLL,247..252,XP_027386751,Bos indicus x Bos taurus (hybrid cattle),vesicular acetylcholine transporter,524,247,,252,272
+DPYIAV,280..285,XP_027386751,Bos indicus x Bos taurus (hybrid cattle),vesicular acetylcholine transporter,524,280,,285,239
+ERTMAA,309..314,XP_027386751,Bos indicus x Bos taurus (hybrid cattle),vesicular acetylcholine transporter,524,309,,314,210
+EAGIAW,318..323,XP_027386751,Bos indicus x Bos taurus (hybrid cattle),vesicular acetylcholine transporter,524,318,,323,201
+DGYDYY,520..525,XP_006188855,Camelus ferus (Wild Bactrian camel),vesicular acetylcholine transporter,528,520,,525,3
+ERDVLL,478..483,XP_006216153,Vicugna pacos (alpaca),vesicular acetylcholine transporter,528,478,,483,45
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+DNMLYM,53..58,XP_027505318,Corapipo altera (White-ruffed manakin),vesicular acetylcholine transporter,528,53,,58,470
+DYIAAM,66..71,XP_027505318,Corapipo altera (White-ruffed manakin),vesicular acetylcholine transporter,528,66,,71,457
+EVPLLA,141..146,XP_027505318,Corapipo altera (White-ruffed manakin),vesicular acetylcholine transporter,528,141,,146,382
+DTAGIA,182..187,XP_027505318,Corapipo altera (White-ruffed manakin),vesicular acetylcholine transporter,528,182,,187,341
+DGLLLL,244..249,XP_027505318,Corapipo altera (White-ruffed manakin),vesicular acetylcholine transporter,528,244,,249,279
+DPYIAV,275..280,XP_027505318,Corapipo altera (White-ruffed manakin),vesicular acetylcholine transporter,528,275,,280,248
+DGYDYY,520..525,XP_006216153,Vicugna pacos (alpaca),vesicular acetylcholine transporter,528,520,,525,3
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+DNSTMV,83..88,XP_027785788,Marmota flaviventris (yellow-bellied marmot),synaptic vesicular amine transporter isoform X1,518,83,,88,430
+EDKDLL,124..129,XP_027785788,Marmota flaviventris (yellow-bellied marmot),synaptic vesicular amine transporter isoform X1,518,124,,129,389
+ERGNAM,220..225,XP_027785788,Marmota flaviventris (yellow-bellied marmot),synaptic vesicular amine transporter isoform X1,518,220,,225,293
+DPYILI,295..300,XP_027785788,Marmota flaviventris (yellow-bellied marmot),synaptic vesicular amine transporter isoform X1,518,295,,300,218
+ERDVLL,478..483,XP_010983622,Camelus dromedarius (Arabian camel),vesicular acetylcholine transporter,528,478,,483,45
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+DNSTMV,83..88,XP_027785789,Marmota flaviventris (yellow-bellied marmot),synaptic vesicular amine transporter isoform X2,448,83,,88,360
+EDKDLL,124..129,XP_027785789,Marmota flaviventris (yellow-bellied marmot),synaptic vesicular amine transporter isoform X2,448,124,,129,319
+ERGNAM,220..225,XP_027785789,Marmota flaviventris (yellow-bellied marmot),synaptic vesicular amine transporter isoform X2,448,220,,225,223
+DDGDYV,308..313,XP_027785789,Marmota flaviventris (yellow-bellied marmot),synaptic vesicular amine transporter isoform X2,448,308,,313,135
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+EAVDAA,19..24,XP_027803746,Marmota flaviventris (yellow-bellied marmot),vesicular acetylcholine transporter,531,19,,24,507
+DNMLYM,46..51,XP_027803746,Marmota flaviventris (yellow-bellied marmot),vesicular acetylcholine transporter,531,46,,51,480
+DVPLLI,151..156,XP_027803746,Marmota flaviventris (yellow-bellied marmot),vesicular acetylcholine transporter,531,151,,156,375
+DYATLF,173..178,XP_027803746,Marmota flaviventris (yellow-bellied marmot),vesicular acetylcholine transporter,531,173,,178,353
+DTSGIA,192..197,XP_027803746,Marmota flaviventris (yellow-bellied marmot),vesicular acetylcholine transporter,531,192,,197,334
+ERSRAL,208..213,XP_027803746,Marmota flaviventris (yellow-bellied marmot),vesicular acetylcholine transporter,531,208,,213,318
+DALLLL,254..259,XP_027803746,Marmota flaviventris (yellow-bellied marmot),vesicular acetylcholine transporter,531,254,,259,272
+DPYIAV,287..292,XP_027803746,Marmota flaviventris (yellow-bellied marmot),vesicular acetylcholine transporter,531,287,,292,239
+EMGMAW,325..330,XP_027803746,Marmota flaviventris (yellow-bellied marmot),vesicular acetylcholine transporter,531,325,,330,201
+DGYDYY,520..525,XP_010983622,Camelus dromedarius (Arabian camel),vesicular acetylcholine transporter,528,520,,525,3
+ERNILL,375..380,XP_014164712,Geospiza fortis (medium ground-finch),vesicular acetylcholine transporter,435,375,,380,55
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+EAVGAA,19..24,XP_027818269,Ovis aries (sheep),vesicular acetylcholine transporter,524,19,,24,500
+DNMLYM,46..51,XP_027818269,Ovis aries (sheep),vesicular acetylcholine transporter,524,46,,51,473
+DLPLLL,144..149,XP_027818269,Ovis aries (sheep),vesicular acetylcholine transporter,524,144,,149,375
+DYATLF,166..171,XP_027818269,Ovis aries (sheep),vesicular acetylcholine transporter,524,166,,171,353
+DTSGIA,185..190,XP_027818269,Ovis aries (sheep),vesicular acetylcholine transporter,524,185,,190,334
+ERSRAL,201..206,XP_027818269,Ovis aries (sheep),vesicular acetylcholine transporter,524,201,,206,318
+DALLLL,247..252,XP_027818269,Ovis aries (sheep),vesicular acetylcholine transporter,524,247,,252,272
+DPYIAV,280..285,XP_027818269,Ovis aries (sheep),vesicular acetylcholine transporter,524,280,,285,239
+ERTMAA,309..314,XP_027818269,Ovis aries (sheep),vesicular acetylcholine transporter,524,309,,314,210
+EAGIAW,318..323,XP_027818269,Ovis aries (sheep),vesicular acetylcholine transporter,524,318,,323,201
+ERNILL,468..473,XP_015487989,Parus major (Great Tit),vesicular acetylcholine transporter,528,468,,473,55
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+ETQGWI,103..108,XP_028280030,Parambassis ranga (Indian glassy fish),sialin,493,103,,108,385
+ERSRLL,191..196,XP_028280030,Parambassis ranga (Indian glassy fish),sialin,493,191,,196,297
+EICFYL,216..221,XP_028280030,Parambassis ranga (Indian glassy fish),sialin,493,216,,221,272
+DWTYVF,222..227,XP_028280030,Parambassis ranga (Indian glassy fish),sialin,493,222,,227,266
+EGERLY,257..262,XP_028280030,Parambassis ranga (Indian glassy fish),sialin,493,257,,262,231
+ERNILL,462..467,XP_015721554,Coturnix japonica (Japanese quail),vesicular acetylcholine transporter,522,462,,467,55
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+DLGAAY,154..159,XP_028324943,Gouania willdenowi (blunt-snouted clingfish),sialin,492,154,,159,333
+ERSRLL,190..195,XP_028324943,Gouania willdenowi (blunt-snouted clingfish),sialin,492,190,,195,297
+EICFYL,215..220,XP_028324943,Gouania willdenowi (blunt-snouted clingfish),sialin,492,215,,220,272
+EQERLY,256..261,XP_028324943,Gouania willdenowi (blunt-snouted clingfish),sialin,492,256,,261,231
+ERDVLL,477..482,XP_025322134,Canis lupus dingo (dingo),vesicular acetylcholine transporter,528,477,,482,46
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+DNMLYM,54..59,XP_028585074,Podarcis muralis (Common wall lizard),vesicular acetylcholine transporter,545,54,,59,486
+DFVAAL,67..72,XP_028585074,Podarcis muralis (Common wall lizard),vesicular acetylcholine transporter,545,67,,72,473
+DTSGIA,199..204,XP_028585074,Podarcis muralis (Common wall lizard),vesicular acetylcholine transporter,545,199,,204,341
+ERNRAL,215..220,XP_028585074,Podarcis muralis (Common wall lizard),vesicular acetylcholine transporter,545,215,,220,325
+DGLLLL,261..266,XP_028585074,Podarcis muralis (Common wall lizard),vesicular acetylcholine transporter,545,261,,266,279
+DPYIVV,292..297,XP_028585074,Podarcis muralis (Common wall lizard),vesicular acetylcholine transporter,545,292,,297,248
+ECEDVY,516..521,XP_025322134,Canis lupus dingo (dingo),vesicular acetylcholine transporter,528,516,,521,7
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+EAVGAA,19..24,XP_028734145,Peromyscus leucopus (white-footed mouse),vesicular acetylcholine transporter,532,19,,24,508
+DNMLYM,46..51,XP_028734145,Peromyscus leucopus (white-footed mouse),vesicular acetylcholine transporter,532,46,,51,481
+ESPTLV,69..74,XP_028734145,Peromyscus leucopus (white-footed mouse),vesicular acetylcholine transporter,532,69,,74,458
+DVPLLI,152..157,XP_028734145,Peromyscus leucopus (white-footed mouse),vesicular acetylcholine transporter,532,152,,157,375
+DYATLF,174..179,XP_028734145,Peromyscus leucopus (white-footed mouse),vesicular acetylcholine transporter,532,174,,179,353
+DTSGIA,193..198,XP_028734145,Peromyscus leucopus (white-footed mouse),vesicular acetylcholine transporter,532,193,,198,334
+ERSRAL,209..214,XP_028734145,Peromyscus leucopus (white-footed mouse),vesicular acetylcholine transporter,532,209,,214,318
+DALLLL,255..260,XP_028734145,Peromyscus leucopus (white-footed mouse),vesicular acetylcholine transporter,532,255,,260,272
+DPYIAV,288..293,XP_028734145,Peromyscus leucopus (white-footed mouse),vesicular acetylcholine transporter,532,288,,293,239
+EMGMAW,326..331,XP_028734145,Peromyscus leucopus (white-footed mouse),vesicular acetylcholine transporter,532,326,,331,201
+ERDVLL,466..471,XP_025736178,Callorhinus ursinus (northern fur seal),vesicular acetylcholine transporter,517,466,,471,46
+ECEDVY,505..510,XP_025736178,Callorhinus ursinus (northern fur seal),vesicular acetylcholine transporter,517,505,,510,7
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+EAVGAA,19..24,XP_029100410,Monodon monoceros (narwhal),vesicular acetylcholine transporter,528,19,,24,504
+DNMLYM,46..51,XP_029100410,Monodon monoceros (narwhal),vesicular acetylcholine transporter,528,46,,51,477
+ESSTAA,96..101,XP_029100410,Monodon monoceros (narwhal),vesicular acetylcholine transporter,528,96,,101,427
+DLPLLM,149..154,XP_029100410,Monodon monoceros (narwhal),vesicular acetylcholine transporter,528,149,,154,374
+DYATLF,171..176,XP_029100410,Monodon monoceros (narwhal),vesicular acetylcholine transporter,528,171,,176,352
+DTSGIA,190..195,XP_029100410,Monodon monoceros (narwhal),vesicular acetylcholine transporter,528,190,,195,333
+ERSRAL,206..211,XP_029100410,Monodon monoceros (narwhal),vesicular acetylcholine transporter,528,206,,211,317
+DALLLL,252..257,XP_029100410,Monodon monoceros (narwhal),vesicular acetylcholine transporter,528,252,,257,271
+DPYIAV,285..290,XP_029100410,Monodon monoceros (narwhal),vesicular acetylcholine transporter,528,285,,290,238
+EHTMAA,314..319,XP_029100410,Monodon monoceros (narwhal),vesicular acetylcholine transporter,528,314,,319,209
+DAGIAW,323..328,XP_029100410,Monodon monoceros (narwhal),vesicular acetylcholine transporter,528,323,,328,200
+ERDVLL,463..468,XP_025774133,Puma concolor (puma),vesicular acetylcholine transporter,514,463,,468,46
+ECEDVY,502..507,XP_025774133,Puma concolor (puma),vesicular acetylcholine transporter,514,502,,507,7
+ERDVLL,466..471,XP_026337281,Ursus arctos horribilis,vesicular acetylcholine transporter,517,466,,471,46
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+EDTDLL,123..128,XP_030060607,Microcaecilia unicolor,synaptic vesicular amine transporter,517,123,,128,389
+ERGNAM,219..224,XP_030060607,Microcaecilia unicolor,synaptic vesicular amine transporter,517,219,,224,293
+DPYIII,294..299,XP_030060607,Microcaecilia unicolor,synaptic vesicular amine transporter,517,294,,299,218
+ECEDVY,505..510,XP_026337281,Ursus arctos horribilis,vesicular acetylcholine transporter,517,505,,510,7
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+DNMLYM,54..59,XP_030060741,Microcaecilia unicolor,vesicular acetylcholine transporter,527,54,,59,468
+DYILAF,67..72,XP_030060741,Microcaecilia unicolor,vesicular acetylcholine transporter,527,67,,72,455
+DIPLLI,136..141,XP_030060741,Microcaecilia unicolor,vesicular acetylcholine transporter,527,136,,141,386
+DTSGIA,177..182,XP_030060741,Microcaecilia unicolor,vesicular acetylcholine transporter,527,177,,182,345
+ERSKAL,193..198,XP_030060741,Microcaecilia unicolor,vesicular acetylcholine transporter,527,193,,198,329
+DGILLL,239..244,XP_030060741,Microcaecilia unicolor,vesicular acetylcholine transporter,527,239,,244,283
+DPYIAV,270..275,XP_030060741,Microcaecilia unicolor,vesicular acetylcholine transporter,527,270,,275,252
+ERDVLL,481..486,XP_027245140,Cricetulus griseus (Chinese hamster),vesicular acetylcholine transporter,534,481,,486,48
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+EAMGAV,19..24,XP_030191312,Lynx canadensis (Canada lynx),vesicular acetylcholine transporter,514,19,,24,490
+DNMLYM,46..51,XP_030191312,Lynx canadensis (Canada lynx),vesicular acetylcholine transporter,514,46,,51,463
+DVPLLI,134..139,XP_030191312,Lynx canadensis (Canada lynx),vesicular acetylcholine transporter,514,134,,139,375
+EDYAML,155..160,XP_030191312,Lynx canadensis (Canada lynx),vesicular acetylcholine transporter,514,155,,160,354
+DTSGIA,175..180,XP_030191312,Lynx canadensis (Canada lynx),vesicular acetylcholine transporter,514,175,,180,334
+ERSRAL,191..196,XP_030191312,Lynx canadensis (Canada lynx),vesicular acetylcholine transporter,514,191,,196,318
+DALLLL,237..242,XP_030191312,Lynx canadensis (Canada lynx),vesicular acetylcholine transporter,514,237,,242,272
+DPYIAV,270..275,XP_030191312,Lynx canadensis (Canada lynx),vesicular acetylcholine transporter,514,270,,275,239
+EHTMAA,299..304,XP_030191312,Lynx canadensis (Canada lynx),vesicular acetylcholine transporter,514,299,,304,210
+DDYSYY,526..531,XP_027245140,Cricetulus griseus (Chinese hamster),vesicular acetylcholine transporter,534,526,,531,3
+ERDVLL,473..478,XP_027386751,Bos indicus x Bos taurus (hybrid cattle),vesicular acetylcholine transporter,524,473,,478,46
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+DRARAA,8..13,XP_030309317,Calypte anna (Anna's hummingbird),vesicular acetylcholine transporter,526,8,,13,513
+DNMLYM,53..58,XP_030309317,Calypte anna (Anna's hummingbird),vesicular acetylcholine transporter,526,53,,58,468
+DYIAAM,66..71,XP_030309317,Calypte anna (Anna's hummingbird),vesicular acetylcholine transporter,526,66,,71,455
+DTAGIA,183..188,XP_030309317,Calypte anna (Anna's hummingbird),vesicular acetylcholine transporter,526,183,,188,338
+DGLLLL,245..250,XP_030309317,Calypte anna (Anna's hummingbird),vesicular acetylcholine transporter,526,245,,250,276
+DPYIAV,276..281,XP_030309317,Calypte anna (Anna's hummingbird),vesicular acetylcholine transporter,526,276,,281,245
+DDYDYY,516..521,XP_027386751,Bos indicus x Bos taurus (hybrid cattle),vesicular acetylcholine transporter,524,516,,521,3
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+DNMLYM,53..58,XP_030807311,Camarhynchus parvulus,vesicular acetylcholine transporter,528,53,,58,470
+DYIAAM,66..71,XP_030807311,Camarhynchus parvulus,vesicular acetylcholine transporter,528,66,,71,457
+EAPLLA,141..146,XP_030807311,Camarhynchus parvulus,vesicular acetylcholine transporter,528,141,,146,382
+DTAGIA,182..187,XP_030807311,Camarhynchus parvulus,vesicular acetylcholine transporter,528,182,,187,341
+DGLMLL,244..249,XP_030807311,Camarhynchus parvulus,vesicular acetylcholine transporter,528,244,,249,279
+DPYIAV,275..280,XP_030807311,Camarhynchus parvulus,vesicular acetylcholine transporter,528,275,,280,248
+ERNILL,468..473,XP_027505318,Corapipo altera (White-ruffed manakin),vesicular acetylcholine transporter,528,468,,473,55
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+DKAQAL,105..110,XP_031691641,Oncorhynchus kisutch (coho salmon),synaptic vesicular amine transporter,516,105,,110,406
+ERGNAI,219..224,XP_031691641,Oncorhynchus kisutch (coho salmon),synaptic vesicular amine transporter,516,219,,224,292
+DPYILI,294..299,XP_031691641,Oncorhynchus kisutch (coho salmon),synaptic vesicular amine transporter,516,294,,299,217
+DIYGLI,383..388,XP_031691641,Oncorhynchus kisutch (coho salmon),synaptic vesicular amine transporter,516,383,,388,128
+ERDVLL,480..485,XP_027803746,Marmota flaviventris (yellow-bellied marmot),vesicular acetylcholine transporter,531,480,,485,46
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+ESPDVM,57..62,XP_031728942,Anarrhichthys ocellatus (wolf-eel),synaptic vesicular amine transporter isoform X1,517,57,,62,455
+ERGHAI,218..223,XP_031728942,Anarrhichthys ocellatus (wolf-eel),synaptic vesicular amine transporter isoform X1,517,218,,223,294
+DPYIII,293..298,XP_031728942,Anarrhichthys ocellatus (wolf-eel),synaptic vesicular amine transporter isoform X1,517,293,,298,219
+DIYGLI,382..387,XP_031728942,Anarrhichthys ocellatus (wolf-eel),synaptic vesicular amine transporter isoform X1,517,382,,387,130
+DDYNYY,522..527,XP_027803746,Marmota flaviventris (yellow-bellied marmot),vesicular acetylcholine transporter,531,522,,527,4
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+DNATMV,83..88,XP_032167931,Mustela erminea (ermine),synaptic vesicular amine transporter,517,83,,88,429
+EDKDLL,123..128,XP_032167931,Mustela erminea (ermine),synaptic vesicular amine transporter,517,123,,128,389
+ERGNAM,219..224,XP_032167931,Mustela erminea (ermine),synaptic vesicular amine transporter,517,219,,224,293
+DPYILI,294..299,XP_032167931,Mustela erminea (ermine),synaptic vesicular amine transporter,517,294,,299,218
+ERDVLL,473..478,XP_027818269,Ovis aries (sheep),vesicular acetylcholine transporter,524,473,,478,46
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+EAMGAV,19..24,XP_032168645,Mustela erminea (ermine),vesicular acetylcholine transporter,517,19,,24,493
+DNMLYM,46..51,XP_032168645,Mustela erminea (ermine),vesicular acetylcholine transporter,517,46,,51,466
+DVPLLI,137..142,XP_032168645,Mustela erminea (ermine),vesicular acetylcholine transporter,517,137,,142,375
+DYATLF,159..164,XP_032168645,Mustela erminea (ermine),vesicular acetylcholine transporter,517,159,,164,353
+DTSGIA,178..183,XP_032168645,Mustela erminea (ermine),vesicular acetylcholine transporter,517,178,,183,334
+ERSRAL,194..199,XP_032168645,Mustela erminea (ermine),vesicular acetylcholine transporter,517,194,,199,318
+DALLLL,240..245,XP_032168645,Mustela erminea (ermine),vesicular acetylcholine transporter,517,240,,245,272
+DPYIAV,273..278,XP_032168645,Mustela erminea (ermine),vesicular acetylcholine transporter,517,273,,278,239
+EHTMAA,302..307,XP_032168645,Mustela erminea (ermine),vesicular acetylcholine transporter,517,302,,307,210
+ETGMAW,311..316,XP_032168645,Mustela erminea (ermine),vesicular acetylcholine transporter,517,311,,316,201
+ERNILL,485..490,XP_028585074,Podarcis muralis (Common wall lizard),vesicular acetylcholine transporter,545,485,,490,55
+ERDVLL,481..486,XP_028734145,Peromyscus leucopus (white-footed mouse),vesicular acetylcholine transporter,532,481,,486,46
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+DNTTIV,83..88,XP_032278889,Phoca vitulina (harbor seal),synaptic vesicular amine transporter,517,83,,88,429
+EDKDLL,123..128,XP_032278889,Phoca vitulina (harbor seal),synaptic vesicular amine transporter,517,123,,128,389
+ERGNAM,219..224,XP_032278889,Phoca vitulina (harbor seal),synaptic vesicular amine transporter,517,219,,224,293
+DPYILI,294..299,XP_032278889,Phoca vitulina (harbor seal),synaptic vesicular amine transporter,517,294,,299,218
+DDYSYY,524..529,XP_028734145,Peromyscus leucopus (white-footed mouse),vesicular acetylcholine transporter,532,524,,529,3
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+EAMGAV,19..24,XP_032288196,Phoca vitulina (harbor seal),vesicular acetylcholine transporter,517,19,,24,493
+DNMLYM,46..51,XP_032288196,Phoca vitulina (harbor seal),vesicular acetylcholine transporter,517,46,,51,466
+DVPLLI,137..142,XP_032288196,Phoca vitulina (harbor seal),vesicular acetylcholine transporter,517,137,,142,375
+DYATLF,159..164,XP_032288196,Phoca vitulina (harbor seal),vesicular acetylcholine transporter,517,159,,164,353
+DTSGIA,178..183,XP_032288196,Phoca vitulina (harbor seal),vesicular acetylcholine transporter,517,178,,183,334
+ERSRAL,194..199,XP_032288196,Phoca vitulina (harbor seal),vesicular acetylcholine transporter,517,194,,199,318
+DALLLL,240..245,XP_032288196,Phoca vitulina (harbor seal),vesicular acetylcholine transporter,517,240,,245,272
+DPYIAV,273..278,XP_032288196,Phoca vitulina (harbor seal),vesicular acetylcholine transporter,517,273,,278,239
+EHTMAA,302..307,XP_032288196,Phoca vitulina (harbor seal),vesicular acetylcholine transporter,517,302,,307,210
+ERGMAW,311..316,XP_032288196,Phoca vitulina (harbor seal),vesicular acetylcholine transporter,517,311,,316,201
+EQLSLV,446..451,XP_029100410,Monodon monoceros (narwhal),vesicular acetylcholine transporter,528,446,,451,77
+ERDVLL,478..483,XP_029100410,Monodon monoceros (narwhal),vesicular acetylcholine transporter,528,478,,483,45
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+DNSTVV,83..88,XP_032463277,Phocoena sinus (vaquita),synaptic vesicular amine transporter isoform X1,517,83,,88,429
+EDKDLL,123..128,XP_032463277,Phocoena sinus (vaquita),synaptic vesicular amine transporter isoform X1,517,123,,128,389
+ERGNAM,219..224,XP_032463277,Phocoena sinus (vaquita),synaptic vesicular amine transporter isoform X1,517,219,,224,293
+DPYILI,294..299,XP_032463277,Phocoena sinus (vaquita),synaptic vesicular amine transporter isoform X1,517,294,,299,218
+DDYDYY,520..525,XP_029100410,Monodon monoceros (narwhal),vesicular acetylcholine transporter,528,520,,525,3
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+EAVGAA,19..24,XP_032465185,Phocoena sinus (vaquita),vesicular acetylcholine transporter,528,19,,24,504
+DNMLYM,46..51,XP_032465185,Phocoena sinus (vaquita),vesicular acetylcholine transporter,528,46,,51,477
+ESSTAA,96..101,XP_032465185,Phocoena sinus (vaquita),vesicular acetylcholine transporter,528,96,,101,427
+DLPLLM,149..154,XP_032465185,Phocoena sinus (vaquita),vesicular acetylcholine transporter,528,149,,154,374
+DYATLF,171..176,XP_032465185,Phocoena sinus (vaquita),vesicular acetylcholine transporter,528,171,,176,352
+DTSGIA,190..195,XP_032465185,Phocoena sinus (vaquita),vesicular acetylcholine transporter,528,190,,195,333
+ERSRAL,206..211,XP_032465185,Phocoena sinus (vaquita),vesicular acetylcholine transporter,528,206,,211,317
+DALLLL,252..257,XP_032465185,Phocoena sinus (vaquita),vesicular acetylcholine transporter,528,252,,257,271
+DPYIAV,285..290,XP_032465185,Phocoena sinus (vaquita),vesicular acetylcholine transporter,528,285,,290,238
+EHTMAA,314..319,XP_032465185,Phocoena sinus (vaquita),vesicular acetylcholine transporter,528,314,,319,209
+DAGIAW,323..328,XP_032465185,Phocoena sinus (vaquita),vesicular acetylcholine transporter,528,323,,328,200
+ESNILL,463..468,XP_030060741,Microcaecilia unicolor,vesicular acetylcholine transporter,527,463,,468,59
+ERDVLL,463..468,XP_030191312,Lynx canadensis (Canada lynx),vesicular acetylcholine transporter,514,463,,468,46
+ECEDVY,502..507,XP_030191312,Lynx canadensis (Canada lynx),vesicular acetylcholine transporter,514,502,,507,7
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+EDKDLL,123..128,XP_032636684,Chelonoidis abingdonii (Abingdon island giant tortoise),synaptic vesicular amine transporter,519,123,,128,391
+ERGNAM,219..224,XP_032636684,Chelonoidis abingdonii (Abingdon island giant tortoise),synaptic vesicular amine transporter,519,219,,224,295
+DPYIII,294..299,XP_032636684,Chelonoidis abingdonii (Abingdon island giant tortoise),synaptic vesicular amine transporter,519,294,,299,220
+ERNILL,469..474,XP_030309317,Calypte anna (Anna's hummingbird),vesicular acetylcholine transporter,526,469,,474,52
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+EAMGAV,19..24,XP_032733669,Lontra canadensis (Northern American river otter),vesicular acetylcholine transporter,517,19,,24,493
+DNMLYM,46..51,XP_032733669,Lontra canadensis (Northern American river otter),vesicular acetylcholine transporter,517,46,,51,466
+DVPLLI,137..142,XP_032733669,Lontra canadensis (Northern American river otter),vesicular acetylcholine transporter,517,137,,142,375
+DYATLF,159..164,XP_032733669,Lontra canadensis (Northern American river otter),vesicular acetylcholine transporter,517,159,,164,353
+DTSGIA,178..183,XP_032733669,Lontra canadensis (Northern American river otter),vesicular acetylcholine transporter,517,178,,183,334
+ERSRAL,194..199,XP_032733669,Lontra canadensis (Northern American river otter),vesicular acetylcholine transporter,517,194,,199,318
+DALLLL,240..245,XP_032733669,Lontra canadensis (Northern American river otter),vesicular acetylcholine transporter,517,240,,245,272
+DPYIAV,273..278,XP_032733669,Lontra canadensis (Northern American river otter),vesicular acetylcholine transporter,517,273,,278,239
+EHTMAA,302..307,XP_032733669,Lontra canadensis (Northern American river otter),vesicular acetylcholine transporter,517,302,,307,210
+ETGMAW,311..316,XP_032733669,Lontra canadensis (Northern American river otter),vesicular acetylcholine transporter,517,311,,316,201
+ERNILL,468..473,XP_030807311,Camarhynchus parvulus,vesicular acetylcholine transporter,528,468,,473,55
+ERDVLL,466..471,XP_032168645,Mustela erminea (ermine),vesicular acetylcholine transporter,517,466,,471,46
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+DNATMV,83..88,XP_032734779,Lontra canadensis (Northern American river otter),synaptic vesicular amine transporter,517,83,,88,429
+EDKDLL,123..128,XP_032734779,Lontra canadensis (Northern American river otter),synaptic vesicular amine transporter,517,123,,128,389
+ERGNAM,219..224,XP_032734779,Lontra canadensis (Northern American river otter),synaptic vesicular amine transporter,517,219,,224,293
+DPYILI,294..299,XP_032734779,Lontra canadensis (Northern American river otter),synaptic vesicular amine transporter,517,294,,299,218
+ECEDVY,505..510,XP_032168645,Mustela erminea (ermine),vesicular acetylcholine transporter,517,505,,510,7
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+EDRDLL,121..126,XP_032748120,Rattus rattus (black rat),synaptic vesicular amine transporter,515,121,,126,389
+ERGNAM,217..222,XP_032748120,Rattus rattus (black rat),synaptic vesicular amine transporter,515,217,,222,293
+DPYILI,292..297,XP_032748120,Rattus rattus (black rat),synaptic vesicular amine transporter,515,292,,297,218
+ERDVLL,466..471,XP_032288196,Phoca vitulina (harbor seal),vesicular acetylcholine transporter,517,466,,471,46
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+EAVGAA,19..24,XP_032774797,Rattus rattus (black rat),vesicular acetylcholine transporter,530,19,,24,506
+DNMLYM,46..51,XP_032774797,Rattus rattus (black rat),vesicular acetylcholine transporter,530,46,,51,479
+EGPTLV,69..74,XP_032774797,Rattus rattus (black rat),vesicular acetylcholine transporter,530,69,,74,456
+DVPLLI,152..157,XP_032774797,Rattus rattus (black rat),vesicular acetylcholine transporter,530,152,,157,373
+DYATLF,174..179,XP_032774797,Rattus rattus (black rat),vesicular acetylcholine transporter,530,174,,179,351
+DTSGIA,193..198,XP_032774797,Rattus rattus (black rat),vesicular acetylcholine transporter,530,193,,198,332
+ERSRAL,209..214,XP_032774797,Rattus rattus (black rat),vesicular acetylcholine transporter,530,209,,214,316
+DALLLL,255..260,XP_032774797,Rattus rattus (black rat),vesicular acetylcholine transporter,530,255,,260,270
+DPYIAV,288..293,XP_032774797,Rattus rattus (black rat),vesicular acetylcholine transporter,530,288,,293,237
+EMGMVW,326..331,XP_032774797,Rattus rattus (black rat),vesicular acetylcholine transporter,530,326,,331,199
+ECEDVY,505..510,XP_032288196,Phoca vitulina (harbor seal),vesicular acetylcholine transporter,517,505,,510,7
+EQLSLV,446..451,XP_032465185,Phocoena sinus (vaquita),vesicular acetylcholine transporter,528,446,,451,77
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+DNSTMV,83..88,XP_032844634,Tyto alba alba,synaptic vesicular amine transporter,519,83,,88,431
+EDKDLL,123..128,XP_032844634,Tyto alba alba,synaptic vesicular amine transporter,519,123,,128,391
+ERGNAM,219..224,XP_032844634,Tyto alba alba,synaptic vesicular amine transporter,519,219,,224,295
+DPYIII,294..299,XP_032844634,Tyto alba alba,synaptic vesicular amine transporter,519,294,,299,220
+ERDVLL,478..483,XP_032465185,Phocoena sinus (vaquita),vesicular acetylcholine transporter,528,478,,483,45
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+EVVGAA,16..21,XP_032985728,Rhinolophus ferrumequinum (greater horseshoe bat),vesicular acetylcholine transporter,529,16,,21,508
+DNMLYM,43..48,XP_032985728,Rhinolophus ferrumequinum (greater horseshoe bat),vesicular acetylcholine transporter,529,43,,48,481
+ESPTAA,96..101,XP_032985728,Rhinolophus ferrumequinum (greater horseshoe bat),vesicular acetylcholine transporter,529,96,,101,428
+DVPLLI,149..154,XP_032985728,Rhinolophus ferrumequinum (greater horseshoe bat),vesicular acetylcholine transporter,529,149,,154,375
+EDYAML,170..175,XP_032985728,Rhinolophus ferrumequinum (greater horseshoe bat),vesicular acetylcholine transporter,529,170,,175,354
+DTSGIA,190..195,XP_032985728,Rhinolophus ferrumequinum (greater horseshoe bat),vesicular acetylcholine transporter,529,190,,195,334
+ERSRAL,206..211,XP_032985728,Rhinolophus ferrumequinum (greater horseshoe bat),vesicular acetylcholine transporter,529,206,,211,318
+DAMLLL,252..257,XP_032985728,Rhinolophus ferrumequinum (greater horseshoe bat),vesicular acetylcholine transporter,529,252,,257,272
+DPYIAV,285..290,XP_032985728,Rhinolophus ferrumequinum (greater horseshoe bat),vesicular acetylcholine transporter,529,285,,290,239
+EMGMVW,323..328,XP_032985728,Rhinolophus ferrumequinum (greater horseshoe bat),vesicular acetylcholine transporter,529,323,,328,201
+DDYDYY,520..525,XP_032465185,Phocoena sinus (vaquita),vesicular acetylcholine transporter,528,520,,525,3
+ERDVLL,466..471,XP_032733669,Lontra canadensis (Northern American river otter),vesicular acetylcholine transporter,517,466,,471,46
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+DNSTMV,83..88,XP_032987258,Rhinolophus ferrumequinum (greater horseshoe bat),synaptic vesicular amine transporter,516,83,,88,428
+EDRDLL,123..128,XP_032987258,Rhinolophus ferrumequinum (greater horseshoe bat),synaptic vesicular amine transporter,516,123,,128,388
+ERGNAL,219..224,XP_032987258,Rhinolophus ferrumequinum (greater horseshoe bat),synaptic vesicular amine transporter,516,219,,224,292
+DPYILI,294..299,XP_032987258,Rhinolophus ferrumequinum (greater horseshoe bat),synaptic vesicular amine transporter,516,294,,299,217
+ECEDVY,505..510,XP_032733669,Lontra canadensis (Northern American river otter),vesicular acetylcholine transporter,517,505,,510,7
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+DNSTVV,83..88,XP_033276842,Orcinus orca (killer whale),synaptic vesicular amine transporter isoform X1,517,83,,88,429
+EDKDLL,123..128,XP_033276842,Orcinus orca (killer whale),synaptic vesicular amine transporter isoform X1,517,123,,128,389
+ERGNAM,219..224,XP_033276842,Orcinus orca (killer whale),synaptic vesicular amine transporter isoform X1,517,219,,224,293
+DPYILI,294..299,XP_033276842,Orcinus orca (killer whale),synaptic vesicular amine transporter isoform X1,517,294,,299,218
+ERDVLL,481..486,XP_032774797,Rattus rattus (black rat),vesicular acetylcholine transporter,530,481,,486,44
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+DNSTVV,83..88,XP_033276844,Orcinus orca (killer whale),synaptic vesicular amine transporter isoform X2,471,83,,88,383
+EDKDLL,123..128,XP_033276844,Orcinus orca (killer whale),synaptic vesicular amine transporter isoform X2,471,123,,128,343
+ERGNAM,219..224,XP_033276844,Orcinus orca (killer whale),synaptic vesicular amine transporter isoform X2,471,219,,224,247
+DPYILI,294..299,XP_033276844,Orcinus orca (killer whale),synaptic vesicular amine transporter isoform X2,471,294,,299,172
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+ERGHAI,218..223,XP_033469347,Epinephelus lanceolatus (giant grouper),synaptic vesicular amine transporter,517,218,,223,294
+DPYILI,293..298,XP_033469347,Epinephelus lanceolatus (giant grouper),synaptic vesicular amine transporter,517,293,,298,219
+DIYGLI,382..387,XP_033469347,Epinephelus lanceolatus (giant grouper),synaptic vesicular amine transporter,517,382,,387,130
+DDYNYY,522..527,XP_032774797,Rattus rattus (black rat),vesicular acetylcholine transporter,530,522,,527,3
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+ERGQAI,219..224,XP_034041067,Thalassophryne amazonica,synaptic vesicular amine transporter,512,219,,224,288
+DPYILI,294..299,XP_034041067,Thalassophryne amazonica,synaptic vesicular amine transporter,512,294,,299,213
+DIYGLI,383..388,XP_034041067,Thalassophryne amazonica,synaptic vesicular amine transporter,512,383,,388,124
+ERDVLL,478..483,XP_032985728,Rhinolophus ferrumequinum (greater horseshoe bat),vesicular acetylcholine transporter,529,478,,483,46
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+DNMLYM,54..59,XP_034290645,Pantherophis guttatus,vesicular acetylcholine transporter,530,54,,59,471
+DRVGYV,138..143,XP_034290645,Pantherophis guttatus,vesicular acetylcholine transporter,530,138,,143,387
+DTSGVA,184..189,XP_034290645,Pantherophis guttatus,vesicular acetylcholine transporter,530,184,,189,341
+ERTRAL,200..205,XP_034290645,Pantherophis guttatus,vesicular acetylcholine transporter,530,200,,205,325
+DALLLL,246..251,XP_034290645,Pantherophis guttatus,vesicular acetylcholine transporter,530,246,,251,279
+DPYIAV,277..282,XP_034290645,Pantherophis guttatus,vesicular acetylcholine transporter,530,277,,282,248
+EPTIAV,298..303,XP_034290645,Pantherophis guttatus,vesicular acetylcholine transporter,530,298,,303,227
+EMGLAW,315..320,XP_034290645,Pantherophis guttatus,vesicular acetylcholine transporter,530,315,,320,210
+DYNDYY,521..526,XP_032985728,Rhinolophus ferrumequinum (greater horseshoe bat),vesicular acetylcholine transporter,529,521,,526,3
+ERNILL,470..475,XP_034290645,Pantherophis guttatus,vesicular acetylcholine transporter,530,470,,475,55
+EPKGLY,478..483,XP_034290645,Pantherophis guttatus,vesicular acetylcholine transporter,530,478,,483,47
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+DNSTIV,83..88,XP_034296122,Pantherophis guttatus,synaptic vesicular amine transporter,521,83,,88,433
+EVGLLF,135..140,XP_034296122,Pantherophis guttatus,synaptic vesicular amine transporter,521,135,,140,381
+ESYKLL,185..190,XP_034296122,Pantherophis guttatus,synaptic vesicular amine transporter,521,185,,190,331
+ERGNAM,221..226,XP_034296122,Pantherophis guttatus,synaptic vesicular amine transporter,521,221,,226,295
+DPYILI,296..301,XP_034296122,Pantherophis guttatus,synaptic vesicular amine transporter,521,296,,301,220
+DFKGAF,515..520,XP_034290645,Pantherophis guttatus,vesicular acetylcholine transporter,530,515,,520,10
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+DNSTMF,83..88,XP_034350778,Arvicanthis niloticus (African grass rat),synaptic vesicular amine transporter,517,83,,88,429
+EDKDLL,123..128,XP_034350778,Arvicanthis niloticus (African grass rat),synaptic vesicular amine transporter,517,123,,128,389
+ERGNAM,219..224,XP_034350778,Arvicanthis niloticus (African grass rat),synaptic vesicular amine transporter,517,219,,224,293
+DPYILI,294..299,XP_034350778,Arvicanthis niloticus (African grass rat),synaptic vesicular amine transporter,517,294,,299,218
+EEQQVW,525..530,ALC38224,Drosophila busckii,VGlut,622,525,,530,92
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+EMTDVV,57..62,XP_034464985,Hippoglossus hippoglossus (Atlantic halibut),synaptic vesicular amine transporter,517,57,,62,455
+DPQGAF,72..77,XP_034464985,Hippoglossus hippoglossus (Atlantic halibut),synaptic vesicular amine transporter,517,72,,77,440
+ERGHAI,218..223,XP_034464985,Hippoglossus hippoglossus (Atlantic halibut),synaptic vesicular amine transporter,517,218,,223,294
+DPYIVI,293..298,XP_034464985,Hippoglossus hippoglossus (Atlantic halibut),synaptic vesicular amine transporter,517,293,,298,219
+DIYGLI,382..387,XP_034464985,Hippoglossus hippoglossus (Atlantic halibut),synaptic vesicular amine transporter,517,382,,387,130
+EKQPWA,498..503,CBL54109,Lampetra fluviatilis (European river lamprey),VGlut,597,498,,503,94
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+DNTTIV,83..88,XP_034885806,Mirounga leonina (Southern elephant seal),synaptic vesicular amine transporter,516,83,,88,428
+EDKDLL,122..127,XP_034885806,Mirounga leonina (Southern elephant seal),synaptic vesicular amine transporter,516,122,,127,389
+ERGNAM,218..223,XP_034885806,Mirounga leonina (Southern elephant seal),synaptic vesicular amine transporter,516,218,,223,293
+DPYILI,293..298,XP_034885806,Mirounga leonina (Southern elephant seal),synaptic vesicular amine transporter,516,293,,298,218
+EKCGFI,511..516,CBL54109,Lampetra fluviatilis (European river lamprey),VGlut,597,511,,516,81
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+EMTDVV,57..62,XP_035027581,Hippoglossus stenolepis (Pacific halibut),synaptic vesicular amine transporter,517,57,,62,455
+DPQGAF,72..77,XP_035027581,Hippoglossus stenolepis (Pacific halibut),synaptic vesicular amine transporter,517,72,,77,440
+ERGHAI,218..223,XP_035027581,Hippoglossus stenolepis (Pacific halibut),synaptic vesicular amine transporter,517,218,,223,294
+DPYIVI,293..298,XP_035027581,Hippoglossus stenolepis (Pacific halibut),synaptic vesicular amine transporter,517,293,,298,219
+DIYGLI,382..387,XP_035027581,Hippoglossus stenolepis (Pacific halibut),synaptic vesicular amine transporter,517,382,,387,130
+EAETAL,530..535,CBL54109,Lampetra fluviatilis (European river lamprey),VGlut,597,530,,535,62
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+ERGNAI,220..225,XP_035255488,Anguilla anguilla (European eel),synaptic vesicular amine transporter,519,220,,225,294
+DPYILI,295..300,XP_035255488,Anguilla anguilla (European eel),synaptic vesicular amine transporter,519,295,,300,219
+DIYGLI,384..389,XP_035255488,Anguilla anguilla (European eel),synaptic vesicular amine transporter,519,384,,389,130
+DRENYV,582..587,CBL54109,Lampetra fluviatilis (European river lamprey),VGlut,597,582,,587,10
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+EMQGWI,100..105,XP_035257046,Anguilla anguilla (European eel),sialin,490,100,,105,385
+ERSRLL,188..193,XP_035257046,Anguilla anguilla (European eel),sialin,490,188,,193,297
+DWTYVF,219..224,XP_035257046,Anguilla anguilla (European eel),sialin,490,219,,224,266
+EMERLY,254..259,XP_035257046,Anguilla anguilla (European eel),sialin,490,254,,259,231
+DYTAAV,383..388,XP_035257046,Anguilla anguilla (European eel),sialin,490,383,,388,102
+DKRILV,91..96,CAB3244318,Phallusia mammillata,VGLUT vesicular glutamate transporter,173,91,,96,77
+V1,V2,V3,V4,V5,V6,V2,,,#VALUE!
+ERGNAM,224..229,XP_035297632,Cricetulus griseus (Chinese hamster),synaptic vesicular amine transporter isoform X2,522,224,,229,293
+DPYILI,299..304,XP_035297632,Cricetulus griseus (Chinese hamster),synaptic vesicular amine transporter isoform X2,522,299,,304,218
+EVRSFL,125..130,CAB3244318,Phallusia mammillata,VGLUT vesicular glutamate transporter,173,125,,130,43
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,s,,,,,,

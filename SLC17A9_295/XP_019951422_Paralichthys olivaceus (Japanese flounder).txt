@@ -1,0 +1,75 @@
+
+LOCUS       XP_019951422             466 aa            linear   VRT 08-FEB-2017
+DEFINITION  PREDICTED: solute carrier family 17 member 9 [Paralichthys
+            olivaceus].
+ACCESSION   XP_019951422
+VERSION     XP_019951422.1
+DBLINK      BioProject: PRJNA369269
+DBSOURCE    REFSEQ: accession XM_020095863.1
+KEYWORDS    RefSeq.
+SOURCE      Paralichthys olivaceus (Japanese flounder)
+  ORGANISM  Paralichthys olivaceus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Carangaria; Pleuronectiformes; Pleuronectoidei;
+            Paralichthyidae; Paralichthys.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_017859666.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Paralichthys olivaceus Annotation
+                                           Release 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 7.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..466
+                     /organism="Paralichthys olivaceus"
+                     /db_xref="taxon:8255"
+                     /chromosome="Unknown"
+                     /sex="female"
+                     /tissue_type="blood"
+                     /dev_stage="adult"
+                     /breed="gynogenesis"
+     Protein         1..466
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=50777
+     Region          52..447
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Site            order(66,69..71,73..74,91,94..95,98,102..103,105..106,
+                     157..158,161..162,165..166,169,181..182,185..186,192,277,
+                     280..281,284..285,288,300,304,308,311,315,371,374..375,
+                     378,382..383,386,396..397,400..401,404..405,408)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..466
+                     /gene="slc17a9"
+                     /coded_by="XM_020095863.1:1..1401"
+                     /db_xref="GeneID:109634990"
+ORIGIN      
+        1 maviqkygkn yspdlvchke nsppdksgvp gghkkwpehn tnwprpvarv wtvvlllgtc
+       61 llycarvamp icsvsmaeqf hwtkresgmv lgsffwgycf tqvlggyvsd rvggekvlll
+      121 saaawgsmta ftpilaqfcs qpifsmtlar flmgllqgvh ypslaslcsq kvvesergfl
+      181 mstvgsgsyl gtlviggags lmldlygwes vfyvsgllsv lwayfmwkyl lkgegpiitl
+      241 eslgsgghqa kltkrhwlrl lkqpavcavi vthlctastf ftllswlptf frdtfpeakg
+      301 wvfnvipwlv aipssllsgc lsdhlisqgf dtasvrklmq ffsmgvssvf tlllcgnttf
+      361 pwavafvsam mglttfshsg vsvnvqdlap scagalfgvm ntcgafsgvl lvyfsgylie
+      421 asgswasvfa littvnvlgl ctflafaear rvdidctkvr hhnihi
+//
+

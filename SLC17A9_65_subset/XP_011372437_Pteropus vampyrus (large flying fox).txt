@@ -1,0 +1,83 @@
+
+LOCUS       XP_011372437             485 aa            linear   MAM 19-JAN-2018
+DEFINITION  solute carrier family 17 member 9 [Pteropus vampyrus].
+ACCESSION   XP_011372437
+VERSION     XP_011372437.1
+DBLINK      BioProject: PRJNA275879
+DBSOURCE    REFSEQ: accession XM_011374135.2
+KEYWORDS    RefSeq; includes ab initio.
+SOURCE      Pteropus vampyrus (large flying fox)
+  ORGANISM  Pteropus vampyrus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Chiroptera; Megachiroptera;
+            Pteropodidae; Pteropodinae; Pteropus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_011889020.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Pteropus vampyrus Annotation Release
+                                           101
+            Annotation Version          :: 101
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.0
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            ab initio :: 23% of CDS bases
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..485
+                     /organism="Pteropus vampyrus"
+                     /isolate="Shadow"
+                     /isolation_source="Lubee Bat Conservancy"
+                     /db_xref="taxon:132908"
+                     /chromosome="Unknown"
+                     /sex="female"
+                     /tissue_type="Kidney"
+     Protein         1..485
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=51244
+     Region          26..470
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Region          31..470
+                     /region_name="2A0114"
+                     /note="D-galactonate transporter; TIGR00893"
+                     /db_xref="CDD:273326"
+     Site            order(40,43..45,47..48,65,68..69,72,76..77,79..80,
+                     131..132,143..144,147..148,151,163..164,177..178,188,284,
+                     287..288,298..299,302,316,328,332,335,339,399,402..403,
+                     406,410..411,414,420..421,424..425,428..429,432)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..485
+                     /gene="SLC17A9"
+                     /coded_by="XM_011374135.2:5189..6646"
+                     /db_xref="GeneID:105301452"
+ORIGIN      
+        1 mpppeparrd saedaqwsrp ecqawtatll lgtcllyctr vsmpvcavsm sqdfgwnkke
+       61 agialssffw gycltqvvgg hlgdrvggek iillsatawg vittatpllt hlggahlvfm
+      121 tfsriltgll qgrapqpras vcacmrvlac acscqgalsm ralvraprvv cltppcraga
+      181 slpqrrgsal agalgsepth cpeaampfwt srgrteakgs tafpyladll eppvsaisng
+      241 tfhpeskqkv pecqawtatl llgtcllyct rvsmpvcavs msqdfgwnkk eaarralmgs
+      301 gcewpcgraa lasseapprp spqgwvfnvv pwlvaipasl fsgflsdhli sqgyrtitvr
+      361 kfmqvmglgl ssvfalclgh tssfcksvff asasiglqtf nhsgvsvniq dlapscagvl
+      421 fgvantagal agvvgvglsg yliestgswt smfnlvaais slglctfllf gkaqrvdlsp
+      481 sredl
+//
+

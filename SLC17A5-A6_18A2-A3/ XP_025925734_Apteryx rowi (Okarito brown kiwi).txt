@@ -1,0 +1,78 @@
+
+LOCUS       XP_025925734             425 aa            linear   VRT 08-AUG-2018
+DEFINITION  vesicular acetylcholine transporter, partial [Apteryx rowi].
+ACCESSION   XP_025925734
+VERSION     XP_025925734.1
+DBLINK      BioProject: PRJNA484763
+DBSOURCE    REFSEQ: accession XM_026069949.1
+KEYWORDS    RefSeq.
+SOURCE      Apteryx rowi (Okarito brown kiwi)
+  ORGANISM  Apteryx rowi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Palaeognathae; Apterygiformes; Apterygidae;
+            Apteryx.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_020449419.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Apteryx rowi Annotation Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.1
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: incomplete on the amino end.
+FEATURES             Location/Qualifiers
+     source          1..425
+                     /organism="Apteryx rowi"
+                     /isolate="R43461"
+                     /specimen_voucher="ROM:ORN:R43461"
+                     /db_xref="taxon:308060"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /tissue_type="blood"
+                     /dev_stage="adult"
+                     /country="New Zealand: Okarito, Westland"
+                     /collection_date="16-Jul-1993"
+                     /collected_by="Royal Ontario Museum"
+     Protein         <1..425
+                     /product="vesicular acetylcholine transporter"
+     Region          9..320
+                     /region_name="MFS_1"
+                     /note="Major Facilitator Superfamily; pfam07690"
+                     /db_xref="CDD:311564"
+     Region          11..151
+                     /region_name="2_A_01_02"
+                     /note="Multidrug resistance protein; TIGR00880"
+                     /db_xref="CDD:273318"
+     Site            order(14,17..18,21,25..26,28..29,75..76,79..80,83..84,87,
+                     100..101,104..105,111,183,186..187,190..191,194,211,215,
+                     219,222,226,275,278..279,282,286..287,290,304..305,
+                     308..309,312..313,316)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..425
+                     /gene="SLC18A3"
+                     /coded_by="XM_026069949.1:<1..1278"
+                     /db_xref="GeneID:112968088"
+ORIGIN      
+        1 aaagnedvqi gvlfaskail qllvnplsgt fidrvgydvp lliglavmfl statfafaen
+       61 yatlfaarsl qglgsafadt agiamiadry aeeparsral gtalafisfg slaappfggv
+      121 lyqfagkrvp flvlacvcll dgllllalvp pcaggaranm pvgtpihrlm adpyiavvag
+      181 alttcnipla fleptianwm kesmgatewe mgltwlpaff phvlgvyvtv rlaakyphlq
+      241 wfygalgmai igasscvvpa crnfgqvvvp lcgicfgial vdtallptla flvdvrhvsv
+      301 ygsiyaiadi sysvayalgp ivagqivhtm gfvqlnlgmg lanvlyapvl lflknvcqmk
+      361 pshsernill eeapkglydt ikmeerkgkg kslhpagete ennvdsyhrd lagaseedcs
+      421 dyeys
+//
+

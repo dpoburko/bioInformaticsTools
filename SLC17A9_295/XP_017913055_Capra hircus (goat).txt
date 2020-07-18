@@ -1,0 +1,58 @@
+
+LOCUS       XP_017913055             436 aa            linear   MAM 08-SEP-2016
+DEFINITION  PREDICTED: solute carrier family 17 member 9 [Capra hircus].
+ACCESSION   XP_017913055
+VERSION     XP_017913055.1
+DBLINK      BioProject: PRJNA340281
+DBSOURCE    REFSEQ: accession XM_018057566.1
+KEYWORDS    RefSeq.
+SOURCE      Capra hircus (goat)
+  ORGANISM  Capra hircus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Cetartiodactyla; Ruminantia;
+            Pecora; Bovidae; Caprinae; Capra.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_030820.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA and EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Capra hircus Annotation Release 102
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 7.1
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..436
+                     /organism="Capra hircus"
+                     /db_xref="taxon:9925"
+                     /chromosome="13"
+                     /sex="male"
+                     /tissue_type="blood"
+                     /dev_stage="adult"
+                     /breed="San Clemente"
+     Protein         1..436
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=46852
+     CDS             1..436
+                     /gene="SLC17A9"
+                     /coded_by="XM_018057566.1:172..1482"
+                     /db_xref="GeneID:102190213"
+ORIGIN      
+        1 mqpspdetrr daaedtqwsr pecqvwtgtl llgtcllyca rvsmpvcaas msqdfgwnkk
+       61 eagvvlssff wgycltqvvg ghlgdrigge kvillsasaw gfitvatpll ahlgsahlaf
+      121 mtfsriltgl lqgvyfpalt sllsqkvres eraftystvg agsqfgtlvt gavgsllldw
+      181 ygwpsvfyfs ggltllwvgy vyrcllserd lilalgilaq glpvsrhtkv pwrqlfrkps
+      241 vwaaivsqls aacsffills wlptffketf psskgwvfnv vpwlvaipas llsgllsdhl
+      301 inqgyrtitv rkfmqvmglg lssvfalclg htssfcnsvv fasasiglqt fnhsgisvni
+      361 qdlapscagf lfgvantaga lagvvgvclg gyliettgsw tsvfnlvaai sslglctflv
+      421 fgkaqrvdls pahedl
+//
+

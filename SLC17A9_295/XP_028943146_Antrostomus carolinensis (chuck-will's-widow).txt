@@ -1,0 +1,77 @@
+
+LOCUS       XP_028943146             460 aa            linear   VRT 02-MAY-2019
+DEFINITION  solute carrier family 17 member 9 [Antrostomus carolinensis].
+ACCESSION   XP_028943146
+VERSION     XP_028943146.1
+DBLINK      BioProject: PRJNA265383
+DBSOURCE    REFSEQ: accession XM_029087313.1
+KEYWORDS    RefSeq; includes ab initio.
+SOURCE      Antrostomus carolinensis (chuck-will's-widow)
+  ORGANISM  Antrostomus carolinensis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Caprimulgimorphae;
+            Caprimulgiformes; Caprimulgidae; Antrostomus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_010293681.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA and EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Antrostomus carolinensis Annotation
+                                           Release 101
+            Annotation Version          :: 101
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            ab initio :: 9% of CDS bases
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..460
+                     /organism="Antrostomus carolinensis"
+                     /isolate="BGI_N321"
+                     /db_xref="taxon:279965"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /country="USA"
+     Protein         1..460
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=50058
+     Region          51..446
+                     /region_name="MFS_SLC17A9_like"
+                     /note="Solute carrier family 17 member 9 and similar
+                     proteins of the Major Facilitator Superfamily of
+                     transporters; cd17380"
+                     /db_xref="CDD:340938"
+     Site            order(61..62,65..66,69,101,156..157,159..161,164,184,
+                     187..188,191,272,275..276,279..281,284,310,314,371..372,
+                     376,380,396,399..400,403..404,407)
+                     /site_type="other"
+                     /note="putative chemical substrate binding pocket
+                     [chemical binding]"
+                     /db_xref="CDD:340938"
+     CDS             1..460
+                     /gene="SLC17A9"
+                     /coded_by="XM_029087313.1:1..1383"
+                     /db_xref="GeneID:104532228"
+ORIGIN      
+        1 mspirdppvp spgaalwtvs ngsiitqllf qeehsgleka lmfmpesrvw tvmlllgtcl
+       61 lycarvtvpi cavalsthfs wdkkqsgivl ssffwgyclt qiigghisdq iggekvllls
+      121 asawgfltvl tplltqitsa hlvfmtssrf lmgllqgvyf pslasllsqk vreserafty
+      181 stvgtgsqfg tlviggagsl lldwygwesv fyfsglltll wvyctckyll sekeliipig
+      241 ylmrglsisk qtkvpwkqlf rkapiwavii aqlstastff tllswlptff ketfpeskgw
+      301 vfnvvpwlva iptslfsgfl sdhlinqgyk titirkfmqv igsgvssifa lclgqtssfc
+      361 kaivfasasv glqtfnhsgi svnvqdlaps cagllfgvgn tggallgvic vylagyliet
+      421 tgswisvfnl vaavnsiglc aflmfgeaqr vdtdstymdl
+//
+

@@ -1,0 +1,65 @@
+
+LOCUS       CAC5356937               487 aa            linear   INV 14-JUN-2020
+DEFINITION  SLC17A5 [Mytilus coruscus].
+ACCESSION   CAC5356937
+VERSION     CAC5356937.1
+DBLINK      BioProject: PRJEB33342
+            BioSample: SAMEA5756185
+DBSOURCE    embl accession CACVKT020000197.1
+KEYWORDS    .
+SOURCE      Mytilus coruscus
+  ORGANISM  Mytilus coruscus
+            Eukaryota; Metazoa; Spiralia; Lophotrochozoa; Mollusca; Bivalvia;
+            Pteriomorphia; Mytiloida; Mytiloidea; Mytilidae; Mytilinae;
+            Mytilus.
+REFERENCE   1
+  AUTHORS   Li,R. and Bekaert,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-JAN-2020) NINGBO UNIVERSITY, 818 Fenghua Road, Ningbo
+            City, Zhejiang Province, China
+REFERENCE   2
+  AUTHORS   Li,R. and Bekaert,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-JUN-2020) NINGBO UNIVERSITY, 818 Fenghua Road, Ningbo
+            City, Zhejiang Province, China
+FEATURES             Location/Qualifiers
+     source          1..487
+                     /organism="Mytilus coruscus"
+                     /strain="wild"
+                     /db_xref="taxon:42192"
+                     /note="contig: Mco10174"
+     Protein         1..487
+                     /function="SLC17A5, MFS transporter, ACS family, solute
+                     carrier family 17 (sodium-dependent inorganic phosphate
+                     cotransporter), member 5"
+                     /name="SLC17A5"
+     CDS             1..487
+                     /locus_tag="MCOR_859"
+                     /standard_name="SLC17A5"
+                     /coded_by="complement(join(CACVKT020000197.1:431856..43202
+                     3,CACVKT020000197.1:432830..432920,
+                     CACVKT020000197.1:434801..434951,
+                     CACVKT020000197.1:437748..437880,
+                     CACVKT020000197.1:438872..439021,
+                     CACVKT020000197.1:446303..446433,
+                     CACVKT020000197.1:446835..446930,
+                     CACVKT020000197.1:447669..447756,
+                     CACVKT020000197.1:449879..450112,
+                     CACVKT020000197.1:451712..451917,
+                     CACVKT020000197.1:454637..454652))"
+                     /inference="protein motif:UniProtKB/Swiss-Prot:Q03567.2"
+                     /inference="protein motif:UniProtKB/Swiss-Prot:Q8BN82.2"
+                     /inference="protein motif:UniProtKB/Swiss-Prot:Q9MZD1.1"
+                     /inference="protein motif:UniProtKB/Swiss-Prot:Q9NRA2.2"
+ORIGIN      
+        1 mssskdvpcc csqrwilayt sfvgfffvys lrvnisvaiv cmvktpnitt tdtfdnssss
+       61 ictgtastrq vfnehaefdw nkevtssila sffygyiitq ipggwlsdrf ggryvfgiam
+      121 aissistlli pvcarnsvvs vyvlrvilgl atgvafpcvq smwgrwappl ersklisvsf
+      181 lgtmfgnvat fgssgylcey gfdngwgsif yitggltaiw vviwfvvvrd tpsehpwise
+      241 verdyinnai eydtskrtak vpwlemaksp allacttahi cnnwtnytll tslpaflkav
+      301 hkfniksngl lsalpyicqa vsgfssgqia dilrskgvls ttatrrllqi iafsgsgifl
+      361 vatgftsceh rtlaiaflsl avmingfcra gyvvnhvdfg pkyagvlygi tntfatipgm
+      421 lapivagqlt pndtqeewrn ifyvcaafnv lgilvygcfs rgeiqewakd deeiviekqt
+      481 dktetkl
+//
+

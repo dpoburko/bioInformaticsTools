@@ -1,0 +1,64 @@
+
+LOCUS       XP_020029313             436 aa            linear   ROD 15-FEB-2017
+DEFINITION  solute carrier family 17 member 9 [Castor canadensis].
+ACCESSION   XP_020029313
+VERSION     XP_020029313.1
+DBLINK      BioProject: PRJNA371604
+DBSOURCE    REFSEQ: accession XM_020173724.1
+KEYWORDS    RefSeq.
+SOURCE      Castor canadensis (American beaver)
+  ORGANISM  Castor canadensis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia;
+            Castorimorpha; Castoridae; Castor.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_017871285.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Castor canadensis Annotation Release
+                                           100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 7.3
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..436
+                     /organism="Castor canadensis"
+                     /isolate="Ward"
+                     /db_xref="taxon:51338"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /tissue_type="Leukocyte"
+                     /dev_stage="adult"
+     Protein         1..436
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=47246
+     Region          32..408
+                     /region_name="UhpC"
+                     /note="Sugar phosphate permease [Carbohydrate transport
+                     and metabolism]; cl27298"
+                     /db_xref="CDD:332119"
+     CDS             1..436
+                     /gene="Slc17a9"
+                     /coded_by="XM_020173724.1:5..1315"
+                     /db_xref="GeneID:109692839"
+ORIGIN      
+        1 mqsspeearr aaaeeiqwsr pecqawtgml llgtcllyca rvtmpvctva msqdfgwnkk
+       61 etsivlssff wgycltqvvg ghlgdrigge kvillsastw gfitvvtpll arlgsahlvf
+      121 mtfsriltgl lqgvyfpalt sllsqrvres eraltystvg agsqfgtlvt gavgslllew
+      181 cgwqsvfyfs ggltllwvcy lykyllsekd lllalgvlaq glpmarpskv pwrqlfrkps
+      241 vwaaicsqlc sacsffills wmptffketf phskgwvfnv vpwlvaipas lfsgflsdhl
+      301 inqgyrtitv rklmqvmglg lssifalclg httsflkavi fasasvglqt fnhsgisvni
+      361 qdlapscagf lfgvantaga lagvvgvclg gylieatgsw tcvfnlvaii snlglgtflv
+      421 fgqaqrvdli pahedl
+//
+

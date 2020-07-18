@@ -1,0 +1,59 @@
+
+LOCUS       XP_018055736             430 aa            linear   INV 19-SEP-2016
+DEFINITION  PREDICTED: solute carrier family 17 member 9 [Atta colombica].
+ACCESSION   XP_018055736
+VERSION     XP_018055736.1
+DBLINK      BioProject: PRJNA343260
+DBSOURCE    REFSEQ: accession XM_018200247.1
+KEYWORDS    RefSeq.
+SOURCE      Atta colombica
+  ORGANISM  Atta colombica
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta;
+            Pterygota; Neoptera; Holometabola; Hymenoptera; Apocrita; Aculeata;
+            Vespoidea; Formicidae; Myrmicinae; Atta.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_017259548.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Atta colombica Annotation Release
+                                           100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 7.1
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..430
+                     /organism="Atta colombica"
+                     /isolate="Treedump-2"
+                     /isolation_source="Nest"
+                     /db_xref="taxon:520822"
+                     /chromosome="Unknown"
+                     /tissue_type="Whole body"
+                     /country="Panama: Gamboa"
+                     /collection_date="2011"
+     Protein         1..430
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=47305
+     CDS             1..430
+                     /gene="LOC108692106"
+                     /coded_by="XM_018200247.1:344..1636"
+                     /db_xref="GeneID:108692106"
+ORIGIN      
+        1 mnsqtmqlqi sldtsfddrt asswsrkerq kwflsllcgt cliyatrtsv pllipvvsqe
+       61 knwsksdsgi ilssffwgyt ltqvasgyis dkiggqrvlw isalgwsatt flmpeiieff
+      121 sgdgtsillv aavrmingaf qgmhfpsmis lisqrlheae rasffsllts gsalgtlltg
+      181 slgsylleny nwmtvfralg smslawtall syhtlpfkek tasiksttdy tlpwskllsq
+      241 ppfwscvigh acqnncffvl lswmptyfhd tfpeirgwiv nmvpwlsmlp ctflgkalse
+      301 eiikagysvt vtrktiqtic fvieigsllf lakvesfena ilclaliigg sgfhnnaiav
+      361 npsdlapkhs gsvfglmntv gaipgflgvy fsghilhvth swpavflfia vidalgcimy
+      421 llfgsgqaii
+//
+

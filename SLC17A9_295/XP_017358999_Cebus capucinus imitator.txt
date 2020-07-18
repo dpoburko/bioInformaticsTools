@@ -1,0 +1,61 @@
+
+LOCUS       XP_017358999             425 aa            linear   PRI 18-JUL-2016
+DEFINITION  PREDICTED: solute carrier family 17 member 9 [Cebus capucinus
+            imitator].
+ACCESSION   XP_017358999
+VERSION     XP_017358999.1
+DBLINK      BioProject: PRJNA328123
+DBSOURCE    REFSEQ: accession XM_017503510.1
+KEYWORDS    RefSeq.
+SOURCE      Cebus capucinus imitator
+  ORGANISM  Cebus capucinus imitator
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Cebidae; Cebinae; Cebus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_016107626.1) annotated using gene prediction method: Gnomon,
+            supported by EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Cebus capucinus imitator Annotation
+                                           Release 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 7.1
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..425
+                     /organism="Cebus capucinus imitator"
+                     /isolate="Cc_AM_T3"
+                     /sub_species="imitator"
+                     /db_xref="taxon:1737458"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /dev_stage="adult"
+                     /country="Costa Rica"
+     Protein         1..425
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=45911
+     CDS             1..425
+                     /gene="SLC17A9"
+                     /coded_by="XM_017503510.1:212..1489"
+                     /db_xref="GeneID:108285971"
+ORIGIN      
+        1 magdtqwsrp ecqvwtgtll lgtcllycar asmpictvsm sqdfgwnkke agivlssffw
+       61 gycltqvvgg hlgdriggek villsasawg sitavtplla hlgsahlafm tfsrilmgll
+      121 qgvyfpalts llsqkvrese raftystvga gsqfgtlltg avgslllewc gwpsvfyfsg
+      181 sltllwvwyv yryllsgkdl vpasgvlapg llvtrhsrvp wrrlfrkpav watvfsqlsa
+      241 acsffvllsw lptffketfp dakgwifnvv pwlvaipasv fsgflsdhli nrgyraitvr
+      301 klmqgmglgl ssvfalrlgh tssfcesvvf asasiclqtf nhsgisvniq dlapscagfl
+      361 fgvantagal agvvgvclgg yliettgswt clfnlvaiis nlglctflvf gqaqrvdlsp
+      421 tredl
+//
+

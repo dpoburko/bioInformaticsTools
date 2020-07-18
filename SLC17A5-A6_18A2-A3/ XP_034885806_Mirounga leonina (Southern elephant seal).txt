@@ -1,0 +1,61 @@
+
+LOCUS       XP_034885806             516 aa            linear   MAM 10-JUN-2020
+DEFINITION  synaptic vesicular amine transporter [Mirounga leonina].
+ACCESSION   XP_034885806
+VERSION     XP_034885806.1
+DBLINK      BioProject: PRJNA638103
+DBSOURCE    REFSEQ: accession XM_035029915.1
+KEYWORDS    RefSeq.
+SOURCE      Mirounga leonina (Southern elephant seal)
+  ORGANISM  Mirounga leonina
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Carnivora; Caniformia;
+            Phocidae; Mirounga.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_023270265.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA and EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Mirounga leonina Annotation Release
+                                           100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.4
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..516
+                     /organism="Mirounga leonina"
+                     /isolate="KUSES-001"
+                     /db_xref="taxon:9715"
+                     /chromosome="Unknown"
+                     /tissue_type="blood"
+                     /dev_stage="adult"
+                     /country="Antarctica"
+     Protein         1..516
+                     /product="synaptic vesicular amine transporter"
+                     /calculated_mol_wt=55529
+     CDS             1..516
+                     /gene="SLC18A2"
+                     /coded_by="XM_035029915.1:1..1551"
+                     /db_xref="GeneID:118026872"
+ORIGIN      
+        1 malselallr wllesrhsrk lilfivflal lldnmlltvv vpiipsylys inheknatei
+       61 qtakpgltas psdrfqsifs yydnttivtg nstralhggl lpattqravt ntstgpsdcp
+      121 sedkdllnen vqvgllfask atvqlltnpf vgmltnrigy pipmfagfci mfvstimfaf
+      181 sssyafllia rslqgigssc ssvagmgmla svytddeerg namgialggl amgvlvgppf
+      241 gsvlyefvgk tapflvlaal vlldgaiqlf vlqpsrvqpe sqkgtplatl lkdpyiliaa
+      301 gsicfanmgi amlepalpiw mmetmcsrkw qlgiaflpas isyligtnif gmlahkmgrw
+      361 lcallgmiiv gisilcipfa kniygliapn fgvgfaigmv dssmmpimgy lvdlrhvsvy
+      421 gsvyaiadva fcmgyaigps aggaiakaig fpwlmtiigi idilfaplcf flrsppakee
+      481 kmailmdhnc piktkmytqn niqsypvgdd eesesd
+//
+

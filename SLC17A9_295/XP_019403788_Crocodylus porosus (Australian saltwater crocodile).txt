@@ -1,0 +1,57 @@
+
+LOCUS       XP_019403788             461 aa            linear   VRT 20-DEC-2016
+DEFINITION  PREDICTED: solute carrier family 17 member 9 [Crocodylus porosus].
+ACCESSION   XP_019403788
+VERSION     XP_019403788.1
+DBLINK      BioProject: PRJNA357059
+DBSOURCE    REFSEQ: accession XM_019548243.1
+KEYWORDS    RefSeq.
+SOURCE      Crocodylus porosus (Australian saltwater crocodile)
+  ORGANISM  Crocodylus porosus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Crocodylia; Longirostres; Crocodylidae;
+            Crocodylus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_017728942.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Crocodylus porosus Annotation
+                                           Release 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 7.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..461
+                     /organism="Crocodylus porosus"
+                     /isolate="Cpor-Errol"
+                     /db_xref="taxon:8502"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /tissue_type="blood"
+     Protein         1..461
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=50195
+     CDS             1..461
+                     /gene="SLC17A9"
+                     /coded_by="XM_019548243.1:256..1641"
+                     /db_xref="GeneID:109318834"
+ORIGIN      
+        1 massgsknal qvysalhhch pqqpgkppyq egmrkdgtad cywsrpesrt wtvmlllgtc
+       61 llycarvtmp icavamsshf ewdkkqsgiv lssffwgycl tqivgghlsd riggekvlll
+      121 sasawgfita itplltyvss ahlifmaasr flmgllqgvy fpalaslfsq kvreseraft
+      181 cstvgtgsqf gtlviggags llldwygwes vfyfsgfltl lwvycmckyl lkekgliisf
+      241 eslakglsls krtkvpwkrl fkkapiwavi vaqlstgstf ftllswlptf fketfpeskg
+      301 wvfnvvpwlv aiptslfsgf lsdhlisqgy rtitvrkfmq vigsgvsslf alclgqtssf
+      361 ckaivfasas vglqtfnhsg isvnvqdlap scagllfgvg ntggallgvv cvylaghlie
+      421 ttgswisvfn lvatvniigl ctflifgeaq rvdtvsayid l
+//
+

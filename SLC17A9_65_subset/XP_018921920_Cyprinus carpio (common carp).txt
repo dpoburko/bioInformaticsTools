@@ -1,0 +1,54 @@
+
+LOCUS       XP_018921920             465 aa            linear   VRT 10-NOV-2016
+DEFINITION  PREDICTED: solute carrier family 17 member 9 [Cyprinus carpio].
+ACCESSION   XP_018921920
+VERSION     XP_018921920.1
+DBLINK      BioProject: PRJNA352247
+DBSOURCE    REFSEQ: accession XM_019066375.1
+KEYWORDS    RefSeq.
+SOURCE      Cyprinus carpio (common carp)
+  ORGANISM  Cyprinus carpio
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Cyprinus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_031742.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Cyprinus carpio Annotation Release
+                                           100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 7.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..465
+                     /organism="Cyprinus carpio"
+                     /db_xref="taxon:7962"
+                     /chromosome="46"
+     Protein         1..465
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=50481
+     CDS             1..465
+                     /gene="slc17a9"
+                     /coded_by="XM_019066375.1:497..1894"
+                     /db_xref="GeneID:109048715"
+ORIGIN      
+        1 mailqkhgkn scpdlasike npadnigqag pqkkwaessq nwtrpvlriw tvvlllgtcl
+       61 lycarvampi cavsmaerfs wskretgmvl gsffwgycft qvlggyvsdr vggekvmlls
+      121 aaawgamtaf tpilahfcsq pivsmtvsrf lmgllqgvhy pslaslcsqk vvesergflm
+      181 stvgsgsylg tlviggigsl mldlygwesv fyisgllsvl waysmwkyll kgegpiitle
+      241 slgsagtqsk lskrnwlrlf rqpavcavii thlctastff tllswlptyf kdtfpdakgw
+      301 vfnvipwfva ipsslfsgcl sdhlisqgfd tasvrklmqf fsmgvssvft lflcgtttfp
+      361 tavafvsatm glttfshsgv svnvqdlaps cagalfgvmn tcgaftgvim vyfsgyliet
+      421 tgswasvfgl itvvnllglg tflcfaearr vdidlakgry hnihi
+//
+

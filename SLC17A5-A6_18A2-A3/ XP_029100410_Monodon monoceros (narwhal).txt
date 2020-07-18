@@ -1,0 +1,75 @@
+
+LOCUS       XP_029100410             528 aa            linear   MAM 21-MAY-2019
+DEFINITION  vesicular acetylcholine transporter [Monodon monoceros].
+ACCESSION   XP_029100410
+VERSION     XP_029100410.1
+DBLINK      BioProject: PRJNA542700
+DBSOURCE    REFSEQ: accession XM_029244577.1
+KEYWORDS    RefSeq.
+SOURCE      Monodon monoceros (narwhal)
+  ORGANISM  Monodon monoceros
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Cetartiodactyla; Cetacea;
+            Odontoceti; Monodontidae; Monodon.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_021703781.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Monodon monoceros Annotation Release
+                                           100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..528
+                     /organism="Monodon monoceros"
+                     /isolate="NGI"
+                     /db_xref="taxon:40151"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /tissue_type="liver"
+                     /dev_stage="Adolescent (Juvenile stage)"
+                     /ecotype="Baffin Bay Population"
+                     /country="Canada: Milne Inlet, Baffin Island, Nunavut"
+                     /lat_lon="72.3787 N 80.5310 W"
+                     /collection_date="08-Aug-2013"
+     Protein         1..528
+                     /product="vesicular acetylcholine transporter"
+                     /calculated_mol_wt=56467
+     Region          36..456
+                     /region_name="MFS"
+                     /note="Major Facilitator Superfamily; cl28910"
+                     /db_xref="CDD:355786"
+     Site            order(46..47,50..51,54,136,186..187,189..191,194,215,
+                     218..219,222,295,298..299,302..304,307,335,339,388..389,
+                     393,397,418,421..422,425..426,429)
+                     /site_type="other"
+                     /note="putative chemical substrate binding pocket
+                     [chemical binding]"
+                     /db_xref="CDD:349949"
+     CDS             1..528
+                     /gene="SLC18A3"
+                     /coded_by="XM_029244577.1:1..1587"
+                     /db_xref="GeneID:114908433"
+ORIGIN      
+        1 mepeapagqa paaasklsea vgaalqdprr qrrlvlvivc valfldnmly mvivpivpyy
+       61 vhsasekptl tskvcvttlp pptpanasad tvntsessta amparstaqp qyptdnedvk
+      121 igvlfaskai lqllvnplsg tfidrmsydl pllmglgvlf astvmfafae dyatlfaars
+      181 lqglgsafad tsgiamiadk ypeepersra lglalafisf gslvappfgg flhkfvgkta
+      241 pflvlamvsl ldallllvva kpfsaaarar anlpvgtpih rlmldpyiav vagalttcni
+      301 plafleptia twmehtmaas ewdagiawlp afvphvlgvy ltvrlaaryp hlqwlygafg
+      361 lavigasscl vpacrsfapl vvslcglcfg ialvdtallp tlaflvdvrh vsvygsvyai
+      421 adisycvaya lgpivaghiv hslgfeqlsl vmglanllya pvllllrnvg rlkrsrserd
+      481 vlldeppqgl ydavrlrerp lsdrevaprs ppgpfdsced dydyytrs
+//
+

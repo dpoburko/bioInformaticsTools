@@ -1,0 +1,62 @@
+
+LOCUS       XP_032810649             463 aa            linear   VRT 20-MAR-2020
+DEFINITION  solute carrier family 17 member 9 [Petromyzon marinus].
+ACCESSION   XP_032810649
+VERSION     XP_032810649.1
+DBLINK      BioProject: PRJNA611764
+DBSOURCE    REFSEQ: accession XM_032954758.1
+KEYWORDS    RefSeq.
+SOURCE      Petromyzon marinus (sea lamprey)
+  ORGANISM  Petromyzon marinus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Cyclostomata;
+            Hyperoartia; Petromyzontiformes; Petromyzontidae; Petromyzon.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_046083.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Petromyzon marinus Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.3
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..463
+                     /organism="Petromyzon marinus"
+                     /isolate="kPetMar1"
+                     /db_xref="taxon:7757"
+                     /chromosome="15"
+                     /sex="male"
+                     /tissue_type="sperm"
+                     /dev_stage="adult"
+                     /country="USA: Great Lakes Fisheries Commission"
+                     /lat_lon="42.2821 N 83.74847 W"
+                     /collection_date="12-Jun-2018"
+                     /collected_by="Jeremiah Smith"
+     Protein         1..463
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=50320
+     CDS             1..463
+                     /gene="SLC17A9"
+                     /coded_by="XM_032954758.1:397..1788"
+                     /db_xref="GeneID:116942623"
+ORIGIN      
+        1 mtetpspavp mgyehrplgs psssssfvls tmddekslap rgasdtktlw srqelrlwva
+       61 vlfcgnclly caraapavca vvlsarfgwd kaqagtmlgs ffwgyaltqi vgghlsdrig
+      121 gdkmiclsmg swglvtlmmp vvahlseqpl pqlifvrfct gflqgvhfps msslfssrvp
+      181 eserafiast acsgshfgal vvggigylll eaygweslfi ltglssmvwa ylvwrfliqk
+      241 rgnviamqsl ysslwpttpg kspvpwgril tkppvwavii ahfclnncfy imlswlptyf
+      301 hetfkdskgw vfnvvpwlvs ipmamlsgyl adllirlgvn tatvrklmqv valgnsclfa
+      361 simcrtesfs lallfaaisi gsqsfhlsgv svnvqdlaps csgalfgimn tagalpgffg
+      421 vyvagylvqt tgswtsvfny ltavnifgls fflvfgkakr idl
+//
+

@@ -1,0 +1,77 @@
+
+LOCUS       XP_020315597             466 aa            linear   VRT 09-DEC-2019
+DEFINITION  solute carrier family 17 member 9 [Oncorhynchus kisutch].
+ACCESSION   XP_020315597
+VERSION     XP_020315597.1
+DBLINK      BioProject: PRJNA378663
+DBSOURCE    REFSEQ: accession XM_020460008.2
+KEYWORDS    RefSeq.
+SOURCE      Oncorhynchus kisutch (coho salmon)
+  ORGANISM  Oncorhynchus kisutch
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_034197.2) annotated using gene prediction method: Gnomon,
+            supported by EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Oncorhynchus kisutch Annotation
+                                           Release 101
+            Annotation Version          :: 101
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.3
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..466
+                     /organism="Oncorhynchus kisutch"
+                     /isolate="150728-3"
+                     /db_xref="taxon:8019"
+                     /sex="female"
+                     /tissue_type="muscle"
+                     /dev_stage="juvenile"
+                     /country="Canada: Vancouver"
+                     /linkage_group="LG24"
+                     /note="double haploid"
+     Protein         1..466
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=50658
+     Region          52..447
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Site            order(66,69..71,73..74,91,94..95,98,102..103,105..106,
+                     157..158,161..162,165..166,169,181..182,185..186,192,277,
+                     280..281,284..285,288,300,304,308,311,315,371,374..375,
+                     378,382..383,386,396..397,400..401,404..405,408)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..466
+                     /gene="LOC109869747"
+                     /coded_by="XM_020460008.2:578..1978"
+                     /db_xref="GeneID:109869747"
+ORIGIN      
+        1 mailqkhgkn sspdlvclke kttdktgvag ghqkkwsepn tywprplarv wtvvlllgtc
+       61 llycarvamp icavsmaekf nwtkrdqgmv lgsffwgycf tqvlggyvsd rvggekvlll
+      121 saaawgamta ftpvlahfcs qpifsmtlar flmgllqgvh ypslaslcsq kvvesergfl
+      181 mstvgsgsyl gtlviggags lmldlygwes vfyvsgmlsv lwaycmwkyl lkgegpiitl
+      241 eslgsggpqs klsrrhwlrl fkqpavcavi ithlctastf ftllswlpty fkdtfpdakg
+      301 wvfnvipwfv sipsslfsgc lsdhliskgy dtaavrklmq ffsmgvssvf tlllcgtttf
+      361 plavafvsvt mglttfshsg vsvnvqdlap scagalfgvm ntcgafsgvl mvyfsgylie
+      421 atgswasvfa litvvnlvgl vtflafaear rvdidsskgr yhnihi
+//
+

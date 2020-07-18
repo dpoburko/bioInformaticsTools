@@ -1,0 +1,62 @@
+
+LOCUS       XP_011331867             424 aa            linear   INV 07-NOV-2018
+DEFINITION  solute carrier family 17 member 9 [Ooceraea biroi].
+ACCESSION   XP_011331867
+VERSION     XP_011331867.1
+DBLINK      BioProject: PRJNA501908
+DBSOURCE    REFSEQ: accession XM_011333565.3
+KEYWORDS    RefSeq.
+SOURCE      Ooceraea biroi (clonal raider ant)
+  ORGANISM  Ooceraea biroi
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta;
+            Pterygota; Neoptera; Holometabola; Hymenoptera; Apocrita; Aculeata;
+            Formicoidea; Formicidae; Dorylinae; Ooceraea.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_039514.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Ooceraea biroi Annotation Release
+                                           100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.1
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..424
+                     /organism="Ooceraea biroi"
+                     /isolate="clonal line C1"
+                     /db_xref="taxon:2015173"
+                     /chromosome="9"
+                     /collection_date="2016-08"
+     Protein         1..424
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=46537
+     Region          33..417
+                     /region_name="UhpC"
+                     /note="Sugar phosphate permease [Carbohydrate transport
+                     and metabolism]; cl27298"
+                     /db_xref="CDD:332119"
+     CDS             1..424
+                     /gene="LOC105276169"
+                     /coded_by="XM_011333565.3:152..1426"
+                     /db_xref="GeneID:105276169"
+ORIGIN      
+        1 mlplslgill dertdsfwsr kerrrwfvsl lcgtcliyat rtsvpllmpi vskekqwskp
+       61 dsgvilssff wgytltqvas gyisdriggq kvlciaalgw sattflmpei ieffskdets
+      121 illvaalrti ngafqgmhfp smislisqrl qeaerasffs lltsgsalgt lltgslgsyl
+      181 lenydwmtvf rvlggmslaw tallnyhtls lkekaastkp atsytlpwlk llskppfwsc
+      241 vighacqnnc ffvllswmpt yfhdtfpevk gwvvnmvpwl smlpctilgk alseriieag
+      301 ysvtvtrkti qtvcfvteig sllalmkaes fqsailclal iiggsgfhsn aiavnpsdla
+      361 pkhsgsvfgl mntvgaipgf lgvyfsgyil hvthswsvvf lfiavidvlg ciiyllfgsg
+      421 qaii
+//
+

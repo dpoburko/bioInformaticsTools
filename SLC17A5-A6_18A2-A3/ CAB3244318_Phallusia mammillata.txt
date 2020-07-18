@@ -1,0 +1,33 @@
+
+LOCUS       CAB3244318               173 aa            linear   INV 24-APR-2020
+DEFINITION  VGLUT vesicular glutamate transporter [Phallusia mammillata].
+ACCESSION   CAB3244318
+VERSION     CAB3244318.1
+DBLINK      BioProject: PRJEB37585
+DBSOURCE    embl accession LR785022.1
+KEYWORDS    .
+SOURCE      Phallusia mammillata
+  ORGANISM  Phallusia mammillata
+            Eukaryota; Metazoa; Chordata; Tunicata; Ascidiacea; Enterogona;
+            Phlebobranchia; Ascidiidae; Phallusia.
+REFERENCE   1
+  AUTHORS   Neveu A,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-APR-2020) EUROPEAN MOLECULAR BIOLOGY LABORATORY,
+            Meyerhofstr. 1, 69117 Heidelberg, Germany
+FEATURES             Location/Qualifiers
+     source          1..173
+                     /organism="Phallusia mammillata"
+                     /db_xref="taxon:59560"
+                     /tissue_type="whole embryo"
+     Protein         1..173
+                     /product="VGLUT vesicular glutamate transporter"
+     CDS             1..173
+                     /gene="Fam162b"
+                     /coded_by="LR785022.1:109..630"
+ORIGIN      
+        1 mnlvgktskm laararlpvk kfitysvrrs sqlndkelti krfkpsldtk agevvtetie
+       61 qpavnvvqrm reerkaeken klktrklnwl dkrilvrlgk ykriedvpdk ivyksikagq
+      121 eaknevrsfl tektfrtvmf tdymlticca gllllvyfvy snskssense tke
+//
+

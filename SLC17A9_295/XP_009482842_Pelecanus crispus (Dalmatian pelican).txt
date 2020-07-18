@@ -1,0 +1,69 @@
+
+LOCUS       XP_009482842             372 aa            linear   VRT 06-OCT-2014
+DEFINITION  PREDICTED: solute carrier family 17 member 9, partial [Pelecanus
+            crispus].
+ACCESSION   XP_009482842
+VERSION     XP_009482842.1
+DBLINK      BioProject: PRJNA253833
+DBSOURCE    REFSEQ: accession XM_009484567.1
+KEYWORDS    RefSeq; includes ab initio.
+SOURCE      Pelecanus crispus (Dalmatian pelican)
+  ORGANISM  Pelecanus crispus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Pelecaniformes; Pelecanidae;
+            Pelecanus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_009090600.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Pelecanus crispus Annotation Release
+                                           100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 6.1
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            ab initio :: 5% of CDS bases
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: incomplete on the amino end.
+FEATURES             Location/Qualifiers
+     source          1..372
+                     /organism="Pelecanus crispus"
+                     /isolate="BGI_N334"
+                     /db_xref="taxon:36300"
+                     /chromosome="Unknown"
+                     /sex="male"
+     Protein         <1..372
+                     /product="solute carrier family 17 member 9"
+     Region          18..357
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     CDS             1..372
+                     /gene="SLC17A9"
+                     /coded_by="XM_009484567.1:<1..1121"
+                     /codon_start=3
+                     /db_xref="GeneID:104032278"
+ORIGIN      
+        1 lagglcpfal psflitcfls sriggekvll lsasawgflt vltpllthvt sahllfmtss
+       61 rflmgllqgv yfpslaslls qkvregeraf tystvgtgsq fgtlviggag sllldwygwe
+      121 svfyfsgllt llwvyctcky llsekeliip idylmrglsi skqtkvpwkq lfkkapiwav
+      181 iiaqlstast fftllswlpt ffketfpesk gwvfnvvpwl vaiptslfsg flsdhlisqg
+      241 yktitirkfm qvigsgvssi falclgqtss fckaivfasa svglqtfnhs gisvnvqdla
+      301 pscagllfgv gntggallgv vcvylagyli ettgswvsvf nlvaavnsvg lcaflmfgea
+      361 qrvdtdstym dl
+//
+

@@ -1,0 +1,67 @@
+
+LOCUS       XP_020837214             469 aa            linear   MAM 10-MAY-2017
+DEFINITION  solute carrier family 17 member 9 [Phascolarctos cinereus].
+ACCESSION   XP_020837214
+VERSION     XP_020837214.1
+DBLINK      BioProject: PRJNA384067
+DBSOURCE    REFSEQ: accession XM_020981555.1
+KEYWORDS    RefSeq.
+SOURCE      Phascolarctos cinereus (koala)
+  ORGANISM  Phascolarctos cinereus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Metatheria; Diprotodontia; Phascolarctidae;
+            Phascolarctos.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_018343963.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Phascolarctos cinereus Annotation
+                                           Release 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 7.4
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..469
+                     /organism="Phascolarctos cinereus"
+                     /isolate="Bilbo 61053"
+                     /specimen_voucher="AM:M.47724"
+                     /db_xref="taxon:38626"
+                     /chromosome="Unknown"
+                     /sex="female"
+                     /tissue_type="spleen"
+                     /dev_stage="adult"
+                     /country="Australia"
+                     /collection_date="01-Aug-2015"
+                     /collected_by="Australia Zoo Wildlife Hospital"
+     Protein         1..469
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=51635
+     Region          85..468
+                     /region_name="UhpC"
+                     /note="Sugar phosphate permease [Carbohydrate transport
+                     and metabolism]; cl27298"
+                     /db_xref="CDD:332119"
+     CDS             1..469
+                     /gene="SLC17A9"
+                     /coded_by="XM_020981555.1:163..1572"
+                     /db_xref="GeneID:110205194"
+ORIGIN      
+        1 masghcklga spvhhhchhq hqhqlslqpp lgskapcpek mkrdvsaety wsrpecqvwt
+       61 vmlllgtcll ycarvtmpic avsmnedfgw nkkqsgills sffwgycltq imgghlgdri
+      121 ggdkvilisa sawgfitavt pllshissah lvfmtlsril mglfqgvyfp altsllsqkv
+      181 reneraftys tvgagsqfgt lviggagsll ldwygwqsvf yfsgvltliw vyfmyryllr
+      241 ekelaislei lakafsiskq kkipwrqlfr rppvwavifa qlssassffi llswlptffk
+      301 etfpnskgwv fnvvpwliai ptsvfsgfls dhlisqgyrt itvrklmqvm glglssvfal
+      361 flghtrsfck siifasasig lqtfnhsgis vniqdlapsc agflfgvant agalagvigv
+      421 clggylieat gswtsvfnlv aiisnlglcm flvfgeaqrv dfssayedl
+//
+

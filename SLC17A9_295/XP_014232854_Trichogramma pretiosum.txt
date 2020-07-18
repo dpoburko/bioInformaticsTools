@@ -1,0 +1,79 @@
+
+LOCUS       XP_014232854             418 aa            linear   INV 05-JAN-2018
+DEFINITION  solute carrier family 17 member 9 [Trichogramma pretiosum].
+ACCESSION   XP_014232854
+VERSION     XP_014232854.1
+DBLINK      BioProject: PRJNA297592
+DBSOURCE    REFSEQ: accession XM_014377368.2
+KEYWORDS    RefSeq.
+SOURCE      Trichogramma pretiosum
+  ORGANISM  Trichogramma pretiosum
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta;
+            Pterygota; Neoptera; Holometabola; Hymenoptera; Apocrita;
+            Terebrantes; Chalcidoidea; Trichogrammatidae; Trichogramma.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_019641652.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Trichogramma pretiosum Annotation
+                                           Release 101
+            Annotation Version          :: 101
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.0
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..418
+                     /organism="Trichogramma pretiosum"
+                     /strain="Unisexual culture from Peru"
+                     /isolation_source="collection maintained in commercial
+                     insectary since 1966"
+                     /host="Alabama argillacea"
+                     /db_xref="taxon:7493"
+                     /chromosome="Unknown"
+                     /sex="female"
+                     /country="Peru: Puira Valley"
+     Protein         1..418
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=46292
+     Region          23..411
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Region          28..411
+                     /region_name="2A0114"
+                     /note="D-galactonate transporter; TIGR00893"
+                     /db_xref="CDD:273326"
+     Site            order(36,39..41,43..44,61,64..65,68,72..73,75..76,
+                     129..130,133..134,137..138,141,153..154,157..158,164,242,
+                     245..246,249..250,253,265,269,273,276,280,336,339..340,
+                     343,347..348,351,361..362,365..366,369..370,373)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..418
+                     /gene="LOC106656415"
+                     /coded_by="XM_014377368.2:314..1570"
+                     /db_xref="GeneID:106656415"
+ORIGIN      
+        1 mltydnihfn yhwtrkerfk wglillsgts lvyasrtsvp llvpvigker gwsktdsgmi
+       61 lssffwgytl tqvlggylsd rlggqriltv aaigwglstl flpeiidnfs dyysiqfivl
+      121 armingafqg vhfpsmislt sqrliesera sffslvtsgs avgtvltgtl gsyvlenytw
+      181 htvlrvfglv svawtilvfy ystllngrss tvkhtssnrl pirelitkpp fwaclighac
+      241 qnncffvlls wmptyfhdtf pevkswivnm vpwlaslpsi figrvisdkl iktgysvtat
+      301 rkiiqttcft lqavnllfla vtdapekail yltliiagsg fhnsaiivnp sdlapkhsgs
+      361 vfgimntiga ipgflgvyla glilqhthsw svvfiyifiv eiigatvylv ygsgkail
+//
+

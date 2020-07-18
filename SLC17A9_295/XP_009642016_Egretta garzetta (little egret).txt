@@ -1,0 +1,81 @@
+
+LOCUS       XP_009642016             433 aa            linear   VRT 16-OCT-2014
+DEFINITION  PREDICTED: solute carrier family 17 member 9 [Egretta garzetta].
+ACCESSION   XP_009642016
+VERSION     XP_009642016.1
+DBLINK      BioProject: PRJNA253831
+DBSOURCE    REFSEQ: accession XM_009643721.1
+KEYWORDS    RefSeq; includes ab initio.
+SOURCE      Egretta garzetta (little egret)
+  ORGANISM  Egretta garzetta
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Pelecaniformes; Ardeidae; Egretta.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_009260430.1) annotated using gene prediction method: Gnomon,
+            supported by EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Egretta garzetta Annotation Release
+                                           100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 6.1
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            ab initio :: 3% of CDS bases
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..433
+                     /organism="Egretta garzetta"
+                     /isolate="BGI_Z169"
+                     /db_xref="taxon:188379"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /country="China"
+     Protein         1..433
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=46992
+     Region          24..418
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Region          29..418
+                     /region_name="2A0114"
+                     /note="D-galactonate transporter; TIGR00893"
+                     /db_xref="CDD:273326"
+     Site            order(38,41..43,45..46,63,66..67,70,74..75,77..78,
+                     129..130,133..134,137..138,141,153..154,157..158,164,249,
+                     252..253,256..257,260,274,276,280,283,287,343,346..347,
+                     350,354..355,358,368..369,372..373,376..377,380)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..433
+                     /gene="SLC17A9"
+                     /coded_by="XM_009643721.1:1..1302"
+                     /db_xref="GeneID:104130652"
+ORIGIN      
+        1 maeagqplvt yssskdtpes rvwtvmlllg tcllycarvt vpicavalst hfdwdkkqsg
+       61 ivlssffwgy cltqiigghi sdqiggekvl llsasawgfl tvltpllthl tsahlafmts
+      121 srflmgllqg vyfpslasll sqkvresera ftystvgtgs qfgtlvigga gsllldwygw
+      181 esvfyfsgll tllwvyctck yllsekelii pidylmrgls iskqtkvpwk qlfkkapiwa
+      241 viiaqlstas tfftllswlp tffketfpes kgwvfnvvpw lvaiptslfs gflsdhlinq
+      301 gyktitirkf mqvigsgvss ifalclgqts sfckaivfas asvglqtfnh sgtsvnvqdl
+      361 apscagllfg vgntggallg vicvylagyl iettgswisv fnlvaavnsi glcaflifge
+      421 aqrvdtdsay vdl
+//
+

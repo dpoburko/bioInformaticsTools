@@ -1,0 +1,76 @@
+
+LOCUS       NP_001167306             492 aa            linear   VRT 29-JUN-2020
+DEFINITION  sialin [Salmo salar].
+ACCESSION   NP_001167306
+VERSION     NP_001167306.1
+DBSOURCE    REFSEQ: accession NM_001173835.1
+KEYWORDS    RefSeq.
+SOURCE      Salmo salar (Atlantic salmon)
+  ORGANISM  Salmo salar
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Salmo.
+REFERENCE   1  (residues 1 to 492)
+  AUTHORS   Leong JS, Jantzen SG, von Schalburg KR, Cooper GA, Messmer AM, Liao
+            NY, Munro S, Moore R, Holt RA, Jones SJ, Davidson WS and Koop BF.
+  TITLE     Salmo salar and Esox lucius full-length cDNA sequences reveal
+            changes in evolutionary pressures on a post-tetraploidization
+            genome
+  JOURNAL   BMC Genomics 11, 279 (2010)
+   PUBMED   20433749
+  REMARK    Publication Status: Online-Only
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. The reference sequence was derived from BT059615.1.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: BT059615.1 [ECO:0000332]
+            RNAseq introns              :: mixed/partial sample support
+                                           SAMN00779696, SAMN02597923
+                                           [ECO:0000350]
+            ##Evidence-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..492
+                     /organism="Salmo salar"
+                     /db_xref="taxon:8030"
+                     /chromosome="ssa18"
+                     /map="ssa18"
+     Protein         1..492
+                     /product="sialin"
+                     /calculated_mol_wt=53594
+     Region          27..483
+                     /region_name="2A0114euk"
+                     /note="Na(+)-dependent inorganic phosphate cotransporter;
+                     TIGR00894"
+                     /db_xref="CDD:129972"
+     Region          88..474
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Site            order(88,90..91,108,111..112,115,119..120,122..123,
+                     171..172,175..176,179..180,183,195..196,199..200,206,299,
+                     302..303,306..307,310,324,328,332,335,339,396,399..400,
+                     403,407..408,411,422..423,426..427,430..431,434)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..492
+                     /gene="slc17a5"
+                     /gene_synonym="s17a5"
+                     /coded_by="NM_001173835.1:98..1576"
+                     /db_xref="GeneID:100380550"
+ORIGIN      
+        1 mdryisdtet ddqeqpllls rqddkvekap accssrysls llscygffva yalrvnlsva
+       61 mvdmlnntda sgntsksicp ahssparpiy nhtasvydwd setqgwilgs ffygyiltqi
+      121 pggylarkyg akwllglgil gtvvftlltp vaadlgagyl iavrvlegig egvtfpamha
+      181 mwafwappme rsrlltiayt gaqlgtvval plsaqicfyl dwtwvfyifg ivgivwfilw
+      241 allvsntpst hpriteqerl yitsslnkel tlsgdhipwg siltsmplwa ivvahfsynw
+      301 tfytlltllp tymsdvlgfs ikengalsal pyigcgllav lggqladylr encfyrtvvv
+      361 rkafslvgmi gpavfivaag ytgcnyilav aflsissslg givasgfnin hldiapsyag
+      421 illgitnsfa tipgmvgpvi araltknnti eewqtvfyis aginlfgavf ytvfgqgvvq
+      481 pwavhnphsh gn
+//
+

@@ -1,0 +1,227 @@
+
+LOCUS       NP_003045                514 aa            linear   PRI 04-JUL-2020
+DEFINITION  synaptic vesicular amine transporter [Homo sapiens].
+ACCESSION   NP_003045
+VERSION     NP_003045.2
+DBSOURCE    REFSEQ: accession NM_003054.6
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (residues 1 to 514)
+  AUTHORS   Georgantzi K, Tsolakis AV, Jakobson A, Christofferson R, Janson ET
+            and Grimelius L.
+  TITLE     Synaptic Vesicle Protein 2 and Vesicular Monoamine Transporter 1
+            and 2 Are Expressed in Neuroblastoma
+  JOURNAL   Endocr. Pathol. 30 (3), 173-179 (2019)
+   PUBMED   31317476
+  REMARK    GeneRIF: SV2 was highly expressed in neuroblastoma (NB) and can
+            thus be useful marker in NB diagnostics. VMAT1 and VMAT2 were also
+            expressed in NB but similar to syn less reliable as tumor markers.
+REFERENCE   2  (residues 1 to 514)
+  AUTHORS   Randesi M, van den Brink W, Levran O, Blanken P, van Ree JM, Ott J
+            and Kreek MJ.
+  TITLE     VMAT2 gene (SLC18A2) variants associated with a greater risk for
+            developing opioid dependence
+  JOURNAL   Pharmacogenomics 20 (5), 331-341 (2019)
+   PUBMED   30983500
+  REMARK    GeneRIF: Nominal associations were indicated for 20 variants in six
+            genes including an experiment-wise significant association from the
+            combined effect of three SLC18A2 SNPs (rs363332, rs363334 and
+            rs363338) with heroin dependence (pfinal = 0.047).
+REFERENCE   3  (residues 1 to 514)
+  AUTHORS   Cho SS, Christopher L, Koshimori Y, Li C, Lang AE, Houle S and
+            Strafella AP.
+  TITLE     Decreased pallidal vesicular monoamine transporter type 2
+            availability in Parkinson's disease: The contribution of the
+            nigropallidal pathway
+  JOURNAL   Neurobiol. Dis. 124, 176-182 (2019)
+   PUBMED   30471418
+  REMARK    GeneRIF: Study shows decreased pallidal vesicular monoamine
+            transporter type 2 availability in Parkinson's disease. Findings
+            showed dopamine terminals in the globus pallidus may be
+            differentially vulnerable in different stages of the disease.
+REFERENCE   4  (residues 1 to 514)
+  AUTHORS   Hu T, Chen Y, Ou R, Wei Q, Cao B, Zhao B, Wu Y, Song W, Chen X and
+            Shang HF.
+  TITLE     Association analysis of polymorphisms in VMAT2 and TMEM106B genes
+            for Parkinson's disease, amyotrophic lateral sclerosis and multiple
+            system atrophy
+  JOURNAL   J. Neurol. Sci. 377, 65-71 (2017)
+   PUBMED   28477711
+  REMARK    GeneRIF: This study showed that in Chinese patient population, 'GG'
+            of rs363371 in VMAT2 may reduce the risk for ALS.
+REFERENCE   5  (residues 1 to 514)
+  AUTHORS   Li Q, Yan Z, Kuang Y, Zhou X, Jin L, He L, Sun X, Tao T and Wang L.
+  TITLE     Genetic variations in the 3'-untranslated region of SLC18A2 are
+            associated with serum FSH concentration in polycystic ovary
+            syndrome patients and regulate gene expression in vitro
+  JOURNAL   Hum. Reprod. 31 (9), 2150-2157 (2016)
+   PUBMED   27354380
+  REMARK    GeneRIF: We found a novel association between two genetic variants
+            in SLC18A2 and FSH levels in PCOS patients. These findings might
+            indicate a novel regulatory mechanism in follicular development and
+            maturation in PCOS.
+REFERENCE   6  (residues 1 to 514)
+  AUTHORS   Henry JP, Botton D, Sagne C, Isambert MF, Desnos C, Blanchard V,
+            Raisman-Vozari R, Krejci E, Massoulie J and Gasnier B.
+  TITLE     Biochemistry and molecular biology of the vesicular monoamine
+            transporter from chromaffin granules
+  JOURNAL   J. Exp. Biol. 196, 251-262 (1994)
+   PUBMED   7823026
+  REMARK    Review article
+REFERENCE   7  (residues 1 to 514)
+  AUTHORS   Erickson JD and Eiden LE.
+  TITLE     Functional identification and molecular cloning of a human brain
+            vesicle monoamine transporter
+  JOURNAL   J. Neurochem. 61 (6), 2314-2317 (1993)
+   PUBMED   8245983
+REFERENCE   8  (residues 1 to 514)
+  AUTHORS   Peter D, Finn JP, Klisak I, Liu Y, Kojis T, Heinzmann C, Roghani A,
+            Sparkes RS and Edwards RH.
+  TITLE     Chromosomal localization of the human vesicular amine transporter
+            genes
+  JOURNAL   Genomics 18 (3), 720-723 (1993)
+   PUBMED   7905859
+REFERENCE   9  (residues 1 to 514)
+  AUTHORS   Surratt CK, Persico AM, Yang XD, Edgar SR, Bird GS, Hawkins AL,
+            Griffin CA, Li X, Jabs EW and Uhl GR.
+  TITLE     A human synaptic vesicle monoamine transporter cDNA predicts
+            posttranslational modifications, reveals chromosome 10 gene
+            localization and identifies TaqI RFLPs
+  JOURNAL   FEBS Lett. 318 (3), 325-330 (1993)
+   PUBMED   8095030
+REFERENCE   10 (residues 1 to 514)
+  AUTHORS   Lesch KP, Gross J, Wolozin BL, Murphy DL and Riederer P.
+  TITLE     Extensive sequence divergence between the human and rat brain
+            vesicular monoamine transporter: possible molecular basis for
+            species differences in the susceptibility to MPP+
+  JOURNAL   J. Neural Transm. Gen. Sect. 93 (1), 75-82 (1993)
+   PUBMED   8373557
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from DB458870.1, L23205.1,
+            AL391988.14 and BQ416859.1.
+            On Feb 9, 2004 this sequence version replaced NP_003045.1.
+            
+            Summary: This gene encodes an transmembrane protein that functions
+            as an ATP-dependent transporter of monoamines, such as dopamine,
+            norepinephrine, serotonin, and histamine. This protein transports
+            amine neurotransmitters into synaptic vesicles. Polymorphisms in
+            this gene may be associated with schizophrenia, bipolar disorder,
+            and other neurological/psychiatric ailments. [provided by RefSeq,
+            Jun 2018].
+            
+            Sequence Note: This RefSeq record was created from transcript and
+            genomic sequence data to make the sequence consistent with the
+            reference genome assembly. The genomic coordinates used for the
+            transcript record were based on transcript alignments.
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: SRR1803617.68719.1,
+                                           SRR1803615.245761.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMEA1968540, SAMEA2142348
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match     :: ENST00000644641.2/ ENSP00000496339.1
+            RefSeq Select criteria :: based on single protein-coding transcript
+            ##RefSeq-Attributes-END##
+FEATURES             Location/Qualifiers
+     source          1..514
+                     /organism="Homo sapiens"
+                     /db_xref="taxon:9606"
+                     /chromosome="10"
+                     /map="10q25.3"
+     Protein         1..514
+                     /product="synaptic vesicular amine transporter"
+                     /note="vesicle monoamine/H+ antiporter; monoamine
+                     neurotransmitter transporter; vesicle monoamine
+                     transporter type 2; vesicular amine transporter 2; solute
+                     carrier family 18 (vesicular monoamine transporter),
+                     member 2; synaptic vesicle monoamine transporter, brain;
+                     synaptic vesicle amine transporter, brain"
+                     /calculated_mol_wt=55582
+     Site            21..41
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q05940.2)"
+     Site            84
+                     /site_type="glycosylation"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (Q05940.2)"
+     Site            91
+                     /site_type="glycosylation"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (Q05940.2)"
+     Site            130..150
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q05940.2)"
+     Site            160..180
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q05940.2)"
+     Site            190..210
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q05940.2)"
+     Site            220..242
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q05940.2)"
+     Site            249..271
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q05940.2)"
+     Site            292..311
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q05940.2)"
+     Site            329..352
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q05940.2)"
+     Site            358..378
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q05940.2)"
+     Site            390..410
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q05940.2)"
+     Site            415..435
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q05940.2)"
+     Site            441..462
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q05940.2)"
+     Site            511
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000250|UniProtKB:Q01827; propagated from
+                     UniProtKB/Swiss-Prot (Q05940.2)"
+     Site            513
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000250|UniProtKB:Q01827; propagated from
+                     UniProtKB/Swiss-Prot (Q05940.2)"
+     CDS             1..514
+                     /gene="SLC18A2"
+                     /gene_synonym="PKDYS2; SVAT; SVMT; VAT2; VMAT2"
+                     /coded_by="NM_003054.6:123..1667"
+                     /db_xref="CCDS:CCDS7599.1"
+                     /db_xref="GeneID:6571"
+                     /db_xref="HGNC:HGNC:10935"
+                     /db_xref="MIM:193001"
+ORIGIN      
+        1 malselalvr wlqesrrsrk lilfivflal lldnmlltvv vpiipsylys ikheknatei
+       61 qtarpvhtas isdsfqsifs yydnstmvtg natrdltlhq tatqhmvtna savpsdcpse
+      121 dkdllnenvq vgllfaskat vqlitnpfig lltnrigypi pifagfcimf vstimfafss
+      181 syaflliars lqgigsscss vagmgmlasv ytddeergnv mgialgglam gvlvgppfgs
+      241 vlyefvgkta pflvlaalvl ldgaiqlfvl qpsrvqpesq kgtplttllk dpyiliaags
+      301 icfanmgiam lepalpiwmm etmcsrkwql gvaflpasis yligtnifgi lahkmgrwlc
+      361 allgmiivgv silcipfakn iygliapnfg vgfaigmvds smmpimgylv dlrhvsvygs
+      421 vyaiadvafc mgyaigpsag gaiakaigfp wlmtiigiid ilfaplcffl rsppakeekm
+      481 ailmdhncpi ktkmytqnni qsypigedee sesd
+//
+

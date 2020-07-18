@@ -1,0 +1,76 @@
+
+LOCUS       XP_007909316             454 aa            linear   VRT 09-MAY-2014
+DEFINITION  PREDICTED: solute carrier family 17 member 9 [Callorhinchus milii].
+ACCESSION   XP_007909316
+VERSION     XP_007909316.1
+DBLINK      BioProject: PRJNA236996
+DBSOURCE    REFSEQ: accession XM_007911125.1
+KEYWORDS    RefSeq.
+SOURCE      Callorhinchus milii (elephant shark)
+  ORGANISM  Callorhinchus milii
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Chondrichthyes;
+            Holocephali; Chimaeriformes; Callorhinchidae; Callorhinchus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_006890059.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Callorhinchus milii Annotation
+                                           Release 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 6.0
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..454
+                     /organism="Callorhinchus milii"
+                     /isolate="IMCB2004"
+                     /db_xref="taxon:7868"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /tissue_type="testis"
+                     /country="Australia: Tasmania; Hobart"
+     Protein         1..454
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=49811
+     Region          52..446
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Region          57..446
+                     /region_name="2A0114"
+                     /note="D-galactonate transporter; TIGR00893"
+                     /db_xref="CDD:273326"
+     Site            order(66,69..71,73..74,91,94..95,98,102..103,105..106,
+                     157..158,161..162,165..166,169,181..182,185..186,192,277,
+                     280..281,284..285,288,302,304,308,311,315,371,374..375,
+                     378,382..383,386,396..397,400..401,404..405,408)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..454
+                     /gene="slc17a9"
+                     /coded_by="XM_007911125.1:105..1469"
+                     /db_xref="GeneID:103190371"
+ORIGIN      
+        1 mafslnpnaa hhinqsevvl fnhsesprps aakttcdsds tywsrleaki wivvllmgtc
+       61 llycarvtmp icisamaeqf kwdkkqsgiv lgsffwgytl tqiaggyisd rlggdkvlll
+      121 safawgtvti ltpllaycss tpifiltlsr ffmgllqgvh fpslaslfsc kvrqseraft
+      181 sstvctgtqf gtliiggags vlldrcgwqs vfyfsglpti lwvycmweyl ikgqgheisl
+      241 eslsnrltns qgnevpwikl fkkpsvwavi vahvcmastf fcilswiptf fhdsypdskg
+      301 wifnvvpwvv siplslmggl lsdhlinlgf ntakvrklmq mvamgmssif ikllcysssy
+      361 yrsllfvsaa vglqtfshsg ssvnvqdlap scagslfgvm ntggalagvv lvyfagylie
+      421 ttgswpfvfn lvsiinmfgl svymifgqat rvdi
+//
+

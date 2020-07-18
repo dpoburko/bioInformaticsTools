@@ -1,0 +1,75 @@
+
+LOCUS       XP_024149341             466 aa            linear   VRT 11-MAR-2018
+DEFINITION  solute carrier family 17 member 9 [Oryzias melastigma].
+ACCESSION   XP_024149341
+VERSION     XP_024149341.1
+DBLINK      BioProject: PRJNA436980
+DBSOURCE    REFSEQ: accession XM_024293573.1
+KEYWORDS    RefSeq.
+SOURCE      Oryzias melastigma (Indian medaka)
+  ORGANISM  Oryzias melastigma
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Atherinomorphae; Beloniformes;
+            Adrianichthyidae; Oryziinae; Oryzias.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_020096096.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Oryzias melastigma Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.0
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..466
+                     /organism="Oryzias melastigma"
+                     /strain="HK-1"
+                     /db_xref="taxon:30732"
+                     /chromosome="Unknown"
+                     /sex="pooled male and female"
+                     /tissue_type="muscle"
+                     /dev_stage="adult"
+     Protein         1..466
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=50850
+     Region          52..447
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Site            order(66,69..71,73..74,91,94..95,98,102..103,105..106,
+                     157..158,161..162,165..166,169,181..182,185..186,192,277,
+                     280..281,284..285,288,300,304,308,311,315,370,373..374,
+                     377,381..382,385,396..397,400..401,404..405,408)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..466
+                     /gene="slc17a9"
+                     /coded_by="XM_024293573.1:324..1724"
+                     /db_xref="GeneID:112159483"
+ORIGIN      
+        1 maviqkhgks yspdlvclke nhppdktgva gghkkcpehh tnwsrpvarv wtvvlllgtc
+       61 llycarvamp icavsmaekf nwtkresgmv lgsffwgycf tqvfggyvsd rvggekvlll
+      121 aaaawgsmta ftpilahlcs qpilsmtlar flmgllqgvh ypslaslcsq kvvesergfl
+      181 mstvgsgsyl gtlliggags lmldlygwes vfyisgfmsv lwaycmwkyl lkgegplisl
+      241 eslgsggsqs kltkrhwlrl fkqravwavi vthlctasty ftllswlptf fkesfpdakg
+      301 wvfnvipwlv aipsslfsgc lsdhlisqgv dtvsvrklmq ffsmgvssvf tfllcgnttf
+      361 lwavafvsat mglttfshsg vsvnvqdlap scagslfgvm ntcgafsgvi mvyfsgylie
+      421 atgswasvfa littvnllgl ftflafaear rvdidsskir hhnihi
+//
+

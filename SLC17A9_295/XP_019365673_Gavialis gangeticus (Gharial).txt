@@ -1,0 +1,57 @@
+
+LOCUS       XP_019365673             461 aa            linear   VRT 16-DEC-2016
+DEFINITION  PREDICTED: solute carrier family 17 member 9 [Gavialis gangeticus].
+ACCESSION   XP_019365673
+VERSION     XP_019365673.1
+DBLINK      BioProject: PRJNA357062
+DBSOURCE    REFSEQ: accession XM_019510128.1
+KEYWORDS    RefSeq.
+SOURCE      Gavialis gangeticus (Gharial)
+  ORGANISM  Gavialis gangeticus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Crocodylia; Longirostres; Gavialidae;
+            Gavialinae; Gavialis.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_017729009.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Gavialis gangeticus Annotation
+                                           Release 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 7.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..461
+                     /organism="Gavialis gangeticus"
+                     /isolate="Ggan-Ray"
+                     /db_xref="taxon:94835"
+                     /chromosome="Unknown"
+                     /sex="female"
+                     /tissue_type="blood"
+     Protein         1..461
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=50272
+     CDS             1..461
+                     /gene="SLC17A9"
+                     /coded_by="XM_019510128.1:249..1634"
+                     /db_xref="GeneID:109292601"
+ORIGIN      
+        1 massgsknal qvysalhhcq pqqpgkppyq egmrkdgtad cywsrpesrt wtvmlllgtc
+       61 llycarvtmp icavamsshf ewdkkqsgiv lssffwgycl tqivgghlsd riggekvlll
+      121 safawgfita itplltyvss ahlifmtasr flmgllqgvy fpalaslfsq kvreseraft
+      181 cstvgtgsqf gtlviggags llldwygwes vfyfsgfltl lwvycmckyl lnekgliipf
+      241 eslakglsls krtkvpwkrl fkkapiwavi vaqlstgstf ftllswlptf fketfpeskg
+      301 wvfnvvpwlv aiptslfsgf lsdhlisqgy rtitvrkfmq vigsgvsslf alclgqtssf
+      361 ckaivfasas vglqtfnhsg isvnvqdlap scagllfgvg ntggallgvv cvylaghlie
+      421 ttgswisvfn lvatvniigl ctflifgeaq rvdtvsayid l
+//
+

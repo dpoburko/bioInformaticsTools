@@ -1,0 +1,74 @@
+
+LOCUS       XP_011698617             425 aa            linear   INV 24-MAR-2015
+DEFINITION  PREDICTED: solute carrier family 17 member 9 [Wasmannia
+            auropunctata].
+ACCESSION   XP_011698617
+VERSION     XP_011698617.1
+DBLINK      BioProject: PRJNA279179
+DBSOURCE    REFSEQ: accession XM_011700315.1
+KEYWORDS    RefSeq.
+SOURCE      Wasmannia auropunctata (little fire ant)
+  ORGANISM  Wasmannia auropunctata
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta;
+            Pterygota; Neoptera; Holometabola; Hymenoptera; Apocrita; Aculeata;
+            Vespoidea; Formicidae; Myrmicinae; Wasmannia.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_012027181.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Wasmannia auropunctata Annotation
+                                           Release 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 6.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..425
+                     /organism="Wasmannia auropunctata"
+                     /db_xref="taxon:64793"
+                     /chromosome="Unknown"
+     Protein         1..425
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=46710
+     Region          28..418
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Region          34..418
+                     /region_name="2A0114"
+                     /note="D-galactonate transporter; TIGR00893"
+                     /db_xref="CDD:273326"
+     Site            order(42,45..47,49..50,67,70..71,74,78..79,81..82,
+                     136..137,140..141,144..145,148,160..161,164..165,171,249,
+                     252..253,256..257,260,272,276,280,283,287,343,346..347,
+                     350,354..355,358,368..369,372..373,376..377,380)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..425
+                     /gene="LOC105456352"
+                     /coded_by="XM_011700315.1:22..1299"
+                     /db_xref="GeneID:105456352"
+ORIGIN      
+        1 mqfkislgtp fddvitscws rkerrkwfll llcgtcliya trtsvsllip vvsqeknwsk
+       61 sdsgiilssf fwgytltqva sgyisdkigg qkvlwisalg wsvttffmpe iidffsgdgt
+      121 svllvaavrm ingafqgmhf psiislisqr lheadratff slltlgsavg tlltgslgsy
+      181 llenydwmiv frtlggmsla wtaylsyhtl lfkektaftm satgytlpws kllsqppfws
+      241 cvighacqnn cffvllswmp tyfhdsfpev rgwvvnmvpw lsmlpctilg kalseeiika
+      301 gysvtvtrkt vqticfviei gslifvakve sfqtavfcla liiggsgfhn naiavnpsdl
+      361 apkhsgsvfg lmntvgaisg flgvyfsghi lhvthswpav flfiavidal gcimyllfgs
+      421 geaii
+//
+

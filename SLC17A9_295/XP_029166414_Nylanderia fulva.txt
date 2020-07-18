@@ -1,0 +1,77 @@
+
+LOCUS       XP_029166414             425 aa            linear   INV 23-MAY-2019
+DEFINITION  solute carrier family 17 member 9 [Nylanderia fulva].
+ACCESSION   XP_029166414
+VERSION     XP_029166414.1
+DBLINK      BioProject: PRJNA542903
+DBSOURCE    REFSEQ: accession XM_029310581.1
+KEYWORDS    RefSeq.
+SOURCE      Nylanderia fulva
+  ORGANISM  Nylanderia fulva
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta;
+            Pterygota; Neoptera; Holometabola; Hymenoptera; Apocrita; Aculeata;
+            Formicoidea; Formicidae; Formicinae; Nylanderia.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_021696014.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Nylanderia fulva Annotation Release
+                                           100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..425
+                     /organism="Nylanderia fulva"
+                     /isolate="TAMU-Nful-2015"
+                     /isolation_source="pooled workers from one colony in Texas
+                     A&M Insect Collection"
+                     /db_xref="taxon:613905"
+                     /chromosome="Unknown"
+                     /tissue_type="Whole body"
+                     /dev_stage="adult"
+                     /country="USA: Texas City, TX"
+                     /collection_date="15-Jul-2015"
+                     /collected_by="Andrew Davitt"
+                     /identified_by="Robert Puckett"
+     Protein         1..425
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=47155
+     Region          31..419
+                     /region_name="MFS_SLC17A9_like"
+                     /note="Solute carrier family 17 member 9 and similar
+                     proteins of the Major Facilitator Superfamily of
+                     transporters; cd17380"
+                     /db_xref="CDD:340938"
+     Site            order(38..39,42..43,46,78,136..137,139..141,144,164,
+                     167..168,171,245,248..249,252..254,257,283,287,344..345,
+                     349,353,369,372..373,376..377,380)
+                     /site_type="other"
+                     /note="putative chemical substrate binding pocket
+                     [chemical binding]"
+                     /db_xref="CDD:340938"
+     CDS             1..425
+                     /gene="LOC114937159"
+                     /coded_by="XM_029310581.1:361..1638"
+                     /db_xref="GeneID:114937159"
+ORIGIN      
+        1 mqlqislgis sddrngsswl rkekrkwfls llcgtclvya trtsipllip iiskerhwsk
+       61 pesgiilssf fwgytltqvi sgyisdrigg qkvlwisalg wstttffmpe iiqsfsndqt
+      121 svlliavvrm ingafqgmhf psmislisqr lheaerasff glltsgsalg tlltgslgsy
+      181 llenynwmiv frilggmsla wtillsyhil pfkdrtistr sntsytlpwl kllskppfws
+      241 cvighacqnn cffvllswmp tyfhdifpev kiwvvnvipw lsmlpctflg kvlsekiika
+      301 gysvtltrki iqticfitei gsllfltkvk sfqsavlcla liiggsgfhn naiavnpsdl
+      361 apkhagsvfg lmntvgaipg flgvyfsgyi lhlthswsiv flliaiidiv gcvtyilfgs
+      421 gqaii
+//
+

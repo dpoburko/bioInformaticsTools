@@ -1,0 +1,209 @@
+
+LOCUS       NP_068358                530 aa            linear   ROD 26-MAY-2020
+DEFINITION  vesicular acetylcholine transporter [Mus musculus].
+ACCESSION   NP_068358
+VERSION     NP_068358.2
+DBSOURCE    REFSEQ: accession NM_021712.3
+KEYWORDS    RefSeq; RefSeq Select.
+SOURCE      Mus musculus (house mouse)
+  ORGANISM  Mus musculus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+            Muroidea; Muridae; Murinae; Mus; Mus.
+REFERENCE   1  (residues 1 to 530)
+  AUTHORS   Park S, Aintablian A, Coupe B and Bouret SG.
+  TITLE     The endoplasmic reticulum stress-autophagy pathway controls
+            hypothalamic development and energy balance regulation in
+            leptin-deficient neonates
+  JOURNAL   Nat Commun 11 (1), 1914 (2020)
+   PUBMED   32313051
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (residues 1 to 530)
+  AUTHORS   Luo L, Ambrozkiewicz MC, Benseler F, Chen C, Dumontier E, Falkner
+            S, Furlanis E, Gomez AM, Hoshina N, Huang WH, Hutchison MA,
+            Itoh-Maruoka Y, Lavery LA, Li W, Maruo T, Motohashi J, Pai EL,
+            Pelkey KA, Pereira A, Philips T, Sinclair JL, Stogsdill JA,
+            Traunmuller L, Wang J, Wortel J, You W, Abumaria N, Beier KT, Brose
+            N, Burgess HA, Cepko CL, Cloutier JF, Eroglu C, Goebbels S, Kaeser
+            PS, Kay JN, Lu W, Luo L, Mandai K, McBain CJ, Nave KA, Prado MAM,
+            Prado VF, Rothstein J, Rubenstein JLR, Saher G, Sakimura K, Sanes
+            JR, Scheiffele P, Takai Y, Umemori H, Verhage M, Yuzaki M, Zoghbi
+            HY, Kawabe H and Craig AM.
+  TITLE     Optimizing Nervous System-Specific Gene Targeting with Cre Driver
+            Lines: Prevalence of Germline Recombination and Influencing Factors
+  JOURNAL   Neuron 106 (1), 37-65 (2020)
+   PUBMED   32027825
+REFERENCE   3  (residues 1 to 530)
+  AUTHORS   Nasirova N, Quina LA, Agosto-Marlin IM, Ramirez JM, Lambe EK and
+            Turner EE.
+  TITLE     Dual recombinase fate mapping reveals a transient cholinergic
+            phenotype in multiple populations of developing glutamatergic
+            neurons
+  JOURNAL   J. Comp. Neurol. 528 (2), 283-307 (2020)
+   PUBMED   31396962
+REFERENCE   4  (residues 1 to 530)
+  AUTHORS   Mantanona CP, Alsio J, Elson JL, Fisher BM, Dalley JW, Bussey T and
+            Pienaar IS.
+  TITLE     Altered motor, anxiety-related and attentional task performance at
+            baseline associate with multiple gene copies of the vesicular
+            acetylcholine transporter and related protein overexpression in
+            ChAT::Cre+ rats
+  JOURNAL   Brain Struct Funct 224 (9), 3095-3116 (2019)
+   PUBMED   31506825
+  REMARK    GeneRIF: Study shows that in ChAT::Cre+ rats, vesicular
+            acetylcholine transporter overexpression associates with
+            significant alterations of certain cognitive, motor and affective
+            functions.
+REFERENCE   5  (residues 1 to 530)
+  AUTHORS   Vaughan SK, Sutherland NM and Valdez G.
+  TITLE     Attenuating Cholinergic Transmission Increases the Number of
+            Satellite Cells and Preserves Muscle Mass in Old Age
+  JOURNAL   Front Aging Neurosci 11, 262 (2019)
+   PUBMED   31616286
+  REMARK    Publication Status: Online-Only
+REFERENCE   6  (residues 1 to 530)
+  AUTHORS   Naciff JM, Behbehani MM, Misawa H and Dedman JR.
+  TITLE     Identification and transgenic analysis of a murine promoter that
+            targets cholinergic neuron expression
+  JOURNAL   J. Neurochem. 72 (1), 17-28 (1999)
+   PUBMED   9886050
+REFERENCE   7  (residues 1 to 530)
+  AUTHORS   Sang Q and Young HM.
+  TITLE     The origin and development of the vagal and spinal innervation of
+            the external muscle of the mouse esophagus
+  JOURNAL   Brain Res. 809 (2), 253-268 (1998)
+   PUBMED   9853118
+REFERENCE   8  (residues 1 to 530)
+  AUTHORS   Naciff JM, Misawa H and Dedman JR.
+  TITLE     Molecular characterization of the mouse vesicular acetylcholine
+            transporter gene
+  JOURNAL   Neuroreport 8 (16), 3467-3473 (1997)
+   PUBMED   9427309
+REFERENCE   9  (residues 1 to 530)
+  AUTHORS   Sang Q and Young HM.
+  TITLE     Development of nicotinic receptor clusters and innervation
+            accompanying the change in muscle phenotype in the mouse esophagus
+  JOURNAL   J. Comp. Neurol. 386 (1), 119-136 (1997)
+   PUBMED   9303529
+REFERENCE   10 (residues 1 to 530)
+  AUTHORS   Carroll,P.T.
+  TITLE     The effect of the acetylcholine transport blocker
+            2-(4-phenylpiperidino) cyclohexanol (AH5183) on the subcellular
+            storage and release of acetylcholine in mouse brain
+  JOURNAL   Brain Res. 358 (1-2), 200-209 (1985)
+   PUBMED   4075114
+COMMENT     VALIDATED REFSEQ: This record has undergone validation or
+            preliminary review. The reference sequence was derived from
+            AC167565.1.
+            On Dec 17, 2005 this sequence version replaced NP_068358.1.
+            
+            Sequence Note: The RefSeq transcript and protein were derived from
+            genomic sequence to make the sequence consistent with the reference
+            genome assembly. The genomic coordinates used for the transcript
+            record were based on alignments.
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript is intronless :: AK158592.1, SRR1660813.259397.1
+                                        [ECO:0000345]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            RefSeq Select criteria :: based on single protein-coding transcript
+            ##RefSeq-Attributes-END##
+FEATURES             Location/Qualifiers
+     source          1..530
+                     /organism="Mus musculus"
+                     /strain="C57BL/6"
+                     /db_xref="taxon:10090"
+                     /chromosome="14"
+                     /map="14 19.4 cM"
+     Protein         1..530
+                     /product="vesicular acetylcholine transporter"
+                     /note="solute carrier family 18 member 3"
+                     /calculated_mol_wt=56482
+     Site            34..54
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (O35304.1)"
+     Site            89
+                     /site_type="glycosylation"
+                     /note="N-linked (GlcNAc...) asparagine. {ECO:0000255};
+                     propagated from UniProtKB/Swiss-Prot (O35304.1)"
+     Site            96
+                     /site_type="glycosylation"
+                     /note="N-linked (GlcNAc...) asparagine. {ECO:0000255};
+                     propagated from UniProtKB/Swiss-Prot (O35304.1)"
+     Region          124..436
+                     /region_name="MFS_1"
+                     /note="Major Facilitator Superfamily; pfam07690"
+                     /db_xref="CDD:284993"
+     Region          125..260
+                     /region_name="2_A_01_02"
+                     /note="Multidrug resistance protein; TIGR00880"
+                     /db_xref="CDD:273318"
+     Site            126..146
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (O35304.1)"
+     Site            order(128,131..132,135,139..140,142..143,189..190,
+                     193..194,197..198,201,214..215,218..219,225,299,302..303,
+                     306..307,310,327,331,335,338,342,391,394..395,398,
+                     402..403,406,420..421,424..425,428..429,432)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     Site            153..173
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (O35304.1)"
+     Site            183..203
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (O35304.1)"
+     Site            214..234
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (O35304.1)"
+     Site            243..263
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (O35304.1)"
+     Site            289..309
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (O35304.1)"
+     Site            326..346
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (O35304.1)"
+     Site            357..377
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (O35304.1)"
+     Site            389..409
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (O35304.1)"
+     Site            423..443
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (O35304.1)"
+     Site            448..468
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (O35304.1)"
+     Region          471..530
+                     /region_name="Mediates interaction with SEC14L1.
+                     {ECO:0000269|PubMed:17092608}"
+                     /note="propagated from UniProtKB/Swiss-Prot (O35304.1)"
+     CDS             1..530
+                     /gene="Slc18a3"
+                     /gene_synonym="VAChT; VAT"
+                     /coded_by="NM_021712.3:427..2019"
+                     /db_xref="CCDS:CCDS79291.1"
+                     /db_xref="GeneID:20508"
+                     /db_xref="MGI:MGI:1101061"
+ORIGIN      
+        1 meptaptgqa raaatklsea vgaalqepqr qrrlvlvivc vallldnmly mvivpivpdy
+       61 iahmrggses ptlisevwep tlppptlana saylantsas ptaagsarsi lrpryptese
+      121 dvkigvlfas kailqllvnp lsgpfidrms ydvplliglg vmfastvmfa faedyatlfa
+      181 arslqglgsa fadtsgiami adkypeeper sralgvalaf isfgslvapp fggilyefag
+      241 krvpflvlaa vslfdallll avakpfsaaa raranlpvgt pihrlmldpy iavvagaltt
+      301 cniplaflep tiatwmkhtm aasewemgmv wlpafvphvl gvyltvrlaa ryphlqwlyg
+      361 alglavigvs scvvpacrsf aplvvslcgl cfgialvdta llptlaflvd vrhvsvygsv
+      421 yaiadisysv ayalgpivag hivhslgfeq lslgmglanl lyapvllllr nvglltrsrs
+      481 erdvlldepp qglydamrlr evqgkdggep csppgpfdgc eddynyysrs
+//
+

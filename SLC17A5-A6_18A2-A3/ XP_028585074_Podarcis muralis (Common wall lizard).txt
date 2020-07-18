@@ -1,0 +1,74 @@
+
+LOCUS       XP_028585074             545 aa            linear   VRT 21-APR-2019
+DEFINITION  vesicular acetylcholine transporter [Podarcis muralis].
+ACCESSION   XP_028585074
+VERSION     XP_028585074.1
+DBLINK      BioProject: PRJNA529705
+DBSOURCE    REFSEQ: accession XM_028729241.1
+KEYWORDS    RefSeq.
+SOURCE      Podarcis muralis (Common wall lizard)
+  ORGANISM  Podarcis muralis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+            Laterata; Lacertibaenia; Lacertidae; Podarcis.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_041316.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Podarcis muralis Annotation Release
+                                           100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..545
+                     /organism="Podarcis muralis"
+                     /db_xref="taxon:64176"
+                     /chromosome="5"
+                     /sex="male"
+                     /tissue_type="muscle"
+                     /dev_stage="adult"
+                     /ecotype="yellow"
+     Protein         1..545
+                     /product="vesicular acetylcholine transporter"
+                     /calculated_mol_wt=59012
+     Region          44..474
+                     /region_name="MFS_SLC18A3_VAChT"
+                     /note="Vesicular acetylcholine transporter (VAChT) and
+                     similar transporters of the Major Facilitator Superfamily;
+                     cd17383"
+                     /db_xref="CDD:340941"
+     Site            order(54..55,58..59,62,145,195..196,198..200,203,224,
+                     227..228,231,302,305..306,309..311,314,342,346,395..396,
+                     400,404,425,428..429,432..433,436)
+                     /site_type="other"
+                     /note="putative chemical substrate binding pocket
+                     [chemical binding]"
+                     /db_xref="CDD:340941"
+     CDS             1..545
+                     /gene="SLC18A3"
+                     /coded_by="XM_028729241.1:913..2550"
+                     /db_xref="GeneID:114597119"
+ORIGIN      
+        1 meeeasapsg prsaveklse avgqrtkals salheanrqr rlllvivcva llldnmlymv
+       61 ivpivpdfva alnvaeerqq gaqqqqqqap vpataasnis ttggglgwsl nstrpmlrpr
+      121 ypadsddiri gvlfaskail qllvnplsgt fidrvgytip lliglgvmfl stiifafaen
+      181 ygtlfaarsl qglgsafadt sgialiadky teesernral gialafisfg slvappfggi
+      241 lyyfagkrvp flvlafisll dglllllaik pfsdrsrdnm pvgtpiyklm idpyivvvag
+      301 alttcnipla fleptisnwm kktmdanewe mgltwlpafi phvlgvyvtv kladkyphlq
+      361 wfygalglat igasscmvpa crnfwqltvp lcgicfgial vdtallptla flvdvryvsv
+      421 ygsvyaiadi sysvayalgp ivageivhsf gfvqlnlgmg lanvlyapil lalknicqmk
+      481 pshsernill eegpkglydt ikmeerkgkg khlhpvggae ensvdsfhrd frgaseedss
+      541 dydyt
+//
+

@@ -1,0 +1,61 @@
+
+LOCUS       NP_001093848             453 aa            linear   MAM 14-MAY-2018
+DEFINITION  solute carrier family 17 member 9 [Bos taurus].
+ACCESSION   NP_001093848 XP_596244
+VERSION     NP_001093848.1
+DBSOURCE    REFSEQ: accession NM_001100378.2
+KEYWORDS    RefSeq.
+SOURCE      Bos taurus (cattle)
+  ORGANISM  Bos taurus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Cetartiodactyla; Ruminantia;
+            Pecora; Bovidae; Bovinae; Bos.
+REFERENCE   1  (residues 1 to 453)
+  AUTHORS   Zimin AV, Delcher AL, Florea L, Kelley DR, Schatz MC, Puiu D,
+            Hanrahan F, Pertea G, Van Tassell CP, Sonstegard TS, Marcais G,
+            Roberts M, Subramanian P, Yorke JA and Salzberg SL.
+  TITLE     A whole-genome assembly of the domestic cow, Bos taurus
+  JOURNAL   Genome Biol. 10 (4), R42 (2009)
+   PUBMED   19393038
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. The reference sequence was derived from BC149348.1.
+            On Jul 31, 2007 this sequence version replaced XP_596244.3.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: BC149348.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMN03145413 [ECO:0000348]
+            ##Evidence-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..453
+                     /organism="Bos taurus"
+                     /db_xref="taxon:9913"
+                     /chromosome="13"
+                     /map="13"
+                     /breed="Hereford"
+     Protein         1..453
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=48617
+     Region          38..438
+                     /region_name="UhpC"
+                     /note="Sugar phosphate permease [Carbohydrate transport
+                     and metabolism]; cl27298"
+                     /db_xref="CDD:332119"
+     CDS             1..453
+                     /gene="SLC17A9"
+                     /gene_synonym="C13H20ORF59"
+                     /coded_by="NM_001100378.2:38..1399"
+                     /db_xref="BGD:BT14584"
+                     /db_xref="GeneID:518062"
+                     /db_xref="VGNC:VGNC:34704"
+ORIGIN      
+        1 mqpppdetrr daaedtqwsr pecqvwtgtl llgtcllyca rvsmpvcaas msqdfgwnkk
+       61 eagvvlssff wgycltqvvg ghlgdrigge kvillsasaw gfitvatpll ahlgsahlaf
+      121 mtfsriltgl lqgvyfpalt sllsqkvres eraftystvg agsqfgtlvt gavgsllldw
+      181 ygwpsvfyfs ggltllwvgy vyrcllserg psshldgfhv dlpppsdlil algilaqglp
+      241 vsrhtkvpwr qlfrkpsvwa aiisqlsaac sffillswlp tffketfpss kgwvfnvvpw
+      301 lvaipaslls gllsdhlinq gyrtitvrkf mqvmglglss vfalclghts sfcnsvvfas
+      361 asiglqtfnh sgisvniqdl apscagflfg vantagalag vvgvclggyl iettgswtsv
+      421 fnlvaaissl glctflvfgk aqrvdlspah edl
+//
+

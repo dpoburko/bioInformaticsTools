@@ -1,0 +1,61 @@
+
+LOCUS       XP_031172526             465 aa            linear   VRT 17-OCT-2019
+DEFINITION  solute carrier family 17 member 9 [Sander lucioperca].
+ACCESSION   XP_031172526
+VERSION     XP_031172526.1
+DBLINK      BioProject: PRJNA576669
+DBSOURCE    REFSEQ: accession XM_031316666.1
+KEYWORDS    RefSeq.
+SOURCE      Sander lucioperca (pike-perch)
+  ORGANISM  Sander lucioperca
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Percoidei; Percidae;
+            Luciopercinae; Sander.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_022172957.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Sander lucioperca Annotation Release
+                                           100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..465
+                     /organism="Sander lucioperca"
+                     /isolate="FBNREF2018"
+                     /db_xref="taxon:283035"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /tissue_type="muscle, testis, spleen"
+                     /dev_stage="adult"
+                     /country="Germany: Sachsen"
+     Protein         1..465
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=50676
+     CDS             1..465
+                     /gene="slc17a9"
+                     /coded_by="XM_031316666.1:623..2020"
+                     /db_xref="GeneID:116062113"
+ORIGIN      
+        1 maviqkygkn ysydlvchke nhpsdkigap gchkkwpeht twsrpvarvw tvvlllgtcl
+       61 lycarvampi cavsmaeqfn wskresgmvl gsffwgycft qvfggyvsdr vggekvllls
+      121 aaawgsmtaf tpilahfcsq pilsmtlarf lmgllqgvhy pslaslcsqk vvesergflm
+      181 stvgsgsylg tlviggagsl mldlygwqsv fyasgllsvl waycmwkyll kgegpiitle
+      241 slgsggpqsk lskrhwlrll kqpavcaviv thlctastff tllswlptff kdtfpnakgw
+      301 vfnvipwlva ipsslfsgwl sdhliskgfd tasvrklmqc fsmgvssvft lllcgnttfp
+      361 wavafvsatm glttfshsgv svnvqdlaps cagalfgvmn tcgaflgvll vyfsgyliea
+      421 tgswasvfal ittvnllglc tflafaearr vdidcskvrh hdihi
+//
+

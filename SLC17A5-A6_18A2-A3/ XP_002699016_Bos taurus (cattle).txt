@@ -1,0 +1,81 @@
+
+LOCUS       XP_002699016             524 aa            linear   MAM 07-MAY-2018
+DEFINITION  vesicular acetylcholine transporter [Bos taurus].
+ACCESSION   XP_002699016
+VERSION     XP_002699016.1
+DBLINK      BioProject: PRJNA450837
+DBSOURCE    REFSEQ: accession XM_002698970.5
+KEYWORDS    RefSeq.
+SOURCE      Bos taurus (cattle)
+  ORGANISM  Bos taurus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Cetartiodactyla; Ruminantia;
+            Pecora; Bovidae; Bovinae; Bos.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_037355.1) annotated using gene prediction method: Gnomon,
+            supported by EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Bos taurus Annotation Release 106
+            Annotation Version          :: 106
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.0
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..524
+                     /organism="Bos taurus"
+                     /isolate="L1 Dominette 01449 registration number 42190680"
+                     /db_xref="taxon:9913"
+                     /chromosome="28"
+                     /sex="female"
+                     /tissue_type="left lung"
+                     /breed="Hereford"
+     Protein         1..524
+                     /product="vesicular acetylcholine transporter"
+                     /calculated_mol_wt=55857
+     Region          116..450
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Region          116..428
+                     /region_name="MFS_1"
+                     /note="Major Facilitator Superfamily; pfam07690"
+                     /db_xref="CDD:284993"
+     Site            order(120,123..124,127,131..132,134..135,181..182,
+                     185..186,189..190,193,206..207,210..211,217,291,294..295,
+                     298..299,302,319,323,327,330,334,383,386..387,390,
+                     394..395,398,412..413,416..417,420..421,424)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..524
+                     /gene="SLC18A3"
+                     /coded_by="XM_002698970.5:435..2009"
+                     /db_xref="GeneID:785833"
+                     /db_xref="BGD:BT12271"
+                     /db_xref="VGNC:VGNC:34707"
+ORIGIN      
+        1 mepeapagqa paaasklsea vgaalqdprr qrrlvlvivc valfldnmly mvivpivpyy
+       61 vhaasekptp tpsptpptpt nasavtvnts epptaampak sivkpqhprd nedvkigvlf
+      121 askailqllv nplsgtfidr msydlplllg lgvlfastvm fafaedyatl faarslqglg
+      181 safadtsgia miadkypeep ersralglal afisfgslva ppfggflhef agksapflvl
+      241 aavslfdall llvvakpfsa aararanlpv gtpihrlmld pyiavvagal ttcniplafl
+      301 eptiatwmer tmaaseweag iawlpafvph vlgvyltvrl aaryphlqwl ygafglavig
+      361 assclvpacr sfaplvislc glcfgialvd tallptlafl vdvrhvsvyg svyaiadisy
+      421 cvayalgpiv aghivhslgf aqlslgmgla nllyapvlll lrnvgllkrs rserdvllde
+      481 ppqglydavr lrerpmsdrd gaprsppgpf daceeddydy ytrs
+//
+

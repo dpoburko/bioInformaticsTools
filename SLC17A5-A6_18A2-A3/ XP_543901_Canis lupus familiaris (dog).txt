@@ -1,0 +1,75 @@
+
+LOCUS       XP_543901                528 aa            linear   MAM 05-SEP-2017
+DEFINITION  vesicular acetylcholine transporter [Canis lupus familiaris].
+ACCESSION   XP_543901
+VERSION     XP_543901.2
+DBLINK      BioProject: PRJNA12384
+DBSOURCE    REFSEQ: accession XM_543901.5
+KEYWORDS    RefSeq.
+SOURCE      Canis lupus familiaris (dog)
+  ORGANISM  Canis lupus familiaris
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Carnivora; Caniformia; Canidae;
+            Canis.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_006610.3) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            On Aug 31, 2005 this sequence version replaced XP_543901.1.
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Canis lupus familiaris Annotation
+                                           Release 105
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 7.4
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..528
+                     /organism="Canis lupus familiaris"
+                     /sub_species="familiaris"
+                     /db_xref="taxon:9615"
+                     /chromosome="28"
+                     /sex="female"
+                     /breed="boxer"
+     Protein         1..528
+                     /product="vesicular acetylcholine transporter"
+                     /calculated_mol_wt=56214
+     Region          120..454
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Site            order(124,127..128,131,135..136,138..139,185..186,
+                     189..190,193..194,197,210..211,214..215,221,298,301..302,
+                     305..306,309,323,327,331,334,338,387,390..391,394,
+                     398..399,402,416..417,420..421,424..425,428)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..528
+                     /gene="SLC18A3"
+                     /coded_by="XM_543901.5:47..1633"
+                     /db_xref="GeneID:486774"
+ORIGIN      
+        1 mepaasagrg rgrgrgplra araaavklse aagaalqdpr rhrrlvlviv cvalfldnml
+       61 ymvivpivpd yiagmqkarr ptpgtevstl qlstpasvsa nrgntsespt aatenedvki
+      121 gvlfaskail qllvnplsgp fidrmsydvp lliglgvlfa stllfafaed yatlfaarsl
+      181 qglgsafadt sgiamiadky peepersral gvalafisfg slvappfggf lyqfagkhtp
+      241 flvlaavsll dallllvvak pfsaatrara nlpvgtpihr lmldpyiavv agalttcnip
+      301 lafleptiat wmehtmaase wetgmawlpa fvphvlgvyl tvrlaaryph lqwlygalgl
+      361 avigasscvv pacrsfaplv vslcglcfgi alvdtallpt laflvdvrhv svygsvyaia
+      421 disysvayal gpivaghivh slgfaqlslg mglanllyap vllllrnvgl lrrsrserdv
+      481 lleeppqgly davrlrerpv sdpdgaprsp sgpfeecedv ynnyytrs
+//
+

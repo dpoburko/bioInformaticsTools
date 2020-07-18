@@ -1,0 +1,61 @@
+
+LOCUS       XP_026553158             469 aa            linear   VRT 11-OCT-2018
+DEFINITION  solute carrier family 17 member 9 [Pseudonaja textilis].
+ACCESSION   XP_026553158
+VERSION     XP_026553158.1
+DBLINK      BioProject: PRJNA495355
+DBSOURCE    REFSEQ: accession XM_026697373.1
+KEYWORDS    RefSeq.
+SOURCE      Pseudonaja textilis
+  ORGANISM  Pseudonaja textilis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+            Toxicofera; Serpentes; Colubroidea; Elapidae; Acanthophiinae;
+            Pseudonaja.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_020769316.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Pseudonaja textilis Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.1
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..469
+                     /organism="Pseudonaja textilis"
+                     /db_xref="taxon:8673"
+                     /chromosome="Unknown"
+     Protein         1..469
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=50823
+     Region          87..461
+                     /region_name="UhpC"
+                     /note="Sugar phosphate permease [Carbohydrate transport
+                     and metabolism]; cl27298"
+                     /db_xref="CDD:332119"
+     CDS             1..469
+                     /gene="SLC17A9"
+                     /coded_by="XM_026697373.1:59..1468"
+                     /db_xref="GeneID:113434297"
+ORIGIN      
+        1 malsisingr qdlganqlas qhhkehqlpa argqqqealk kdggigdvfw srpesrlwtt
+       61 mlllgtclly carvlmpicv vtmssrfdwd kkqsgivlss ffwgycltqi vgghlsdrig
+      121 gekvlllsas awgsitaitp llissssahl tlmtftrflm gllqgvyfpa lasllsqkvq
+      181 eseraltyst vgtgsqfgtl vmgaagslll dwygwesvfy ltglltllwv ycmckfilpq
+      241 keiivslhdl akglslsskp tkvpwrkifr kppvwaviva qlcaastfft llswlptffs
+      301 etfpdskgwi fnvipwlvai pfslfagfls dqcvsqgckp itarkfmqvi gsgvsslfal
+      361 gigystsfcq avafasasig lqtfnhsgis vniqdlapsc agllfgvant ggallgvicv
+      421 ylaghlient gswvsvfnlv aivntvglct flifgkahrm dldpaytdl
+//
+

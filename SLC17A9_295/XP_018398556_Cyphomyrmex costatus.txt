@@ -1,0 +1,60 @@
+
+LOCUS       XP_018398556             424 aa            linear   INV 27-SEP-2016
+DEFINITION  PREDICTED: solute carrier family 17 member 9 [Cyphomyrmex
+            costatus].
+ACCESSION   XP_018398556
+VERSION     XP_018398556.1
+DBLINK      BioProject: PRJNA343963
+DBSOURCE    REFSEQ: accession XM_018543054.1
+KEYWORDS    RefSeq.
+SOURCE      Cyphomyrmex costatus
+  ORGANISM  Cyphomyrmex costatus
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta;
+            Pterygota; Neoptera; Holometabola; Hymenoptera; Apocrita; Aculeata;
+            Vespoidea; Formicidae; Myrmicinae; Cyphomyrmex.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_017277774.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Cyphomyrmex costatus Annotation
+                                           Release 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 7.1
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..424
+                     /organism="Cyphomyrmex costatus"
+                     /isolate="MS0001"
+                     /isolation_source="Nest"
+                     /db_xref="taxon:456900"
+                     /chromosome="Unknown"
+                     /tissue_type="Whole body"
+                     /country="Panama: Gamboa"
+                     /collection_date="2011"
+     Protein         1..424
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=46456
+     CDS             1..424
+                     /gene="LOC108776440"
+                     /coded_by="XM_018543054.1:265..1539"
+                     /db_xref="GeneID:108776440"
+ORIGIN      
+        1 mqlqitlgsp fddetalsws rkerqkwfls llcgtcliya trtsvpllip visqeknwsk
+       61 sdsgiilasf fwgytltqla sgyisdkigg qrviwisalg wsattflmpe viqffsgdgt
+      121 svllvavvrv ingafqgmhf psmislisqr lhkaerasff slltsgsalg tlltgslgsy
+      181 llenynwitv fralgsmsla wtallsyhsl slkkktvstk stsgyrlpvf kllsqppfws
+      241 cvighacqnn cffvllswmp tyfhdnfpga kgwivnmvpw lsilpctflg kalseiirtn
+      301 fsvtvtrkti qticfviqig slifltkvey fetailclal iiggsgfhnn aiavnpsdla
+      361 pkhsgsvfgl mntvgavpgf lgvyfsghil hmthswsavf lliavidvvg cimfllfgsg
+      421 eaii
+//
+

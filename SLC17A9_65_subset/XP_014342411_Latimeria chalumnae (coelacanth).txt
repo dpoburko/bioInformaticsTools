@@ -1,0 +1,59 @@
+
+LOCUS       XP_014342411             359 aa            linear   VRT 26-OCT-2015
+DEFINITION  PREDICTED: solute carrier family 17 member 9 [Latimeria chalumnae].
+ACCESSION   XP_014342411
+VERSION     XP_014342411.1
+DBLINK      BioProject: PRJNA219830
+DBSOURCE    REFSEQ: accession XM_014486925.1
+KEYWORDS    RefSeq; includes ab initio.
+SOURCE      Latimeria chalumnae (coelacanth)
+  ORGANISM  Latimeria chalumnae
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Coelacanthiformes; Coelacanthidae; Latimeria.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_005819176.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Latimeria chalumnae Annotation
+                                           Release 101
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 6.4
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            ab initio :: 10% of CDS bases
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..359
+                     /organism="Latimeria chalumnae"
+                     /isolate="SAIAB 97564"
+                     /db_xref="taxon:7897"
+                     /chromosome="Unknown"
+                     /tissue_type="blood"
+                     /country="South Africa"
+                     /note="Wild Caught"
+     Protein         1..359
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=38803
+     CDS             1..359
+                     /gene="SLC17A9"
+                     /coded_by="XM_014486925.1:1..1080"
+                     /db_xref="GeneID:102354853"
+ORIGIN      
+        1 masgqalsfd lfffffspff ssrvggekvl llssvawgsv taltpliaql slaplwlltl
+       61 srflmgllqg vhfpslasli sqkvhesqrs fvssvvgtgs qvgalligsv gsvlldwcgw
+      121 esvfffsgll allwgycmgr fllkqkghvv fletlgarly hsrctkvpwk qlfqkasgwv
+      181 fnvipwltai pmsvfsgyla dhliglgynt asvrkfmqvn amglssvcal flsrttnyvg
+      241 aivfasgavg lqtfhnsgvs vnvqdlapsc agslyasgks fsylgvdssp glfffliffl
+      301 gvclvylsgy lievtvswts vfhlialvnv lglsvflmfg qaqrvdidts nakqqntsi
+//
+

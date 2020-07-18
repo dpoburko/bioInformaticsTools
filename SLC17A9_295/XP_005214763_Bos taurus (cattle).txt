@@ -1,0 +1,69 @@
+
+LOCUS       XP_005214763             436 aa            linear   MAM 07-MAY-2018
+DEFINITION  solute carrier family 17 member 9 isoform X2 [Bos taurus].
+ACCESSION   XP_005214763
+VERSION     XP_005214763.2
+DBLINK      BioProject: PRJNA450837
+DBSOURCE    REFSEQ: accession XM_005214706.4
+KEYWORDS    RefSeq.
+SOURCE      Bos taurus (cattle)
+  ORGANISM  Bos taurus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Cetartiodactyla; Ruminantia;
+            Pecora; Bovidae; Bovinae; Bos.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_037340.1) annotated using gene prediction method: Gnomon,
+            supported by EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            On May 7, 2018 this sequence version replaced XP_005214763.1.
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Bos taurus Annotation Release 106
+            Annotation Version          :: 106
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.0
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..436
+                     /organism="Bos taurus"
+                     /isolate="L1 Dominette 01449 registration number 42190680"
+                     /db_xref="taxon:9913"
+                     /chromosome="13"
+                     /sex="female"
+                     /tissue_type="left lung"
+                     /breed="Hereford"
+     Protein         1..436
+                     /product="solute carrier family 17 member 9 isoform X2"
+                     /calculated_mol_wt=46906
+     Region          38..421
+                     /region_name="UhpC"
+                     /note="Sugar phosphate permease [Carbohydrate transport
+                     and metabolism]; cl27298"
+                     /db_xref="CDD:332119"
+     CDS             1..436
+                     /gene="SLC17A9"
+                     /gene_synonym="C13H20ORF59"
+                     /coded_by="XM_005214706.4:107..1417"
+                     /db_xref="GeneID:518062"
+                     /db_xref="BGD:BT14584"
+                     /db_xref="VGNC:VGNC:34704"
+ORIGIN      
+        1 mqpppdetrr daaedtqwsr pecqvwtgtl llgtcllyca rvsmpvcaas msqdfgwnkk
+       61 eagvvlssff wgycltqvvg ghlgdrigge kvillsasaw gfitvatpll ahlgsahlaf
+      121 mtfsriltgl lqgvyfpalt sllsqkvres eraftystvg agsqfgtlvt gavgsllldw
+      181 ygwpsvfyfs ggltllwvgy vyrcllserd lilalgilaq glpvsrhtkv pwrqlfrkps
+      241 vwaaiisqls aacsffills wlptffketf psskgwvfnv vpwlvaipas llsgllsdhl
+      301 inqgyrtitv rkfmqvmglg lssvfalclg htssfcnsvv fasasiglqt fnhsgisvni
+      361 qdlapscagf lfgvantaga lagvvgvclg gyliettgsw tsvfnlvati sslglctflv
+      421 fgkaqrvdls pahedl
+//
+

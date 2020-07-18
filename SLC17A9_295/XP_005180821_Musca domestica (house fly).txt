@@ -1,0 +1,74 @@
+
+LOCUS       XP_005180821             439 aa            linear   INV 26-JAN-2017
+DEFINITION  PREDICTED: solute carrier family 17 member 9 [Musca domestica].
+ACCESSION   XP_005180821
+VERSION     XP_005180821.1
+DBLINK      BioProject: PRJNA210139
+DBSOURCE    REFSEQ: accession XM_005180764.3
+KEYWORDS    RefSeq.
+SOURCE      Musca domestica (house fly)
+  ORGANISM  Musca domestica
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta;
+            Pterygota; Neoptera; Holometabola; Diptera; Brachycera;
+            Muscomorpha; Muscoidea; Muscidae; Musca.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_004764757.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Musca domestica Annotation Release
+                                           102
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 7.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..439
+                     /organism="Musca domestica"
+                     /strain="aabys"
+                     /db_xref="taxon:7370"
+                     /chromosome="Unknown"
+     Protein         1..439
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=48782
+     Region          32..432
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Region          34..397
+                     /region_name="MFS_1"
+                     /note="Major Facilitator Superfamily; pfam07690"
+                     /db_xref="CDD:284993"
+     Site            order(46,49..51,53..54,71,74..75,78,82..83,85..86,
+                     141..142,145..146,149..150,153,165..166,169..170,176,263,
+                     266..267,270..271,274,286,290,294,297,301,359..360,363,
+                     367..368,371,382..383,386..387,390..391,394)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..439
+                     /gene="LOC101899121"
+                     /coded_by="XM_005180764.3:1..1320"
+                     /db_xref="GeneID:101899121"
+ORIGIN      
+        1 msmdeklkys llrnelvdtq siwtrhekri wfitlitgtc mlystrttmp llvpavagem
+       61 kwsktdsgtv lssffwgytl tqvvggyfsd rfggqrvilf aaigwslitf fmpniiwwap
+      121 nakgyaipfi vtiriingaf qgvhfpsmis ltsqnlcsne rtsffgllts gsaigtlltg
+      181 ilgsfvldyf gwsyvfrvig fmgiawalvl ryyamagern riinvslpsr lcvnkanvdt
+      241 vpwlkyfsrl sfwacvltha cemncffvll swlptyfhdg fphakgwvvn mipwlalpps
+      301 tffakyltgr llardwsmsa vrkiiqsccf aaqnlalfim srttdfhtal icmtviiggt
+      361 gfhnnavtvn pqdlapshsg svfglmntvg aipgflgvyl aghilevtqs wpmvfsaaag
+      421 inlvgwiifv vfgsaeaiv
+//
+

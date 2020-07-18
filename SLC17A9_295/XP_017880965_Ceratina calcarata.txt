@@ -1,0 +1,63 @@
+
+LOCUS       XP_017880965             425 aa            linear   INV 17-OCT-2018
+DEFINITION  solute carrier family 17 member 9 [Ceratina calcarata].
+ACCESSION   XP_017880965
+VERSION     XP_017880965.1
+DBLINK      BioProject: PRJNA340002
+DBSOURCE    REFSEQ: accession XM_018025476.2
+KEYWORDS    RefSeq.
+SOURCE      Ceratina calcarata
+  ORGANISM  Ceratina calcarata
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta;
+            Pterygota; Neoptera; Holometabola; Hymenoptera; Apocrita; Aculeata;
+            Apoidea; Apidae; Ceratina; Zadontomerus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_017158043.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Ceratina calcarata Annotation
+                                           Release 101
+            Annotation Version          :: 101
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.1
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..425
+                     /organism="Ceratina calcarata"
+                     /isolate="Rehan_Ccalc_2016"
+                     /host="Rhus typhina"
+                     /db_xref="taxon:156304"
+                     /chromosome="Unknown"
+                     /sex="pooled male and female"
+                     /tissue_type="whole body"
+                     /country="USA: Durham, NH"
+                     /collection_date="2014"
+                     /collected_by="Sandra Rehan"
+                     /identified_by="Sandra Rehan"
+     Protein         1..425
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=47014
+     CDS             1..425
+                     /gene="LOC108625429"
+                     /coded_by="XM_018025476.2:328..1605"
+                     /db_xref="GeneID:108625429"
+ORIGIN      
+        1 mqmqiplvlc qdekansswt rkerrkwfls llcgtcliya trtcvpllmp iiskekqwsk
+       61 sdsgivlssf fwgytltqva sgyisdkigg qkvllisalg wsmttffmpe vielfskndt
+      121 svllvaivrm ingafqgmhf psmislisqr lheterasff slltsgsslg tlltgsvgsy
+      181 llenyswvtv fqtlgslsla wamllsyhtl yfkekspstk sstnyalpwl kllgkppfws
+      241 cvighacqnn cffvllswmp tyfhdtfpev kgwvvnmvpw lsmlpctflg kalsekiiks
+      301 gysvtatrki veticfltei islvflakvk tflsaiicla fiiggsgfhn naiavnpsdl
+      361 apkhsgsvfg lmntvgavpg flgvyfaghi lhvthswpvv fifiamvdtf gciiyllfgs
+      421 gqaii
+//
+

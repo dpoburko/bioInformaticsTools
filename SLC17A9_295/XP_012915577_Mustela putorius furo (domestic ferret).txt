@@ -1,0 +1,78 @@
+
+LOCUS       XP_012915577             530 aa            linear   MAM 01-JUL-2015
+DEFINITION  PREDICTED: solute carrier family 17 member 9, partial [Mustela
+            putorius furo].
+ACCESSION   XP_012915577
+VERSION     XP_012915577.1
+DBLINK      BioProject: PRJNA158527
+DBSOURCE    REFSEQ: accession XM_013060123.1
+KEYWORDS    RefSeq.
+SOURCE      Mustela putorius furo (domestic ferret)
+  ORGANISM  Mustela putorius furo
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Carnivora; Caniformia;
+            Mustelidae; Mustelinae; Mustela.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_004569216.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Mustela putorius furo Annotation
+                                           Release 101
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 6.3
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: incomplete on the amino end.
+FEATURES             Location/Qualifiers
+     source          1..530
+                     /organism="Mustela putorius furo"
+                     /isolate="ID#1420"
+                     /sub_species="furo"
+                     /db_xref="taxon:9669"
+                     /chromosome="Unknown"
+                     /sex="female"
+                     /breed="Sable"
+     Protein         <1..530
+                     /product="solute carrier family 17 member 9"
+     Region          121..515
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Region          126..515
+                     /region_name="2A0114"
+                     /note="D-galactonate transporter; TIGR00893"
+                     /db_xref="CDD:273326"
+     Site            order(135,138..140,142..143,160,163..164,167,171..172,
+                     174..175,226..227,230..231,234..235,238,250..251,254..255,
+                     261,346,349..350,353..354,357,371,373,377,380,384,440,
+                     443..444,447,451..452,455,465..466,469..470,473..474,477)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..530
+                     /gene="SLC17A9"
+                     /coded_by="XM_013060123.1:<1..1593"
+                     /db_xref="GeneID:101689728"
+ORIGIN      
+        1 lpwlagllqp cpgspradcp egtvspargp lpgrhrfpgh ppgthypapt lwhppgglls
+       61 crpsdlrfcr pagrsrpcgc erliagsatd lgagvfgggr aappgltqpl lsrrpecqtw
+      121 tatlllgtcl lycarvsvpv ctvsmsqdfg wnkkeaglvl ssffwgyclt qvvgghlgdr
+      181 iggekvills acawgfltaa tpllahlsga hlvfmtfsri ltgllqgvyf paltsllsqk
+      241 vreserafty stvgagsqfg mlvtgavgsl lldrygwpsv fyfsggltll wvcyvyrcll
+      301 ngkdlilalg ilaqglpmsr htkvpwrqlf rkpsvwaais sqlssagsff illswlpsff
+      361 qetfpsskgw vfnvvpwlva ipaslfsgfl sdhlinqgyr titvrkfmqv mglglssvfa
+      421 lclghtssfc tsvvfasasi glqtfnhsgi svniqdlaps cagflfgvan tagalagvvg
+      481 vclggyllet tgswasmfnl vaavgslglc tfllfgeaqr vdlspahedl
+//
+

@@ -1,0 +1,64 @@
+
+LOCUS       XP_020137329             447 aa            linear   PRI 24-FEB-2017
+DEFINITION  solute carrier family 17 member 9 [Microcebus murinus].
+ACCESSION   XP_020137329
+VERSION     XP_020137329.1
+DBLINK      BioProject: PRJNA285159
+DBSOURCE    REFSEQ: accession XM_020281740.1
+KEYWORDS    RefSeq.
+SOURCE      Microcebus murinus (gray mouse lemur)
+  ORGANISM  Microcebus murinus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lemuriformes; Cheirogaleidae; Microcebus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_033677.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA and EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Microcebus murinus Annotation
+                                           Release 101
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 7.3
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..447
+                     /organism="Microcebus murinus"
+                     /isolate="mixed"
+                     /db_xref="taxon:30608"
+                     /chromosome="18"
+                     /sex="pooled male and female"
+                     /tissue_type="liver; kidney"
+                     /note="three separate animals were used in this assembly:
+                     #8(Reference animal), 1886F (Citronella), 7006M (Rosehip)"
+     Protein         1..447
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=48300
+     Region          41..388
+                     /region_name="MFS_1"
+                     /note="Major Facilitator Superfamily; pfam07690"
+                     /db_xref="CDD:311564"
+     CDS             1..447
+                     /gene="SLC17A9"
+                     /coded_by="XM_020281740.1:1355..2698"
+                     /db_xref="GeneID:105875784"
+ORIGIN      
+        1 mlcprpsaps lmqppldear rdtaedtqws rpecqawtaa lllgtcllyc araslpmctv
+       61 amsqdfgwnk keagvvlssf fwgycltqvv gghlgdrigg ekvivlsasa wgsitaatpl
+      121 lehlggahlv cmtlsrvlmg llqgvhfpal tsllsrkvre seraftystv gagsqvgtll
+      181 tgvvgsalle whswqsvfyf sggltllwaw cvhryllrek dlvlalgvla rglpvsrhsk
+      241 vpwrqlfrkp svwaavfsql csacsfftll swlptffqet fpqakgwvfn vvpwlvaipa
+      301 svfsgflsdh lvcqgyrpvt vrkfmqvmgl glsgifalcl ghtsnflqsv vfasasiglq
+      361 tfnhsgisvn iqdlapscag flfgvantag avagvvgvcl ggyliettgs wtylfnlvai
+      421 tsnlglctfl vfgqaqrvdl spthedl
+//
+

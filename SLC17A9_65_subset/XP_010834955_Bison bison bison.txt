@@ -1,0 +1,84 @@
+
+LOCUS       XP_010834955             559 aa            linear   MAM 31-DEC-2014
+DEFINITION  PREDICTED: solute carrier family 17 member 9 [Bison bison bison].
+ACCESSION   XP_010834955
+VERSION     XP_010834955.1
+DBLINK      BioProject: PRJNA266339
+DBSOURCE    REFSEQ: accession XM_010836653.1
+KEYWORDS    RefSeq; includes ab initio.
+SOURCE      Bison bison bison
+  ORGANISM  Bison bison bison
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Cetartiodactyla; Ruminantia;
+            Pecora; Bovidae; Bovinae; Bison.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_011494635.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA and EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Bison bison bison Annotation Release
+                                           100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 6.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            ab initio :: 18% of CDS bases
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..559
+                     /organism="Bison bison bison"
+                     /isolate="TAMUID 2011002044"
+                     /sub_species="bison"
+                     /db_xref="taxon:43346"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /tissue_type="blood"
+     Protein         1..559
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=59403
+     Region          144..544
+                     /region_name="2A0114"
+                     /note="D-galactonate transporter; TIGR00893"
+                     /db_xref="CDD:273326"
+     Region          144..544
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Site            order(147,150..152,154..155,172,175..176,179,183..184,
+                     186..187,238..239,242..243,246..247,250,262..263,266..267,
+                     273,375,378..379,382..383,386,400,402,406,409,413,469,
+                     472..473,476,480..481,484,494..495,498..499,502..503,506)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..559
+                     /gene="SLC17A9"
+                     /coded_by="XM_010836653.1:1..1680"
+                     /db_xref="GeneID:104986200"
+ORIGIN      
+        1 mqaarqdhrr lspsrapsfr laageapsps vpdvrgsree apgcagvypa rgsarpglpd
+       61 gssragdqds gsgvlisrhi wvnaqqgsrg spcqvqtgvq rshqtwiggc srggqavphi
+      121 slslprpecq vwtgtlllgt cllycarvsm pvcaasmsqd fgwnkkeagv vlssffwgyc
+      181 ltqvvgghlg driggekvil lsasawgfit vatpllahlg sahlafmtfs riltgllqgv
+      241 yfpaltslls qkvreseraf tystvgagsq fgtlvtgavg sllldwygwp svfyfsgglt
+      301 llwvgyvyrc llsergpssh ldgfhvdlpp psdlilalgi lvqglpvsrh tkvpwrqlfr
+      361 kpsvwaaiis qlsaacsffi llswlptffk etfpsskgwv fnvvpwlvai pasllsglls
+      421 dhlinqgyrt itvrkfmqvm glglssvfal clghtssfcn svvfasasig lqtfnhsgis
+      481 vniqdlapsc agflfgvant agalagvvgv clggyliett gswtsvfnlv aaisslglct
+      541 flvfgkaqrv dlspahedl
+//
+

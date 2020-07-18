@@ -1,0 +1,77 @@
+
+LOCUS       XP_028591619             524 aa            linear   VRT 21-APR-2019
+DEFINITION  solute carrier family 17 member 9 [Podarcis muralis].
+ACCESSION   XP_028591619
+VERSION     XP_028591619.1
+DBLINK      BioProject: PRJNA529705
+DBSOURCE    REFSEQ: accession XM_028735786.1
+KEYWORDS    RefSeq; includes ab initio.
+SOURCE      Podarcis muralis (Common wall lizard)
+  ORGANISM  Podarcis muralis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+            Laterata; Lacertibaenia; Lacertidae; Podarcis.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_041317.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Podarcis muralis Annotation Release
+                                           100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            ab initio :: 9% of CDS bases
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..524
+                     /organism="Podarcis muralis"
+                     /db_xref="taxon:64176"
+                     /chromosome="6"
+                     /sex="male"
+                     /tissue_type="muscle"
+                     /dev_stage="adult"
+                     /ecotype="yellow"
+     Protein         1..524
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=57176
+     Region          115..510
+                     /region_name="MFS_SLC17A9_like"
+                     /note="Solute carrier family 17 member 9 and similar
+                     proteins of the Major Facilitator Superfamily of
+                     transporters; cd17380"
+                     /db_xref="CDD:340938"
+     Site            order(125..126,129..130,133,165,220..221,223..225,228,248,
+                     251..252,255,336,339..340,343..345,348,374,378,435..436,
+                     440,444,460,463..464,467..468,471)
+                     /site_type="other"
+                     /note="putative chemical substrate binding pocket
+                     [chemical binding]"
+                     /db_xref="CDD:340938"
+     CDS             1..524
+                     /gene="SLC17A9"
+                     /coded_by="XM_028735786.1:1..1575"
+                     /db_xref="GeneID:114599946"
+ORIGIN      
+        1 malsvsenga qvcgadlhsl hhlkqqlktt eegmkkdgad sfgpdfvrsk rlwsrrrhpl
+       61 prtvfaegrs ervlflpsrk gfgrraklps gllihcwgcr assvqddrpe sriwtvalll
+      121 gtcllyctrv alpisvaams ahfdwdkrqs givlssffwg ycltqiaggh lsdriggvkv
+      181 illsasvwgs itaitpllty vgsahlvlia fsrflmgllq gvyfpalasl fsrkvrener
+      241 aftystvgtg sqfgtlvmga agsllldwyg wksvfyfsgt ltllwvycmr kylvngkeli
+      301 ipledlakgl slskqtkvpw kqifkkapvw avitaqlcaa gsfftllswl ptffketfpd
+      361 skgwvfnvvp wlvaiptslf sgflsdqfik qgykaitvrk fmqvvgsgvs sifalcight
+      421 nsfchavvfa sacvglqsfn hsgisvniqd lapscagllf gvantggall gvvcvylagh
+      481 lieitgswvs vfnlvaavna fglctflifg kahrvdtesa fvel
+//
+

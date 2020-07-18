@@ -1,0 +1,82 @@
+
+LOCUS       XP_009932256             480 aa            linear   VRT 28-OCT-2014
+DEFINITION  PREDICTED: solute carrier family 17 member 9 [Opisthocomus hoazin].
+ACCESSION   XP_009932256
+VERSION     XP_009932256.1
+DBLINK      BioProject: PRJNA263612
+DBSOURCE    REFSEQ: accession XM_009933954.1
+KEYWORDS    RefSeq; includes ab initio.
+SOURCE      Opisthocomus hoazin
+  ORGANISM  Opisthocomus hoazin
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Opisthocomiformes; Opisthocomidae;
+            Opisthocomus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_009901057.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA and EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Opisthocomus hoazin Annotation
+                                           Release 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 6.1
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            ab initio :: 13% of CDS bases
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..480
+                     /organism="Opisthocomus hoazin"
+                     /isolate="BGI_N306"
+                     /db_xref="taxon:30419"
+                     /chromosome="Unknown"
+                     /sex="female"
+                     /country="Venezuela"
+     Protein         1..480
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=51955
+     Region          71..465
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Region          76..465
+                     /region_name="2A0114"
+                     /note="D-galactonate transporter; TIGR00893"
+                     /db_xref="CDD:273326"
+     Site            order(85,88..90,92..93,110,113..114,117,121..122,124..125,
+                     176..177,180..181,184..185,188,200..201,204..205,211,296,
+                     299..300,303..304,307,321,323,327,330,334,390,393..394,
+                     397,401..402,405,415..416,419..420,423..424,427)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..480
+                     /gene="SLC17A9"
+                     /coded_by="XM_009933954.1:1..1443"
+                     /db_xref="GeneID:104328894"
+ORIGIN      
+        1 mapdwqqpls agaealrlap sglsassgng trfassgddc payftaccsf asprhgpfdt
+       61 fingpesrvw tvmlllgtcl lycarvtvpi cavalsthfd wdkkqsgvvl ssffwgyclt
+      121 qiigghisdq iggekvllls asawgfltvl tpllthvtsa hlvfmtssrf lmgllqgvyf
+      181 pslasllsqr vreserafty stvgtgsqfg tlviggvgsl lldwygwesv fyfsgllsll
+      241 wvyctckyll sekeliipid ylmrglsisk qtkvpwkqlf kkapiwavii aqlctastff
+      301 tllswlptff ketfpeskgw vfnvvpwlva iptslfsgfl sdhlinqgyk titirkfmqv
+      361 vgsgvsslfa lclgqtssfc kaivfasasv glqtfnhsgi svnvqdlaps cagllfgvgn
+      421 tggallgvvc vylagyliet tgswisvfnl vavvnsiglc aflvfgeaqr mdtdseymdl
+//
+

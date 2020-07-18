@@ -1,0 +1,65 @@
+
+LOCUS       XP_027245140             534 aa            linear   ROD 10-JUL-2020
+DEFINITION  vesicular acetylcholine transporter [Cricetulus griseus].
+ACCESSION   XP_027245140
+VERSION     XP_027245140.1
+DBLINK      BioProject: PRJNA498699
+DBSOURCE    REFSEQ: accession XM_027389339.2
+KEYWORDS    RefSeq.
+SOURCE      Cricetulus griseus (Chinese hamster)
+  ORGANISM  Cricetulus griseus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+            Muroidea; Cricetidae; Cricetinae; Cricetulus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_023276807.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Cricetulus griseus Annotation
+                                           Release 104
+            Annotation Version          :: 104
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.4
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..534
+                     /organism="Cricetulus griseus"
+                     /strain="17A/GY"
+                     /isolation_source="Laboratory Animal"
+                     /db_xref="taxon:10029"
+                     /chromosome="1"
+                     /map="unlocalized"
+                     /sex="female"
+                     /tissue_type="liver"
+                     /country="USA: Baltimore, MD"
+                     /lat_lon="39.299625 N 76.593518 W"
+                     /collection_date="2014-04-16"
+                     /note="pooled liver cells from 5 individuals"
+     Protein         1..534
+                     /product="vesicular acetylcholine transporter"
+                     /calculated_mol_wt=56870
+     CDS             1..534
+                     /gene="Slc18a3"
+                     /coded_by="XM_027389339.2:1..1605"
+                     /db_xref="GeneID:100770013"
+ORIGIN      
+        1 meptaptsqa raaatklsea vgaalqepqr qrrlvlvivc vallldnmly mvlvpivpdy
+       61 iahmrggses ptlasevwep tlppptlana sayltntsas ptvagsgrsi lrpryptese
+      121 dvkigllfas kailqllvnp lsgpfidrms ydvplliglg vmfastvmfa faedyatlfa
+      181 arslqglgsa fadtsgiami adkypeeper sralgvalaf isfgslvapp fggilyefag
+      241 krvpflvlaa vslfdallll avakpfsaaa raranlpvgt pihrlmldpy iavvagaltt
+      301 cniplaflep tiatwmkhtm aasewemgma wlpafvphvl gvylivrlaa ryphlqwlyg
+      361 alglavigvs scivpacrsf aplvvslcgl cfgialvdta llptlaflvd vrhvsvygsv
+      421 yaiadisysv ayalgpivag hivhslgfeq lslgmglanl lyapvllllr nvglltrsrs
+      481 erdvlldepp qglydavrlr ersvqgtdgd ggepcsppgp fdgceddysy ytrs
+//
+

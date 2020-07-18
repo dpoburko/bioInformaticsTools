@@ -1,0 +1,83 @@
+
+LOCUS       XP_009981057             432 aa            linear   VRT 31-OCT-2014
+DEFINITION  PREDICTED: solute carrier family 17 member 9, partial [Tauraco
+            erythrolophus].
+ACCESSION   XP_009981057
+VERSION     XP_009981057.1
+DBLINK      BioProject: PRJNA265115
+DBSOURCE    REFSEQ: accession XM_009982755.1
+KEYWORDS    RefSeq; includes ab initio.
+SOURCE      Tauraco erythrolophus (red-crested turaco)
+  ORGANISM  Tauraco erythrolophus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Musophagiformes; Musophagidae;
+            Tauraco.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_010057647.1) annotated using gene prediction method: Gnomon,
+            supported by EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Tauraco erythrolophus Annotation
+                                           Release 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 6.1
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            ab initio :: 2% of CDS bases
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: incomplete on the amino end.
+FEATURES             Location/Qualifiers
+     source          1..432
+                     /organism="Tauraco erythrolophus"
+                     /isolate="BGI_N340"
+                     /db_xref="taxon:121530"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /country="Greece"
+     Protein         <1..432
+                     /product="solute carrier family 17 member 9"
+     Region          23..417
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Region          28..417
+                     /region_name="2A0114"
+                     /note="D-galactonate transporter; TIGR00893"
+                     /db_xref="CDD:273326"
+     Site            order(37,40..42,44..45,62,65..66,69,73..74,76..77,
+                     128..129,132..133,136..137,140,152..153,156..157,163,248,
+                     251..252,255..256,259,273,275,279,282,286,342,345..346,
+                     349,353..354,357,367..368,371..372,375..376,379)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..432
+                     /gene="SLC17A9"
+                     /coded_by="XM_009982755.1:<1..1301"
+                     /codon_start=3
+                     /db_xref="GeneID:104376222"
+ORIGIN      
+        1 rpfhlpfprl plrpcrpesr vwtvmlllgt cllycarvtv picavalsth fdwdkkqsgi
+       61 vlssffwgyc ltqiigghis dqiggekvll lsasawgflt vltpllthvt sahlvfmtss
+      121 rflmgllqgm yfpslaslls qkvreseraf tystvgtgsq fgtlviggag sllldwygwe
+      181 svfyfsgllt llwvyctcky llsekelilp idylmrglsi skqtkvpwkq lfkkppiwav
+      241 ivaqlstast fftllswlpt ffketfpesk gwvfnvvpwl vaiptslfsg flsdhlinqg
+      301 yktitirkfm qvvgsgissv falclgqtss fckaivfasa avglqtfnhs gisvnvqdla
+      361 pscagllfgv gntggallgv vcvylagyli ettgswtsvf nlvaavnsvg lcaflvfgea
+      421 qrvdtdsanv dl
+//
+

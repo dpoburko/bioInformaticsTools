@@ -1,0 +1,66 @@
+
+LOCUS       XP_023295142             439 aa            linear   INV 05-JAN-2018
+DEFINITION  solute carrier family 17 member 9 [Lucilia cuprina].
+ACCESSION   XP_023295142
+VERSION     XP_023295142.1
+DBLINK      BioProject: PRJNA423280
+DBSOURCE    REFSEQ: accession XM_023439374.1
+KEYWORDS    RefSeq.
+SOURCE      Lucilia cuprina (Australian sheep blowfly)
+  ORGANISM  Lucilia cuprina
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta;
+            Pterygota; Neoptera; Holometabola; Diptera; Brachycera;
+            Muscomorpha; Oestroidea; Calliphoridae; Luciliinae; Lucilia.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_019410575.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Lucilia cuprina Annotation Release
+                                           100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.0
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..439
+                     /organism="Lucilia cuprina"
+                     /strain="LS"
+                     /db_xref="taxon:7375"
+                     /chromosome="Unknown"
+                     /sex="female"
+                     /dev_stage="adult"
+                     /country="Australia: Canberra"
+                     /collection_date="1956"
+                     /note="dieldrin susceptible and red eyed with no history
+                     of exposure to pesticides"
+     Protein         1..439
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=48828
+     Region          34..397
+                     /region_name="MFS_1"
+                     /note="Major Facilitator Superfamily; pfam07690"
+                     /db_xref="CDD:311564"
+     CDS             1..439
+                     /gene="LOC111678121"
+                     /coded_by="XM_023439374.1:300..1619"
+                     /db_xref="GeneID:111678121"
+ORIGIN      
+        1 msmdeklkys llrnelvdnq svwsrqekrv wfitlitgtc mlystrttmp llvpavaaem
+       61 kwsktdsgtv lssffwgytl tqvvggyfsd rfggqrvilf aaigwsiitf lmpniiwwap
+      121 nvknyaipfi vtiriingaf qgvhfpsmis ltsqnlcsne rtsffgllts gsamgtlltg
+      181 ilgsfvldyf gwsyvfrvig fmgiawalvl ryyamagern riinvslpsr lcvnkssvdt
+      241 vpwlkyfskl sfwacvltha cemncffvll swlptyfhdg fphakgwvvn mipwlalpps
+      301 tffakyltgr llarewstsa vrkviqsccf laqnlalfim srtndfhtal icmtiiiggt
+      361 gfhnnavtvn pqdlapshsg svfglmntvg aipgflgvyl aghilevtqs wpmvfsaaag
+      421 inlvgwiifv vfgsaeaiv
+//
+

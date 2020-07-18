@@ -1,0 +1,56 @@
+
+LOCUS       XP_017061057             437 aa            linear   INV 16-JUN-2016
+DEFINITION  PREDICTED: solute carrier family 17 member 9 [Drosophila
+            ficusphila].
+ACCESSION   XP_017061057
+VERSION     XP_017061057.1
+DBLINK      BioProject: PRJNA325513
+DBSOURCE    REFSEQ: accession XM_017205568.1
+KEYWORDS    RefSeq.
+SOURCE      Drosophila ficusphila
+  ORGANISM  Drosophila ficusphila
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta;
+            Pterygota; Neoptera; Holometabola; Diptera; Brachycera;
+            Muscomorpha; Ephydroidea; Drosophilidae; Drosophila; Sophophora.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_016073477.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Drosophila ficusphila Annotation
+                                           Release 101
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 7.1
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..437
+                     /organism="Drosophila ficusphila"
+                     /bio_material="DSSC<USA-CA>:14025-0441.05"
+                     /db_xref="taxon:30025"
+                     /chromosome="Unknown"
+     Protein         1..437
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=48207
+     CDS             1..437
+                     /gene="LOC108101276"
+                     /coded_by="XM_017205568.1:301..1614"
+                     /db_xref="GeneID:108101276"
+ORIGIN      
+        1 mdakysllrg elvdtqsiwt rhekrvwfit litgtcmlys trttmpllvp avasaqkwsk
+       61 tdsgtvlssf fwgytltqvv ggyfsdrfgg qrvilcaafg wslitflmpt iiwsagsiks
+      121 yaipfivair ilngalqgvh fpsmisltsq nlcpnerssf fglltagsal gtlltgimgs
+      181 flldyfgwsy vfrviglmgv awalvlryya magernriin iatpsrlcan kspaeatavp
+      241 wlryfsklsf wacvlthace mncffvllsw lptyfhdgfp hakgwvvnmi pwmalppctl
+      301 fakylttrll arewhtttvr kfiqsccfaa qnlalfvmsr tsdfhtalic mtiiiagtgf
+      361 hnnavtvnpq dlaplhsgsv fglmntvgai pgflgvylag hileltqswp mvfsaaagin
+      421 lvgwiifivf gsaeaiv
+//
+

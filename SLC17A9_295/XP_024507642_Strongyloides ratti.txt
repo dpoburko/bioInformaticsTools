@@ -1,0 +1,69 @@
+
+LOCUS       XP_024507642             455 aa            linear   INV 10-APR-2018
+DEFINITION  Solute carrier family 17 member 9 [Strongyloides ratti].
+ACCESSION   XP_024507642
+VERSION     XP_024507642.1
+DBLINK      BioProject: PRJNA304930
+            BioSample: SAMEA1682816
+DBSOURCE    REFSEQ: accession XM_024654253.1
+KEYWORDS    RefSeq.
+SOURCE      Strongyloides ratti
+  ORGANISM  Strongyloides ratti
+            Eukaryota; Metazoa; Ecdysozoa; Nematoda; Chromadorea; Rhabditida;
+            Panagrolaimoidea; Strongyloididae; Strongyloides.
+REFERENCE   1  (residues 1 to 455)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-APR-2018) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   2
+  AUTHORS   Aslett,A.Martin.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-SEP-2014) WTSI, Pathogen Informatics, Wellcome Trust
+            Sanger Institute, Wellcome Trust Genome Campus, Hinxton, Cambridge
+            Cambridgeshire. CB10 1SA, United Kingdom
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. The reference sequence is identical to CEF68442.
+FEATURES             Location/Qualifiers
+     source          1..455
+                     /organism="Strongyloides ratti"
+                     /strain="ED321 Heterogonic"
+                     /db_xref="taxon:34506"
+                     /chromosome="2"
+     Protein         1..455
+                     /product="Solute carrier family 17 member 9"
+                     /calculated_mol_wt=50869
+     Region          37..448
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Site            order(48,51..53,55..56,73,76..77,80,84..85,87..88,
+                     143..144,147..148,151..152,155,167..168,171..172,178,293,
+                     296..297,300..301,304,316,320,324,327,331,371,374..375,
+                     378,382..383,386,397..398,401..402,405..406,409)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..455
+                     /locus_tag="SRAE_2000309900"
+                     /coded_by="XM_024654253.1:1..1368"
+                     /db_xref="GeneID:36380812"
+                     /db_xref="GOA:A0A090LF98"
+                     /db_xref="InterPro:IPR011701"
+                     /db_xref="InterPro:IPR020846"
+                     /db_xref="UniProtKB/TrEMBL:A0A090LF98"
+ORIGIN      
+        1 mislkkires nlfepedyfq ahklwsktet rfwtinffig tcvlyasraa lpicatvmaq
+       61 eygwnkessg tvmscffwgy altqvgagkc adryggekil sfttliwifl tfftpqlfdi
+      121 ayflpfyslf fvlcvrvftg vgqgfhlpcm asmisrhlkl ndkakvfgft lsgthlgtai
+      181 aggvgsllld ffgwrqffqf aglisfiwwi lfrrlvsnkn frlkvynmgk qypkpyfkak
+      241 nsfeslplke nidekpinne rqhvvlpavd vpwqkllvhp sfwaavvaqy sganayytmf
+      301 swlpsyfhdn ypeakgfvyn vipslgivvt svvaptiagr ilakgislcl ilvslvsttn
+      361 yiipvliftt amgfrglhhg gvavnvpdfa pnhtgavfgl fnsfsaitgf igvffagkil
+      421 qltgnnwsmv flftalqsiv gaivygflgt gdrii
+//
+

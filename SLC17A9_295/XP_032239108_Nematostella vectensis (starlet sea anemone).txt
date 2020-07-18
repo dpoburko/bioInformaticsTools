@@ -1,0 +1,54 @@
+
+LOCUS       XP_032239108             260 aa            linear   INV 09-FEB-2020
+DEFINITION  solute carrier family 17 member 9 [Nematostella vectensis].
+ACCESSION   XP_032239108
+VERSION     XP_032239108.1
+DBLINK      BioProject: PRJNA19965
+DBSOURCE    REFSEQ: accession XM_032383217.1
+KEYWORDS    RefSeq.
+SOURCE      Nematostella vectensis (starlet sea anemone)
+  ORGANISM  Nematostella vectensis
+            Eukaryota; Metazoa; Cnidaria; Anthozoa; Hexacorallia; Actiniaria;
+            Edwardsiidae; Nematostella.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_001834348.1) annotated using gene prediction method: Gnomon,
+            supported by EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Nematostella vectensis Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.3
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..260
+                     /organism="Nematostella vectensis"
+                     /strain="CH2 x CH6"
+                     /db_xref="taxon:45351"
+                     /chromosome="Unknown"
+                     /dev_stage="larval"
+     Protein         1..260
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=29038
+     CDS             1..260
+                     /gene="LOC5513621"
+                     /coded_by="XM_032383217.1:184..966"
+                     /db_xref="GeneID:5513621"
+ORIGIN      
+        1 mvtylgwrwv fvsfgclail wvliwrqffl hkkasgvdrl clekkfesie krtskrasdt
+       61 ivpwgklirq pgiwaimvvh fchncmylnl sswlptyfhe sfpdaqnwif nvipylgnlf
+      121 gkvigghlad tliradfslt fvrklfetlg tggaafalll amyvnefwqa lfcmtlafsm
+      181 agmstsgsic niqdlsptfa gsiaglvytv tsvpgilgvy ltgyilhatg swqvvfqita
+      241 vicsvgslfy imfgttkria
+//
+

@@ -1,0 +1,78 @@
+
+LOCUS       XP_003932711             436 aa            linear   PRI 24-NOV-2014
+DEFINITION  PREDICTED: solute carrier family 17 member 9 [Saimiri boliviensis
+            boliviensis].
+ACCESSION   XP_003932711
+VERSION     XP_003932711.1
+DBLINK      BioProject: PRJNA169636
+DBSOURCE    REFSEQ: accession XM_003932662.2
+KEYWORDS    RefSeq.
+SOURCE      Saimiri boliviensis boliviensis (Bolivian squirrel monkey)
+  ORGANISM  Saimiri boliviensis boliviensis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Cebidae; Saimiriinae; Saimiri.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_003943655.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA and EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Saimiri boliviensis Annotation
+                                           Release 101
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 6.1
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..436
+                     /organism="Saimiri boliviensis boliviensis"
+                     /isolate="3227"
+                     /sub_species="boliviensis"
+                     /db_xref="taxon:39432"
+                     /chromosome="Unknown"
+                     /sex="female"
+     Protein         1..436
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=47294
+     Region          38..421
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Site            order(41,44..46,48..49,66,69..70,73,77..78,80..81,
+                     132..133,136..137,140..141,144,156..157,160..161,167,252,
+                     255..256,259..260,263,277,279,283,286,290,350,353..354,
+                     357,361..362,365,371..372,375..376,379..380,383)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     Region          44..386
+                     /region_name="MFS_1"
+                     /note="Major Facilitator Superfamily; pfam07690"
+                     /db_xref="CDD:284993"
+     CDS             1..436
+                     /gene="SLC17A9"
+                     /coded_by="XM_003932662.2:200..1510"
+                     /db_xref="GeneID:101050884"
+ORIGIN      
+        1 mqppqdeacr dkagdtqwsr pecqawtgtl llgtcllyca rasmpictvs msqdfgwnkk
+       61 eagivlssff wgycltqvvg ghlgdrigge kvillsasaw gsitavtpll ahlgsahlaf
+      121 mtfsrilmgl lqglyfpalt sllsqkvres eraftystvg agsqfgtllt gavgslllew
+      181 yswqsvfyfs gsltllwvwy vyryllsekd lvpalgvlap gllvsrhsrv pwrrlfrkpa
+      241 vwaavfsqls aacsffvlls wlptffketf pdakgwifnv vpwlvaipas vfsgflsdhl
+      301 inqgyraitv rklmqgvglg lssifalrlg htssfcesvv fasasiclqt fnhsgisvni
+      361 qdlapscagf lfgvantaga lagvvgvclg gyliettgsw tclfnlvaii snlglctflv
+      421 fgqaqrvdls psreel
+//
+

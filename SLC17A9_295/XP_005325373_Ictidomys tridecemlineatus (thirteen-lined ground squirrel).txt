@@ -1,0 +1,76 @@
+
+LOCUS       XP_005325373             436 aa            linear   ROD 03-JUL-2017
+DEFINITION  solute carrier family 17 member 9 [Ictidomys tridecemlineatus].
+ACCESSION   XP_005325373
+VERSION     XP_005325373.1
+DBLINK      BioProject: PRJNA210856
+DBSOURCE    REFSEQ: accession XM_005325316.3
+KEYWORDS    RefSeq.
+SOURCE      Ictidomys tridecemlineatus (thirteen-lined ground squirrel)
+  ORGANISM  Ictidomys tridecemlineatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia;
+            Sciuromorpha; Sciuridae; Xerinae; Marmotini; Ictidomys.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_004936514.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Ictidomys tridecemlineatus
+                                           Annotation Release 102
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 7.4
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..436
+                     /organism="Ictidomys tridecemlineatus"
+                     /isolate="#75"
+                     /db_xref="taxon:43179"
+                     /chromosome="Unknown"
+                     /sex="female"
+     Protein         1..436
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=46894
+     Region          38..421
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Site            order(41,44..46,48..49,66,69..70,73,77..78,80..81,
+                     132..133,136..137,140..141,144,156..157,160..161,167,252,
+                     255..256,259..260,263,277,279,283,286,290,346,349..350,
+                     353,357..358,361,371..372,375..376,379..380,383)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     Region          42..386
+                     /region_name="MFS_1"
+                     /note="Major Facilitator Superfamily; pfam07690"
+                     /db_xref="CDD:284993"
+     CDS             1..436
+                     /gene="Slc17a9"
+                     /coded_by="XM_005325316.3:276..1586"
+                     /db_xref="GeneID:101963699"
+ORIGIN      
+        1 mqpppdetrr daaenaqwsr pecqvwtgtl llgtcllyca rvtmpvctva msqdfgwnkk
+       61 eagivlssff wgycltqvvg ghlgdrigge kvillsastw gsitmatpll ahlgsahlvs
+      121 mvfsrvligl lqgvyfpalt sllsqrvres eraftystvg agsqfgtlvt gvvgsllldw
+      181 cgwqsvfyfs ggltllwvcy vyryllnekd lilalgvlaq glpvarpskv pwrqlfrrps
+      241 vwaaicsqls sacsffills wlptffketf phskgwvfnv vpwlvaipas lfsgflsdhl
+      301 isqgygtitv rklmqvmglg lssvfalclg htssflkavv fasasiglqt fnhsgisvni
+      361 qdlapscagf lfgvantaga lagvvgvclg gylieatgsw acvfnlvavi snlglgtflv
+      421 fgqaqrvdls pahedl
+//
+

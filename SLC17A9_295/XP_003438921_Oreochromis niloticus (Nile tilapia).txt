@@ -1,0 +1,81 @@
+
+LOCUS       XP_003438921             465 aa            linear   VRT 26-JUL-2018
+DEFINITION  solute carrier family 17 member 9 [Oreochromis niloticus].
+ACCESSION   XP_003438921
+VERSION     XP_003438921.1
+DBLINK      BioProject: PRJNA354796
+DBSOURCE    REFSEQ: accession XM_003438873.5
+KEYWORDS    RefSeq.
+SOURCE      Oreochromis niloticus (Nile tilapia)
+  ORGANISM  Oreochromis niloticus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Cichlomorphae; Cichliformes;
+            Cichlidae; African cichlids; Pseudocrenilabrinae; Oreochromini;
+            Oreochromis.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_031984.2) annotated using gene prediction method: Gnomon,
+            supported by EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Oreochromis niloticus Annotation
+                                           Release 104
+            Annotation Version          :: 104
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.1
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..465
+                     /organism="Oreochromis niloticus"
+                     /isolate="F11D_XX"
+                     /db_xref="taxon:8128"
+                     /sex="female"
+                     /tissue_type="blood"
+                     /dev_stage="adult"
+                     /linkage_group="LG20"
+     Protein         1..465
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=50604
+     Region          51..446
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Region          54..409
+                     /region_name="MFS_1"
+                     /note="Major Facilitator Superfamily; pfam07690"
+                     /db_xref="CDD:284993"
+     Site            order(65,68..70,72..73,90,93..94,97,101..102,104..105,
+                     156..157,160..161,164..165,168,180..181,184..185,191,276,
+                     279..280,283..284,287,299,303,307,310,314,369,372..373,
+                     376,380..381,384,395..396,399..400,403..404,407)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..465
+                     /gene="slc17a9"
+                     /coded_by="XM_003438873.5:633..2030"
+                     /db_xref="GeneID:100701338"
+ORIGIN      
+        1 maviqkygkt ynpdlvchkd nhlpakivpg chkkwpehnt swsrpvariw tvvlllgtcl
+       61 lycarvampi cavsmaeqfg wskresgmvl gsffwgycft qvfggyvsdr vggekvllls
+      121 aaawgsmtaf tpilahfcsq pilsmtlarf lmgllqgvhy pslaslcsqk vvesergflm
+      181 stvgsgsylg tlviggagsl mldlygwqsv fyvsgllsvl waycmwkyll kgegpiitle
+      241 slgssgaqsk ltkrhwlrll kqpavcaviv thlctastff tllswlptff kdtfpdakgw
+      301 vfnvipwlva ipsslfsgcl sdhlisqgfd tasvrklmqf fsmgvssvft lllcgtttfp
+      361 wavafvsatm glttfshsgv svnvqdlaps cagalfgvmn tcgafsgvlm vyfsgyliea
+      421 tgswasvfal ittvnllglc tflafaearr vdidstkvrh hnihi
+//
+

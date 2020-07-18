@@ -1,0 +1,62 @@
+
+LOCUS       XP_027737368             451 aa            linear   VRT 24-JAN-2019
+DEFINITION  solute carrier family 17 member 9 [Empidonax traillii].
+ACCESSION   XP_027737368
+VERSION     XP_027737368.1
+DBLINK      BioProject: PRJNA516471
+DBSOURCE    REFSEQ: accession XM_027881567.1
+KEYWORDS    RefSeq.
+SOURCE      Empidonax traillii (willow flycatcher)
+  ORGANISM  Empidonax traillii
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Passeriformes; Tyrannidae;
+            Empidonax.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_020955284.1) annotated using gene prediction method: Gnomon,
+            supported by EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Empidonax traillii Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.1
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..451
+                     /organism="Empidonax traillii"
+                     /isolate="1590-97213"
+                     /db_xref="taxon:164674"
+                     /chromosome="Unknown"
+                     /ecotype="Southwest subspecies"
+                     /country="USA: Roosevelt Lake, AZ"
+                     /lat_lon="33.767 N 111.2417 W"
+                     /collection_date="31-May-1997"
+     Protein         1..451
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=48911
+     CDS             1..451
+                     /gene="SLC17A9"
+                     /coded_by="XM_027881567.1:72..1427"
+                     /db_xref="GeneID:114056399"
+ORIGIN      
+        1 maaggggggr nvpvgtaerg phdgmrrdgd pywsrpesrv wtvmlllgtc llycarvtvp
+       61 icavalssyf dwdkkesgvv lssffwgycl tqiigghisd qiggekvlll sasawgfltv
+      121 ltpvlthits ahlvfmtssr flmgllqgvy fpslasllsq rvreseraft ystvgtgsqf
+      181 gtlviggags llldwygwes vfyfsglltl lwvyctckyl lsekeliipi dyltrglsip
+      241 kqtkvpwkql frkapiwavi iaqlstastf ftllswlptf fketfpeskg wvfnvvpwlv
+      301 aipaslfsgf lsdhlisqgy rtitirkfmq vigsgvssif alclgqtssf ckaivfasas
+      361 vglqtfnhsg isvnvqdlap scagllfgva ntggallgvi cvylagylie ttgswisvfn
+      421 lvaavnsigl cvfllfgeaq rmdtdsayvd l
+//
+

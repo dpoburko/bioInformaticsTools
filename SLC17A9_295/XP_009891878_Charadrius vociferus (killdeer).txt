@@ -1,0 +1,83 @@
+
+LOCUS       XP_009891878             475 aa            linear   VRT 24-OCT-2014
+DEFINITION  PREDICTED: solute carrier family 17 member 9 [Charadrius
+            vociferus].
+ACCESSION   XP_009891878
+VERSION     XP_009891878.1
+DBLINK      BioProject: PRJNA263452
+DBSOURCE    REFSEQ: accession XM_009893576.1
+KEYWORDS    RefSeq; includes ab initio.
+SOURCE      Charadrius vociferus (killdeer)
+  ORGANISM  Charadrius vociferus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Charadriiformes; Charadriidae;
+            Charadrius.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_009661368.1) annotated using gene prediction method: Gnomon,
+            supported by EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Charadrius vociferus Annotation
+                                           Release 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 6.1
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            ab initio :: 12% of CDS bases
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..475
+                     /organism="Charadrius vociferus"
+                     /isolate="BGI_N301"
+                     /db_xref="taxon:50402"
+                     /chromosome="Unknown"
+                     /sex="female"
+                     /country="Peru"
+     Protein         1..475
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=52080
+     Region          66..460
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Region          71..460
+                     /region_name="2A0114"
+                     /note="D-galactonate transporter; TIGR00893"
+                     /db_xref="CDD:273326"
+     Site            order(80,83..85,87..88,105,108..109,112,116..117,119..120,
+                     171..172,175..176,179..180,183,195..196,199..200,206,291,
+                     294..295,298..299,302,316,318,322,325,329,385,388..389,
+                     392,396..397,400,410..411,414..415,418..419,422)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..475
+                     /gene="SLC17A9"
+                     /coded_by="XM_009893576.1:1..1428"
+                     /db_xref="GeneID:104294024"
+ORIGIN      
+        1 mseengcyrp lnnifikllr lliqiperts qrrkswpcvd lpggplrlpf ahlplhprrp
+       61 esrvwtvmll lgtcllycar vtvpvcaval sthfdwdkkq sgivlssffw gycltqiigg
+      121 hisdqiggek vlllsasawg fltvltpllt hvtsahlvfm tssrflmgll qgvyfpslas
+      181 llsqkvrese raftystvgt gsqfgtlvig gagsllldwy gwesvfyfsg lltllwvyct
+      241 ckyllsekel iipvdylmrg lsipkqtkvp wkqlfkkapi waviiaqlst astfftllsw
+      301 lptffketfp eskgwvfnvv pwlvaiptsl fsgflsdhli nqgyktitir kfmqvigsgv
+      361 ssifalclgq tssfckaivf asasvglqtf nhsgisvnvq dlapscagll fgvgntggal
+      421 lgvvcvylag hliettgswt svfnlvaavn svglcaflvf geaqrvdtds ayvdl
+//
+

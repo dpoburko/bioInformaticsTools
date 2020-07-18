@@ -1,0 +1,63 @@
+
+LOCUS       XP_030191312             514 aa            linear   MAM 27-FEB-2020
+DEFINITION  vesicular acetylcholine transporter [Lynx canadensis].
+ACCESSION   XP_030191312
+VERSION     XP_030191312.1
+DBLINK      BioProject: PRJNA558991
+DBSOURCE    REFSEQ: accession XM_030335452.1
+KEYWORDS    RefSeq.
+SOURCE      Lynx canadensis (Canada lynx)
+  ORGANISM  Lynx canadensis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Carnivora; Feliformia; Felidae;
+            Felinae; Lynx.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_044313.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Lynx canadensis Annotation Release
+                                           101
+            Annotation Version          :: 101
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.3
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..514
+                     /organism="Lynx canadensis"
+                     /isolate="LIC74"
+                     /db_xref="taxon:61383"
+                     /chromosome="D2"
+                     /sex="male"
+                     /tissue_type="muscle, distal limb"
+                     /country="USA: Aroostook County, Maine"
+                     /lat_lon="42.2466 N 71.6746 W"
+                     /collection_date="2017-12-05"
+                     /collected_by="Tanya Lama"
+     Protein         1..514
+                     /product="vesicular acetylcholine transporter"
+                     /calculated_mol_wt=54781
+     CDS             1..514
+                     /gene="SLC18A3"
+                     /coded_by="XM_030335452.1:1..1545"
+                     /db_xref="GeneID:115527659"
+ORIGIN      
+        1 mepaapagqa raaasklsea mgavlqdprr qrrlvlvivc valfldnmly mvivpivpdy
+       61 iahmhkagrp ttspkvhtlq aptpasgsdn mgntsespte sedvkigvlf askailqllv
+      121 nplsgpfidr msydvpllig lgvlfastvl fafaedyaml faarslqglg safadtsgia
+      181 miadkypeep ersralgval afisfgslva ppfggflygf agkpvpflvl aavslldall
+      241 llvvakpfsa vtraranlpv gtpihrlmld pyiavvagal ttcniplafl eptiatwmeh
+      301 tmaasewqtg mawlpafvph vlgvyltvrl aaryphlqwl ygalglavig asscvvpacr
+      361 sfaplvislc glcfgialvd tallptlafl vdvrhvsvyg svyaiadisy svayalgpiv
+      421 aghivhslgf vqlslgmgla nllyapvlll lrnvgllrrs rserdvllde ppqglydavr
+      481 lrerpvadpd gaprspsgpf decedvynny yths
+//
+

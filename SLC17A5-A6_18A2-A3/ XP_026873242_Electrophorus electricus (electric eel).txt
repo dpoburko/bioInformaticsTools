@@ -1,0 +1,79 @@
+
+LOCUS       XP_026873242             515 aa            linear   VRT 16-JUL-2020
+DEFINITION  probable vesicular acetylcholine transporter-A [Electrophorus
+            electricus].
+ACCESSION   XP_026873242
+VERSION     XP_026873242.1
+DBLINK      BioProject: PRJNA645070
+DBSOURCE    REFSEQ: accession XM_027017441.2
+KEYWORDS    RefSeq.
+SOURCE      Electrophorus electricus (electric eel)
+  ORGANISM  Electrophorus electricus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Gymnotiformes; Gymnotoidei; Gymnotidae; Electrophorus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_049545.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Electrophorus electricus Annotation
+                                           Release 101
+            Annotation Version          :: 101
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.5
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..515
+                     /organism="Electrophorus electricus"
+                     /isolate="fEleEle1"
+                     /db_xref="taxon:8005"
+                     /chromosome="11"
+                     /tissue_type="liver"
+                     /dev_stage="juvenile"
+                     /country="Netherlands: Dejong Marinelife, Rotterdam"
+                     /lat_lon="51.9244201 N 4.4777325 E"
+                     /collection_date="29-Nov-2018"
+                     /collected_by="Nidal Karagic"
+     Protein         1..515
+                     /product="probable vesicular acetylcholine transporter-A"
+                     /calculated_mol_wt=56014
+     Site            order(56,59..61,63..64,103,106..107,110,114..115,117..118,
+                     164..165,168..169,172..173,176,189..190,193..194,200,272,
+                     275..276,279..280,283,300,304,308,311,315,364,367..368,
+                     371,375..376,379,393..394,397..398,401..402,405)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     Region          98..409
+                     /region_name="MFS_1"
+                     /note="Major Facilitator Superfamily; pfam07690"
+                     /db_xref="CDD:311564"
+     Region          100..240
+                     /region_name="2_A_01_02"
+                     /note="Multidrug resistance protein; TIGR00880"
+                     /db_xref="CDD:273318"
+     CDS             1..515
+                     /gene="slc18a3a"
+                     /coded_by="XM_027017441.2:440..1987"
+                     /db_xref="GeneID:113581951"
+ORIGIN      
+        1 mateesagla rsaavklsem gertkqlgta iqdperqsri vlvivcvall ldnmlymviv
+       61 pivpdylarl esesehshdv ihanssvnst qnqnfdvqig vlfaskailq livnpltgtf
+      121 idrvgydipl liglsimfvs tcifafaeny vtlfvarslq glgsafadts giamiadrft
+      181 eetersralg ialafisfgs laappfggvl yefagkrvpf ivlacvclad gilcltvlkp
+      241 fssrtrenmp vgtpiyklmi dpyiavvaga lttcniplaf leptianwme etmdasqwqi
+      301 gltwlpsffp hilgvyitvk laaqyphlqw fygalgmvmi gassctvpac knfeqliipl
+      361 cgicfgialv dtallptlaf lvdvrhvsvy gsvyaiadis ycvayalgpi vagkivhdlg
+      421 fvqlnlgmgl anviyapall llrnvclmkp sysernmllq egptglydti rmeerqgkne
+      481 shstvancah vdehgkfarn sssysedetf kpeyi
+//
+

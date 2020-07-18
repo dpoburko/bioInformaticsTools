@@ -1,0 +1,62 @@
+
+LOCUS       XP_025870919             437 aa            linear   MAM 30-JUL-2018
+DEFINITION  solute carrier family 17 member 9 [Vulpes vulpes].
+ACCESSION   XP_025870919
+VERSION     XP_025870919.1
+DBLINK      BioProject: PRJNA482864
+DBSOURCE    REFSEQ: accession XM_026015134.1
+KEYWORDS    RefSeq.
+SOURCE      Vulpes vulpes (red fox)
+  ORGANISM  Vulpes vulpes
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Carnivora; Caniformia; Canidae;
+            Vulpes.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_020356543.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Vulpes vulpes Annotation Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.1
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..437
+                     /organism="Vulpes vulpes"
+                     /strain="TameXAggressive cross"
+                     /db_xref="taxon:9627"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /tissue_type="blood"
+                     /dev_stage="adult"
+     Protein         1..437
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=47066
+     Region          43..387
+                     /region_name="MFS_1"
+                     /note="Major Facilitator Superfamily; pfam07690"
+                     /db_xref="CDD:311564"
+     CDS             1..437
+                     /gene="SLC17A9"
+                     /coded_by="XM_026015134.1:126..1439"
+                     /db_xref="GeneID:112932253"
+ORIGIN      
+        1 mqplppeear rdgaedaqws rpecqvwtgt lllgtcllyc arvsmpvctv smsqdfgwnk
+       61 keagivlssf fwgycltqvv gghlgdrigg ekvillsasa wgfitaatpl lahlssahlv
+      121 fmtfsriltg llqgvyfpal tsllsqkvre seraftysav gagsqcgtlv tgavgsllld
+      181 wygwpsvfyf sggltllwvc yvyrylltgk elilalgvla qglpvsrhtk vpwrqlfrkp
+      241 svwaaissql ssacsffill swlptffqet fpsskgwvfn vvpwlvaipa slfsgflsdh
+      301 linqgyrtia vrkfmqvmgl glssvfalcl ghtssfcksv vfasasiglq tfnhsgisvn
+      361 iqdlapscag flfgvantag alagvvgvcl ggyliettgs wtsmfnlvaa isglglctfl
+      421 lfgeaqrvdl spthedl
+//
+

@@ -1,0 +1,57 @@
+
+LOCUS       XP_030818979             448 aa            linear   VRT 26-SEP-2019
+DEFINITION  solute carrier family 17 member 9 [Camarhynchus parvulus].
+ACCESSION   XP_030818979
+VERSION     XP_030818979.1
+DBLINK      BioProject: PRJNA566393
+DBSOURCE    REFSEQ: accession XM_030963119.1
+KEYWORDS    RefSeq.
+SOURCE      Camarhynchus parvulus
+  ORGANISM  Camarhynchus parvulus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Passeriformes; Thraupidae;
+            Camarhynchus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_044590.1) annotated using gene prediction method: Gnomon,
+            supported by EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Camarhynchus parvulus Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..448
+                     /organism="Camarhynchus parvulus"
+                     /db_xref="taxon:87175"
+                     /chromosome="20"
+     Protein         1..448
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=48624
+     CDS             1..448
+                     /gene="SLC17A9"
+                     /coded_by="XM_030963119.1:43..1389"
+                     /db_xref="GeneID:115911860"
+ORIGIN      
+        1 maaggggrnv ppgsgprdgm rrdggtepyw srpecrvwta mlllgtclly carvtvpica
+       61 valssyfdwd kkqfgvvlss ffwgycltqi vgghisdqig gekvlllsas awgfltvltp
+      121 llthitsahl vfmtssrflm gllqgvyfps lasllsqrvr eseraftyst vgtgsqfgtl
+      181 liggagslll dwygwesvfy fsglltllwv yctckyllse keltipmnyl trglsvpkqt
+      241 kvpwkqlfrk apiwaviiaq lstastfftl lswlptffke tfpdskgwvf nvvpwlvaip
+      301 tslfsgflsd hlisqgyrti tirkfmqvig sgvssifalc lgqtssfcka ivfasasvgl
+      361 qtfnhsgisv nvqdlapsca gllfgvantg gallgvicvy lagyliettg swisvfnlva
+      421 avnsiglctf llfgeaqrvd tgsvyvdl
+//
+

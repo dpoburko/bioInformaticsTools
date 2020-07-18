@@ -1,0 +1,76 @@
+
+LOCUS       XP_014810028             455 aa            linear   VRT 09-DEC-2015
+DEFINITION  PREDICTED: solute carrier family 17 member 9 [Calidris pugnax].
+ACCESSION   XP_014810028
+VERSION     XP_014810028.1
+DBLINK      BioProject: PRJNA305421
+DBSOURCE    REFSEQ: accession XM_014954542.1
+KEYWORDS    RefSeq.
+SOURCE      Calidris pugnax (ruff)
+  ORGANISM  Calidris pugnax
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Charadriiformes; Scolopacidae;
+            Calidris.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_015090780.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA and EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Calidris pugnax Annotation Release
+                                           100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 6.5
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..455
+                     /organism="Calidris pugnax"
+                     /isolate="Ruff"
+                     /db_xref="taxon:198806"
+                     /chromosome="Unknown"
+     Protein         1..455
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=49296
+     Region          46..440
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Region          51..440
+                     /region_name="2A0114"
+                     /note="D-galactonate transporter; TIGR00893"
+                     /db_xref="CDD:273326"
+     Site            order(60,63..65,67..68,85,88..89,92,96..97,99..100,
+                     151..152,155..156,159..160,163,175..176,179..180,186,271,
+                     274..275,278..279,282,296,298,302,305,309,365,368..369,
+                     372,376..377,380,390..391,394..395,398..399,402)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..455
+                     /gene="SLC17A9"
+                     /coded_by="XM_014954542.1:71..1438"
+                     /db_xref="GeneID:106895243"
+ORIGIN      
+        1 maaggggrnv plcgaqhgpr aaqhdgmrrd gggdpywsrp esrvwtvmll lgtcllycar
+       61 vtvpvcaval sthfdwdkkq sgivlssffw gycltqiigg hisdqiggek vlllsasawg
+      121 fltvitpllt hvtsahlvfm tssrflmgll qgvyfpslas llsqkvrese raftystvgt
+      181 gsqfgtlvig gagsllldwy gwesvfyfsg lltllwvyct ckylltekel iipvdylmrg
+      241 lsipkqtkvp wkqlfrkapi waviiaqlst astfftllsw lptffketfp eskgwvfnvv
+      301 pwlvaiptsl fsgflsdhli nqgyktitir kfmqvigsgv ssifalclgq tssfckaivf
+      361 asasvglqtf nhsgisvnvq dlapscagll fgvgntggal lgvicvylag yliettgswi
+      421 svfnlvaavn siglcaflvf geaqrvdtds aymdl
+//
+

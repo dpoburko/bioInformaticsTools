@@ -1,0 +1,71 @@
+
+LOCUS       XP_028629893             447 aa            linear   ROD 21-APR-2019
+DEFINITION  solute carrier family 17 member 9 [Grammomys surdaster].
+ACCESSION   XP_028629893
+VERSION     XP_028629893.1
+DBLINK      BioProject: PRJNA533235
+DBSOURCE    REFSEQ: accession XM_028774060.1
+KEYWORDS    RefSeq.
+SOURCE      Grammomys surdaster
+  ORGANISM  Grammomys surdaster
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+            Muroidea; Muridae; Murinae; Grammomys.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_021604683.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Grammomys surdaster Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..447
+                     /organism="Grammomys surdaster"
+                     /isolate="TR1022"
+                     /db_xref="taxon:491861"
+                     /chromosome="Unknown"
+                     /sex="female"
+                     /tissue_type="brain"
+     Protein         1..447
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=48370
+     Region          38..433
+                     /region_name="MFS_SLC17A9_like"
+                     /note="Solute carrier family 17 member 9 and similar
+                     proteins of the Major Facilitator Superfamily of
+                     transporters; cd17380"
+                     /db_xref="CDD:340938"
+     Site            order(48..49,52..53,56,88,143..144,146..148,151,171,
+                     174..175,178,259,262..263,266..268,271,297,301,358..359,
+                     363,367,383,386..387,390..391,394)
+                     /site_type="other"
+                     /note="putative chemical substrate binding pocket
+                     [chemical binding]"
+                     /db_xref="CDD:340938"
+     CDS             1..447
+                     /gene="Slc17a9"
+                     /coded_by="XM_028774060.1:6..1349"
+                     /db_xref="GeneID:114626598"
+ORIGIN      
+        1 mpsqrsslmq sipeetrktp svaaedtrws rpecqawtgm lllgtcllyc trvtmpvctv
+       61 amsqdfgwnk keagivlssf fwgycltqvv gghlgdrigg ekvillsata wgfitvttpl
+      121 lahlgsghla fvtfsriltg llqgvyfpal tsllsqrvqe seraftystv gagsqvgtlv
+      181 tggvgsvlld qcgwqsvfyf sggltllwvy yvyryllnek dlvlalgvla qglpvtrpsk
+      241 vpwrqlfrka svwaaicsql ssacsffill swlptffket fpnskgwvfn vvpwllaipa
+      301 slfsgfisdr lisqgyrvit vrklmqvmgl glssifalcl ghttsflkam ifasasigfq
+      361 tfnhsgisvn iqdlapscag flfgvantag alagvvgvcl ggyliettgs wtcvfhmvai
+      421 isnlglgtfl vfgkaqrvdv lpthedl
+//
+

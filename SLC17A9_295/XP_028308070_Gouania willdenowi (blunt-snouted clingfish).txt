@@ -1,0 +1,69 @@
+
+LOCUS       XP_028308070             468 aa            linear   VRT 18-MAR-2019
+DEFINITION  solute carrier family 17 member 9 [Gouania willdenowi].
+ACCESSION   XP_028308070
+VERSION     XP_028308070.1
+DBLINK      BioProject: PRJNA527273
+DBSOURCE    REFSEQ: accession XM_028452269.1
+KEYWORDS    RefSeq.
+SOURCE      Gouania willdenowi (blunt-snouted clingfish)
+  ORGANISM  Gouania willdenowi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Blenniimorphae; Blenniiformes;
+            Gobiesocoidei; Gobiesocidae; Gobiesocinae; Gouania.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_041050.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Gouania willdenowi Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..468
+                     /organism="Gouania willdenowi"
+                     /db_xref="taxon:441366"
+                     /chromosome="7"
+     Protein         1..468
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=51068
+     Region          54..449
+                     /region_name="MFS_SLC17A9_like"
+                     /note="Solute carrier family 17 member 9 and similar
+                     proteins of the Major Facilitator Superfamily of
+                     transporters; cd17380"
+                     /db_xref="CDD:340938"
+     Site            order(64..65,68..69,72,104,159..160,162..164,167,187,
+                     190..191,194,275,278..279,282..284,287,313,317,374..375,
+                     379,383,399,402..403,406..407,410)
+                     /site_type="other"
+                     /note="putative chemical substrate binding pocket
+                     [chemical binding]"
+                     /db_xref="CDD:340938"
+     CDS             1..468
+                     /gene="slc17a9"
+                     /coded_by="XM_028452269.1:230..1636"
+                     /db_xref="GeneID:114466653"
+ORIGIN      
+        1 mavlqkygnn ycpelvgqke nhpadkvgvp gcqkkwpern nnnywsrpva rvwtavlllg
+       61 tcllycarva mpicavsmae qfswskretg mvlgsffwgy cftqvfggyv sdrvggekvl
+      121 llsaaawgsm taftpilahf csqpiismtl arflmgllqg vhypslaslc sqkvveserg
+      181 flmstvgsgs ylgtlvigga gslmldlygw esvfyisgll sllwaysmwk yllkgegpii
+      241 tleslgsggv qpklskrhwl rllrqpavca vivthlctas tfftllswlp tffkdsfpda
+      301 kgwvfnvipw lvaipsslfs gclsdhlicq gfdtafvrkl mqifsmgvss vftvllcgtt
+      361 tftwavafvs atmgfttfsh sgvsvnvqdl apscagalfg vmntcgafsg vlmvyfsgyl
+      421 iettgswasv falittvnll glstflvfae arrvdidstk vrhhnihi
+//
+

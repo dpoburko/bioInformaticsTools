@@ -1,0 +1,65 @@
+
+LOCUS       XP_018794434             439 aa            linear   INV 03-NOV-2016
+DEFINITION  PREDICTED: solute carrier family 17 member 9 [Bactrocera
+            latifrons].
+ACCESSION   XP_018794434
+VERSION     XP_018794434.1
+DBLINK      BioProject: PRJNA351211
+DBSOURCE    REFSEQ: accession XM_018938889.1
+KEYWORDS    RefSeq.
+SOURCE      Bactrocera latifrons
+  ORGANISM  Bactrocera latifrons
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta;
+            Pterygota; Neoptera; Holometabola; Diptera; Brachycera;
+            Muscomorpha; Tephritoidea; Tephritidae; Bactrocera; Bactrocera.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_017537042.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Bactrocera latifrons Annotation
+                                           Release 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 7.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..439
+                     /organism="Bactrocera latifrons"
+                     /isolate="USDA-ARS-PBARC rearing strain"
+                     /isolation_source="USDA-ARS-PBARC rearing colony"
+                     /db_xref="taxon:174628"
+                     /chromosome="Unknown"
+                     /tissue_type="whole fly"
+                     /country="USA: USDA-ARS-PBARC, Hilo, Hawaii"
+                     /collection_date="2015"
+     Protein         1..439
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=48755
+     Region          59..436
+                     /region_name="UhpC"
+                     /note="Sugar phosphate permease [Carbohydrate transport
+                     and metabolism]; cl27298"
+                     /db_xref="CDD:332119"
+     CDS             1..439
+                     /gene="LOC108972348"
+                     /coded_by="XM_018938889.1:293..1612"
+                     /db_xref="GeneID:108972348"
+ORIGIN      
+        1 msmdeklkys llrgelvdsq nswtrhekrv wfltlitgtl mlystrtsmp llipavaaeq
+       61 kwsktdsgtv lssffwgytl tqvvggyfsd rfggqrvilf aaigwslitf lmpniiwsst
+      121 aikaysipfi vtiriingaf qgvhfpsmis ltsqnlcsde rtsffgllta gsalgtlltg
+      181 slgsfvldyf gwpyvfrvig flgiswalml ryytmagerg riinvsvpsr lcankqipdn
+      241 vpwlryfrkl sfwacvltha cemncffvll swlptyfhdg fphakvwvvn mipwlalppc
+      301 tlfaryltgr llarewstsa vrkiiqsccf asqnlalfim artsdfhtal icmtviiggt
+      361 gfhnnavtvn pqdlapshsg svfglmntvg avpgflgvyl aghileitqs wpivfstaaa
+      421 inlvgwtvfm vfgsaeaiv
+//
+

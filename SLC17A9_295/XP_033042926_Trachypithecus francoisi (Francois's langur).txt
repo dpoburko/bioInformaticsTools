@@ -1,0 +1,59 @@
+
+LOCUS       XP_033042926             436 aa            linear   PRI 28-MAR-2020
+DEFINITION  solute carrier family 17 member 9 [Trachypithecus francoisi].
+ACCESSION   XP_033042926
+VERSION     XP_033042926.1
+DBLINK      BioProject: PRJNA614514
+DBSOURCE    REFSEQ: accession XM_033187035.1
+KEYWORDS    RefSeq.
+SOURCE      Trachypithecus francoisi (Francois's langur)
+  ORGANISM  Trachypithecus francoisi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Colobinae; Trachypithecus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_022681467.1) annotated using gene prediction method: Gnomon,
+            supported by EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Trachypithecus francoisi Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.4
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..436
+                     /organism="Trachypithecus francoisi"
+                     /isolate="TF-2019V2"
+                     /db_xref="taxon:54180"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /tissue_type="muscle"
+     Protein         1..436
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=47171
+     CDS             1..436
+                     /gene="SLC17A9"
+                     /coded_by="XM_033187035.1:506..1816"
+                     /db_xref="GeneID:117069058"
+ORIGIN      
+        1 mqptpdearr dragdsqwsr pecqawtgtl llgtcllyct rssmpictvs msqdfgwnkk
+       61 eagivlssff wgycltqvvg ghlgdrigge kvillsasaw gsvtavtpll aqlssahlaf
+      121 mtfsrilmgl lqgvyfpalt sllsqkvrds eraftystvg agsqfgtllt gavgslllew
+      181 ygwqsvfyfs gsltllwvwy vyryllsgkd lvlalgvlaq glpvsrhsrv pwrrlfrkpa
+      241 vwaavisqls aacsffvlis wlptffketf pnakgwifnv vpwllaipas lfsgflsdhl
+      301 inqgyraitv rklmqgmglg lssvfalclg htssfcesvv fasasiglqt fnhsgisvni
+      361 qdlapscagf lfgvantaga lagvvgvclg gyliettgsw tclfnlvaii snlglctflv
+      421 fgqaqrvdls sthedl
+//
+

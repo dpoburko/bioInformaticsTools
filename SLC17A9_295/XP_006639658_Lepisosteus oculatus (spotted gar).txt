@@ -1,0 +1,79 @@
+
+LOCUS       XP_006639658             466 aa            linear   VRT 08-JAN-2016
+DEFINITION  PREDICTED: solute carrier family 17 member 9 [Lepisosteus
+            oculatus].
+ACCESSION   XP_006639658
+VERSION     XP_006639658.1
+DBLINK      BioProject: PRJNA221149
+DBSOURCE    REFSEQ: accession XM_006639595.2
+KEYWORDS    RefSeq.
+SOURCE      Lepisosteus oculatus (spotted gar)
+  ORGANISM  Lepisosteus oculatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Holostei; Semionotiformes;
+            Lepisosteidae; Lepisosteus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_006270029.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Lepisosteus oculatus Annotation
+                                           Release 101
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 6.5
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..466
+                     /organism="Lepisosteus oculatus"
+                     /isolate="Spotted Gar 1"
+                     /db_xref="taxon:7918"
+                     /sex="female"
+                     /country="USA: Bayou Chevreuil, St. James Parish,
+                     Louisiana"
+                     /lat_lon="29.91 N 90.80 W"
+                     /linkage_group="LG18"
+     Protein         1..466
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=50798
+     Region          52..447
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Region          57..439
+                     /region_name="2A0114"
+                     /note="D-galactonate transporter; TIGR00893"
+                     /db_xref="CDD:273326"
+     Site            order(66,69..71,73..74,91,94..95,98,102..103,105..106,
+                     157..158,161..162,165..166,169,181..182,185..186,192,277,
+                     280..281,284..285,288,302,304,308,311,315,370,373..374,
+                     377,381..382,385,396..397,400..401,404..405,408)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..466
+                     /gene="slc17a9"
+                     /coded_by="XM_006639595.2:253..1653"
+                     /db_xref="GeneID:102682534"
+ORIGIN      
+        1 mavvqkhgkn aisdlsnlka naqivfggtg iqkkrtesnp iywprplarv wtvvlllgtc
+       61 llycarvamp icavslaeqf kwskkesgiv lgsffwgycf tqviggyisd rvggekvvll
+      121 saaawgsmta ftpvlahlcs rpivsmtlsr flmgllqgvh ypslaslcsq kvtesergfl
+      181 mstvgsgsyl gtlviggags lildlygwes vfyvsglsav lwaycmwkyl lkgegpvill
+      241 esfgngvaqs kmskrhwlrl frqpsvwavi ithlctastf ftllswlptf fkdtfpdskg
+      301 wifnvipwfv aipsslfsgc lsdhlikqgf dtaqvrklmq ffsmgvssvf tlllcgtttf
+      361 pmaiafvsat mglttfshsg vsvnvqdlap scagslfgvm ntcgaftgvi mvyfagylie
+      421 ttnswasvfa lisvvnllgl gmflmfaear rvdietsksk yhsihi
+//
+

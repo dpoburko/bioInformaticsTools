@@ -1,0 +1,80 @@
+
+LOCUS       XP_005074648             447 aa            linear   ROD 22-MAY-2017
+DEFINITION  solute carrier family 17 member 9 [Mesocricetus auratus].
+ACCESSION   XP_005074648
+VERSION     XP_005074648.2
+DBLINK      BioProject: PRJNA210213
+DBSOURCE    REFSEQ: accession XM_005074591.3
+KEYWORDS    RefSeq; corrected model.
+SOURCE      Mesocricetus auratus (golden hamster)
+  ORGANISM  Mesocricetus auratus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+            Muroidea; Cricetidae; Cricetinae; Mesocricetus.
+REFERENCE   1  (residues 1 to 447)
+  AUTHORS   Ying,B., Toth,K., Spencer,J.F., Aurora,R. and Wold,W.S.
+  TITLE     Transcriptome sequencing and development of an expression
+            microarray platform for liver infection in adenovirus type
+            5-infected Syrian golden hamsters
+  JOURNAL   Virology 485, 305-312 (2015)
+   PUBMED   26319212
+  REMARK    Publication Status: Available-Online prior to print
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_004801651.1) and transcript sequence (GDQJ01009053.1) annotated
+            using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            On May 22, 2017 this sequence version replaced XP_005074648.1.
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Mesocricetus auratus Annotation
+                                           Release 102
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 7.4
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            assembly gap :: added 198 transcript bases to patch genome assembly
+                            gap
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..447
+                     /organism="Mesocricetus auratus"
+                     /db_xref="taxon:10036"
+                     /chromosome="Unknown"
+                     /sex="female"
+     Protein         1..447
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=48652
+     Region          43..432
+                     /region_name="UhpC"
+                     /note="Sugar phosphate permease [Carbohydrate transport
+                     and metabolism]; cl27298"
+                     /db_xref="CDD:332119"
+     CDS             1..447
+                     /gene="Slc17a9"
+                     /coded_by="XM_005074591.3:76..1419"
+                     /note="The sequence of the model RefSeq protein was
+                     modified relative to its source genomic sequence to
+                     represent the inferred CDS: added 198 bases not found in
+                     genome assembly"
+                     /db_xref="GeneID:101839299"
+ORIGIN      
+        1 mpsqrpslmq ptteetrktp faaaedtqws rpecqawtgm lllgtcllyc trvtmpvctl
+       61 amsqdfgwnk keagivlssf fwgycltqvv gghlgdrigg ekiillsast wgfitvvtpl
+      121 iahlgsghla fmtfsrilmg llqgvyfpal tsllsqrvqe seraftystv gagsqfgtlv
+      181 tggigsvlld wcgwqsvfyf sggltllwvy yvyrcllnek dlflalgvla qglpmarpsk
+      241 vpwrqlfrkp svwavvfsql ssacsffill swlptffket fphskgwifn vvpwllaipa
+      301 slfsgflsdr lisqgyrvit vrkfmqvmgl glssifalcl ghttsflkam ifasasigfq
+      361 tfnhsgisvn iqdlapscag flfgvantag alagvigvcl ggylieatgs wtcifnlvav
+      421 isnlglgifl vfgkaqrvdl apahedl
+//
+

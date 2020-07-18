@@ -1,0 +1,64 @@
+
+LOCUS       XP_034464985             517 aa            linear   VRT 20-MAY-2020
+DEFINITION  synaptic vesicular amine transporter [Hippoglossus hippoglossus].
+ACCESSION   XP_034464985
+VERSION     XP_034464985.1
+DBLINK      BioProject: PRJNA627709
+DBSOURCE    REFSEQ: accession XM_034609094.1
+KEYWORDS    RefSeq.
+SOURCE      Hippoglossus hippoglossus (Atlantic halibut)
+  ORGANISM  Hippoglossus hippoglossus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Carangaria; Pleuronectiformes; Pleuronectoidei;
+            Pleuronectidae; Hippoglossus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_047165.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Hippoglossus hippoglossus Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.4
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..517
+                     /organism="Hippoglossus hippoglossus"
+                     /isolate="fHipHip1"
+                     /db_xref="taxon:8267"
+                     /chromosome="15"
+                     /sex="male"
+                     /tissue_type="muscle"
+                     /dev_stage="adult"
+                     /country="Canada: Atlantic Ocean"
+                     /lat_lon="44.63694 N 63.59167 W"
+                     /collected_by="Tony Einfeldt"
+     Protein         1..517
+                     /product="synaptic vesicular amine transporter"
+                     /calculated_mol_wt=55773
+     CDS             1..517
+                     /gene="slc18a2"
+                     /coded_by="XM_034609094.1:96..1649"
+                     /db_xref="GeneID:117775720"
+ORIGIN      
+        1 mggldalrqf nlltwlreer qsrklilfiv fvallldnml ltvvvpiips ylynldemtd
+       61 vvsknnttlq qdpqgafhsi vslydntvrl pgsnttarsa glipttpaap alpqnssdcp
+      121 qansrllnen vkvgmlfask atvqlitnpf igpltnrigy qlpifigfci mflstimfaf
+      181 sssyallfla rslqgvgssc ssvagmgmla svytndeerg haigvalggl algvlvgppf
+      241 gsvmyefvgk tapflilafl alfdgalqlf vlqptkvepe sqkgtplltl mkdpyiviaa
+      301 gaicfgnmai ammeptlpiw mmetmcarkw qlgvaflpas isyligtnif gtlahkmgrw
+      361 lcaligmvvv gisvicvpfa ndiyglilpn fgvgfaigmv dssmmpimgy lvdlrhvsvy
+      421 gsvyaiadva fcmgfalgps iggsiaesig fpwlmtiigv vdiffapfci flrnppgqee
+      481 kiailsdtnc smktmsystq gthvqgenmd peyddyd
+//
+

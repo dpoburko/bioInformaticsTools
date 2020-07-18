@@ -1,0 +1,68 @@
+
+LOCUS       XP_028266565             466 aa            linear   VRT 14-MAR-2019
+DEFINITION  solute carrier family 17 member 9 [Parambassis ranga].
+ACCESSION   XP_028266565
+VERSION     XP_028266565.1
+DBLINK      BioProject: PRJNA526690
+DBSOURCE    REFSEQ: accession XM_028410764.1
+KEYWORDS    RefSeq.
+SOURCE      Parambassis ranga (Indian glassy fish)
+  ORGANISM  Parambassis ranga
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Ambassidae; Parambassis.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_041028.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Parambassis ranga Annotation Release
+                                           100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..466
+                     /organism="Parambassis ranga"
+                     /db_xref="taxon:210632"
+                     /chromosome="7"
+     Protein         1..466
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=50653
+     Region          52..447
+                     /region_name="MFS_SLC17A9_like"
+                     /note="Solute carrier family 17 member 9 and similar
+                     proteins of the Major Facilitator Superfamily of
+                     transporters; cd17380"
+                     /db_xref="CDD:340938"
+     Site            order(62..63,66..67,70,102,157..158,160..162,165,185,
+                     188..189,192,273,276..277,280..282,285,311,315,372..373,
+                     377,381,397,400..401,404..405,408)
+                     /site_type="other"
+                     /note="putative chemical substrate binding pocket
+                     [chemical binding]"
+                     /db_xref="CDD:340938"
+     CDS             1..466
+                     /gene="slc17a9"
+                     /coded_by="XM_028410764.1:551..1951"
+                     /db_xref="GeneID:114439046"
+ORIGIN      
+        1 maviqkygkn yspdlvchke nhppdkigvp gshkkwaehn tnwprpvarv wtvvlllgtc
+       61 llycarvamp icavsmaeqf gwtkresgmv lgsffwgycl tqvfggyvsd rvggekvlll
+      121 saaawgsmta ftpilahfcs qpilsmtlar flmgllqgvh ypslaslcsq kvvesergfl
+      181 mstvgsgsyl gtlviggags lmldlygwqs vfyvsgllsv lwaycmwkyl lkgegpiitl
+      241 eslgsggaqp klskrhwlrl fkqpavcavi vthlctastf ftllswlptf fkdtfpdakg
+      301 wvfnvipwlv aipsslfsgc lsdhlisqgf dtasvrklmq ffsmgvssvf tlllcgnttf
+      361 swavafvsat mglttfshsg vsvnvqdlap scagalfgvm ntcgafsgvl mvyfsgylie
+      421 atgswasvfa littinllgl ctflafaear rvdidsskvr hhnihi
+//
+

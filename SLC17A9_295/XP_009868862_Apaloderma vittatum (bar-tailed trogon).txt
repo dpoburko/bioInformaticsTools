@@ -1,0 +1,78 @@
+
+LOCUS       XP_009868862             416 aa            linear   VRT 24-OCT-2014
+DEFINITION  PREDICTED: solute carrier family 17 member 9, partial [Apaloderma
+            vittatum].
+ACCESSION   XP_009868862
+VERSION     XP_009868862.1
+DBLINK      BioProject: PRJNA263608
+DBSOURCE    REFSEQ: accession XM_009870560.1
+KEYWORDS    RefSeq.
+SOURCE      Apaloderma vittatum (bar-tailed trogon)
+  ORGANISM  Apaloderma vittatum
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Trogoniformes; Trogonidae;
+            Apaloderma.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_009719246.1) annotated using gene prediction method: Gnomon,
+            supported by EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Apaloderma vittatum Annotation
+                                           Release 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 6.1
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: incomplete on the amino end.
+FEATURES             Location/Qualifiers
+     source          1..416
+                     /organism="Apaloderma vittatum"
+                     /isolate="BGI_N311"
+                     /db_xref="taxon:57397"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /country="Tanzania"
+     Protein         <1..416
+                     /product="solute carrier family 17 member 9"
+     Region          7..401
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Region          12..401
+                     /region_name="2A0114"
+                     /note="D-galactonate transporter; TIGR00893"
+                     /db_xref="CDD:273326"
+     Site            order(21,24..26,28..29,46,49..50,53,57..58,60..61,
+                     112..113,116..117,120..121,124,136..137,140..141,147,232,
+                     235..236,239..240,243,257,259,263,266,270,326,329..330,
+                     333,337..338,341,351..352,355..356,359..360,363)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..416
+                     /gene="SLC17A9"
+                     /coded_by="XM_009870560.1:<1..1252"
+                     /codon_start=2
+                     /db_xref="GeneID:104274823"
+ORIGIN      
+        1 pesrvwtvml llgtcllyca rvtvpicava lsthfdwdkk qsgivlssff wgycltqiig
+       61 ghisdqigge kvlllsasaw gfltvvtpll thitsahlvf mtcsrflmgl lqgvyfpsla
+      121 sllsqkvres eraftystvg tgsqfgtlvi ggagsllldw ygwesvfyfs glltllwvyc
+      181 tckyllseke liipidylmr glsiskqtkv pwkqlfkkap iwaviiaqls tastfftlls
+      241 wlptffketf phskgwvfnv vpwlvaipts lfsgflsdhl inqgyktiti rklmqvigsg
+      301 vssifalclg qtssfckaiv fasasvglqt fnhsgisvnv qdlapscagl lfgvgntgga
+      361 llgvvcvyla gyliettgsw isvfnlvaav nsiglcafli fgeaqrldtd seymdl
+//
+

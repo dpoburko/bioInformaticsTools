@@ -1,0 +1,72 @@
+
+LOCUS       XP_020463808             466 aa            linear   VRT 27-MAR-2017
+DEFINITION  solute carrier family 17 member 9 [Monopterus albus].
+ACCESSION   XP_020463808
+VERSION     XP_020463808.1
+DBLINK      BioProject: PRJNA380265
+DBSOURCE    REFSEQ: accession XM_020608152.1
+KEYWORDS    RefSeq.
+SOURCE      Monopterus albus (swamp eel)
+  ORGANISM  Monopterus albus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Anabantaria; Synbranchiformes; Synbranchidae;
+            Monopterus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_018127971.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Monopterus albus Annotation Release
+                                           100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 7.3
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..466
+                     /organism="Monopterus albus"
+                     /db_xref="taxon:43700"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /country="China"
+     Protein         1..466
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=50799
+     Region          52..447
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Site            order(66,69..71,73..74,91,94..95,98,102..103,105..106,
+                     157..158,161..162,165..166,169,181..182,185..186,192,277,
+                     280..281,284..285,288,300,304,308,311,315,371,374..375,
+                     378,382..383,386,396..397,400..401,404..405,408)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..466
+                     /gene="slc17a9"
+                     /coded_by="XM_020608152.1:877..2277"
+                     /db_xref="GeneID:109964674"
+ORIGIN      
+        1 mavvqkygks ynpelvchke nppsdkpglp gchknwpehn ttwsrpvari wtvvlllgac
+       61 llycsrvamp icavsmaeqf swskretgmv lgsffwgycf tqvpggyvsd riggekvlll
+      121 savawgsmta ftpilahfcs qpvlsmtlar flvgllqgvh ypslaslcsq kvvesergfl
+      181 mstvgsgsyl gtlviggags lmldlygwes vfyvsgllsv lwaycmwkyl lkgegpiitl
+      241 eslgstgpqs kltkrhwlrl fkqpavcavi vthlcaastf ftllswlptf fkdtftdakg
+      301 wvfnvipwfv aipssllsgc lsdhlisqgf dtasvrklmq ffsmgvssvf tlllcgnptf
+      361 pwavafvsat mglitfshsg vsvnvqdlap scagalfgvm ntcgafsgvl mvyfsgylie
+      421 vtgswasvfa littvnllgl ftflcfaear rvdidsskvr hynihi
+//
+

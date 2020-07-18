@@ -1,0 +1,59 @@
+
+LOCUS       XP_034297206             470 aa            linear   VRT 15-MAY-2020
+DEFINITION  solute carrier family 17 member 9 [Pantherophis guttatus].
+ACCESSION   XP_034297206
+VERSION     XP_034297206.1
+DBLINK      BioProject: PRJNA632598
+DBSOURCE    REFSEQ: accession XM_034441315.1
+KEYWORDS    RefSeq.
+SOURCE      Pantherophis guttatus
+  ORGANISM  Pantherophis guttatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+            Toxicofera; Serpentes; Colubroidea; Colubridae; Colubrinae;
+            Pantherophis.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_023010882.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Pantherophis guttatus Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.4
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..470
+                     /organism="Pantherophis guttatus"
+                     /isolate="EG266"
+                     /db_xref="taxon:94885"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /tissue_type="blood"
+     Protein         1..470
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=50692
+     CDS             1..470
+                     /gene="SLC17A9"
+                     /coded_by="XM_034441315.1:849..2261"
+                     /db_xref="GeneID:117679412"
+ORIGIN      
+        1 malsignngv qdlganllas qhhkerhqlp aarcpqqeal kkdgemgnvf wsrpesrlwt
+       61 tmlllgtcll ycarvlmpic vvtmssrfdw dkkqsgivls sffwgycltq vvgghlsdri
+      121 ggekvlllsa sawgsitait pllissssaq ltlmtftrfl mgllqgvyfp alasllsqkv
+      181 qeseraltys tvgtgsqfgt lvmgaagsll ldwygwesvf ylsglltllw vycmckfilp
+      241 ekgkqivplv nlslslslcl slrgpfkvle kmlpvwaviv aqlcaastff tllswlptff
+      301 setfpdskgw ifnvipwlva iptslfggfl sdqcisqgck pitarkfmqv igsgvsslfa
+      361 lgigystsfc qavafasasi glqtfnhsgi svniqdlaps cagllfgvan tggallgvvc
+      421 vylaghlien tgswvsvfnl vavvnalgls tflifgkahr mdldpaytdl
+//
+

@@ -1,0 +1,79 @@
+
+LOCUS       XP_015265818             470 aa            linear   VRT 20-JAN-2016
+DEFINITION  PREDICTED: solute carrier family 17 member 9 [Gekko japonicus].
+ACCESSION   XP_015265818
+VERSION     XP_015265818.1
+DBLINK      BioProject: PRJNA308133
+DBSOURCE    REFSEQ: accession XM_015410332.1
+KEYWORDS    RefSeq.
+SOURCE      Gekko japonicus
+  ORGANISM  Gekko japonicus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Lepidosauria; Squamata; Bifurcata; Gekkota; Gekkonidae; Gekkoninae;
+            Gekko.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_015165288.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Gekko japonicus Annotation Release
+                                           100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 6.5
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..470
+                     /organism="Gekko japonicus"
+                     /isolate="JY-2015"
+                     /isolation_source="soil"
+                     /db_xref="taxon:146911"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /country="China: Nantong, Jiangsu province"
+                     /lat_lon="32.0081632006784 N 120.91830571875062 E"
+                     /collection_date="2009-10-25"
+     Protein         1..470
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=50850
+     Region          61..455
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Region          66..455
+                     /region_name="2A0114"
+                     /note="D-galactonate transporter; TIGR00893"
+                     /db_xref="CDD:273326"
+     Site            order(75,78..80,82..83,100,103..104,107,111..112,114..115,
+                     166..167,170..171,174..175,178,190..191,194..195,201,286,
+                     289..290,293..294,297,311,313,317,320,324,380,383..384,
+                     387,391..392,395,405..406,409..410,413..414,417)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..470
+                     /gene="SLC17A9"
+                     /coded_by="XM_015410332.1:94..1506"
+                     /db_xref="GeneID:107109660"
+ORIGIN      
+        1 malgpgktga qvygsellsh lqqplqpiar cahhphhpdk gmkkdgsgda fwsrpesrlw
+       61 tvmlllgtcl lyctrvampi cavamsarfd wdkkqsglvl ssffwgyclt qvigghlsdr
+      121 iggekvllls asawgsital tplliylgsa hlmlmtisrf ligilqgvff palaslfsqk
+      181 vreserafty stvgtgsqvg tlvmggagsv llewygwesv fyfsglltll wvyfmckyll
+      241 nekeiiipfe dlakglsisk qskvpwkqlf kkapvwaviv aqlsaastcf tllswlptff
+      301 ketfpdskgw vfnvvpwlva ipagllsgfl sdqfisqgyk tittrkimqv vgsgvssifa
+      361 lcightssfc ravvfasaci glqgfnhsgi avnvqdlaps cagllfgvan tggallgvvc
+      421 vylaghlies tgswtsvfhl vamvnvlglc tflifgkaqr vdtdsayidl
+//
+

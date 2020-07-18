@@ -1,0 +1,60 @@
+
+LOCUS       XP_032432353             466 aa            linear   VRT 24-FEB-2020
+DEFINITION  solute carrier family 17 member 9 [Xiphophorus hellerii].
+ACCESSION   XP_032432353
+VERSION     XP_032432353.1
+DBLINK      BioProject: PRJNA604828
+DBSOURCE    REFSEQ: accession XM_032576462.1
+KEYWORDS    RefSeq.
+SOURCE      Xiphophorus hellerii (green swordtail)
+  ORGANISM  Xiphophorus hellerii
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Atherinomorphae; Cyprinodontiformes;
+            Poeciliidae; Poeciliinae; Xiphophorus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_045672.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Xiphophorus hellerii Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.3
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..466
+                     /organism="Xiphophorus hellerii"
+                     /strain="12219"
+                     /db_xref="taxon:8084"
+                     /chromosome="1"
+                     /sex="male"
+                     /tissue_type="muscle"
+                     /dev_stage="adult"
+     Protein         1..466
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=50666
+     CDS             1..466
+                     /gene="slc17a9"
+                     /coded_by="XM_032576462.1:386..1786"
+                     /db_xref="GeneID:116728387"
+ORIGIN      
+        1 maviqkhgks sspdlvchke nvppdkigap gchkkrpeah snwprpvari wtvvlllgtc
+       61 llycarvamp icavsmaekf nwtkresgmv lgsffwgycf tqvfggyvsd rvggekvlll
+      121 saaawgsmta ftpilahlcs qpifsmtlar flmgllqgvh ypslaslcsq kvvesergfl
+      181 mstvgsgsyl gtlviggvgs lmldlygwes vfyvsgllsv lwaycmwkyl lkgegpiitl
+      241 eslgnggtqp klnkrhwarl lkqpavcavi vthlctastf ftllswlptf fkdtfpdakg
+      301 wvfnvipwlv aipsslfsgc lsdhlicqgf dtasvrklmq ffsmgvssvf tvllcgnttf
+      361 swavafvsat mglttfshsg vslnvqdlap scagalfgim ntcgafsgvl mvyfsgylie
+      421 atgswasmfa littvnlmgl ftflafaear rvdidssrvr hhsihi
+//
+

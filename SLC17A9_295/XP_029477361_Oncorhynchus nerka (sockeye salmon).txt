@@ -1,0 +1,61 @@
+
+LOCUS       XP_029477361             466 aa            linear   VRT 01-JUL-2019
+DEFINITION  solute carrier family 17 member 9 [Oncorhynchus nerka].
+ACCESSION   XP_029477361
+VERSION     XP_029477361.1
+DBLINK      BioProject: PRJNA548514
+DBSOURCE    REFSEQ: accession XM_029621501.1
+KEYWORDS    RefSeq.
+SOURCE      Oncorhynchus nerka (sockeye salmon)
+  ORGANISM  Oncorhynchus nerka
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_042554.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Oncorhynchus nerka Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..466
+                     /organism="Oncorhynchus nerka"
+                     /isolate="On170113-E2"
+                     /db_xref="taxon:8023"
+                     /sex="female"
+                     /tissue_type="Caudal fin"
+                     /dev_stage="fry"
+                     /country="Canada: Pitt Lake, BC"
+                     /linkage_group="LG20"
+                     /genotype="Doubled Haploid"
+     Protein         1..466
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=50658
+     CDS             1..466
+                     /gene="slc17a9"
+                     /coded_by="XM_029621501.1:608..2008"
+                     /db_xref="GeneID:115102018"
+ORIGIN      
+        1 mailqkhgkn sspdlvclke kttdktgvag ghqkkwsepn tywprplarv wtvvlllgtc
+       61 llycarvamp icavsmaekf nwtkrdqgmv lgsffwgycf tqvlggyvsd rvggekvlll
+      121 saaawgamta ftpvlahfcs qpifsmtlar flmgllqgvh ypslaslcsq kvvesergfl
+      181 mstvgsgsyl gtlviggags lmldlygwes vfyvsgmlsv lwaycmwkyl lkgegpiitl
+      241 eslgsggpqs klsrrhwlrl fkqpavcavi ithlctastf ftllswlpty fkdtfpdakg
+      301 wvfnvipwfv sipsslfsgc lsdhliskgy dtaavrklmq ffsmgvssvf tlllcgtttf
+      361 plavafvsvt mglttfshsg vsvnvqdlap scagalfgvm ntcgafsgvl mvyfsgylie
+      421 atgswasvfa litvvnlvgl vtflafaear rvdidsskgr yhnihi
+//
+

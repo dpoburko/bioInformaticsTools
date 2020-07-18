@@ -1,0 +1,60 @@
+
+LOCUS       XP_018365689             425 aa            linear   INV 23-SEP-2016
+DEFINITION  PREDICTED: solute carrier family 17 member 9 [Trachymyrmex
+            cornetzi].
+ACCESSION   XP_018365689
+VERSION     XP_018365689.1
+DBLINK      BioProject: PRJNA343972
+DBSOURCE    REFSEQ: accession XM_018510187.1
+KEYWORDS    RefSeq.
+SOURCE      Trachymyrmex cornetzi
+  ORGANISM  Trachymyrmex cornetzi
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta;
+            Pterygota; Neoptera; Holometabola; Hymenoptera; Apocrita; Aculeata;
+            Vespoidea; Formicidae; Myrmicinae; Trachymyrmex.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_017297951.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Trachymyrmex cornetzi Annotation
+                                           Release 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 7.1
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..425
+                     /organism="Trachymyrmex cornetzi"
+                     /isolate="Tcor2-1"
+                     /isolation_source="Nest"
+                     /db_xref="taxon:471704"
+                     /chromosome="Unknown"
+                     /tissue_type="Whole body"
+                     /country="Panama: Gamboa"
+                     /collection_date="2011"
+     Protein         1..425
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=46829
+     CDS             1..425
+                     /gene="LOC108762924"
+                     /coded_by="XM_018510187.1:413..1690"
+                     /db_xref="GeneID:108762924"
+ORIGIN      
+        1 mqlqisldtp fddrttssws rrerqkwfls llcgtcliya trtsvpllip vvsqeknwsk
+       61 sdsgiilssf fwgytltqva sgyisdkigg qrvlwisalg wsattffmpe iieffsgdgt
+      121 svllvaavrm ingafqgmhf psmislisqr lheaerasff slltsgsalg tlltgslgsy
+      181 llenynwmtv fralggmsla wtallsyhtl pfkektasik sttdytlpws kllsqppfws
+      241 cvighacqnn cffvllswmp tyfhdtfpei rgwivnmvpw lsmlpctflg kalseeiika
+      301 gysvtvtrkt iqticfviei gsllflakve sfenailcla liiggsgfhn naiavnpsdl
+      361 apkhsgsvfg lmntvgaipg flgvyfsghi lhvthswpav flfiavinvl gcimyllfgs
+      421 gqaii
+//
+

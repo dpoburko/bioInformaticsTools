@@ -1,0 +1,60 @@
+
+LOCUS       XP_033150898             438 aa            linear   INV 08-APR-2020
+DEFINITION  solute carrier family 17 member 9 [Drosophila busckii].
+ACCESSION   XP_033150898
+VERSION     XP_033150898.1
+DBLINK      BioProject: PRJNA622241
+DBSOURCE    REFSEQ: accession XM_033295007.1
+KEYWORDS    RefSeq.
+SOURCE      Drosophila busckii
+  ORGANISM  Drosophila busckii
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta;
+            Pterygota; Neoptera; Holometabola; Diptera; Brachycera;
+            Muscomorpha; Ephydroidea; Drosophilidae; Drosophila.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_046604.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Drosophila busckii Annotation
+                                           Release 101
+            Annotation Version          :: 101
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.4
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..438
+                     /organism="Drosophila busckii"
+                     /strain="San Diego stock center, stock number
+                     13000-0081.31"
+                     /db_xref="taxon:30019"
+                     /chromosome="2L"
+                     /sex="pooled male and female"
+                     /tissue_type="embryos and whole fly"
+                     /dev_stage="late stage 16 embryos and adult females"
+     Protein         1..438
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=48441
+     CDS             1..438
+                     /gene="LOC108607902"
+                     /coded_by="XM_033295007.1:182..1498"
+                     /db_xref="GeneID:108607902"
+ORIGIN      
+        1 medkvkysll rgelvdtqsi wtrhekrvwf itlltgtcml ystrttmpll mpavasaqkw
+       61 sktdsgtvls sffwgytltq vlggyfsdrf ggqrvilfaa lgwsiitflm psiiwwaapm
+      121 ksyaiplivt irilngalqg vhfpsmislt sqnlcqners sffglltags algtlltgil
+      181 gsfvldyfgw syvfrviglm glawglvlry hamagernri inistpsrlc ankspaettv
+      241 pwlryfsrls fwacvlthac emncffvlls wlptyfhdgf phakgwvvnm ipwlalppct
+      301 flakqlttcl iargwstttv rkliqsccfa aqnlalfims rttdfhtali cmtviisgtg
+      361 fhnnavtvnp qdlaplhsgs vfglmntvga ipgflgvyla ghileltqsw plvfstaagi
+      421 nllgwiiflv fgsaeaiv
+//
+

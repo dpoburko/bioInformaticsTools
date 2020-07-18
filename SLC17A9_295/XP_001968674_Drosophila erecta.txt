@@ -1,0 +1,79 @@
+
+LOCUS       XP_001968674             439 aa            linear   INV 06-NOV-2018
+DEFINITION  solute carrier family 17 member 9 [Drosophila erecta].
+ACCESSION   XP_001968674
+VERSION     XP_001968674.1
+DBLINK      BioProject: PRJNA501994
+DBSOURCE    REFSEQ: accession XM_001968638.3
+KEYWORDS    RefSeq.
+SOURCE      Drosophila erecta
+  ORGANISM  Drosophila erecta
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta;
+            Pterygota; Neoptera; Holometabola; Diptera; Brachycera;
+            Muscomorpha; Ephydroidea; Drosophilidae; Drosophila; Sophophora.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_020825200.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA and EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Drosophila erecta Annotation Release
+                                           101
+            Annotation Version          :: 101
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.1
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..439
+                     /organism="Drosophila erecta"
+                     /strain="14021-0224.00,06,07"
+                     /db_xref="taxon:7220"
+                     /chromosome="Unknown"
+                     /sex="pooled male and female"
+                     /tissue_type="whole body"
+                     /dev_stage="adult"
+     Protein         1..439
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=48483
+     Region          30..432
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Region          32..397
+                     /region_name="MFS_1"
+                     /note="Major Facilitator Superfamily; pfam07690"
+                     /db_xref="CDD:284993"
+     Site            order(44,47..49,51..52,69,72..73,76,80..81,83..84,
+                     139..140,143..144,147..148,151,163..164,167..168,174,263,
+                     266..267,270..271,274,286,290,294,297,301,357,360..361,
+                     364,368..369,372,382..383,386..387,390..391,394)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..439
+                     /gene="LOC6541666"
+                     /coded_by="XM_001968638.3:402..1721"
+                     /db_xref="GeneID:6541666"
+ORIGIN      
+        1 mdeklkysll rgelvdtqsi wtrqekrvwf itlitgtcml ystrttmpll vpavasaqkw
+       61 sktdsgtvls sffwgytltq vvggyfsdrf ggqrvilfaa igwslitflm ptiiwtagsi
+      121 ksyaipviva irilngalqg vhfpsmislt sqnlcpners sffglltags algtlltgim
+      181 gsflldyfgw syvfrvigmm giawalvlry yamagernri iniatpsrlc ankspaetsa
+      241 vpwlryfsrl sfwacvltha cemncffvll swlptyfhdg fphakgwvvn mipwlalppc
+      301 tlfakylttr llarewhttt vrkliqsccf aaqnlalfvm srtsdfhtal icmtiiiggt
+      361 gfhnnavtvn pqdlaplhsg svfglmntvg aipgflgvyl aghileltqs wpmvfsaaag
+      421 inlvgwiifi vfgsaeaiv
+//
+

@@ -1,0 +1,61 @@
+
+LOCUS       XP_006188855             528 aa            linear   MAM 19-FEB-2020
+DEFINITION  vesicular acetylcholine transporter [Camelus ferus].
+ACCESSION   XP_006188855
+VERSION     XP_006188855.2
+DBLINK      BioProject: PRJNA605179
+DBSOURCE    REFSEQ: accession XM_006188793.3
+KEYWORDS    RefSeq.
+SOURCE      Camelus ferus (Wild Bactrian camel)
+  ORGANISM  Camelus ferus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Artiodactyla; Tylopoda;
+            Camelidae; Camelus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_045706.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            On Feb 19, 2020 this sequence version replaced XP_006188855.1.
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Camelus ferus Annotation Release 102
+            Annotation Version          :: 102
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.3
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..528
+                     /organism="Camelus ferus"
+                     /isolate="YT-003-E"
+                     /db_xref="taxon:419612"
+                     /chromosome="11"
+                     /sex="male"
+                     /tissue_type="ear skin"
+                     /country="Mongolia"
+     Protein         1..528
+                     /product="vesicular acetylcholine transporter"
+                     /calculated_mol_wt=56587
+     CDS             1..528
+                     /gene="SLC18A3"
+                     /coded_by="XM_006188793.3:460..2046"
+                     /db_xref="GeneID:102516553"
+ORIGIN      
+        1 mepaaptrqa paaasklsea vgaalqdprr qrrlvlvivc valfldnmly mvivpivpyy
+       61 mraasemptp tskisvpnlp tpipanasts tvnssesstg gmptgsaeqh hypadsedvk
+      121 igvlfaskai lqllvnplsg tfidrmsydl pllmglgvlf astvmfafae gyamlfaars
+      181 lqglgsafad tssiamiadk ypeepersra lgwalafisf gslvappfgg flhefagkta
+      241 pflvlaivsl ldallllava kpfsaaarar anlpvgtpih rlmldpyiav vagalttcni
+      301 plafleptia twmkhtmaas ewetglawlp afvphvlgvy ltvrlaaryp hlqwlygafg
+      361 lavigasscl vpacrsfapl vvslcglcfg ialvdtallp tlaflvdvrh vsvygsvyai
+      421 adisycvaya lgpivaghiv hsfgfvqlsl gmglvnllya pvllllrnvg llkrsrserd
+      481 vlldeppqgl ydavrlrerp vsdwdreprs ppgpfdeced gydyytrs
+//
+

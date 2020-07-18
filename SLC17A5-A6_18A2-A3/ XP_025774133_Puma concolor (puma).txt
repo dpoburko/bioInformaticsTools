@@ -1,0 +1,74 @@
+
+LOCUS       XP_025774133             514 aa            linear   MAM 26-JUL-2018
+DEFINITION  vesicular acetylcholine transporter [Puma concolor].
+ACCESSION   XP_025774133
+VERSION     XP_025774133.1
+DBLINK      BioProject: PRJNA481988
+DBSOURCE    REFSEQ: accession XM_025918348.1
+KEYWORDS    RefSeq.
+SOURCE      Puma concolor (puma)
+  ORGANISM  Puma concolor
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Carnivora; Feliformia; Felidae;
+            Felinae; Puma.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_020339214.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Puma concolor Annotation Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.1
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..514
+                     /organism="Puma concolor"
+                     /isolate="SC36_Marlon"
+                     /db_xref="taxon:9696"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /tissue_type="blood"
+                     /dev_stage="adult"
+     Protein         1..514
+                     /product="vesicular acetylcholine transporter"
+                     /calculated_mol_wt=54811
+     Site            order(50,53..55,57..58,110,113..114,117,121..122,124..125,
+                     171..172,175..176,179..180,183,196..197,200..201,207,284,
+                     287..288,291..292,295,309,313,317,320,324,373,376..377,
+                     380,384..385,388,402..403,406..407,410..411,414)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     Region          106..418
+                     /region_name="MFS_1"
+                     /note="Major Facilitator Superfamily; pfam07690"
+                     /db_xref="CDD:311564"
+     Region          107..229
+                     /region_name="2_A_01_02"
+                     /note="Multidrug resistance protein; TIGR00880"
+                     /db_xref="CDD:273318"
+     CDS             1..514
+                     /gene="SLC18A3"
+                     /coded_by="XM_025918348.1:1..1545"
+                     /db_xref="GeneID:112854797"
+ORIGIN      
+        1 mepaapagqa raaasklsea mgavlqdprr qrrlvlvivc valfldnmly mvivpivpdy
+       61 iahmhkagrp tmspkvhtlq aptpasgsdn mgntsespte sedvkigvlf askailqllv
+      121 nplsgpfidr msydvpllig lgvlfastvl fafaedyaml faarslqglg safadtsgia
+      181 miadkypeep ersralgval afisfgslva ppfggflygf agkpvpflvl aavslldall
+      241 llvvakpfsa vtraranlpv gtpihrlmld pyiavvagal ttcniplafl eptiatwmeh
+      301 tmaasewqtg mawlpafvph vlgvyltvrl aaryphlqwl ygalglavig asscvvpacr
+      361 sfaplvislc glcfgialvd tallptlafl vdvrhvsvyg svyaiadisy svayalgpiv
+      421 aghivhslgf vqlslgmgla nllyapvlll lrnvgllrrs rserdvllde ppqglydavr
+      481 lrerpvadpd gaprspsgpf decedvynny yths
+//
+

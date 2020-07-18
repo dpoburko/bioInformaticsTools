@@ -1,0 +1,68 @@
+
+LOCUS       XP_011190503             439 aa            linear   INV 28-APR-2019
+DEFINITION  solute carrier family 17 member 9 [Zeugodacus cucurbitae].
+ACCESSION   XP_011190503
+VERSION     XP_011190503.1
+DBLINK      BioProject: PRJNA273817
+DBSOURCE    REFSEQ: accession XM_011192201.2
+KEYWORDS    RefSeq.
+SOURCE      Zeugodacus cucurbitae (melon fly)
+  ORGANISM  Zeugodacus cucurbitae
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta;
+            Pterygota; Neoptera; Holometabola; Diptera; Brachycera;
+            Muscomorpha; Tephritoidea; Tephritidae; Zeugodacus; Zeugodacus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_011863811.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Zeugodacus cucurbitae Annotation
+                                           Release 101
+            Annotation Version          :: 101
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..439
+                     /organism="Zeugodacus cucurbitae"
+                     /strain="USDA-PBARC White Pupae T1"
+                     /isolation_source="library from a single individual (USDA
+                     ID 2M2-2), library from a single individual that is a full
+                     sibling of the first individual (USDA ID 2M1-4), library
+                     from a pool of individuals from the T1 colony (T1 Pool)"
+                     /db_xref="taxon:28588"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /tissue_type="whole organism"
+                     /dev_stage="adult male"
+     Protein         1..439
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=48774
+     Region          59..436
+                     /region_name="UhpC"
+                     /note="Sugar phosphate permease [Carbohydrate transport
+                     and metabolism]; cl27298"
+                     /db_xref="CDD:332119"
+     CDS             1..439
+                     /gene="LOC105217274"
+                     /coded_by="XM_011192201.2:309..1628"
+                     /db_xref="GeneID:105217274"
+ORIGIN      
+        1 msmdeklkys llrgelvdsq nawtrqekrv wfltlitgtl mlystrtsmp llipavaaeq
+       61 kwsktdsgtv lssffwgytl tqvvggyfsd rfggqrvilf aaigwslitf fmpniiwnat
+      121 aikaysipfi vtiriingaf qgvhfpsmis ltsqnlcsne rtsffgllta gsalgtlltg
+      181 slgsfvldyf gwpyvfrvig flgiswalml ryytmagerg riinvsvpsr lcankqipdn
+      241 vpwlryfrkl sfwacvltha cemncffvll swlptyfhdg fphakvwvvn mipwlalppc
+      301 tlfaryltgr llarewstsa vrkiiqsccf asqnlalfim artsdfhtal icmtviiggt
+      361 gfhnnavtvn pqdlapshsg svfglmntvg avpgflgvyl aghileitqs wpivfstaaa
+      421 inlvgwtvfm vfgsaeaiv
+//
+

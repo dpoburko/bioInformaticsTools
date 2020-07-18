@@ -1,0 +1,71 @@
+
+LOCUS       XP_020745190             468 aa            linear   MAM 28-APR-2017
+DEFINITION  solute carrier family 17 member 9 [Odocoileus virginianus texanus].
+ACCESSION   XP_020745190
+VERSION     XP_020745190.1
+DBLINK      BioProject: PRJNA384059
+DBSOURCE    REFSEQ: accession XM_020889531.1
+KEYWORDS    RefSeq; includes ab initio.
+SOURCE      Odocoileus virginianus texanus
+  ORGANISM  Odocoileus virginianus texanus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Cetartiodactyla; Ruminantia;
+            Pecora; Cervidae; Odocoileinae; Odocoileus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_018331306.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA and EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Odocoileus virginianus texanus
+                                           Annotation Release 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 7.4
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            ab initio :: 6% of CDS bases
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..468
+                     /organism="Odocoileus virginianus texanus"
+                     /isolate="animal Pink-7"
+                     /isolation_source="Collected from the wild"
+                     /sub_species="texanus"
+                     /db_xref="taxon:9880"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /tissue_type="blood"
+                     /collection_date="01-Apr-2013"
+                     /collected_by="David Hewitt"
+     Protein         1..468
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=49750
+     Region          70..453
+                     /region_name="UhpC"
+                     /note="Sugar phosphate permease [Carbohydrate transport
+                     and metabolism]; cl27298"
+                     /db_xref="CDD:332119"
+     CDS             1..468
+                     /gene="SLC17A9"
+                     /coded_by="XM_020889531.1:1..1407"
+                     /db_xref="GeneID:110134845"
+ORIGIN      
+        1 mpseaakgpp arsrqgfkgl nglgaqgshq tgaggrsrgg ravphislsl prpecqvwtg
+       61 tlllgtclly carvsmpvca asmsqdfgwn kkeagvvlss ffwgycltqv vgghlgdrig
+      121 gekvillsas awgfitvatp llahlgsahl afmtfsrilt gllqgvyfpa ltsllsqkvr
+      181 eseraftyst vgagsqfgtl vtgavgslll dwygwpsvfy fsggltllwv gyvyrcllne
+      241 rdlilalgil aqglpvsrht kvpwrqlfrk psvwaaiisq lsaacsffil lswlptffke
+      301 tfpsskgwif nvvpwlvaip asllsgllsd hlinqgyrti tvrkfmqvmg lglssvfalc
+      361 lghtssfcns vvfasasigl qtfnhsgisv niqdlapsca gflfgvanta galagvvgvc
+      421 lggyliettg swtsvfnlva aisslglctf lvfgkaqrvd lspahedl
+//
+

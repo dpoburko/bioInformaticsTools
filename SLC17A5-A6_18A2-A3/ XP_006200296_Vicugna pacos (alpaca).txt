@@ -1,0 +1,83 @@
+
+LOCUS       XP_006200296             487 aa            linear   MAM 22-NOV-2019
+DEFINITION  synaptic vesicular amine transporter [Vicugna pacos].
+ACCESSION   XP_006200296
+VERSION     XP_006200296.1
+DBLINK      BioProject: PRJNA221631
+DBSOURCE    REFSEQ: accession XM_006200234.3
+KEYWORDS    RefSeq; includes ab initio.
+SOURCE      Vicugna pacos (alpaca)
+  ORGANISM  Vicugna pacos
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Cetartiodactyla; Tylopoda;
+            Camelidae; Vicugna.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_021964177.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Vicugna pacos Annotation Release 102
+            Annotation Version          :: 102
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            ab initio :: 1% of CDS bases
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..487
+                     /organism="Vicugna pacos"
+                     /isolate="Carlotta (AHFN-0088)"
+                     /db_xref="taxon:30538"
+                     /chromosome="11"
+                     /map="unlocalized"
+                     /sex="female"
+                     /tissue_type="blood"
+                     /dev_stage="adult"
+     Protein         1..487
+                     /product="synaptic vesicular amine transporter"
+                     /calculated_mol_wt=52283
+     Region          133..444
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Region          133..410
+                     /region_name="MFS_1"
+                     /note="Major Facilitator Superfamily; pfam07690"
+                     /db_xref="CDD:284993"
+     Site            order(138,141..142,145,149..150,152..153,199..200,
+                     203..204,207..208,211,224..225,228..229,235,278,281..282,
+                     285..286,289,303,307,311,314,318,365,368..369,375,
+                     379..380,383,394..395,398..399,402..403,406)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..487
+                     /gene="SLC18A2"
+                     /coded_by="XM_006200234.3:55..1518"
+                     /db_xref="GeneID:102534389"
+ORIGIN      
+        1 malselallr wlqesrhsrk lilfivflal lldnmlltvv vpiipsylys iehekeavei
+       61 qtakpaltas asgsfqnifs yydnstmvtg nntgdlpggl lpkattqrtv tngstapadc
+      121 psedkdllne nvqvgllfas katvqlltnp figlltnrig ypipmftgfc imfvstvmfa
+      181 fsssygfllv arslqgvgss cssvagmgml asvytddeer gnamgialgg lalgvlavql
+      241 fvlqpsrvqp esqkgtpltt llkdpyilva agsicfanmg iamlepalpi wmmetmcshk
+      301 wqlgvaflpa svsyligtnv fgilahkmgr wlcallgmii vgisilcipf akniygliap
+      361 nfgvgfaigm vdssmmpimg ylvdlrhvsv ygsvyaiadv afcmgyaigp saggaiakai
+      421 gfpwlmtiig vidilfaplc vflrsppake ekmailmdhh cpiktkmytq nniqaypige
+      481 deesesd
+//
+

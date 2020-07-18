@@ -1,0 +1,66 @@
+
+LOCUS       XP_020660269             471 aa            linear   VRT 10-APR-2017
+DEFINITION  solute carrier family 17 member 9 [Pogona vitticeps].
+ACCESSION   XP_020660269
+VERSION     XP_020660269.1
+DBLINK      BioProject: PRJNA382134
+DBSOURCE    REFSEQ: accession XM_020804610.1
+KEYWORDS    RefSeq.
+SOURCE      Pogona vitticeps (central bearded dragon)
+  ORGANISM  Pogona vitticeps
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+            Toxicofera; Iguania; Acrodonta; Agamidae; Amphibolurinae; Pogona.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_018151071.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Pogona vitticeps Annotation Release
+                                           100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 7.3
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..471
+                     /organism="Pogona vitticeps"
+                     /isolation_source="Queensland, 58 km west of Eulo on
+                     Adventure Way"
+                     /specimen_voucher="1003387339"
+                     /db_xref="taxon:103695"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /country="Australia"
+                     /lat_lon="28.098 S 144.465 E"
+                     /identified_by="D OMeally"
+     Protein         1..471
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=51189
+     Region          90..463
+                     /region_name="UhpC"
+                     /note="Sugar phosphate permease [Carbohydrate transport
+                     and metabolism]; cl27298"
+                     /db_xref="CDD:332119"
+     CDS             1..471
+                     /gene="SLC17A9"
+                     /coded_by="XM_020804610.1:475..1890"
+                     /db_xref="GeneID:110084896"
+ORIGIN      
+        1 malgistnga qlygadllsf hhhkhpqflp pargiqnlqe gsmkkdgtad sfwsraesri
+       61 wtlmlllgtc llyctrvtmp icvvamsarf dwdkkqsgiv lssffwgycl tqivgghlsd
+      121 riggekvlll sasawgsisa ltplliyvgs ahlalmtfsr flmgllqgvy fpalaslfsr
+      181 kvreneraft ystvgtgsqf gtlvmgaags llldwygwqs vfyfsgvltl lwvycmckyl
+      241 lneqeiiipl edlakglsls kqtkvpwkqi fkrppvwavi vaqlcaastf ftllswlptf
+      301 ftetfpdskg wifnvvpwlv aiptslfsgf lsdqcisqgy kpitvrkvmq vvgsgvsslf
+      361 algigytssf cravvfasac igfqtfnhsg isvnvqdlap scagllfgva ntggallgvv
+      421 cvylaghlie stgswasvfn lvavvnafgl caflifgkah rvdldtacvd l
+//
+

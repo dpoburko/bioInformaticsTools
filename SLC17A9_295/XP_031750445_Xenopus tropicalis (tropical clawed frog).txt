@@ -1,0 +1,67 @@
+
+LOCUS       XP_031750445             498 aa            linear   VRT 18-DEC-2019
+DEFINITION  solute carrier family 17 member 9 [Xenopus tropicalis].
+ACCESSION   XP_031750445
+VERSION     XP_031750445.1
+DBLINK      BioProject: PRJNA205740
+DBSOURCE    REFSEQ: accession XM_031894585.1
+KEYWORDS    RefSeq; includes ab initio.
+SOURCE      Xenopus tropicalis (tropical clawed frog)
+  ORGANISM  Xenopus tropicalis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Anura; Pipoidea; Pipidae; Xenopodinae;
+            Xenopus; Silurana.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_030686.2) annotated using gene prediction method: Gnomon,
+            supported by EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Xenopus tropicalis Annotation
+                                           Release 104
+            Annotation Version          :: 104
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.3
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            ab initio :: 1% of CDS bases
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..498
+                     /organism="Xenopus tropicalis"
+                     /strain="Nigerian"
+                     /db_xref="taxon:8364"
+                     /chromosome="10"
+                     /sex="female"
+                     /tissue_type="liver and blood"
+                     /dev_stage="adult"
+                     /note="F17 inbred"
+     Protein         1..498
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=53988
+     CDS             1..498
+                     /gene="slc17a9"
+                     /coded_by="XM_031894585.1:1..1497"
+                     /db_xref="GeneID:100496923"
+                     /db_xref="Xenbase:XB-GENE-5753894"
+ORIGIN      
+        1 mpearavsdt ckkkscsdsa psqshsglss gqisaprlpa tapmasslgg kiagyqgqlp
+       61 gsevqppqll erirrssrdp fwsrlesrvw tvtllagtcl lycarasmpi cavsmseefg
+      121 wnkrqsgmvl ssffwgyclt qvlgghlsdk vggekvifls altwglitav tplvahvtsv
+      181 plilvsllrf lmgllqgvhf palaslfsqr vreaeraftc stvgsgsqlg tlvmggagsl
+      241 llewygwksv fyfagfltll wgyglstyll kekerivtve dlgkcfavsa qtngqwkklf
+      301 rkspvwavil aqlcvastaf tifswmptff kekfpeskgw vfnvvpwlfa ipagilsgll
+      361 sdslitrgyq tvwvrklmqi vgmgfssafm fclahtssyh yavafasval alqtfnhsgi
+      421 tvnvqdiaps cagflfgaan tggallgvvl vylsgyliet tgswssmfhl vivvnlmgli
+      481 vflefakser vdaetihv
+//
+

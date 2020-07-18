@@ -1,0 +1,60 @@
+
+LOCUS       XP_004518562             439 aa            linear   INV 18-DEC-2017
+DEFINITION  solute carrier family 17 member 9 [Ceratitis capitata].
+ACCESSION   XP_004518562
+VERSION     XP_004518562.1
+DBLINK      BioProject: PRJNA201381
+DBSOURCE    REFSEQ: accession XM_004518505.3
+KEYWORDS    RefSeq.
+SOURCE      Ceratitis capitata (Mediterranean fruit fly)
+  ORGANISM  Ceratitis capitata
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta;
+            Pterygota; Neoptera; Holometabola; Diptera; Brachycera;
+            Muscomorpha; Tephritoidea; Tephritidae; Ceratitis; Ceratitis.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_019376418.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Ceratitis capitata Annotation
+                                           Release 103
+            Annotation Version          :: 103
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.0
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..439
+                     /organism="Ceratitis capitata"
+                     /db_xref="taxon:7213"
+                     /chromosome="Unknown"
+     Protein         1..439
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=48740
+     Region          59..436
+                     /region_name="UhpC"
+                     /note="Sugar phosphate permease [Carbohydrate transport
+                     and metabolism]; cl27298"
+                     /db_xref="CDD:332119"
+     CDS             1..439
+                     /gene="LOC101463273"
+                     /coded_by="XM_004518505.3:300..1619"
+                     /db_xref="GeneID:101463273"
+ORIGIN      
+        1 msmdeklkys llrgelvdsq svwtrhekrv wfltlitgtl mlystrtsmp llipavaaeq
+       61 kwsktdsgtv lssffwgytl tqvvggyfsd rfggqrvilf aaigwslitf fmpniiwssn
+      121 aikvysipfi vtiriingaf qgvhfpsmis ltsqnlcsne rtsffgllta gsalgtlltg
+      181 slgsfvldyf gwpyvfrvig flgiswalml ryytmagerg riinvsapsr lcankqisdn
+      241 vpwlryfrkl sfwacvltha cemncffvll swlptyfhdg fphakvwvvn mipwlalppc
+      301 tlfarfltgr llarewstsa vrkiiqsccf asqnlalfim artsdfhtal icmtviiggt
+      361 gfhnnavtvn pqdlapshsg svfglmntvg avpgflgvyl aghileitqs wpivfstaaa
+      421 inlvgwvifv vfgsaeaiv
+//
+

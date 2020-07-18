@@ -1,0 +1,75 @@
+
+LOCUS       XP_015608798             425 aa            linear   INV 16-MAY-2018
+DEFINITION  solute carrier family 17 member 9 [Cephus cinctus].
+ACCESSION   XP_015608798
+VERSION     XP_015608798.1
+DBLINK      BioProject: PRJNA297591
+DBSOURCE    REFSEQ: accession XM_015753312.2
+KEYWORDS    RefSeq.
+SOURCE      Cephus cinctus (wheat stem sawfly)
+  ORGANISM  Cephus cinctus
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta;
+            Pterygota; Neoptera; Endopterygota; Hymenoptera; Cephoidea;
+            Cephidae; Cephus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_014332832.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Cephus cinctus Annotation Release
+                                           101
+            Annotation Version          :: 101
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.0
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..425
+                     /organism="Cephus cinctus"
+                     /db_xref="taxon:211228"
+                     /chromosome="Unknown"
+                     /sex="male"
+     Protein         1..425
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=46694
+     Region          28..418
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Region          34..416
+                     /region_name="2A0114"
+                     /note="D-galactonate transporter; TIGR00893"
+                     /db_xref="CDD:273326"
+     Site            order(42,45..47,49..50,67,70..71,74,78..79,81..82,
+                     136..137,140..141,144..145,148,160..161,164..165,171,249,
+                     252..253,256..257,260,272,276,280,283,287,343,346..347,
+                     350,354..355,358,368..369,372..373,376..377,380)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..425
+                     /gene="LOC107274301"
+                     /coded_by="XM_015753312.2:251..1528"
+                     /db_xref="GeneID:107274301"
+ORIGIN      
+        1 mqietpills kderitlfws rkerrkwfls llcgtclvya trtsvpllmp viskerqwsk
+       61 aesgtvlssf fwgytltqva sgyisdrigg qkvmwiaalg wslstffmpe ivmflsesds
+      121 sisliaavrt lngafqgmhf psmisltsqr lhepdrasff slltsgsalg tlltgslgsy
+      181 llesyswtiv fqvlgglglv wtallsyysl sldgrasfnr piaghtlpwl allskppfws
+      241 cvighacqnn cffvllswmp tyfhetfpei kgwlvnmvpw ltllpctflg kalseklvks
+      301 gysitstrki ieticfvtqs inllilarvq tyqgailcla liiggsgfhn naiavnpsdl
+      361 apkhagsvfg lmntvgaipg flgvylagyi lhvthswpvv fvvtsmidil gcviylsfgs
+      421 gqaii
+//
+

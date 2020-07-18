@@ -1,0 +1,82 @@
+
+LOCUS       ACJ74006                 495 aa            linear   MAM 26-JUL-2016
+DEFINITION  sialin (predicted) [Oryctolagus cuniculus].
+ACCESSION   ACJ74006
+VERSION     ACJ74006.1
+DBSOURCE    accession DP001033.1
+KEYWORDS    .
+SOURCE      Oryctolagus cuniculus (rabbit)
+  ORGANISM  Oryctolagus cuniculus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Lagomorpha;
+            Leporidae; Oryctolagus.
+REFERENCE   1  (residues 1 to 495)
+  AUTHORS   Antonellis,A., Benjamin,B., Blakesley,R.W., Bouffard,G.G.,
+            Brinkley,C., Brooks,S., Chu,G., Chub,I., Coleman,H., Fuksenko,T.,
+            Gestole,M., Gregory,M., Guan,X., Gupta,J., Gurson,N., Han,E.,
+            Han,J., Hansen,N., Hargrove,A., Hines-Harris,K., Ho,S.-L., Hu,P.,
+            Hunter,G., Hurle,B., Idol,J.R., Johnson,T., Knight,E., Kwong,P.,
+            Lee-Lin,S.-Q., Legaspi,R., Madden,M., Maduro,Q.L., Maduro,V.B.,
+            Margulies,E.H., Masiello,C., Maskeri,B., McDowell,J., Merkulov,G.,
+            Montemayor,C., Mullikin,J.C., Park,M., Prasad,A., Ramsahoye,C.,
+            Reddix-Dugue,N., Riebow,N., Schandler,K., Schueler,M.G., Sison,C.,
+            Smith,L., Stantripop,S., Thomas,J.W., Thomas,P.J., Tsipouri,V.,
+            Young,A. and Green,E.D.
+  TITLE     NISC Comparative Sequencing Initiative
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 495)
+  AUTHORS   Green,E.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-DEC-2008) NIH Intramural Sequencing Center, 5625
+            Fishers Lane, Rockville, MD 20852, USA
+COMMENT     Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..495
+                     /organism="Oryctolagus cuniculus"
+                     /db_xref="taxon:9986"
+                     /note="ENCODE region ENr223"
+     Protein         1..495
+                     /product="sialin (predicted)"
+     Region          35..486
+                     /region_name="2A0114euk"
+                     /note="Na(+)-dependent inorganic phosphate cotransporter;
+                     TIGR00894"
+                     /db_xref="CDD:129972"
+     Region          99..478
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Site            order(112,115..116,119,123..124,126..127,175..176,
+                     179..180,183..184,187,199..200,203..204,210,302,305..306,
+                     309..310,313,327,331,335,338,342,404,407..408,411,
+                     415..416,419,425..426,429..430,433..434,437)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..495
+                     /gene="SLC17A5"
+                     /coded_by="complement(join(DP001033.1:615052..615189,
+                     DP001033.1:620554..620644,DP001033.1:634395..634542,
+                     DP001033.1:636674..636806,DP001033.1:643297..643455,
+                     DP001033.1:646629..646747,DP001033.1:648505..648591,
+                     DP001033.1:651995..652082,DP001033.1:657651..657884,
+                     DP001033.1:659556..659752,DP001033.1:672396..672489))"
+                     /inference="ab initio prediction:JIGSAW:3.2"
+                     /inference="similar to RNA sequence:RefSeq:NM_012434.4"
+                     /note="similar to NM_012434.4 sialin (Homo sapiens)"
+ORIGIN      
+        1 mraplraqtl ndgeestdst pllqgprqae aapaccsary nlailaffgf fvlyalrvnl
+       61 svalvdmvds nttladnrts kecaehsapv kvphsqtgkk yqwdaetqgw ilgsffygyi
+      121 vtqipggyla srvggklllg lgvlgtavft lftplaadlg vgalivlral eglgegvtfp
+      181 amhamwsswa pplersklls isyagaqlgt vislplsgii cyymnwtyvf yffgivgifw
+      241 filwiwivtd tpethktisn yekeyilssl knqlssqksv pwlpilkslp lwaivvahfs
+      301 ynwtfytllt llptymkeil rfnvqengfl savpyfgcwl cmilsgqaad tlrakwnfst
+      361 icvrrifsli gmigpatflv aagfigcdys lavvfltist tlggfcssgf sinhldiaps
+      421 yagillgitn tfatipgmig pviaksltpn ntirewqivf ciaaainvfg aifftlfakg
+      481 evqnwaldnh hghrh
+//
+

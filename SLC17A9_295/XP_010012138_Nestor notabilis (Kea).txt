@@ -1,0 +1,82 @@
+
+LOCUS       XP_010012138             426 aa            linear   VRT 31-OCT-2014
+DEFINITION  PREDICTED: solute carrier family 17 member 9, partial [Nestor
+            notabilis].
+ACCESSION   XP_010012138
+VERSION     XP_010012138.1
+DBLINK      BioProject: PRJNA264990
+DBSOURCE    REFSEQ: accession XM_010013836.1
+KEYWORDS    RefSeq; includes ab initio.
+SOURCE      Nestor notabilis (Kea)
+  ORGANISM  Nestor notabilis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Psittaciformes; Psittacidae;
+            Nestor.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_009926955.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA and EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Nestor notabilis Annotation Release
+                                           100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 6.1
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            ab initio :: 1% of CDS bases
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: incomplete on the amino end.
+FEATURES             Location/Qualifiers
+     source          1..426
+                     /organism="Nestor notabilis"
+                     /isolate="BGI_N333"
+                     /db_xref="taxon:176057"
+                     /chromosome="Unknown"
+                     /sex="male"
+     Protein         <1..426
+                     /product="solute carrier family 17 member 9"
+     Region          17..411
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Region          22..411
+                     /region_name="2A0114"
+                     /note="D-galactonate transporter; TIGR00893"
+                     /db_xref="CDD:273326"
+     Site            order(31,34..36,38..39,56,59..60,63,67..68,70..71,
+                     122..123,126..127,130..131,134,146..147,150..151,157,242,
+                     245..246,249..250,253,267,269,273,276,280,336,339..340,
+                     343,347..348,351,361..362,365..366,369..370,373)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..426
+                     /gene="SLC17A9"
+                     /coded_by="XM_010013836.1:<1..1283"
+                     /codon_start=3
+                     /db_xref="GeneID:104405202"
+ORIGIN      
+        1 tphlplppcr pearvwtvml llgtcllyct rvtvpicava lssyfdwdkk qsgivlssff
+       61 wgycltqiig ghisdhigge kvlllsasaw gfltlltpll ahitsahlaf mtssrflmgl
+      121 lqgvyfpslt sllsqrvhes eraftystvg tgsqfgtlvi ggagslfldw ygwesvfyfs
+      181 glltllwvyc tckyllseke livpmdylmr glsiskqtkv pwkqlfrkap iwaviiaqls
+      241 tastfftlls wlptffketf peskgwvfnv vpwlvaipts lfsgflsdhl iskgyktiti
+      301 rkfmqvigsg vssifalclg qtssfcraiv fasasvglqt fnhsgisvnv qdlapscagl
+      361 lfgvgntgga llgvicvyla gyliettgsw isvfnlvaav nsiglcafll fgeaqrvdtd
+      421 saymdl
+//
+

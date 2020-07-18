@@ -1,0 +1,81 @@
+
+LOCUS       XP_010211138             418 aa            linear   VRT 13-NOV-2014
+DEFINITION  PREDICTED: solute carrier family 17 member 9 [Tinamus guttatus].
+ACCESSION   XP_010211138
+VERSION     XP_010211138.1
+DBLINK      BioProject: PRJNA265201
+DBSOURCE    REFSEQ: accession XM_010212836.1
+KEYWORDS    RefSeq; includes ab initio.
+SOURCE      Tinamus guttatus (white-throated tinamou)
+  ORGANISM  Tinamus guttatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Palaeognathae; Tinamiformes; Tinamidae;
+            Tinamus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_010580226.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Tinamus guttatus Annotation Release
+                                           100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 6.1
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            ab initio :: 1% of CDS bases
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..418
+                     /organism="Tinamus guttatus"
+                     /isolate="BGI_N309"
+                     /db_xref="taxon:94827"
+                     /chromosome="Unknown"
+                     /sex="female"
+                     /country="Peru"
+     Protein         1..418
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=45073
+     Region          9..403
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Region          14..403
+                     /region_name="2A0114"
+                     /note="D-galactonate transporter; TIGR00893"
+                     /db_xref="CDD:273326"
+     Site            order(23,26..28,30..31,48,51..52,55,59..60,62..63,
+                     114..115,118..119,122..123,126,138..139,142..143,149,234,
+                     237..238,241..242,245,259,261,265,268,272,328,331..332,
+                     335,339..340,343,353..354,357..358,361..362,365)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..418
+                     /gene="SLC17A9"
+                     /coded_by="XM_010212836.1:1..1257"
+                     /db_xref="GeneID:104566089"
+ORIGIN      
+        1 mgpecrvwta mlllgtclly carvavpica valssrfgwd kkqsgivlss ffwgycltqv
+       61 igghisdrig gekvlllsas awgfltvvtp llthlssahl vllassrflm gllqgvyfpa
+      121 lasllsqrvr eseraftyst vgtgsqfgtl viggagslll dwygwesvfy fsglltllwv
+      181 yctckyllne kelvipldyl trglslskqs kvpwkqlfrk apiwavivaq lstssafftl
+      241 lswlptffke tfpeskgwvf nvvpwlvaip tslfsgflsd hlisqgykti tirkfmqvig
+      301 sgvssifalc lgqtssfcka ivfasasvgl qtfnhsgisv nvqdlapsca gllfgvgntg
+      361 gallgvicvy lagcliettg swgsvfslva vvnsvglcaf llfgeaqrvd tdsacmel
+//
+

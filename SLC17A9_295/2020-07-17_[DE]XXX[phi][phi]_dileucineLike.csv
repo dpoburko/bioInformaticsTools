@@ -1,0 +1,1949 @@
+V1,V2,V3,V4,V5,V6
+EAGIVL,61..66,NP_071365,Homo sapiens (human),solute carrier family 17 member 9 isoform 1,436
+EKVILL,90..95,NP_071365,Homo sapiens (human),solute carrier family 17 member 9 isoform 1,436
+ESERAF,149..154,NP_071365,Homo sapiens (human),solute carrier family 17 member 9 isoform 1,436
+EKDLIL,208..213,NP_071365,Homo sapiens (human),solute carrier family 17 member 9 isoform 1,436
+DAKGWI,272..277,NP_071365,Homo sapiens (human),solute carrier family 17 member 9 isoform 1,436
+ESVVFA,337..342,NP_071365,Homo sapiens (human),solute carrier family 17 member 9 isoform 1,436
+V1,V2,V3,V4,V5,V6
+EAGIVL,72..77,NP_898984,Mus musculus (house mouse),solute carrier family 17 member 9,447
+EKVILL,101..106,NP_898984,Mus musculus (house mouse),solute carrier family 17 member 9,447
+ESERAF,160..165,NP_898984,Mus musculus (house mouse),solute carrier family 17 member 9,447
+EKDLVL,219..224,NP_898984,Mus musculus (house mouse),solute carrier family 17 member 9,447
+V1,V2,V3,V4,V5,V6
+EKVLLL,108..113,NP_001006292,Gallus gallus (chicken),solute carrier family 17 member 9,454
+ESERAF,167..172,NP_001006292,Gallus gallus (chicken),solute carrier family 17 member 9,454
+ESVFYF,202..207,NP_001006292,Gallus gallus (chicken),solute carrier family 17 member 9,454
+EKDLVI,226..231,NP_001006292,Gallus gallus (chicken),solute carrier family 17 member 9,454
+ESKGWV,290..295,NP_001006292,Gallus gallus (chicken),solute carrier family 17 member 9,454
+DTDSAY,446..451,NP_001006292,Gallus gallus (chicken),solute carrier family 17 member 9,454
+V1,V2,V3,V4,V5,V6
+EAGVVL,61..66,NP_001093848,Bos taurus (cattle),solute carrier family 17 member 9,453
+EKVILL,90..95,NP_001093848,Bos taurus (cattle),solute carrier family 17 member 9,453
+ESERAF,149..154,NP_001093848,Bos taurus (cattle),solute carrier family 17 member 9,453
+DLILAL,227..232,NP_001093848,Bos taurus (cattle),solute carrier family 17 member 9,453
+V1,V2,V3,V4,V5,V6
+EAGIVL,72..77,NP_001102083,Rattus norvegicus (Norway rat),solute carrier family 17 member 9,447
+EKVILL,101..106,NP_001102083,Rattus norvegicus (Norway rat),solute carrier family 17 member 9,447
+DEKDLV,218..223,NP_001102083,Rattus norvegicus (Norway rat),solute carrier family 17 member 9,447
+V1,V2,V3,V4,V5,V6
+EAGIVL,55..60,NP_001289572,Homo sapiens (human),solute carrier family 17 member 9 isoform 2,430
+EKVILL,84..89,NP_001289572,Homo sapiens (human),solute carrier family 17 member 9 isoform 2,430
+ESERAF,143..148,NP_001289572,Homo sapiens (human),solute carrier family 17 member 9 isoform 2,430
+EKDLIL,202..207,NP_001289572,Homo sapiens (human),solute carrier family 17 member 9 isoform 2,430
+DAKGWI,266..271,NP_001289572,Homo sapiens (human),solute carrier family 17 member 9 isoform 2,430
+ESVVFA,331..336,NP_001289572,Homo sapiens (human),solute carrier family 17 member 9 isoform 2,430
+V1,V2,V3,V4,V5,V6
+EDVPFI,14..19,XP_001336574,Danio rerio (zebrafish),solute carrier family 17 member 9,458
+ETGMVL,84..89,XP_001336574,Danio rerio (zebrafish),solute carrier family 17 member 9,458
+ERVLLL,113..118,XP_001336574,Danio rerio (zebrafish),solute carrier family 17 member 9,458
+ERGLLM,174..179,XP_001336574,Danio rerio (zebrafish),solute carrier family 17 member 9,458
+EPSVWA,260..265,XP_001336574,Danio rerio (zebrafish),solute carrier family 17 member 9,458
+DEPEII,453..458,XP_001336574,Danio rerio (zebrafish),solute carrier family 17 member 9,458
+V1,V2,V3,V4,V5,V6
+DTQSIW,16..21,XP_001356979,Drosophila pseudoobscura,solute carrier family 17 member 9,438
+EKRVWF,25..30,XP_001356979,Drosophila pseudoobscura,solute carrier family 17 member 9,438
+DSGTVL,64..69,XP_001356979,Drosophila pseudoobscura,solute carrier family 17 member 9,438
+ERSSFF,158..163,XP_001356979,Drosophila pseudoobscura,solute carrier family 17 member 9,438
+ERNRII,216..221,XP_001356979,Drosophila pseudoobscura,solute carrier family 17 member 9,438
+EMNCFF,261..266,XP_001356979,Drosophila pseudoobscura,solute carrier family 17 member 9,438
+DFHTAL,344..349,XP_001356979,Drosophila pseudoobscura,solute carrier family 17 member 9,438
+V1,V2,V3,V4,V5,V6
+DSQSIW,21..26,XP_001657797,Aedes aegypti (yellow fever mosquito),solute carrier family 17 member 9,442
+EKRTWF,30..35,XP_001657797,Aedes aegypti (yellow fever mosquito),solute carrier family 17 member 9,442
+DSGTVL,69..74,XP_001657797,Aedes aegypti (yellow fever mosquito),solute carrier family 17 member 9,442
+ERTSFF,163..168,XP_001657797,Aedes aegypti (yellow fever mosquito),solute carrier family 17 member 9,442
+DRYRII,221..226,XP_001657797,Aedes aegypti (yellow fever mosquito),solute carrier family 17 member 9,442
+ETVPWL,242..247,XP_001657797,Aedes aegypti (yellow fever mosquito),solute carrier family 17 member 9,442
+EMNCFF,265..270,XP_001657797,Aedes aegypti (yellow fever mosquito),solute carrier family 17 member 9,442
+V1,V2,V3,V4,V5,V6
+DTQSIW,16..21,XP_001965225,Drosophila ananassae,solute carrier family 17 member 9,439
+EKRVWF,25..30,XP_001965225,Drosophila ananassae,solute carrier family 17 member 9,439
+DSGTVL,64..69,XP_001965225,Drosophila ananassae,solute carrier family 17 member 9,439
+ERSSFF,158..163,XP_001965225,Drosophila ananassae,solute carrier family 17 member 9,439
+ERNRII,216..221,XP_001965225,Drosophila ananassae,solute carrier family 17 member 9,439
+EMNCFF,262..267,XP_001965225,Drosophila ananassae,solute carrier family 17 member 9,439
+DFHTAL,345..350,XP_001965225,Drosophila ananassae,solute carrier family 17 member 9,439
+V1,V2,V3,V4,V5,V6
+DTQSIW,16..21,XP_001968674,Drosophila erecta,solute carrier family 17 member 9,439
+EKRVWF,25..30,XP_001968674,Drosophila erecta,solute carrier family 17 member 9,439
+DSGTVL,64..69,XP_001968674,Drosophila erecta,solute carrier family 17 member 9,439
+ERSSFF,158..163,XP_001968674,Drosophila erecta,solute carrier family 17 member 9,439
+ERNRII,216..221,XP_001968674,Drosophila erecta,solute carrier family 17 member 9,439
+EMNCFF,262..267,XP_001968674,Drosophila erecta,solute carrier family 17 member 9,439
+DFHTAL,345..350,XP_001968674,Drosophila erecta,solute carrier family 17 member 9,439
+V1,V2,V3,V4,V5,V6
+DTQNIW,16..21,XP_001993425,Drosophila grimshawi,solute carrier family 17 member 9,438
+EKRVWF,25..30,XP_001993425,Drosophila grimshawi,solute carrier family 17 member 9,438
+DSGTVL,64..69,XP_001993425,Drosophila grimshawi,solute carrier family 17 member 9,438
+ERSSFF,158..163,XP_001993425,Drosophila grimshawi,solute carrier family 17 member 9,438
+ERNRII,216..221,XP_001993425,Drosophila grimshawi,solute carrier family 17 member 9,438
+EMNCFF,261..266,XP_001993425,Drosophila grimshawi,solute carrier family 17 member 9,438
+DFHTAL,344..349,XP_001993425,Drosophila grimshawi,solute carrier family 17 member 9,438
+V1,V2,V3,V4,V5,V6
+DTQSIW,16..21,XP_002003696,Drosophila mojavensis,solute carrier family 17 member 9,438
+EKRVWF,25..30,XP_002003696,Drosophila mojavensis,solute carrier family 17 member 9,438
+DSGTVL,64..69,XP_002003696,Drosophila mojavensis,solute carrier family 17 member 9,438
+ERSSFF,158..163,XP_002003696,Drosophila mojavensis,solute carrier family 17 member 9,438
+ERNRII,216..221,XP_002003696,Drosophila mojavensis,solute carrier family 17 member 9,438
+EMNCFF,261..266,XP_002003696,Drosophila mojavensis,solute carrier family 17 member 9,438
+DFHTAL,344..349,XP_002003696,Drosophila mojavensis,solute carrier family 17 member 9,438
+V1,V2,V3,V4,V5,V6
+DTQSIW,16..21,XP_002020625,Drosophila persimilis,solute carrier family 17 member 9,438
+EKRVWF,25..30,XP_002020625,Drosophila persimilis,solute carrier family 17 member 9,438
+DSGTVL,64..69,XP_002020625,Drosophila persimilis,solute carrier family 17 member 9,438
+ERSSFF,158..163,XP_002020625,Drosophila persimilis,solute carrier family 17 member 9,438
+ERNRII,216..221,XP_002020625,Drosophila persimilis,solute carrier family 17 member 9,438
+EMNCFF,261..266,XP_002020625,Drosophila persimilis,solute carrier family 17 member 9,438
+DFHTAL,344..349,XP_002020625,Drosophila persimilis,solute carrier family 17 member 9,438
+V1,V2,V3,V4,V5,V6
+DTQSIW,16..21,XP_002037820,Drosophila sechellia,solute carrier family 17 member 9,439
+EKRVWF,25..30,XP_002037820,Drosophila sechellia,solute carrier family 17 member 9,439
+DSGTVL,64..69,XP_002037820,Drosophila sechellia,solute carrier family 17 member 9,439
+ERSSFF,158..163,XP_002037820,Drosophila sechellia,solute carrier family 17 member 9,439
+ERNRII,216..221,XP_002037820,Drosophila sechellia,solute carrier family 17 member 9,439
+EMNCFF,262..267,XP_002037820,Drosophila sechellia,solute carrier family 17 member 9,439
+DFHTAL,345..350,XP_002037820,Drosophila sechellia,solute carrier family 17 member 9,439
+V1,V2,V3,V4,V5,V6
+DTQSIW,16..21,XP_002052309,Drosophila virilis,solute carrier family 17 member 9,438
+EKRVWF,25..30,XP_002052309,Drosophila virilis,solute carrier family 17 member 9,438
+DSGTVL,64..69,XP_002052309,Drosophila virilis,solute carrier family 17 member 9,438
+ERSSFF,158..163,XP_002052309,Drosophila virilis,solute carrier family 17 member 9,438
+ERNRII,216..221,XP_002052309,Drosophila virilis,solute carrier family 17 member 9,438
+EMNCFF,261..266,XP_002052309,Drosophila virilis,solute carrier family 17 member 9,438
+V1,V2,V3,V4,V5,V6
+DTQSIW,16..21,XP_002066815,Drosophila willistoni,solute carrier family 17 member 9,438
+EKRVWF,25..30,XP_002066815,Drosophila willistoni,solute carrier family 17 member 9,438
+DSGTVL,64..69,XP_002066815,Drosophila willistoni,solute carrier family 17 member 9,438
+ERSSFF,158..163,XP_002066815,Drosophila willistoni,solute carrier family 17 member 9,438
+ERNRII,216..221,XP_002066815,Drosophila willistoni,solute carrier family 17 member 9,438
+EMNCFF,261..266,XP_002066815,Drosophila willistoni,solute carrier family 17 member 9,438
+DFHTAL,344..349,XP_002066815,Drosophila willistoni,solute carrier family 17 member 9,438
+V1,V2,V3,V4,V5,V6
+EKVLLL,102..107,XP_002198570,Taeniopygia guttata (zebra finch),solute carrier family 17 member 9,448
+ESERAF,161..166,XP_002198570,Taeniopygia guttata (zebra finch),solute carrier family 17 member 9,448
+ESVFYF,196..201,XP_002198570,Taeniopygia guttata (zebra finch),solute carrier family 17 member 9,448
+ESKGWV,284..289,XP_002198570,Taeniopygia guttata (zebra finch),solute carrier family 17 member 9,448
+DTDSVY,440..445,XP_002198570,Taeniopygia guttata (zebra finch),solute carrier family 17 member 9,448
+V1,V2,V3,V4,V5,V6
+ESGMVL,85..90,XP_003438921,Oreochromis niloticus (Nile tilapia),solute carrier family 17 member 9,465
+EKVLLL,114..119,XP_003438921,Oreochromis niloticus (Nile tilapia),solute carrier family 17 member 9,465
+ERGFLM,175..180,XP_003438921,Oreochromis niloticus (Nile tilapia),solute carrier family 17 member 9,465
+DAKGWV,296..301,XP_003438921,Oreochromis niloticus (Nile tilapia),solute carrier family 17 member 9,465
+V1,V2,V3,V4,V5,V6
+ERRKWF,23..28,XP_003706319,Megachile rotundata (alfalfa leafcutting bee),PREDICTED: solute carrier family 17 member 9,425
+DSGIIL,62..67,XP_003706319,Megachile rotundata (alfalfa leafcutting bee),PREDICTED: solute carrier family 17 member 9,425
+EIIEFF,110..115,XP_003706319,Megachile rotundata (alfalfa leafcutting bee),PREDICTED: solute carrier family 17 member 9,425
+DSSVLL,119..124,XP_003706319,Megachile rotundata (alfalfa leafcutting bee),PREDICTED: solute carrier family 17 member 9,425
+ERASFF,155..160,XP_003706319,Megachile rotundata (alfalfa leafcutting bee),PREDICTED: solute carrier family 17 member 9,425
+ENYNWM,183..188,XP_003706319,Megachile rotundata (alfalfa leafcutting bee),PREDICTED: solute carrier family 17 member 9,425
+EVKGWV,269..274,XP_003706319,Megachile rotundata (alfalfa leafcutting bee),PREDICTED: solute carrier family 17 member 9,425
+ETICFI,312..317,XP_003706319,Megachile rotundata (alfalfa leafcutting bee),PREDICTED: solute carrier family 17 member 9,425
+EVISLL,319..324,XP_003706319,Megachile rotundata (alfalfa leafcutting bee),PREDICTED: solute carrier family 17 member 9,425
+V1,V2,V3,V4,V5,V6
+EAGIVL,61..66,XP_003932711,Saimiri boliviensis boliviensis (Bolivian squirrel monkey),PREDICTED: solute carrier family 17 member 9,436
+EKVILL,90..95,XP_003932711,Saimiri boliviensis boliviensis (Bolivian squirrel monkey),PREDICTED: solute carrier family 17 member 9,436
+ESERAF,149..154,XP_003932711,Saimiri boliviensis boliviensis (Bolivian squirrel monkey),PREDICTED: solute carrier family 17 member 9,436
+DLVPAL,210..215,XP_003932711,Saimiri boliviensis boliviensis (Bolivian squirrel monkey),PREDICTED: solute carrier family 17 member 9,436
+DAKGWI,272..277,XP_003932711,Saimiri boliviensis boliviensis (Bolivian squirrel monkey),PREDICTED: solute carrier family 17 member 9,436
+ESVVFA,337..342,XP_003932711,Saimiri boliviensis boliviensis (Bolivian squirrel monkey),PREDICTED: solute carrier family 17 member 9,436
+V1,V2,V3,V4,V5,V6
+DKIAAA,25..30,XP_003963389,Takifugu rubripes (torafugu),solute carrier family 17 member 9,466
+ESSAYW,38..43,XP_003963389,Takifugu rubripes (torafugu),solute carrier family 17 member 9,466
+ESGMVL,86..91,XP_003963389,Takifugu rubripes (torafugu),solute carrier family 17 member 9,466
+EKVLLL,115..120,XP_003963389,Takifugu rubripes (torafugu),solute carrier family 17 member 9,466
+ERGFLM,176..181,XP_003963389,Takifugu rubripes (torafugu),solute carrier family 17 member 9,466
+ESVFYI,209..214,XP_003963389,Takifugu rubripes (torafugu),solute carrier family 17 member 9,466
+DSKGWI,297..302,XP_003963389,Takifugu rubripes (torafugu),solute carrier family 17 member 9,466
+V1,V2,V3,V4,V5,V6
+DKTGVA,25..30,XP_004070561,Oryzias latipes (Japanese medaka),solute carrier family 17 member 9,466
+ESGMVL,86..91,XP_004070561,Oryzias latipes (Japanese medaka),solute carrier family 17 member 9,466
+EKVLLL,115..120,XP_004070561,Oryzias latipes (Japanese medaka),solute carrier family 17 member 9,466
+ERGFLM,176..181,XP_004070561,Oryzias latipes (Japanese medaka),solute carrier family 17 member 9,466
+ESVFYI,209..214,XP_004070561,Oryzias latipes (Japanese medaka),solute carrier family 17 member 9,466
+DAKGWV,297..302,XP_004070561,Oryzias latipes (Japanese medaka),solute carrier family 17 member 9,466
+V1,V2,V3,V4,V5,V6
+EAQDAL,12..17,XP_004370244,Trichechus manatus latirostris (Florida manatee),solute carrier family 17 member 9,436
+EAGFVL,61..66,XP_004370244,Trichechus manatus latirostris (Florida manatee),solute carrier family 17 member 9,436
+EKVILL,90..95,XP_004370244,Trichechus manatus latirostris (Florida manatee),solute carrier family 17 member 9,436
+DSERAL,149..154,XP_004370244,Trichechus manatus latirostris (Florida manatee),solute carrier family 17 member 9,436
+EKDLVM,208..213,XP_004370244,Trichechus manatus latirostris (Florida manatee),solute carrier family 17 member 9,436
+V1,V2,V3,V4,V5,V6
+DSQSVW,18..23,XP_004518562,Ceratitis capitata (Mediterranean fruit fly),solute carrier family 17 member 9,439
+EKRVWF,27..32,XP_004518562,Ceratitis capitata (Mediterranean fruit fly),solute carrier family 17 member 9,439
+DSGTVL,66..71,XP_004518562,Ceratitis capitata (Mediterranean fruit fly),solute carrier family 17 member 9,439
+ERTSFF,160..165,XP_004518562,Ceratitis capitata (Mediterranean fruit fly),solute carrier family 17 member 9,439
+ERGRII,218..223,XP_004518562,Ceratitis capitata (Mediterranean fruit fly),solute carrier family 17 member 9,439
+DNVPWL,239..244,XP_004518562,Ceratitis capitata (Mediterranean fruit fly),solute carrier family 17 member 9,439
+EMNCFF,262..267,XP_004518562,Ceratitis capitata (Mediterranean fruit fly),solute carrier family 17 member 9,439
+DFHTAL,345..350,XP_004518562,Ceratitis capitata (Mediterranean fruit fly),solute carrier family 17 member 9,439
+V1,V2,V3,V4,V5,V6
+ESGMVL,85..90,XP_004546077,Maylandia zebra (zebra mbuna),solute carrier family 17 member 9,465
+EKVLLL,114..119,XP_004546077,Maylandia zebra (zebra mbuna),solute carrier family 17 member 9,465
+ERGFLM,175..180,XP_004546077,Maylandia zebra (zebra mbuna),solute carrier family 17 member 9,465
+DAKGWV,296..301,XP_004546077,Maylandia zebra (zebra mbuna),solute carrier family 17 member 9,465
+V1,V2,V3,V4,V5,V6
+EAGTVL,73..78,XP_004669555,Jaculus jaculus (lesser Egyptian jerboa),PREDICTED: solute carrier family 17 member 9,448
+EKVILL,102..107,XP_004669555,Jaculus jaculus (lesser Egyptian jerboa),PREDICTED: solute carrier family 17 member 9,448
+ETERAF,161..166,XP_004669555,Jaculus jaculus (lesser Egyptian jerboa),PREDICTED: solute carrier family 17 member 9,448
+EKDLVL,220..225,XP_004669555,Jaculus jaculus (lesser Egyptian jerboa),PREDICTED: solute carrier family 17 member 9,448
+V1,V2,V3,V4,V5,V6
+EAGIVL,72..77,XP_005074648,Mesocricetus auratus (golden hamster),solute carrier family 17 member 9,447
+EKIILL,101..106,XP_005074648,Mesocricetus auratus (golden hamster),solute carrier family 17 member 9,447
+ESERAF,160..165,XP_005074648,Mesocricetus auratus (golden hamster),solute carrier family 17 member 9,447
+EKDLFL,219..224,XP_005074648,Mesocricetus auratus (golden hamster),solute carrier family 17 member 9,447
+V1,V2,V3,V4,V5,V6
+EKVLLL,102..107,XP_005146906,Melopsittacus undulatus (budgerigar),solute carrier family 17 member 9,448
+ESERAF,161..166,XP_005146906,Melopsittacus undulatus (budgerigar),solute carrier family 17 member 9,448
+ESVFYF,196..201,XP_005146906,Melopsittacus undulatus (budgerigar),solute carrier family 17 member 9,448
+EKELII,220..225,XP_005146906,Melopsittacus undulatus (budgerigar),solute carrier family 17 member 9,448
+ESKDWV,284..289,XP_005146906,Melopsittacus undulatus (budgerigar),solute carrier family 17 member 9,448
+DTDSAY,440..445,XP_005146906,Melopsittacus undulatus (budgerigar),solute carrier family 17 member 9,448
+V1,V2,V3,V4,V5,V6
+DTQSIW,18..23,XP_005180821,Musca domestica (house fly),PREDICTED: solute carrier family 17 member 9,439
+EKRIWF,27..32,XP_005180821,Musca domestica (house fly),PREDICTED: solute carrier family 17 member 9,439
+DSGTVL,66..71,XP_005180821,Musca domestica (house fly),PREDICTED: solute carrier family 17 member 9,439
+ERTSFF,160..165,XP_005180821,Musca domestica (house fly),PREDICTED: solute carrier family 17 member 9,439
+ERNRII,218..223,XP_005180821,Musca domestica (house fly),PREDICTED: solute carrier family 17 member 9,439
+DTVPWL,239..244,XP_005180821,Musca domestica (house fly),PREDICTED: solute carrier family 17 member 9,439
+EMNCFF,262..267,XP_005180821,Musca domestica (house fly),PREDICTED: solute carrier family 17 member 9,439
+DFHTAL,345..350,XP_005180821,Musca domestica (house fly),PREDICTED: solute carrier family 17 member 9,439
+V1,V2,V3,V4,V5,V6
+EAGVVL,61..66,XP_005214763,Bos taurus (cattle),solute carrier family 17 member 9 isoform X2,436
+EKVILL,90..95,XP_005214763,Bos taurus (cattle),solute carrier family 17 member 9 isoform X2,436
+ESERAF,149..154,XP_005214763,Bos taurus (cattle),solute carrier family 17 member 9 isoform X2,436
+ERDLIL,208..213,XP_005214763,Bos taurus (cattle),solute carrier family 17 member 9 isoform X2,436
+V1,V2,V3,V4,V5,V6
+EAGIVL,61..66,XP_005325373,Ictidomys tridecemlineatus (thirteen-lined ground squirrel),solute carrier family 17 member 9,436
+EKVILL,90..95,XP_005325373,Ictidomys tridecemlineatus (thirteen-lined ground squirrel),solute carrier family 17 member 9,436
+ESERAF,149..154,XP_005325373,Ictidomys tridecemlineatus (thirteen-lined ground squirrel),solute carrier family 17 member 9,436
+EKDLIL,208..213,XP_005325373,Ictidomys tridecemlineatus (thirteen-lined ground squirrel),solute carrier family 17 member 9,436
+V1,V2,V3,V4,V5,V6
+EAGIVL,72..77,XP_005362794,Microtus ochrogaster (prairie vole),solute carrier family 17 member 9,447
+EKVILL,101..106,XP_005362794,Microtus ochrogaster (prairie vole),solute carrier family 17 member 9,447
+ESERAF,160..165,XP_005362794,Microtus ochrogaster (prairie vole),solute carrier family 17 member 9,447
+DLDLAL,221..226,XP_005362794,Microtus ochrogaster (prairie vole),solute carrier family 17 member 9,447
+DLVAII,416..421,XP_005362794,Microtus ochrogaster (prairie vole),solute carrier family 17 member 9,447
+V1,V2,V3,V4,V5,V6
+EKVLLL,83..88,XP_005524863,Pseudopodoces humilis (Tibetan ground-tit),PREDICTED: solute carrier family 17 member 9,429
+ESERAF,142..147,XP_005524863,Pseudopodoces humilis (Tibetan ground-tit),PREDICTED: solute carrier family 17 member 9,429
+ESVFYF,177..182,XP_005524863,Pseudopodoces humilis (Tibetan ground-tit),PREDICTED: solute carrier family 17 member 9,429
+ESKGWV,265..270,XP_005524863,Pseudopodoces humilis (Tibetan ground-tit),PREDICTED: solute carrier family 17 member 9,429
+DTDSVY,421..426,XP_005524863,Pseudopodoces humilis (Tibetan ground-tit),PREDICTED: solute carrier family 17 member 9,429
+V1,V2,V3,V4,V5,V6
+ESGMVL,85..90,XP_005740517,Pundamilia nyererei,PREDICTED: solute carrier family 17 member 9,465
+EKVLLL,114..119,XP_005740517,Pundamilia nyererei,PREDICTED: solute carrier family 17 member 9,465
+ERGFLM,175..180,XP_005740517,Pundamilia nyererei,PREDICTED: solute carrier family 17 member 9,465
+DAKGWV,296..301,XP_005740517,Pundamilia nyererei,PREDICTED: solute carrier family 17 member 9,465
+V1,V2,V3,V4,V5,V6
+ESGMVL,86..91,XP_005801728,Xiphophorus maculatus (southern platyfish),solute carrier family 17 member 9,466
+EKVLLL,115..120,XP_005801728,Xiphophorus maculatus (southern platyfish),solute carrier family 17 member 9,466
+ERGFLM,176..181,XP_005801728,Xiphophorus maculatus (southern platyfish),solute carrier family 17 member 9,466
+ESVFYV,209..214,XP_005801728,Xiphophorus maculatus (southern platyfish),solute carrier family 17 member 9,466
+DAKGWV,297..302,XP_005801728,Xiphophorus maculatus (southern platyfish),solute carrier family 17 member 9,466
+V1,V2,V3,V4,V5,V6
+EAGVVL,61..66,XP_005894048,Bos mutus (wild yak),PREDICTED: solute carrier family 17 member 9,436
+EKVILL,90..95,XP_005894048,Bos mutus (wild yak),PREDICTED: solute carrier family 17 member 9,436
+ESERAF,149..154,XP_005894048,Bos mutus (wild yak),PREDICTED: solute carrier family 17 member 9,436
+ERDLIL,208..213,XP_005894048,Bos mutus (wild yak),PREDICTED: solute carrier family 17 member 9,436
+V1,V2,V3,V4,V5,V6
+ESGMVL,85..90,XP_005931863,Haplochromis burtoni (Burton's mouthbrooder),PREDICTED: solute carrier family 17 member 9,465
+EKVLLL,114..119,XP_005931863,Haplochromis burtoni (Burton's mouthbrooder),PREDICTED: solute carrier family 17 member 9,465
+ERGFLM,175..180,XP_005931863,Haplochromis burtoni (Burton's mouthbrooder),PREDICTED: solute carrier family 17 member 9,465
+DAKGWV,296..301,XP_005931863,Haplochromis burtoni (Burton's mouthbrooder),PREDICTED: solute carrier family 17 member 9,465
+V1,V2,V3,V4,V5,V6
+EAGVVL,61..66,XP_006068912,Bubalus bubalis (water buffalo),solute carrier family 17 member 9,436
+EKVILL,90..95,XP_006068912,Bubalus bubalis (water buffalo),solute carrier family 17 member 9,436
+ESERAF,149..154,XP_006068912,Bubalus bubalis (water buffalo),solute carrier family 17 member 9,436
+ERDLIL,208..213,XP_006068912,Bubalus bubalis (water buffalo),solute carrier family 17 member 9,436
+V1,V2,V3,V4,V5,V6
+EAGIVL,159..164,XP_006106723,Myotis lucifugus (little brown bat),solute carrier family 17 member 9,534
+EKVILL,188..193,XP_006106723,Myotis lucifugus (little brown bat),solute carrier family 17 member 9,534
+ESERAF,247..252,XP_006106723,Myotis lucifugus (little brown bat),solute carrier family 17 member 9,534
+DLILAL,308..313,XP_006106723,Myotis lucifugus (little brown bat),solute carrier family 17 member 9,534
+V1,V2,V3,V4,V5,V6
+EAGIVL,72..77,XP_006235831,Rattus norvegicus (Norway rat),PREDICTED: solute carrier family 17 member 9 isoform X1,432
+EKVILL,101..106,XP_006235831,Rattus norvegicus (Norway rat),PREDICTED: solute carrier family 17 member 9 isoform X1,432
+DEKDLV,218..223,XP_006235831,Rattus norvegicus (Norway rat),PREDICTED: solute carrier family 17 member 9 isoform X1,432
+DRDHWL,393..398,XP_006235831,Rattus norvegicus (Norway rat),PREDICTED: solute carrier family 17 member 9 isoform X1,432
+V1,V2,V3,V4,V5,V6
+EKVILL,45..50,XP_006235833,Rattus norvegicus (Norway rat),PREDICTED: solute carrier family 17 member 9 isoform X2,391
+DEKDLV,162..167,XP_006235833,Rattus norvegicus (Norway rat),PREDICTED: solute carrier family 17 member 9 isoform X2,391
+V1,V2,V3,V4,V5,V6
+ESNPIY,37..42,XP_006639658,Lepisosteus oculatus (spotted gar),PREDICTED: solute carrier family 17 member 9,466
+ESGIVL,86..91,XP_006639658,Lepisosteus oculatus (spotted gar),PREDICTED: solute carrier family 17 member 9,466
+EKVVLL,115..120,XP_006639658,Lepisosteus oculatus (spotted gar),PREDICTED: solute carrier family 17 member 9,466
+ERGFLM,176..181,XP_006639658,Lepisosteus oculatus (spotted gar),PREDICTED: solute carrier family 17 member 9,466
+ESVFYV,209..214,XP_006639658,Lepisosteus oculatus (spotted gar),PREDICTED: solute carrier family 17 member 9,466
+EGPVIL,234..239,XP_006639658,Lepisosteus oculatus (spotted gar),PREDICTED: solute carrier family 17 member 9,466
+DSKGWI,297..302,XP_006639658,Lepisosteus oculatus (spotted gar),PREDICTED: solute carrier family 17 member 9,466
+V1,V2,V3,V4,V5,V6
+EAGIVL,61..66,XP_006873416,Chrysochloris asiatica (Cape golden mole),PREDICTED: solute carrier family 17 member 9,436
+EKVILL,90..95,XP_006873416,Chrysochloris asiatica (Cape golden mole),PREDICTED: solute carrier family 17 member 9,436
+DSERAF,149..154,XP_006873416,Chrysochloris asiatica (Cape golden mole),PREDICTED: solute carrier family 17 member 9,436
+EKDLLM,208..213,XP_006873416,Chrysochloris asiatica (Cape golden mole),PREDICTED: solute carrier family 17 member 9,436
+V1,V2,V3,V4,V5,V6
+EAGVVL,61..66,XP_006896940,Elephantulus edwardii (Cape elephant shrew),PREDICTED: solute carrier family 17 member 9,436
+EKVILL,90..95,XP_006896940,Elephantulus edwardii (Cape elephant shrew),PREDICTED: solute carrier family 17 member 9,436
+DSERAF,149..154,XP_006896940,Elephantulus edwardii (Cape elephant shrew),PREDICTED: solute carrier family 17 member 9,436
+DLLMAL,210..215,XP_006896940,Elephantulus edwardii (Cape elephant shrew),PREDICTED: solute carrier family 17 member 9,436
+V1,V2,V3,V4,V5,V6
+EAGIVL,72..77,XP_006976129,Peromyscus maniculatus bairdii (prairie deer mouse),PREDICTED: solute carrier family 17 member 9,447
+EKVILL,101..106,XP_006976129,Peromyscus maniculatus bairdii (prairie deer mouse),PREDICTED: solute carrier family 17 member 9,447
+ESERAF,160..165,XP_006976129,Peromyscus maniculatus bairdii (prairie deer mouse),PREDICTED: solute carrier family 17 member 9,447
+EKDLIL,219..224,XP_006976129,Peromyscus maniculatus bairdii (prairie deer mouse),PREDICTED: solute carrier family 17 member 9,447
+V1,V2,V3,V4,V5,V6
+EKVLLL,119..124,XP_007059871,Chelonia mydas (Green sea turtle),solute carrier family 17 member 9,465
+ESERAF,178..183,XP_007059871,Chelonia mydas (Green sea turtle),solute carrier family 17 member 9,465
+ESVFYF,213..218,XP_007059871,Chelonia mydas (Green sea turtle),solute carrier family 17 member 9,465
+EKELII,237..242,XP_007059871,Chelonia mydas (Green sea turtle),solute carrier family 17 member 9,465
+ESKGWV,301..306,XP_007059871,Chelonia mydas (Green sea turtle),solute carrier family 17 member 9,465
+DTDSAY,457..462,XP_007059871,Chelonia mydas (Green sea turtle),solute carrier family 17 member 9,465
+V1,V2,V3,V4,V5,V6
+EALCVF,77..82,XP_007185485,Balaenoptera acutorostrata scammoni,solute carrier family 17 member 9,532
+ELLPFV,87..92,XP_007185485,Balaenoptera acutorostrata scammoni,solute carrier family 17 member 9,532
+EAGVVL,153..158,XP_007185485,Balaenoptera acutorostrata scammoni,solute carrier family 17 member 9,532
+EKVILL,182..187,XP_007185485,Balaenoptera acutorostrata scammoni,solute carrier family 17 member 9,532
+ESERAF,241..246,XP_007185485,Balaenoptera acutorostrata scammoni,solute carrier family 17 member 9,532
+EKDLIL,300..305,XP_007185485,Balaenoptera acutorostrata scammoni,solute carrier family 17 member 9,532
+V1,V2,V3,V4,V5,V6
+EAGVVL,61..66,XP_007462313,Lipotes vexillifer (Yangtze River dolphin),PREDICTED: solute carrier family 17 member 9,435
+EKVILL,90..95,XP_007462313,Lipotes vexillifer (Yangtze River dolphin),PREDICTED: solute carrier family 17 member 9,435
+ESERAF,149..154,XP_007462313,Lipotes vexillifer (Yangtze River dolphin),PREDICTED: solute carrier family 17 member 9,435
+EKDLIL,208..213,XP_007462313,Lipotes vexillifer (Yangtze River dolphin),PREDICTED: solute carrier family 17 member 9,435
+V1,V2,V3,V4,V5,V6
+ESGMVL,86..91,XP_007557686,Poecilia formosa (Amazon molly),PREDICTED: solute carrier family 17 member 9,466
+EKVLLL,115..120,XP_007557686,Poecilia formosa (Amazon molly),PREDICTED: solute carrier family 17 member 9,466
+ERGFLM,176..181,XP_007557686,Poecilia formosa (Amazon molly),PREDICTED: solute carrier family 17 member 9,466
+ESVFYA,209..214,XP_007557686,Poecilia formosa (Amazon molly),PREDICTED: solute carrier family 17 member 9,466
+DAKGWV,297..302,XP_007557686,Poecilia formosa (Amazon molly),PREDICTED: solute carrier family 17 member 9,466
+V1,V2,V3,V4,V5,V6
+EAKIWI,47..52,XP_007909316,Callorhinchus milii (elephant shark),PREDICTED: solute carrier family 17 member 9,454
+DKVLLL,115..120,XP_007909316,Callorhinchus milii (elephant shark),PREDICTED: solute carrier family 17 member 9,454
+DSKGWI,297..302,XP_007909316,Callorhinchus milii (elephant shark),PREDICTED: solute carrier family 17 member 9,454
+V1,V2,V3,V4,V5,V6
+EAGIAL,61..66,XP_007952869,Orycteropus afer afer,PREDICTED: solute carrier family 17 member 9,436
+EKVILL,90..95,XP_007952869,Orycteropus afer afer,PREDICTED: solute carrier family 17 member 9,436
+DSERAF,149..154,XP_007952869,Orycteropus afer afer,PREDICTED: solute carrier family 17 member 9,436
+EKDLMM,208..213,XP_007952869,Orycteropus afer afer,PREDICTED: solute carrier family 17 member 9,436
+V1,V2,V3,V4,V5,V6
+EAGVVL,61..66,XP_008067736,Carlito syrichta (Philippine tarsier),solute carrier family 17 member 9,436
+EKVILL,90..95,XP_008067736,Carlito syrichta (Philippine tarsier),solute carrier family 17 member 9,436
+ESQRAF,149..154,XP_008067736,Carlito syrichta (Philippine tarsier),solute carrier family 17 member 9,436
+DLVPAW,210..215,XP_008067736,Carlito syrichta (Philippine tarsier),solute carrier family 17 member 9,436
+V1,V2,V3,V4,V5,V6
+EKVLLL,125..130,XP_008108385,Anolis carolinensis (green anole),PREDICTED: solute carrier family 17 member 9,471
+ETVFYF,219..224,XP_008108385,Anolis carolinensis (green anole),PREDICTED: solute carrier family 17 member 9,471
+EKEIII,243..248,XP_008108385,Anolis carolinensis (green anole),PREDICTED: solute carrier family 17 member 9,471
+DSKGWI,307..312,XP_008108385,Anolis carolinensis (green anole),PREDICTED: solute carrier family 17 member 9,471
+DTDNVY,463..468,XP_008108385,Anolis carolinensis (green anole),PREDICTED: solute carrier family 17 member 9,471
+V1,V2,V3,V4,V5,V6
+ESGMVL,86..91,XP_008276052,Stegastes partitus (bicolor damselfish),PREDICTED: solute carrier family 17 member 9,466
+EKVLLL,115..120,XP_008276052,Stegastes partitus (bicolor damselfish),PREDICTED: solute carrier family 17 member 9,466
+ERGFLM,176..181,XP_008276052,Stegastes partitus (bicolor damselfish),PREDICTED: solute carrier family 17 member 9,466
+ESVFYI,209..214,XP_008276052,Stegastes partitus (bicolor damselfish),PREDICTED: solute carrier family 17 member 9,466
+DAKGWV,297..302,XP_008276052,Stegastes partitus (bicolor damselfish),PREDICTED: solute carrier family 17 member 9,466
+V1,V2,V3,V4,V5,V6
+DSGLVL,83..88,XP_008317742,Cynoglossus semilaevis (tongue sole),solute carrier family 17 member 9,451
+ERVLVV,112..117,XP_008317742,Cynoglossus semilaevis (tongue sole),solute carrier family 17 member 9,451
+ERGFLM,173..178,XP_008317742,Cynoglossus semilaevis (tongue sole),solute carrier family 17 member 9,451
+V1,V2,V3,V4,V5,V6
+ERRAWF,31..36,XP_008547280,Microplitis demolitor,PREDICTED: solute carrier family 17 member 9,435
+DSGMIL,70..75,XP_008547280,Microplitis demolitor,PREDICTED: solute carrier family 17 member 9,435
+DVIEMF,118..123,XP_008547280,Microplitis demolitor,PREDICTED: solute carrier family 17 member 9,435
+ERASFF,163..168,XP_008547280,Microplitis demolitor,PREDICTED: solute carrier family 17 member 9,435
+V1,V2,V3,V4,V5,V6
+EAGIVL,61..66,XP_008578027,Galeopterus variegatus (Sunda flying lemur),PREDICTED: solute carrier family 17 member 9,436
+EKVILL,90..95,XP_008578027,Galeopterus variegatus (Sunda flying lemur),PREDICTED: solute carrier family 17 member 9,436
+ESERAF,149..154,XP_008578027,Galeopterus variegatus (Sunda flying lemur),PREDICTED: solute carrier family 17 member 9,436
+EKDLIL,208..213,XP_008578027,Galeopterus variegatus (Sunda flying lemur),PREDICTED: solute carrier family 17 member 9,436
+V1,V2,V3,V4,V5,V6
+EKVLLL,70..75,XP_008935182,Merops nubicus (carmine bee-eater),PREDICTED: solute carrier family 17 member 9, partial,416
+ESERAF,129..134,XP_008935182,Merops nubicus (carmine bee-eater),PREDICTED: solute carrier family 17 member 9, partial,416
+ESVFYF,164..169,XP_008935182,Merops nubicus (carmine bee-eater),PREDICTED: solute carrier family 17 member 9, partial,416
+EKELII,188..193,XP_008935182,Merops nubicus (carmine bee-eater),PREDICTED: solute carrier family 17 member 9, partial,416
+ESKGWV,252..257,XP_008935182,Merops nubicus (carmine bee-eater),PREDICTED: solute carrier family 17 member 9, partial,416
+DTDSAY,408..413,XP_008935182,Merops nubicus (carmine bee-eater),PREDICTED: solute carrier family 17 member 9, partial,416
+V1,V2,V3,V4,V5,V6
+EKVLLL,70..75,XP_009075776,Acanthisitta chloris (rifleman),PREDICTED: solute carrier family 17 member 9, partial,416
+ESERAF,129..134,XP_009075776,Acanthisitta chloris (rifleman),PREDICTED: solute carrier family 17 member 9, partial,416
+ESVFYF,164..169,XP_009075776,Acanthisitta chloris (rifleman),PREDICTED: solute carrier family 17 member 9, partial,416
+EKELII,188..193,XP_009075776,Acanthisitta chloris (rifleman),PREDICTED: solute carrier family 17 member 9, partial,416
+ESKGWV,252..257,XP_009075776,Acanthisitta chloris (rifleman),PREDICTED: solute carrier family 17 member 9, partial,416
+DTDSAY,408..413,XP_009075776,Acanthisitta chloris (rifleman),PREDICTED: solute carrier family 17 member 9, partial,416
+V1,V2,V3,V4,V5,V6
+EKVLLL,88..93,XP_009325164,Pygoscelis adeliae (Adelie penguin),PREDICTED: solute carrier family 17 member 9,434
+ESERAF,147..152,XP_009325164,Pygoscelis adeliae (Adelie penguin),PREDICTED: solute carrier family 17 member 9,434
+ESVFYF,182..187,XP_009325164,Pygoscelis adeliae (Adelie penguin),PREDICTED: solute carrier family 17 member 9,434
+ENELII,206..211,XP_009325164,Pygoscelis adeliae (Adelie penguin),PREDICTED: solute carrier family 17 member 9,434
+ESKGWV,270..275,XP_009325164,Pygoscelis adeliae (Adelie penguin),PREDICTED: solute carrier family 17 member 9,434
+DTDSAY,426..431,XP_009325164,Pygoscelis adeliae (Adelie penguin),PREDICTED: solute carrier family 17 member 9,434
+V1,V2,V3,V4,V5,V6
+EKEMLI,33..38,XP_009459899,Nipponia nippon (crested ibis),PREDICTED: solute carrier family 17 member 9,469
+EKVLLL,123..128,XP_009459899,Nipponia nippon (crested ibis),PREDICTED: solute carrier family 17 member 9,469
+ESERAF,182..187,XP_009459899,Nipponia nippon (crested ibis),PREDICTED: solute carrier family 17 member 9,469
+ESVFYF,217..222,XP_009459899,Nipponia nippon (crested ibis),PREDICTED: solute carrier family 17 member 9,469
+EKELII,241..246,XP_009459899,Nipponia nippon (crested ibis),PREDICTED: solute carrier family 17 member 9,469
+ESKGWV,305..310,XP_009459899,Nipponia nippon (crested ibis),PREDICTED: solute carrier family 17 member 9,469
+DTDSAY,461..466,XP_009459899,Nipponia nippon (crested ibis),PREDICTED: solute carrier family 17 member 9,469
+V1,V2,V3,V4,V5,V6
+EKVLLL,26..31,XP_009482842,Pelecanus crispus (Dalmatian pelican),PREDICTED: solute carrier family 17 member 9, partial,372
+EGERAF,85..90,XP_009482842,Pelecanus crispus (Dalmatian pelican),PREDICTED: solute carrier family 17 member 9, partial,372
+ESVFYF,120..125,XP_009482842,Pelecanus crispus (Dalmatian pelican),PREDICTED: solute carrier family 17 member 9, partial,372
+EKELII,144..149,XP_009482842,Pelecanus crispus (Dalmatian pelican),PREDICTED: solute carrier family 17 member 9, partial,372
+ESKGWV,208..213,XP_009482842,Pelecanus crispus (Dalmatian pelican),PREDICTED: solute carrier family 17 member 9, partial,372
+V1,V2,V3,V4,V5,V6
+ERVLLL,64..69,XP_009511455,Phalacrocorax carbo (great cormorant),,289
+ESERAF,123..128,XP_009511455,Phalacrocorax carbo (great cormorant),,289
+EKELII,182..187,XP_009511455,Phalacrocorax carbo (great cormorant),,289
+ESKGWV,246..251,XP_009511455,Phalacrocorax carbo (great cormorant),,289
+V1,V2,V3,V4,V5,V6
+EKVLLL,80..85,XP_009561377,Cuculus canorus (common cuckoo),PREDICTED: solute carrier family 17 member 9,426
+ESERAF,139..144,XP_009561377,Cuculus canorus (common cuckoo),PREDICTED: solute carrier family 17 member 9,426
+ESVFYF,174..179,XP_009561377,Cuculus canorus (common cuckoo),PREDICTED: solute carrier family 17 member 9,426
+ERELII,198..203,XP_009561377,Cuculus canorus (common cuckoo),PREDICTED: solute carrier family 17 member 9,426
+ESKGWV,262..267,XP_009561377,Cuculus canorus (common cuckoo),PREDICTED: solute carrier family 17 member 9,426
+DTDSAY,418..423,XP_009561377,Cuculus canorus (common cuckoo),PREDICTED: solute carrier family 17 member 9,426
+V1,V2,V3,V4,V5,V6
+EKVLLL,70..75,XP_009584948,Fulmarus glacialis (Northern fulmar),PREDICTED: solute carrier family 17 member 9, partial,416
+ESERAF,129..134,XP_009584948,Fulmarus glacialis (Northern fulmar),PREDICTED: solute carrier family 17 member 9, partial,416
+ESVFYF,164..169,XP_009584948,Fulmarus glacialis (Northern fulmar),PREDICTED: solute carrier family 17 member 9, partial,416
+EKELII,188..193,XP_009584948,Fulmarus glacialis (Northern fulmar),PREDICTED: solute carrier family 17 member 9, partial,416
+ESKGWV,252..257,XP_009584948,Fulmarus glacialis (Northern fulmar),PREDICTED: solute carrier family 17 member 9, partial,416
+DTDSAY,408..413,XP_009584948,Fulmarus glacialis (Northern fulmar),PREDICTED: solute carrier family 17 member 9, partial,416
+V1,V2,V3,V4,V5,V6
+EKVLLL,87..92,XP_009642016,Egretta garzetta (little egret),PREDICTED: solute carrier family 17 member 9,433
+ESERAF,146..151,XP_009642016,Egretta garzetta (little egret),PREDICTED: solute carrier family 17 member 9,433
+ESVFYF,181..186,XP_009642016,Egretta garzetta (little egret),PREDICTED: solute carrier family 17 member 9,433
+EKELII,205..210,XP_009642016,Egretta garzetta (little egret),PREDICTED: solute carrier family 17 member 9,433
+ESKGWV,269..274,XP_009642016,Egretta garzetta (little egret),PREDICTED: solute carrier family 17 member 9,433
+DTDSAY,425..430,XP_009642016,Egretta garzetta (little egret),PREDICTED: solute carrier family 17 member 9,433
+V1,V2,V3,V4,V5,V6
+EGPLLA,16..21,XP_009669850,Struthio camelus australis,PREDICTED: solute carrier family 17 member 9,449
+EKVLLL,103..108,XP_009669850,Struthio camelus australis,PREDICTED: solute carrier family 17 member 9,449
+ESERAF,162..167,XP_009669850,Struthio camelus australis,PREDICTED: solute carrier family 17 member 9,449
+ESVFYF,197..202,XP_009669850,Struthio camelus australis,PREDICTED: solute carrier family 17 member 9,449
+EKELIV,221..226,XP_009669850,Struthio camelus australis,PREDICTED: solute carrier family 17 member 9,449
+ESKGWV,285..290,XP_009669850,Struthio camelus australis,PREDICTED: solute carrier family 17 member 9,449
+DTDSAY,441..446,XP_009669850,Struthio camelus australis,PREDICTED: solute carrier family 17 member 9,449
+V1,V2,V3,V4,V5,V6
+EKVLLL,70..75,XP_009699186,Cariama cristata (Red-legged seriema),PREDICTED: solute carrier family 17 member 9, partial,416
+ESERAF,129..134,XP_009699186,Cariama cristata (Red-legged seriema),PREDICTED: solute carrier family 17 member 9, partial,416
+ESVFYF,164..169,XP_009699186,Cariama cristata (Red-legged seriema),PREDICTED: solute carrier family 17 member 9, partial,416
+EKELII,188..193,XP_009699186,Cariama cristata (Red-legged seriema),PREDICTED: solute carrier family 17 member 9, partial,416
+ESKGWV,252..257,XP_009699186,Cariama cristata (Red-legged seriema),PREDICTED: solute carrier family 17 member 9, partial,416
+DTDSAY,408..413,XP_009699186,Cariama cristata (Red-legged seriema),PREDICTED: solute carrier family 17 member 9, partial,416
+V1,V2,V3,V4,V5,V6
+EKVLLL,70..75,XP_009868862,Apaloderma vittatum (bar-tailed trogon),PREDICTED: solute carrier family 17 member 9, partial,416
+ESERAF,129..134,XP_009868862,Apaloderma vittatum (bar-tailed trogon),PREDICTED: solute carrier family 17 member 9, partial,416
+ESVFYF,164..169,XP_009868862,Apaloderma vittatum (bar-tailed trogon),PREDICTED: solute carrier family 17 member 9, partial,416
+EKELII,188..193,XP_009868862,Apaloderma vittatum (bar-tailed trogon),PREDICTED: solute carrier family 17 member 9, partial,416
+V1,V2,V3,V4,V5,V6
+EKVLLL,129..134,XP_009891878,Charadrius vociferus (killdeer),PREDICTED: solute carrier family 17 member 9,475
+ESERAF,188..193,XP_009891878,Charadrius vociferus (killdeer),PREDICTED: solute carrier family 17 member 9,475
+ESVFYF,223..228,XP_009891878,Charadrius vociferus (killdeer),PREDICTED: solute carrier family 17 member 9,475
+EKELII,247..252,XP_009891878,Charadrius vociferus (killdeer),PREDICTED: solute carrier family 17 member 9,475
+ESKGWV,311..316,XP_009891878,Charadrius vociferus (killdeer),PREDICTED: solute carrier family 17 member 9,475
+DTDSAY,467..472,XP_009891878,Charadrius vociferus (killdeer),PREDICTED: solute carrier family 17 member 9,475
+V1,V2,V3,V4,V5,V6
+EKILLL,89..94,XP_009908277,Picoides pubescens (Downy woodpecker),PREDICTED: solute carrier family 17 member 9,435
+ESERAF,148..153,XP_009908277,Picoides pubescens (Downy woodpecker),PREDICTED: solute carrier family 17 member 9,435
+ESVFYF,183..188,XP_009908277,Picoides pubescens (Downy woodpecker),PREDICTED: solute carrier family 17 member 9,435
+EKELII,207..212,XP_009908277,Picoides pubescens (Downy woodpecker),PREDICTED: solute carrier family 17 member 9,435
+ESKGWV,271..276,XP_009908277,Picoides pubescens (Downy woodpecker),PREDICTED: solute carrier family 17 member 9,435
+DTDSAY,427..432,XP_009908277,Picoides pubescens (Downy woodpecker),PREDICTED: solute carrier family 17 member 9,435
+V1,V2,V3,V4,V5,V6
+EALRLA,14..19,XP_009932256,Opisthocomus hoazin,PREDICTED: solute carrier family 17 member 9,480
+DDCPAY,38..43,XP_009932256,Opisthocomus hoazin,PREDICTED: solute carrier family 17 member 9,480
+EKVLLL,134..139,XP_009932256,Opisthocomus hoazin,PREDICTED: solute carrier family 17 member 9,480
+ESERAF,193..198,XP_009932256,Opisthocomus hoazin,PREDICTED: solute carrier family 17 member 9,480
+ESVFYF,228..233,XP_009932256,Opisthocomus hoazin,PREDICTED: solute carrier family 17 member 9,480
+EKELII,252..257,XP_009932256,Opisthocomus hoazin,PREDICTED: solute carrier family 17 member 9,480
+ESKGWV,316..321,XP_009932256,Opisthocomus hoazin,PREDICTED: solute carrier family 17 member 9,480
+V1,V2,V3,V4,V5,V6
+EKVLLL,70..75,XP_009960042,Leptosomus discolor (cuckoo roller),PREDICTED: solute carrier family 17 member 9, partial,416
+ESERAF,129..134,XP_009960042,Leptosomus discolor (cuckoo roller),PREDICTED: solute carrier family 17 member 9, partial,416
+ESVFYF,164..169,XP_009960042,Leptosomus discolor (cuckoo roller),PREDICTED: solute carrier family 17 member 9, partial,416
+EKELII,188..193,XP_009960042,Leptosomus discolor (cuckoo roller),PREDICTED: solute carrier family 17 member 9, partial,416
+V1,V2,V3,V4,V5,V6
+EKVLLL,86..91,XP_009981057,Tauraco erythrolophus (red-crested turaco),PREDICTED: solute carrier family 17 member 9, partial,432
+ESERAF,145..150,XP_009981057,Tauraco erythrolophus (red-crested turaco),PREDICTED: solute carrier family 17 member 9, partial,432
+ESVFYF,180..185,XP_009981057,Tauraco erythrolophus (red-crested turaco),PREDICTED: solute carrier family 17 member 9, partial,432
+EKELIL,204..209,XP_009981057,Tauraco erythrolophus (red-crested turaco),PREDICTED: solute carrier family 17 member 9, partial,432
+ESKGWV,268..273,XP_009981057,Tauraco erythrolophus (red-crested turaco),PREDICTED: solute carrier family 17 member 9, partial,432
+V1,V2,V3,V4,V5,V6
+EKVLLL,99..104,XP_009997026,Chaetura pelagica (chimney swift),PREDICTED: solute carrier family 17 member 9,445
+ESERAF,158..163,XP_009997026,Chaetura pelagica (chimney swift),PREDICTED: solute carrier family 17 member 9,445
+ESVFYF,193..198,XP_009997026,Chaetura pelagica (chimney swift),PREDICTED: solute carrier family 17 member 9,445
+ERELII,217..222,XP_009997026,Chaetura pelagica (chimney swift),PREDICTED: solute carrier family 17 member 9,445
+ESKGWV,281..286,XP_009997026,Chaetura pelagica (chimney swift),PREDICTED: solute carrier family 17 member 9,445
+DTDSVY,437..442,XP_009997026,Chaetura pelagica (chimney swift),PREDICTED: solute carrier family 17 member 9,445
+V1,V2,V3,V4,V5,V6
+EKVLLL,80..85,XP_010012138,Nestor notabilis (Kea),PREDICTED: solute carrier family 17 member 9, partial,426
+ESERAF,139..144,XP_010012138,Nestor notabilis (Kea),PREDICTED: solute carrier family 17 member 9, partial,426
+ESVFYF,174..179,XP_010012138,Nestor notabilis (Kea),PREDICTED: solute carrier family 17 member 9, partial,426
+EKELIV,198..203,XP_010012138,Nestor notabilis (Kea),PREDICTED: solute carrier family 17 member 9, partial,426
+ESKGWV,262..267,XP_010012138,Nestor notabilis (Kea),PREDICTED: solute carrier family 17 member 9, partial,426
+DTDSAY,418..423,XP_010012138,Nestor notabilis (Kea),PREDICTED: solute carrier family 17 member 9, partial,426
+V1,V2,V3,V4,V5,V6
+EKVLLL,70..75,XP_010074320,Pterocles gutturalis (yellow-throated sandgrouse),PREDICTED: solute carrier family 17 member 9, partial,416
+ESERAF,129..134,XP_010074320,Pterocles gutturalis (yellow-throated sandgrouse),PREDICTED: solute carrier family 17 member 9, partial,416
+ESVFYF,164..169,XP_010074320,Pterocles gutturalis (yellow-throated sandgrouse),PREDICTED: solute carrier family 17 member 9, partial,416
+ETELII,188..193,XP_010074320,Pterocles gutturalis (yellow-throated sandgrouse),PREDICTED: solute carrier family 17 member 9, partial,416
+ESKGWV,252..257,XP_010074320,Pterocles gutturalis (yellow-throated sandgrouse),PREDICTED: solute carrier family 17 member 9, partial,416
+DTDSAY,408..413,XP_010074320,Pterocles gutturalis (yellow-throated sandgrouse),PREDICTED: solute carrier family 17 member 9, partial,416
+V1,V2,V3,V4,V5,V6
+EKVLLL,70..75,XP_010118751,Chlamydotis macqueenii (Macqueen's bustard),PREDICTED: solute carrier family 17 member 9, partial,416
+EGERAF,129..134,XP_010118751,Chlamydotis macqueenii (Macqueen's bustard),PREDICTED: solute carrier family 17 member 9, partial,416
+ESVFYF,164..169,XP_010118751,Chlamydotis macqueenii (Macqueen's bustard),PREDICTED: solute carrier family 17 member 9, partial,416
+EKELII,188..193,XP_010118751,Chlamydotis macqueenii (Macqueen's bustard),PREDICTED: solute carrier family 17 member 9, partial,416
+ESKGWV,252..257,XP_010118751,Chlamydotis macqueenii (Macqueen's bustard),PREDICTED: solute carrier family 17 member 9, partial,416
+DTDSAY,408..413,XP_010118751,Chlamydotis macqueenii (Macqueen's bustard),PREDICTED: solute carrier family 17 member 9, partial,416
+V1,V2,V3,V4,V5,V6
+EKVLLL,62..67,XP_010132558,Buceros rhinoceros silvestris,PREDICTED: solute carrier family 17 member 9,408
+EGERAF,121..126,XP_010132558,Buceros rhinoceros silvestris,PREDICTED: solute carrier family 17 member 9,408
+ESVFYF,156..161,XP_010132558,Buceros rhinoceros silvestris,PREDICTED: solute carrier family 17 member 9,408
+EKELII,180..185,XP_010132558,Buceros rhinoceros silvestris,PREDICTED: solute carrier family 17 member 9,408
+ESKGWV,244..249,XP_010132558,Buceros rhinoceros silvestris,PREDICTED: solute carrier family 17 member 9,408
+DTDSAY,400..405,XP_010132558,Buceros rhinoceros silvestris,PREDICTED: solute carrier family 17 member 9,408
+V1,V2,V3,V4,V5,V6
+EKVLLL,62..67,XP_010184421,Mesitornis unicolor (brown roatelo),PREDICTED: solute carrier family 17 member 9,408
+ESERAF,121..126,XP_010184421,Mesitornis unicolor (brown roatelo),PREDICTED: solute carrier family 17 member 9,408
+ESVFYF,156..161,XP_010184421,Mesitornis unicolor (brown roatelo),PREDICTED: solute carrier family 17 member 9,408
+EKELII,180..185,XP_010184421,Mesitornis unicolor (brown roatelo),PREDICTED: solute carrier family 17 member 9,408
+ESKGWV,244..249,XP_010184421,Mesitornis unicolor (brown roatelo),PREDICTED: solute carrier family 17 member 9,408
+DTDSAY,400..405,XP_010184421,Mesitornis unicolor (brown roatelo),PREDICTED: solute carrier family 17 member 9,408
+V1,V2,V3,V4,V5,V6
+EKVLLL,86..91,XP_010198526,Colius striatus (speckled mousebird),PREDICTED: solute carrier family 17 member 9, partial,432
+ESERAF,145..150,XP_010198526,Colius striatus (speckled mousebird),PREDICTED: solute carrier family 17 member 9, partial,432
+ESVFYF,180..185,XP_010198526,Colius striatus (speckled mousebird),PREDICTED: solute carrier family 17 member 9, partial,432
+EKELII,204..209,XP_010198526,Colius striatus (speckled mousebird),PREDICTED: solute carrier family 17 member 9, partial,432
+ESKGWV,268..273,XP_010198526,Colius striatus (speckled mousebird),PREDICTED: solute carrier family 17 member 9, partial,432
+DTDSVY,424..429,XP_010198526,Colius striatus (speckled mousebird),PREDICTED: solute carrier family 17 member 9, partial,432
+V1,V2,V3,V4,V5,V6
+EKVLLL,72..77,XP_010211138,Tinamus guttatus (white-throated tinamou),PREDICTED: solute carrier family 17 member 9,418
+ESERAF,131..136,XP_010211138,Tinamus guttatus (white-throated tinamou),PREDICTED: solute carrier family 17 member 9,418
+ESVFYF,166..171,XP_010211138,Tinamus guttatus (white-throated tinamou),PREDICTED: solute carrier family 17 member 9,418
+EKELVI,190..195,XP_010211138,Tinamus guttatus (white-throated tinamou),PREDICTED: solute carrier family 17 member 9,418
+ESKGWV,254..259,XP_010211138,Tinamus guttatus (white-throated tinamou),PREDICTED: solute carrier family 17 member 9,418
+V1,V2,V3,V4,V5,V6
+EKVLLL,62..67,XP_010289447,Phaethon lepturus (White-tailed tropicbird),PREDICTED: solute carrier family 17 member 9, partial,344
+ESERAF,121..126,XP_010289447,Phaethon lepturus (White-tailed tropicbird),PREDICTED: solute carrier family 17 member 9, partial,344
+ESVFYF,156..161,XP_010289447,Phaethon lepturus (White-tailed tropicbird),PREDICTED: solute carrier family 17 member 9, partial,344
+EKELII,180..185,XP_010289447,Phaethon lepturus (White-tailed tropicbird),PREDICTED: solute carrier family 17 member 9, partial,344
+ESKGWV,244..249,XP_010289447,Phaethon lepturus (White-tailed tropicbird),PREDICTED: solute carrier family 17 member 9, partial,344
+V1,V2,V3,V4,V5,V6
+EKVLLL,70..75,XP_010298087,Balearica regulorum gibbericeps (East African grey crowned-crane),PREDICTED: solute carrier family 17 member 9, partial,416
+ESERAF,129..134,XP_010298087,Balearica regulorum gibbericeps (East African grey crowned-crane),PREDICTED: solute carrier family 17 member 9, partial,416
+ESVFYF,164..169,XP_010298087,Balearica regulorum gibbericeps (East African grey crowned-crane),PREDICTED: solute carrier family 17 member 9, partial,416
+EKELII,188..193,XP_010298087,Balearica regulorum gibbericeps (East African grey crowned-crane),PREDICTED: solute carrier family 17 member 9, partial,416
+ESKGWV,252..257,XP_010298087,Balearica regulorum gibbericeps (East African grey crowned-crane),PREDICTED: solute carrier family 17 member 9, partial,416
+DTDSAY,408..413,XP_010298087,Balearica regulorum gibbericeps (East African grey crowned-crane),PREDICTED: solute carrier family 17 member 9, partial,416
+V1,V2,V3,V4,V5,V6
+EKVLLL,107..112,XP_010567831,Haliaeetus leucocephalus (bald eagle),PREDICTED: solute carrier family 17 member 9,453
+ENERAF,166..171,XP_010567831,Haliaeetus leucocephalus (bald eagle),PREDICTED: solute carrier family 17 member 9,453
+ESVFYF,201..206,XP_010567831,Haliaeetus leucocephalus (bald eagle),PREDICTED: solute carrier family 17 member 9,453
+EKELII,225..230,XP_010567831,Haliaeetus leucocephalus (bald eagle),PREDICTED: solute carrier family 17 member 9,453
+ESKGWV,289..294,XP_010567831,Haliaeetus leucocephalus (bald eagle),PREDICTED: solute carrier family 17 member 9,453
+DTDSAY,445..450,XP_010567831,Haliaeetus leucocephalus (bald eagle),PREDICTED: solute carrier family 17 member 9,453
+V1,V2,V3,V4,V5,V6
+DWERVW,38..43,XP_010720717,Meleagris gallopavo (turkey),solute carrier family 17 member 9,237
+EYQTFA,51..56,XP_010720717,Meleagris gallopavo (turkey),solute carrier family 17 member 9,237
+DSSPLL,64..69,XP_010720717,Meleagris gallopavo (turkey),solute carrier family 17 member 9,237
+DTDSAY,229..234,XP_010720717,Meleagris gallopavo (turkey),solute carrier family 17 member 9,237
+V1,V2,V3,V4,V5,V6
+DSGLVL,83..88,XP_010752899,Larimichthys crocea (large yellow croaker),solute carrier family 17 member 9,458
+EEERVF,171..176,XP_010752899,Larimichthys crocea (large yellow croaker),solute carrier family 17 member 9,458
+ESMFYV,206..211,XP_010752899,Larimichthys crocea (large yellow croaker),solute carrier family 17 member 9,458
+EATGWV,292..297,XP_010752899,Larimichthys crocea (large yellow croaker),solute carrier family 17 member 9,458
+DSCPVI,451..456,XP_010752899,Larimichthys crocea (large yellow croaker),solute carrier family 17 member 9,458
+V1,V2,V3,V4,V5,V6
+EHNIYW,38..43,XP_010788568,Notothenia coriiceps (black rockcod),PREDICTED: solute carrier family 17 member 9,466
+ESGMVL,86..91,XP_010788568,Notothenia coriiceps (black rockcod),PREDICTED: solute carrier family 17 member 9,466
+EKVLLL,115..120,XP_010788568,Notothenia coriiceps (black rockcod),PREDICTED: solute carrier family 17 member 9,466
+ERGFLM,176..181,XP_010788568,Notothenia coriiceps (black rockcod),PREDICTED: solute carrier family 17 member 9,466
+DAKGWV,297..302,XP_010788568,Notothenia coriiceps (black rockcod),PREDICTED: solute carrier family 17 member 9,466
+V1,V2,V3,V4,V5,V6
+EAGVVL,167..172,XP_010834955,Bison bison bison,PREDICTED: solute carrier family 17 member 9,559
+EKVILL,196..201,XP_010834955,Bison bison bison,PREDICTED: solute carrier family 17 member 9,559
+ESERAF,255..260,XP_010834955,Bison bison bison,PREDICTED: solute carrier family 17 member 9,559
+DLILAL,333..338,XP_010834955,Bison bison bison,PREDICTED: solute carrier family 17 member 9,559
+V1,V2,V3,V4,V5,V6
+EAGLVL,61..66,XP_010952673,Camelus bactrianus (Bactrian camel),PREDICTED: solute carrier family 17 member 9,413
+EKVILL,90..95,XP_010952673,Camelus bactrianus (Bactrian camel),PREDICTED: solute carrier family 17 member 9,413
+ESERAF,149..154,XP_010952673,Camelus bactrianus (Bactrian camel),PREDICTED: solute carrier family 17 member 9,413
+DLLLAL,178..183,XP_010952673,Camelus bactrianus (Bactrian camel),PREDICTED: solute carrier family 17 member 9,413
+V1,V2,V3,V4,V5,V6
+ERQKWF,23..28,XP_011049204,Acromyrmex echinatior (Panamanian leafcutter ant),PREDICTED: solute carrier family 17 member 9,424
+DSGIIL,62..67,XP_011049204,Acromyrmex echinatior (Panamanian leafcutter ant),PREDICTED: solute carrier family 17 member 9,424
+EIIEFF,110..115,XP_011049204,Acromyrmex echinatior (Panamanian leafcutter ant),PREDICTED: solute carrier family 17 member 9,424
+DGTSVL,118..123,XP_011049204,Acromyrmex echinatior (Panamanian leafcutter ant),PREDICTED: solute carrier family 17 member 9,424
+ERASFF,155..160,XP_011049204,Acromyrmex echinatior (Panamanian leafcutter ant),PREDICTED: solute carrier family 17 member 9,424
+ENYNWM,183..188,XP_011049204,Acromyrmex echinatior (Panamanian leafcutter ant),PREDICTED: solute carrier family 17 member 9,424
+EIRGWI,268..273,XP_011049204,Acromyrmex echinatior (Panamanian leafcutter ant),PREDICTED: solute carrier family 17 member 9,424
+EIGSLL,318..323,XP_011049204,Acromyrmex echinatior (Panamanian leafcutter ant),PREDICTED: solute carrier family 17 member 9,424
+V1,V2,V3,V4,V5,V6
+ERRKWF,23..28,XP_011151944,Harpegnathos saltator (Jerdon's jumping ant),solute carrier family 17 member 9,423
+EIINFY,110..115,XP_011151944,Harpegnathos saltator (Jerdon's jumping ant),solute carrier family 17 member 9,423
+ERASFF,154..159,XP_011151944,Harpegnathos saltator (Jerdon's jumping ant),solute carrier family 17 member 9,423
+ENYNWM,182..187,XP_011151944,Harpegnathos saltator (Jerdon's jumping ant),solute carrier family 17 member 9,423
+EVKGWL,267..272,XP_011151944,Harpegnathos saltator (Jerdon's jumping ant),solute carrier family 17 member 9,423
+EIGSLL,317..322,XP_011151944,Harpegnathos saltator (Jerdon's jumping ant),solute carrier family 17 member 9,423
+V1,V2,V3,V4,V5,V6
+ERQKWF,22..27,XP_011159590,Solenopsis invicta (red fire ant),solute carrier family 17 member 9,424
+DSGIIL,61..66,XP_011159590,Solenopsis invicta (red fire ant),solute carrier family 17 member 9,424
+EIIDFF,109..114,XP_011159590,Solenopsis invicta (red fire ant),solute carrier family 17 member 9,424
+DGTSVL,117..122,XP_011159590,Solenopsis invicta (red fire ant),solute carrier family 17 member 9,424
+ERASFF,154..159,XP_011159590,Solenopsis invicta (red fire ant),solute carrier family 17 member 9,424
+ENYNWM,182..187,XP_011159590,Solenopsis invicta (red fire ant),solute carrier family 17 member 9,424
+EVKGWV,268..273,XP_011159590,Solenopsis invicta (red fire ant),solute carrier family 17 member 9,424
+EIGSLL,318..323,XP_011159590,Solenopsis invicta (red fire ant),solute carrier family 17 member 9,424
+V1,V2,V3,V4,V5,V6
+DSQNAW,18..23,XP_011190503,Zeugodacus cucurbitae (melon fly),solute carrier family 17 member 9,439
+EKRVWF,27..32,XP_011190503,Zeugodacus cucurbitae (melon fly),solute carrier family 17 member 9,439
+DSGTVL,66..71,XP_011190503,Zeugodacus cucurbitae (melon fly),solute carrier family 17 member 9,439
+ERTSFF,160..165,XP_011190503,Zeugodacus cucurbitae (melon fly),solute carrier family 17 member 9,439
+ERGRII,218..223,XP_011190503,Zeugodacus cucurbitae (melon fly),solute carrier family 17 member 9,439
+DNVPWL,239..244,XP_011190503,Zeugodacus cucurbitae (melon fly),solute carrier family 17 member 9,439
+EMNCFF,262..267,XP_011190503,Zeugodacus cucurbitae (melon fly),solute carrier family 17 member 9,439
+DFHTAL,345..350,XP_011190503,Zeugodacus cucurbitae (melon fly),solute carrier family 17 member 9,439
+V1,V2,V3,V4,V5,V6
+DSQNAW,18..23,XP_011214214,Bactrocera dorsalis (oriental fruit fly),solute carrier family 17 member 9,415
+EKRVWF,27..32,XP_011214214,Bactrocera dorsalis (oriental fruit fly),solute carrier family 17 member 9,415
+DSGTVL,66..71,XP_011214214,Bactrocera dorsalis (oriental fruit fly),solute carrier family 17 member 9,415
+ERTSFF,160..165,XP_011214214,Bactrocera dorsalis (oriental fruit fly),solute carrier family 17 member 9,415
+ERGRII,218..223,XP_011214214,Bactrocera dorsalis (oriental fruit fly),solute carrier family 17 member 9,415
+DNVPWL,239..244,XP_011214214,Bactrocera dorsalis (oriental fruit fly),solute carrier family 17 member 9,415
+EMNCFF,262..267,XP_011214214,Bactrocera dorsalis (oriental fruit fly),solute carrier family 17 member 9,415
+DFHTAL,345..350,XP_011214214,Bactrocera dorsalis (oriental fruit fly),solute carrier family 17 member 9,415
+DNTKLA,407..412,XP_011214214,Bactrocera dorsalis (oriental fruit fly),solute carrier family 17 member 9,415
+V1,V2,V3,V4,V5,V6
+EKNSFW,23..28,XP_011312604,Fopius arisanus,PREDICTED: solute carrier family 17 member 9,436
+ERKRWF,32..37,XP_011312604,Fopius arisanus,PREDICTED: solute carrier family 17 member 9,436
+DSGIIL,71..76,XP_011312604,Fopius arisanus,PREDICTED: solute carrier family 17 member 9,436
+EIIAMA,132..137,XP_011312604,Fopius arisanus,PREDICTED: solute carrier family 17 member 9,436
+ERASFF,164..169,XP_011312604,Fopius arisanus,PREDICTED: solute carrier family 17 member 9,436
+DVPSWV,280..285,XP_011312604,Fopius arisanus,PREDICTED: solute carrier family 17 member 9,436
+ETICFV,323..328,XP_011312604,Fopius arisanus,PREDICTED: solute carrier family 17 member 9,436
+V1,V2,V3,V4,V5,V6
+ERRRWF,22..27,XP_011331867,Ooceraea biroi (clonal raider ant),solute carrier family 17 member 9,424
+DSGVIL,61..66,XP_011331867,Ooceraea biroi (clonal raider ant),solute carrier family 17 member 9,424
+EIIEFF,109..114,XP_011331867,Ooceraea biroi (clonal raider ant),solute carrier family 17 member 9,424
+DETSIL,117..122,XP_011331867,Ooceraea biroi (clonal raider ant),solute carrier family 17 member 9,424
+ERASFF,154..159,XP_011331867,Ooceraea biroi (clonal raider ant),solute carrier family 17 member 9,424
+ENYDWM,182..187,XP_011331867,Ooceraea biroi (clonal raider ant),solute carrier family 17 member 9,424
+EVKGWV,268..273,XP_011331867,Ooceraea biroi (clonal raider ant),solute carrier family 17 member 9,424
+EIGSLL,318..323,XP_011331867,Ooceraea biroi (clonal raider ant),solute carrier family 17 member 9,424
+V1,V2,V3,V4,V5,V6
+EAGIAL,60..65,XP_011372437,Pteropus vampyrus (large flying fox),solute carrier family 17 member 9,485
+EKIILL,89..94,XP_011372437,Pteropus vampyrus (large flying fox),solute carrier family 17 member 9,485
+V1,V2,V3,V4,V5,V6
+DSGTIL,54..59,XP_011502869,Ceratosolen solmsi marchali,PREDICTED: solute carrier family 17 member 9,417
+EIIAFA,115..120,XP_011502869,Ceratosolen solmsi marchali,PREDICTED: solute carrier family 17 member 9,417
+ERASFF,147..152,XP_011502869,Ceratosolen solmsi marchali,PREDICTED: solute carrier family 17 member 9,417
+EWDSVF,178..183,XP_011502869,Ceratosolen solmsi marchali,PREDICTED: solute carrier family 17 member 9,417
+EVKSWI,261..266,XP_011502869,Ceratosolen solmsi marchali,PREDICTED: solute carrier family 17 member 9,417
+EKAILY,325..330,XP_011502869,Ceratosolen solmsi marchali,PREDICTED: solute carrier family 17 member 9,417
+EIIGAL,400..405,XP_011502869,Ceratosolen solmsi marchali,PREDICTED: solute carrier family 17 member 9,417
+V1,V2,V3,V4,V5,V6
+ESERAF,29..34,XP_011527280,Homo sapiens (human),solute carrier family 17 member 9 isoform X1,316
+EKDLIL,88..93,XP_011527280,Homo sapiens (human),solute carrier family 17 member 9 isoform X1,316
+DAKGWI,152..157,XP_011527280,Homo sapiens (human),solute carrier family 17 member 9 isoform X1,316
+ESVVFA,217..222,XP_011527280,Homo sapiens (human),solute carrier family 17 member 9 isoform X1,316
+V1,V2,V3,V4,V5,V6
+ERRKWF,23..28,XP_011698617,Wasmannia auropunctata (little fire ant),PREDICTED: solute carrier family 17 member 9,425
+DSGIIL,62..67,XP_011698617,Wasmannia auropunctata (little fire ant),PREDICTED: solute carrier family 17 member 9,425
+EIIDFF,110..115,XP_011698617,Wasmannia auropunctata (little fire ant),PREDICTED: solute carrier family 17 member 9,425
+DGTSVL,118..123,XP_011698617,Wasmannia auropunctata (little fire ant),PREDICTED: solute carrier family 17 member 9,425
+DRATFF,155..160,XP_011698617,Wasmannia auropunctata (little fire ant),PREDICTED: solute carrier family 17 member 9,425
+ENYDWM,183..188,XP_011698617,Wasmannia auropunctata (little fire ant),PREDICTED: solute carrier family 17 member 9,425
+EVRGWV,269..274,XP_011698617,Wasmannia auropunctata (little fire ant),PREDICTED: solute carrier family 17 member 9,425
+EIGSLI,319..324,XP_011698617,Wasmannia auropunctata (little fire ant),PREDICTED: solute carrier family 17 member 9,425
+V1,V2,V3,V4,V5,V6
+EAGILL,44..49,XP_011789933,Colobus angolensis palliatus,PREDICTED: solute carrier family 17 member 9,419
+EKVILL,73..78,XP_011789933,Colobus angolensis palliatus,PREDICTED: solute carrier family 17 member 9,419
+DSERAF,132..137,XP_011789933,Colobus angolensis palliatus,PREDICTED: solute carrier family 17 member 9,419
+DLVLAL,193..198,XP_011789933,Colobus angolensis palliatus,PREDICTED: solute carrier family 17 member 9,419
+DAKGWI,255..260,XP_011789933,Colobus angolensis palliatus,PREDICTED: solute carrier family 17 member 9,419
+ESVVFA,320..325,XP_011789933,Colobus angolensis palliatus,PREDICTED: solute carrier family 17 member 9,419
+V1,V2,V3,V4,V5,V6
+EAGIVL,62..67,XP_011847822,Mandrillus leucophaeus (drill),PREDICTED: solute carrier family 17 member 9,437
+EKVILL,91..96,XP_011847822,Mandrillus leucophaeus (drill),PREDICTED: solute carrier family 17 member 9,437
+DSERAF,150..155,XP_011847822,Mandrillus leucophaeus (drill),PREDICTED: solute carrier family 17 member 9,437
+DLVLAL,211..216,XP_011847822,Mandrillus leucophaeus (drill),PREDICTED: solute carrier family 17 member 9,437
+DAKGWI,273..278,XP_011847822,Mandrillus leucophaeus (drill),PREDICTED: solute carrier family 17 member 9,437
+ESVVFA,338..343,XP_011847822,Mandrillus leucophaeus (drill),PREDICTED: solute carrier family 17 member 9,437
+V1,V2,V3,V4,V5,V6
+DDRTIL,13..18,XP_011860014,Vollenhovia emeryi,PREDICTED: solute carrier family 17 member 9,423
+ERQKWF,24..29,XP_011860014,Vollenhovia emeryi,PREDICTED: solute carrier family 17 member 9,423
+DSGIIL,63..68,XP_011860014,Vollenhovia emeryi,PREDICTED: solute carrier family 17 member 9,423
+EIIEFF,111..116,XP_011860014,Vollenhovia emeryi,PREDICTED: solute carrier family 17 member 9,423
+DGTSVW,119..124,XP_011860014,Vollenhovia emeryi,PREDICTED: solute carrier family 17 member 9,423
+ERASFF,156..161,XP_011860014,Vollenhovia emeryi,PREDICTED: solute carrier family 17 member 9,423
+ENYNWM,184..189,XP_011860014,Vollenhovia emeryi,PREDICTED: solute carrier family 17 member 9,423
+EIRGWV,267..272,XP_011860014,Vollenhovia emeryi,PREDICTED: solute carrier family 17 member 9,423
+EIGSLL,317..322,XP_011860014,Vollenhovia emeryi,PREDICTED: solute carrier family 17 member 9,423
+V1,V2,V3,V4,V5,V6
+ERQKWF,23..28,XP_012059366,Atta cephalotes,PREDICTED: solute carrier family 17 member 9,425
+DSGIIL,62..67,XP_012059366,Atta cephalotes,PREDICTED: solute carrier family 17 member 9,425
+EIIEYF,110..115,XP_012059366,Atta cephalotes,PREDICTED: solute carrier family 17 member 9,425
+DGTSIL,118..123,XP_012059366,Atta cephalotes,PREDICTED: solute carrier family 17 member 9,425
+ERASFF,155..160,XP_012059366,Atta cephalotes,PREDICTED: solute carrier family 17 member 9,425
+ENYNWM,183..188,XP_012059366,Atta cephalotes,PREDICTED: solute carrier family 17 member 9,425
+EIRGWI,269..274,XP_012059366,Atta cephalotes,PREDICTED: solute carrier family 17 member 9,425
+EIGSLL,319..324,XP_012059366,Atta cephalotes,PREDICTED: solute carrier family 17 member 9,425
+V1,V2,V3,V4,V5,V6
+ERRKWF,25..30,XP_012216874,Linepithema humile (Argentine ant),PREDICTED: solute carrier family 17 member 9,427
+DSGIIL,64..69,XP_012216874,Linepithema humile (Argentine ant),PREDICTED: solute carrier family 17 member 9,427
+EIIEFF,112..117,XP_012216874,Linepithema humile (Argentine ant),PREDICTED: solute carrier family 17 member 9,427
+DDSSIF,120..125,XP_012216874,Linepithema humile (Argentine ant),PREDICTED: solute carrier family 17 member 9,427
+ERASFF,157..162,XP_012216874,Linepithema humile (Argentine ant),PREDICTED: solute carrier family 17 member 9,427
+ENYNWM,185..190,XP_012216874,Linepithema humile (Argentine ant),PREDICTED: solute carrier family 17 member 9,427
+DVKVWI,271..276,XP_012216874,Linepithema humile (Argentine ant),PREDICTED: solute carrier family 17 member 9,427
+EIGSLL,321..326,XP_012216874,Linepithema humile (Argentine ant),PREDICTED: solute carrier family 17 member 9,427
+V1,V2,V3,V4,V5,V6
+ERRKWF,31..36,XP_012255342,Athalia rosae (coleseed sawfly),solute carrier family 17 member 9,433
+DSGTIL,70..75,XP_012255342,Athalia rosae (coleseed sawfly),solute carrier family 17 member 9,433
+DRASFF,163..168,XP_012255342,Athalia rosae (coleseed sawfly),solute carrier family 17 member 9,433
+EGKGWV,277..282,XP_012255342,Athalia rosae (coleseed sawfly),solute carrier family 17 member 9,433
+ETICLM,320..325,XP_012255342,Athalia rosae (coleseed sawfly),solute carrier family 17 member 9,433
+V1,V2,V3,V4,V5,V6
+DMTCLF,7..12,XP_012281033,Orussus abietinus,solute carrier family 17 member 9,420
+ERRRWF,17..22,XP_012281033,Orussus abietinus,solute carrier family 17 member 9,420
+DSGIFL,56..61,XP_012281033,Orussus abietinus,solute carrier family 17 member 9,420
+DSDFVI,111..116,XP_012281033,Orussus abietinus,solute carrier family 17 member 9,420
+ERASFF,149..154,XP_012281033,Orussus abietinus,solute carrier family 17 member 9,420
+DWTVVF,180..185,XP_012281033,Orussus abietinus,solute carrier family 17 member 9,420
+EAKGWI,264..269,XP_012281033,Orussus abietinus,solute carrier family 17 member 9,420
+V1,V2,V3,V4,V5,V6
+EAGIVL,64..69,XP_012421261,Odobenus rosmarus divergens (Pacific walrus),PREDICTED: solute carrier family 17 member 9,439
+EKVILL,93..98,XP_012421261,Odobenus rosmarus divergens (Pacific walrus),PREDICTED: solute carrier family 17 member 9,439
+ESERAF,152..157,XP_012421261,Odobenus rosmarus divergens (Pacific walrus),PREDICTED: solute carrier family 17 member 9,439
+EQDLIL,211..216,XP_012421261,Odobenus rosmarus divergens (Pacific walrus),PREDICTED: solute carrier family 17 member 9,439
+V1,V2,V3,V4,V5,V6
+EAGIVL,61..66,XP_012659420,Otolemur garnettii (small-eared galago),solute carrier family 17 member 9,436
+EKVIML,90..95,XP_012659420,Otolemur garnettii (small-eared galago),solute carrier family 17 member 9,436
+ESERAL,149..154,XP_012659420,Otolemur garnettii (small-eared galago),solute carrier family 17 member 9,436
+DKDIVL,208..213,XP_012659420,Otolemur garnettii (small-eared galago),solute carrier family 17 member 9,436
+V1,V2,V3,V4,V5,V6
+DNFGAA,24..29,XP_012690457,Clupea harengus (Atlantic herring),solute carrier family 17 member 9,465
+ESGMVL,85..90,XP_012690457,Clupea harengus (Atlantic herring),solute carrier family 17 member 9,465
+EKVLLL,114..119,XP_012690457,Clupea harengus (Atlantic herring),solute carrier family 17 member 9,465
+ERGFLM,175..180,XP_012690457,Clupea harengus (Atlantic herring),solute carrier family 17 member 9,465
+ESVFYV,208..213,XP_012690457,Clupea harengus (Atlantic herring),solute carrier family 17 member 9,465
+DAKGWV,296..301,XP_012690457,Clupea harengus (Atlantic herring),solute carrier family 17 member 9,465
+V1,V2,V3,V4,V5,V6
+ERHKWM,9..14,XP_012796951,Schistosoma haematobium,Solute carrier family 17 member 9,470
+EMGFMM,48..53,XP_012796951,Schistosoma haematobium,Solute carrier family 17 member 9,470
+EIVIAI,77..82,XP_012796951,Schistosoma haematobium,Solute carrier family 17 member 9,470
+DIYGLF,106..111,XP_012796951,Schistosoma haematobium,Solute carrier family 17 member 9,470
+ESTFVY,248..253,XP_012796951,Schistosoma haematobium,Solute carrier family 17 member 9,470
+DARSWV,314..319,XP_012796951,Schistosoma haematobium,Solute carrier family 17 member 9,470
+V1,V2,V3,V4,V5,V6
+EAGLVL,155..160,XP_012915577,Mustela putorius furo (domestic ferret),PREDICTED: solute carrier family 17 member 9, partial,530
+EKVILL,184..189,XP_012915577,Mustela putorius furo (domestic ferret),PREDICTED: solute carrier family 17 member 9, partial,530
+ESERAF,243..248,XP_012915577,Mustela putorius furo (domestic ferret),PREDICTED: solute carrier family 17 member 9, partial,530
+DLILAL,304..309,XP_012915577,Mustela putorius furo (domestic ferret),PREDICTED: solute carrier family 17 member 9, partial,530
+V1,V2,V3,V4,V5,V6
+EKVLLL,64..69,XP_013044466,Anser cygnoides domesticus,PREDICTED: solute carrier family 17 member 9,410
+ESERAF,123..128,XP_013044466,Anser cygnoides domesticus,PREDICTED: solute carrier family 17 member 9,410
+ESVFYF,158..163,XP_013044466,Anser cygnoides domesticus,PREDICTED: solute carrier family 17 member 9,410
+ESKGWV,246..251,XP_013044466,Anser cygnoides domesticus,PREDICTED: solute carrier family 17 member 9,410
+ETTGAW,369..374,XP_013044466,Anser cygnoides domesticus,PREDICTED: solute carrier family 17 member 9,410
+DTDSAY,402..407,XP_013044466,Anser cygnoides domesticus,PREDICTED: solute carrier family 17 member 9,410
+V1,V2,V3,V4,V5,V6
+DTQSIW,18..23,XP_013116347,Stomoxys calcitrans (stable fly),PREDICTED: solute carrier family 17 member 9,439
+EKRIWF,27..32,XP_013116347,Stomoxys calcitrans (stable fly),PREDICTED: solute carrier family 17 member 9,439
+DSGTVL,66..71,XP_013116347,Stomoxys calcitrans (stable fly),PREDICTED: solute carrier family 17 member 9,439
+ERTSFF,160..165,XP_013116347,Stomoxys calcitrans (stable fly),PREDICTED: solute carrier family 17 member 9,439
+ERNRII,218..223,XP_013116347,Stomoxys calcitrans (stable fly),PREDICTED: solute carrier family 17 member 9,439
+ETVPWL,239..244,XP_013116347,Stomoxys calcitrans (stable fly),PREDICTED: solute carrier family 17 member 9,439
+EMNCFF,262..267,XP_013116347,Stomoxys calcitrans (stable fly),PREDICTED: solute carrier family 17 member 9,439
+DFHTAL,345..350,XP_013116347,Stomoxys calcitrans (stable fly),PREDICTED: solute carrier family 17 member 9,439
+V1,V2,V3,V4,V5,V6
+ETLQAV,64..69,XP_013809020,Apteryx mantelli mantelli,PREDICTED: solute carrier family 17 member 9,749
+EKKNLL,83..88,XP_013809020,Apteryx mantelli mantelli,PREDICTED: solute carrier family 17 member 9,749
+DYGRWF,134..139,XP_013809020,Apteryx mantelli mantelli,PREDICTED: solute carrier family 17 member 9,749
+EEAALA,192..197,XP_013809020,Apteryx mantelli mantelli,PREDICTED: solute carrier family 17 member 9,749
+EKVLLF,403..408,XP_013809020,Apteryx mantelli mantelli,PREDICTED: solute carrier family 17 member 9,749
+ESERAF,462..467,XP_013809020,Apteryx mantelli mantelli,PREDICTED: solute carrier family 17 member 9,749
+ESVFYF,497..502,XP_013809020,Apteryx mantelli mantelli,PREDICTED: solute carrier family 17 member 9,749
+EKELII,521..526,XP_013809020,Apteryx mantelli mantelli,PREDICTED: solute carrier family 17 member 9,749
+ESKGWV,585..590,XP_013809020,Apteryx mantelli mantelli,PREDICTED: solute carrier family 17 member 9,749
+DTDSAY,741..746,XP_013809020,Apteryx mantelli mantelli,PREDICTED: solute carrier family 17 member 9,749
+V1,V2,V3,V4,V5,V6
+ESGMVL,86..91,XP_013872232,Austrofundulus limnaeus,PREDICTED: solute carrier family 17 member 9,465
+EKVLLL,115..120,XP_013872232,Austrofundulus limnaeus,PREDICTED: solute carrier family 17 member 9,465
+ERGFLM,176..181,XP_013872232,Austrofundulus limnaeus,PREDICTED: solute carrier family 17 member 9,465
+ESVFYV,209..214,XP_013872232,Austrofundulus limnaeus,PREDICTED: solute carrier family 17 member 9,465
+DAKGWV,297..302,XP_013872232,Austrofundulus limnaeus,PREDICTED: solute carrier family 17 member 9,465
+V1,V2,V3,V4,V5,V6
+DSQNAW,18..23,XP_014103160,Bactrocera oleae (olive fruit fly),PREDICTED: solute carrier family 17 member 9,439
+EKRVWF,27..32,XP_014103160,Bactrocera oleae (olive fruit fly),PREDICTED: solute carrier family 17 member 9,439
+DSGTVL,66..71,XP_014103160,Bactrocera oleae (olive fruit fly),PREDICTED: solute carrier family 17 member 9,439
+ERTSFF,160..165,XP_014103160,Bactrocera oleae (olive fruit fly),PREDICTED: solute carrier family 17 member 9,439
+ERGRII,218..223,XP_014103160,Bactrocera oleae (olive fruit fly),PREDICTED: solute carrier family 17 member 9,439
+DNVPWL,239..244,XP_014103160,Bactrocera oleae (olive fruit fly),PREDICTED: solute carrier family 17 member 9,439
+EMNCFF,262..267,XP_014103160,Bactrocera oleae (olive fruit fly),PREDICTED: solute carrier family 17 member 9,439
+DFHTAL,345..350,XP_014103160,Bactrocera oleae (olive fruit fly),PREDICTED: solute carrier family 17 member 9,439
+V1,V2,V3,V4,V5,V6
+EKVLLL,79..84,XP_014162953,Geospiza fortis (medium ground-finch),solute carrier family 17 member 9,425
+ESERAF,138..143,XP_014162953,Geospiza fortis (medium ground-finch),solute carrier family 17 member 9,425
+ESVFYF,173..178,XP_014162953,Geospiza fortis (medium ground-finch),solute carrier family 17 member 9,425
+DSKGWV,261..266,XP_014162953,Geospiza fortis (medium ground-finch),solute carrier family 17 member 9,425
+DTGSVY,417..422,XP_014162953,Geospiza fortis (medium ground-finch),solute carrier family 17 member 9,425
+V1,V2,V3,V4,V5,V6
+DSGTIL,55..60,XP_014204480,Copidosoma floridanum,solute carrier family 17 member 9,414
+DVIRYF,103..108,XP_014204480,Copidosoma floridanum,solute carrier family 17 member 9,414
+ERASFF,144..149,XP_014204480,Copidosoma floridanum,solute carrier family 17 member 9,414
+EVKGWI,258..263,XP_014204480,Copidosoma floridanum,solute carrier family 17 member 9,414
+EKAIAY,322..327,XP_014204480,Copidosoma floridanum,solute carrier family 17 member 9,414
+V1,V2,V3,V4,V5,V6
+DSGMIL,56..61,XP_014232854,Trichogramma pretiosum,solute carrier family 17 member 9,418
+ERASFF,148..153,XP_014232854,Trichogramma pretiosum,solute carrier family 17 member 9,418
+EVKSWI,262..267,XP_014232854,Trichogramma pretiosum,solute carrier family 17 member 9,418
+EKAILY,326..331,XP_014232854,Trichogramma pretiosum,solute carrier family 17 member 9,418
+V1,V2,V3,V4,V5,V6
+DLFFFF,10..15,XP_014342411,Latimeria chalumnae (coelacanth),PREDICTED: solute carrier family 17 member 9,359
+EKVLLL,27..32,XP_014342411,Latimeria chalumnae (coelacanth),PREDICTED: solute carrier family 17 member 9,359
+ESVFFF,121..126,XP_014342411,Latimeria chalumnae (coelacanth),PREDICTED: solute carrier family 17 member 9,359
+V1,V2,V3,V4,V5,V6
+ERQRWF,23..28,XP_014477312,Dinoponera quadriceps,PREDICTED: solute carrier family 17 member 9,425
+DSGVIL,62..67,XP_014477312,Dinoponera quadriceps,PREDICTED: solute carrier family 17 member 9,425
+ERASFF,154..159,XP_014477312,Dinoponera quadriceps,PREDICTED: solute carrier family 17 member 9,425
+ENYNWM,182..187,XP_014477312,Dinoponera quadriceps,PREDICTED: solute carrier family 17 member 9,425
+EVKGWV,268..273,XP_014477312,Dinoponera quadriceps,PREDICTED: solute carrier family 17 member 9,425
+EIGSLL,318..323,XP_014477312,Dinoponera quadriceps,PREDICTED: solute carrier family 17 member 9,425
+V1,V2,V3,V4,V5,V6
+EAGIVL,79..84,XP_014704638,Equus asinus (ass),PREDICTED: solute carrier family 17 member 9,454
+EKVILL,108..113,XP_014704638,Equus asinus (ass),PREDICTED: solute carrier family 17 member 9,454
+ESERAF,167..172,XP_014704638,Equus asinus (ass),PREDICTED: solute carrier family 17 member 9,454
+EQDLIL,226..231,XP_014704638,Equus asinus (ass),PREDICTED: solute carrier family 17 member 9,454
+V1,V2,V3,V4,V5,V6
+EKVLLL,102..107,XP_014729268,Sturnus vulgaris (Common starling),PREDICTED: solute carrier family 17 member 9,448
+ESERAF,161..166,XP_014729268,Sturnus vulgaris (Common starling),PREDICTED: solute carrier family 17 member 9,448
+ESVFYF,196..201,XP_014729268,Sturnus vulgaris (Common starling),PREDICTED: solute carrier family 17 member 9,448
+ESKGWV,284..289,XP_014729268,Sturnus vulgaris (Common starling),PREDICTED: solute carrier family 17 member 9,448
+DTHSVY,440..445,XP_014729268,Sturnus vulgaris (Common starling),PREDICTED: solute carrier family 17 member 9,448
+V1,V2,V3,V4,V5,V6
+EKVLLL,109..114,XP_014810028,Calidris pugnax (ruff),PREDICTED: solute carrier family 17 member 9,455
+ESERAF,168..173,XP_014810028,Calidris pugnax (ruff),PREDICTED: solute carrier family 17 member 9,455
+ESVFYF,203..208,XP_014810028,Calidris pugnax (ruff),PREDICTED: solute carrier family 17 member 9,455
+EKELII,227..232,XP_014810028,Calidris pugnax (ruff),PREDICTED: solute carrier family 17 member 9,455
+ESKGWV,291..296,XP_014810028,Calidris pugnax (ruff),PREDICTED: solute carrier family 17 member 9,455
+DTDSAY,447..452,XP_014810028,Calidris pugnax (ruff),PREDICTED: solute carrier family 17 member 9,455
+V1,V2,V3,V4,V5,V6
+ESGMVL,86..91,XP_014853961,Poecilia mexicana,PREDICTED: solute carrier family 17 member 9,466
+EKVLLL,115..120,XP_014853961,Poecilia mexicana,PREDICTED: solute carrier family 17 member 9,466
+ERGFLM,176..181,XP_014853961,Poecilia mexicana,PREDICTED: solute carrier family 17 member 9,466
+ESVFYV,209..214,XP_014853961,Poecilia mexicana,PREDICTED: solute carrier family 17 member 9,466
+DAKGWV,297..302,XP_014853961,Poecilia mexicana,PREDICTED: solute carrier family 17 member 9,466
+V1,V2,V3,V4,V5,V6
+ESGMVL,86..91,XP_014900176,Poecilia latipinna (sailfin molly),PREDICTED: solute carrier family 17 member 9,466
+EKVLLL,115..120,XP_014900176,Poecilia latipinna (sailfin molly),PREDICTED: solute carrier family 17 member 9,466
+ERGFLM,176..181,XP_014900176,Poecilia latipinna (sailfin molly),PREDICTED: solute carrier family 17 member 9,466
+ESVFYA,209..214,XP_014900176,Poecilia latipinna (sailfin molly),PREDICTED: solute carrier family 17 member 9,466
+DAKGWV,297..302,XP_014900176,Poecilia latipinna (sailfin molly),PREDICTED: solute carrier family 17 member 9,466
+V1,V2,V3,V4,V5,V6
+EEKSIF,22..27,XP_015121653,Diachasma alloeum,solute carrier family 17 member 9,437
+ERKRWF,32..37,XP_015121653,Diachasma alloeum,solute carrier family 17 member 9,437
+DSGMIL,71..76,XP_015121653,Diachasma alloeum,solute carrier family 17 member 9,437
+EIIAMA,132..137,XP_015121653,Diachasma alloeum,solute carrier family 17 member 9,437
+ERASFF,164..169,XP_015121653,Diachasma alloeum,solute carrier family 17 member 9,437
+DVPSWM,281..286,XP_015121653,Diachasma alloeum,solute carrier family 17 member 9,437
+ETICFA,324..329,XP_015121653,Diachasma alloeum,solute carrier family 17 member 9,437
+V1,V2,V3,V4,V5,V6
+EGLIIY,27..32,XP_015151868,Gallus gallus (chicken),solute carrier family 17 member 9 isoform X1,545
+EKVLLL,260..265,XP_015151868,Gallus gallus (chicken),solute carrier family 17 member 9 isoform X1,545
+ESERAF,319..324,XP_015151868,Gallus gallus (chicken),solute carrier family 17 member 9 isoform X1,545
+ESVFYF,354..359,XP_015151868,Gallus gallus (chicken),solute carrier family 17 member 9 isoform X1,545
+EKDLVI,378..383,XP_015151868,Gallus gallus (chicken),solute carrier family 17 member 9 isoform X1,545
+ESKGWV,442..447,XP_015151868,Gallus gallus (chicken),solute carrier family 17 member 9 isoform X1,545
+V1,V2,V3,V4,V5,V6
+EGLIIY,27..32,XP_015151869,Gallus gallus (chicken),solute carrier family 17 member 9 isoform X3,540
+EKVLLL,194..199,XP_015151869,Gallus gallus (chicken),solute carrier family 17 member 9 isoform X3,540
+ESERAF,253..258,XP_015151869,Gallus gallus (chicken),solute carrier family 17 member 9 isoform X3,540
+ESVFYF,288..293,XP_015151869,Gallus gallus (chicken),solute carrier family 17 member 9 isoform X3,540
+EKDLVI,312..317,XP_015151869,Gallus gallus (chicken),solute carrier family 17 member 9 isoform X3,540
+ESKGWV,376..381,XP_015151869,Gallus gallus (chicken),solute carrier family 17 member 9 isoform X3,540
+DTDSAY,532..537,XP_015151869,Gallus gallus (chicken),solute carrier family 17 member 9 isoform X3,540
+V1,V2,V3,V4,V5,V6
+ESGMVL,85..90,XP_015247944,Cyprinodon variegatus (sheepshead minnow),PREDICTED: solute carrier family 17 member 9,465
+EKVLLL,114..119,XP_015247944,Cyprinodon variegatus (sheepshead minnow),PREDICTED: solute carrier family 17 member 9,465
+ERGFLM,175..180,XP_015247944,Cyprinodon variegatus (sheepshead minnow),PREDICTED: solute carrier family 17 member 9,465
+ESVFFV,208..213,XP_015247944,Cyprinodon variegatus (sheepshead minnow),PREDICTED: solute carrier family 17 member 9,465
+DAKGWV,296..301,XP_015247944,Cyprinodon variegatus (sheepshead minnow),PREDICTED: solute carrier family 17 member 9,465
+V1,V2,V3,V4,V5,V6
+EKVLLL,124..129,XP_015265818,Gekko japonicus,PREDICTED: solute carrier family 17 member 9,470
+ESERAF,183..188,XP_015265818,Gekko japonicus,PREDICTED: solute carrier family 17 member 9,470
+ESVFYF,218..223,XP_015265818,Gekko japonicus,PREDICTED: solute carrier family 17 member 9,470
+EKEIII,242..247,XP_015265818,Gekko japonicus,PREDICTED: solute carrier family 17 member 9,470
+DSKGWV,306..311,XP_015265818,Gekko japonicus,PREDICTED: solute carrier family 17 member 9,470
+DTDSAY,462..467,XP_015265818,Gekko japonicus,PREDICTED: solute carrier family 17 member 9,470
+V1,V2,V3,V4,V5,V6
+EPYTLY,65..70,XP_015395186,Panthera tigris altaica (Amur tiger),PREDICTED: solute carrier family 17 member 9,498
+ESERAF,216..221,XP_015395186,Panthera tigris altaica (Amur tiger),PREDICTED: solute carrier family 17 member 9,498
+EPSLWA,296..301,XP_015395186,Panthera tigris altaica (Amur tiger),PREDICTED: solute carrier family 17 member 9,498
+V1,V2,V3,V4,V5,V6
+EKRKWF,23..28,XP_015431536,Dufourea novaeangliae,PREDICTED: solute carrier family 17 member 9,425
+DSGIIL,62..67,XP_015431536,Dufourea novaeangliae,PREDICTED: solute carrier family 17 member 9,425
+EIIEFF,110..115,XP_015431536,Dufourea novaeangliae,PREDICTED: solute carrier family 17 member 9,425
+DTSVFL,119..124,XP_015431536,Dufourea novaeangliae,PREDICTED: solute carrier family 17 member 9,425
+ERASFF,155..160,XP_015431536,Dufourea novaeangliae,PREDICTED: solute carrier family 17 member 9,425
+ENYNWM,183..188,XP_015431536,Dufourea novaeangliae,PREDICTED: solute carrier family 17 member 9,425
+EVKSWV,269..274,XP_015431536,Dufourea novaeangliae,PREDICTED: solute carrier family 17 member 9,425
+ETICFA,312..317,XP_015431536,Dufourea novaeangliae,PREDICTED: solute carrier family 17 member 9,425
+EIISLL,319..324,XP_015431536,Dufourea novaeangliae,PREDICTED: solute carrier family 17 member 9,425
+V1,V2,V3,V4,V5,V6
+DSGTIL,72..77,XP_015515629,Neodiprion lecontei (redheaded pine sawfly),PREDICTED: solute carrier family 17 member 9,435
+DRASFF,165..170,XP_015515629,Neodiprion lecontei (redheaded pine sawfly),PREDICTED: solute carrier family 17 member 9,435
+EVKGWV,279..284,XP_015515629,Neodiprion lecontei (redheaded pine sawfly),PREDICTED: solute carrier family 17 member 9,435
+ETICLV,322..327,XP_015515629,Neodiprion lecontei (redheaded pine sawfly),PREDICTED: solute carrier family 17 member 9,435
+V1,V2,V3,V4,V5,V6
+ETPILL,4..9,XP_015608798,Cephus cinctus (wheat stem sawfly),solute carrier family 17 member 9,425
+ERITLF,13..18,XP_015608798,Cephus cinctus (wheat stem sawfly),solute carrier family 17 member 9,425
+ERRKWF,23..28,XP_015608798,Cephus cinctus (wheat stem sawfly),solute carrier family 17 member 9,425
+ESGTVL,62..67,XP_015608798,Cephus cinctus (wheat stem sawfly),solute carrier family 17 member 9,425
+EIVMFL,110..115,XP_015608798,Cephus cinctus (wheat stem sawfly),solute carrier family 17 member 9,425
+DRASFF,155..160,XP_015608798,Cephus cinctus (wheat stem sawfly),solute carrier family 17 member 9,425
+EIKGWL,269..274,XP_015608798,Cephus cinctus (wheat stem sawfly),solute carrier family 17 member 9,425
+ETICFV,312..317,XP_015608798,Cephus cinctus (wheat stem sawfly),solute carrier family 17 member 9,425
+V1,V2,V3,V4,V5,V6
+EKVLLL,122..127,XP_015680966,Protobothrops mucrosquamatus,solute carrier family 17 member 9,469
+ESQRAL,181..186,XP_015680966,Protobothrops mucrosquamatus,solute carrier family 17 member 9,469
+ESVFYL,216..221,XP_015680966,Protobothrops mucrosquamatus,solute carrier family 17 member 9,469
+EKEIIV,240..245,XP_015680966,Protobothrops mucrosquamatus,solute carrier family 17 member 9,469
+DSKGWI,305..310,XP_015680966,Protobothrops mucrosquamatus,solute carrier family 17 member 9,469
+DLDPAY,461..466,XP_015680966,Protobothrops mucrosquamatus,solute carrier family 17 member 9,469
+V1,V2,V3,V4,V5,V6
+ESGMVL,86..91,XP_015823585,Nothobranchius furzeri (turquoise killifish),PREDICTED: solute carrier family 17 member 9,465
+EKILLL,115..120,XP_015823585,Nothobranchius furzeri (turquoise killifish),PREDICTED: solute carrier family 17 member 9,465
+ERGFLM,176..181,XP_015823585,Nothobranchius furzeri (turquoise killifish),PREDICTED: solute carrier family 17 member 9,465
+ESVFYV,209..214,XP_015823585,Nothobranchius furzeri (turquoise killifish),PREDICTED: solute carrier family 17 member 9,465
+DAKGWV,296..301,XP_015823585,Nothobranchius furzeri (turquoise killifish),PREDICTED: solute carrier family 17 member 9,465
+V1,V2,V3,V4,V5,V6
+EAGLVL,61..66,XP_016042416,Erinaceus europaeus (western European hedgehog),PREDICTED: solute carrier family 17 member 9,436
+EKVILL,90..95,XP_016042416,Erinaceus europaeus (western European hedgehog),PREDICTED: solute carrier family 17 member 9,436
+ENERAF,149..154,XP_016042416,Erinaceus europaeus (western European hedgehog),PREDICTED: solute carrier family 17 member 9,436
+DLVPAL,210..215,XP_016042416,Erinaceus europaeus (western European hedgehog),PREDICTED: solute carrier family 17 member 9,436
+V1,V2,V3,V4,V5,V6
+EAGIVL,61..66,XP_016058720,Miniopterus natalensis,PREDICTED: solute carrier family 17 member 9,436
+EKVILL,90..95,XP_016058720,Miniopterus natalensis,PREDICTED: solute carrier family 17 member 9,436
+ESERAF,149..154,XP_016058720,Miniopterus natalensis,PREDICTED: solute carrier family 17 member 9,436
+EQDLIL,208..213,XP_016058720,Miniopterus natalensis,PREDICTED: solute carrier family 17 member 9,436
+V1,V2,V3,V4,V5,V6
+EKVLLL,142..147,XP_016158623,Ficedula albicollis (Collared flycatcher),PREDICTED: solute carrier family 17 member 9,488
+ESERAF,201..206,XP_016158623,Ficedula albicollis (Collared flycatcher),PREDICTED: solute carrier family 17 member 9,488
+ESVFYF,236..241,XP_016158623,Ficedula albicollis (Collared flycatcher),PREDICTED: solute carrier family 17 member 9,488
+ESKGWV,324..329,XP_016158623,Ficedula albicollis (Collared flycatcher),PREDICTED: solute carrier family 17 member 9,488
+DTDSVY,480..485,XP_016158623,Ficedula albicollis (Collared flycatcher),PREDICTED: solute carrier family 17 member 9,488
+V1,V2,V3,V4,V5,V6
+DTQSIW,18..23,XP_016945518,Drosophila suzukii,PREDICTED: solute carrier family 17 member 9,441
+EKRVWF,27..32,XP_016945518,Drosophila suzukii,PREDICTED: solute carrier family 17 member 9,441
+DSGTVL,66..71,XP_016945518,Drosophila suzukii,PREDICTED: solute carrier family 17 member 9,441
+ERSSFF,160..165,XP_016945518,Drosophila suzukii,PREDICTED: solute carrier family 17 member 9,441
+ERNRII,218..223,XP_016945518,Drosophila suzukii,PREDICTED: solute carrier family 17 member 9,441
+EMNCFF,264..269,XP_016945518,Drosophila suzukii,PREDICTED: solute carrier family 17 member 9,441
+DFHTAL,347..352,XP_016945518,Drosophila suzukii,PREDICTED: solute carrier family 17 member 9,441
+V1,V2,V3,V4,V5,V6
+DTQSIW,18..23,XP_016954928,Drosophila biarmipes,PREDICTED: solute carrier family 17 member 9,441
+EKRVWF,27..32,XP_016954928,Drosophila biarmipes,PREDICTED: solute carrier family 17 member 9,441
+DSGTVL,66..71,XP_016954928,Drosophila biarmipes,PREDICTED: solute carrier family 17 member 9,441
+ERSSFF,160..165,XP_016954928,Drosophila biarmipes,PREDICTED: solute carrier family 17 member 9,441
+ERNRII,218..223,XP_016954928,Drosophila biarmipes,PREDICTED: solute carrier family 17 member 9,441
+EMNCFF,264..269,XP_016954928,Drosophila biarmipes,PREDICTED: solute carrier family 17 member 9,441
+DFHTAL,347..352,XP_016954928,Drosophila biarmipes,PREDICTED: solute carrier family 17 member 9,441
+V1,V2,V3,V4,V5,V6
+DTQSIW,16..21,XP_016974206,Drosophila rhopaloa,PREDICTED: solute carrier family 17 member 9,439
+EKRVWF,25..30,XP_016974206,Drosophila rhopaloa,PREDICTED: solute carrier family 17 member 9,439
+DSGTVL,64..69,XP_016974206,Drosophila rhopaloa,PREDICTED: solute carrier family 17 member 9,439
+ERSSFF,158..163,XP_016974206,Drosophila rhopaloa,PREDICTED: solute carrier family 17 member 9,439
+ERNRII,216..221,XP_016974206,Drosophila rhopaloa,PREDICTED: solute carrier family 17 member 9,439
+EMNCFF,262..267,XP_016974206,Drosophila rhopaloa,PREDICTED: solute carrier family 17 member 9,439
+DFHTAL,345..350,XP_016974206,Drosophila rhopaloa,PREDICTED: solute carrier family 17 member 9,439
+V1,V2,V3,V4,V5,V6
+DTQSIW,18..23,XP_016997764,Drosophila takahashii,PREDICTED: solute carrier family 17 member 9,441
+EKRVWF,27..32,XP_016997764,Drosophila takahashii,PREDICTED: solute carrier family 17 member 9,441
+DSGTVL,66..71,XP_016997764,Drosophila takahashii,PREDICTED: solute carrier family 17 member 9,441
+ERSSFF,160..165,XP_016997764,Drosophila takahashii,PREDICTED: solute carrier family 17 member 9,441
+ERNRII,218..223,XP_016997764,Drosophila takahashii,PREDICTED: solute carrier family 17 member 9,441
+EMNCFF,264..269,XP_016997764,Drosophila takahashii,PREDICTED: solute carrier family 17 member 9,441
+DFHTAL,347..352,XP_016997764,Drosophila takahashii,PREDICTED: solute carrier family 17 member 9,441
+V1,V2,V3,V4,V5,V6
+DTQSIW,16..21,XP_017026210,Drosophila kikkawai,PREDICTED: solute carrier family 17 member 9,439
+EKRVWF,25..30,XP_017026210,Drosophila kikkawai,PREDICTED: solute carrier family 17 member 9,439
+DSGTVL,64..69,XP_017026210,Drosophila kikkawai,PREDICTED: solute carrier family 17 member 9,439
+ERSSFF,158..163,XP_017026210,Drosophila kikkawai,PREDICTED: solute carrier family 17 member 9,439
+ERNRII,216..221,XP_017026210,Drosophila kikkawai,PREDICTED: solute carrier family 17 member 9,439
+EMNCFF,262..267,XP_017026210,Drosophila kikkawai,PREDICTED: solute carrier family 17 member 9,439
+DFHTAL,345..350,XP_017026210,Drosophila kikkawai,PREDICTED: solute carrier family 17 member 9,439
+V1,V2,V3,V4,V5,V6
+DTQSIW,14..19,XP_017061055,Drosophila ficusphila,PREDICTED: solute carrier family 17 member 9,437
+EKRVWF,23..28,XP_017061055,Drosophila ficusphila,PREDICTED: solute carrier family 17 member 9,437
+DSGTVL,62..67,XP_017061055,Drosophila ficusphila,PREDICTED: solute carrier family 17 member 9,437
+ERSSFF,156..161,XP_017061055,Drosophila ficusphila,PREDICTED: solute carrier family 17 member 9,437
+ERNRII,214..219,XP_017061055,Drosophila ficusphila,PREDICTED: solute carrier family 17 member 9,437
+EMNCFF,260..265,XP_017061055,Drosophila ficusphila,PREDICTED: solute carrier family 17 member 9,437
+DFHTAL,343..348,XP_017061055,Drosophila ficusphila,PREDICTED: solute carrier family 17 member 9,437
+V1,V2,V3,V4,V5,V6
+DTQSIW,14..19,XP_017061056,Drosophila ficusphila,PREDICTED: solute carrier family 17 member 9,437
+EKRVWF,23..28,XP_017061056,Drosophila ficusphila,PREDICTED: solute carrier family 17 member 9,437
+DSGTVL,62..67,XP_017061056,Drosophila ficusphila,PREDICTED: solute carrier family 17 member 9,437
+ERSSFF,156..161,XP_017061056,Drosophila ficusphila,PREDICTED: solute carrier family 17 member 9,437
+ERNRII,214..219,XP_017061056,Drosophila ficusphila,PREDICTED: solute carrier family 17 member 9,437
+EMNCFF,260..265,XP_017061056,Drosophila ficusphila,PREDICTED: solute carrier family 17 member 9,437
+DFHTAL,343..348,XP_017061056,Drosophila ficusphila,PREDICTED: solute carrier family 17 member 9,437
+V1,V2,V3,V4,V5,V6
+DTQSIW,14..19,XP_017061057,Drosophila ficusphila,PREDICTED: solute carrier family 17 member 9,437
+EKRVWF,23..28,XP_017061057,Drosophila ficusphila,PREDICTED: solute carrier family 17 member 9,437
+DSGTVL,62..67,XP_017061057,Drosophila ficusphila,PREDICTED: solute carrier family 17 member 9,437
+ERSSFF,156..161,XP_017061057,Drosophila ficusphila,PREDICTED: solute carrier family 17 member 9,437
+ERNRII,214..219,XP_017061057,Drosophila ficusphila,PREDICTED: solute carrier family 17 member 9,437
+EMNCFF,260..265,XP_017061057,Drosophila ficusphila,PREDICTED: solute carrier family 17 member 9,437
+DFHTAL,343..348,XP_017061057,Drosophila ficusphila,PREDICTED: solute carrier family 17 member 9,437
+V1,V2,V3,V4,V5,V6
+DTQSIW,16..21,XP_017063284,Drosophila eugracilis,PREDICTED: solute carrier family 17 member 9,439
+EKRVWF,25..30,XP_017063284,Drosophila eugracilis,PREDICTED: solute carrier family 17 member 9,439
+DSGTVL,64..69,XP_017063284,Drosophila eugracilis,PREDICTED: solute carrier family 17 member 9,439
+ERSSFF,158..163,XP_017063284,Drosophila eugracilis,PREDICTED: solute carrier family 17 member 9,439
+ERNRII,216..221,XP_017063284,Drosophila eugracilis,PREDICTED: solute carrier family 17 member 9,439
+EMNCFF,262..267,XP_017063284,Drosophila eugracilis,PREDICTED: solute carrier family 17 member 9,439
+DFHTAL,345..350,XP_017063284,Drosophila eugracilis,PREDICTED: solute carrier family 17 member 9,439
+V1,V2,V3,V4,V5,V6
+DTQSIW,16..21,XP_017094877,Drosophila bipectinata,PREDICTED: solute carrier family 17 member 9,439
+EKRVWF,25..30,XP_017094877,Drosophila bipectinata,PREDICTED: solute carrier family 17 member 9,439
+DSGTVL,64..69,XP_017094877,Drosophila bipectinata,PREDICTED: solute carrier family 17 member 9,439
+ERSSFF,158..163,XP_017094877,Drosophila bipectinata,PREDICTED: solute carrier family 17 member 9,439
+ERNRII,216..221,XP_017094877,Drosophila bipectinata,PREDICTED: solute carrier family 17 member 9,439
+EMNCFF,262..267,XP_017094877,Drosophila bipectinata,PREDICTED: solute carrier family 17 member 9,439
+DFHTAL,345..350,XP_017094877,Drosophila bipectinata,PREDICTED: solute carrier family 17 member 9,439
+V1,V2,V3,V4,V5,V6
+DTQSIW,16..21,XP_017116889,Drosophila elegans,PREDICTED: solute carrier family 17 member 9,439
+EKRVWF,25..30,XP_017116889,Drosophila elegans,PREDICTED: solute carrier family 17 member 9,439
+DSGTVL,64..69,XP_017116889,Drosophila elegans,PREDICTED: solute carrier family 17 member 9,439
+ERSSFF,158..163,XP_017116889,Drosophila elegans,PREDICTED: solute carrier family 17 member 9,439
+ERNRII,216..221,XP_017116889,Drosophila elegans,PREDICTED: solute carrier family 17 member 9,439
+EMNCFF,262..267,XP_017116889,Drosophila elegans,PREDICTED: solute carrier family 17 member 9,439
+DFHTAL,345..350,XP_017116889,Drosophila elegans,PREDICTED: solute carrier family 17 member 9,439
+V1,V2,V3,V4,V5,V6
+DTQSIW,16..21,XP_017152630,Drosophila miranda,solute carrier family 17 member 9,438
+EKRVWF,25..30,XP_017152630,Drosophila miranda,solute carrier family 17 member 9,438
+DSGTVL,64..69,XP_017152630,Drosophila miranda,solute carrier family 17 member 9,438
+ERSSFF,158..163,XP_017152630,Drosophila miranda,solute carrier family 17 member 9,438
+ERNRII,216..221,XP_017152630,Drosophila miranda,solute carrier family 17 member 9,438
+EMNCFF,261..266,XP_017152630,Drosophila miranda,solute carrier family 17 member 9,438
+DFHTAL,344..349,XP_017152630,Drosophila miranda,solute carrier family 17 member 9,438
+V1,V2,V3,V4,V5,V6
+ESGMVL,86..91,XP_017270724,Kryptolebias marmoratus (mangrove rivulus),solute carrier family 17 member 9,465
+EKVLLL,115..120,XP_017270724,Kryptolebias marmoratus (mangrove rivulus),solute carrier family 17 member 9,465
+ERGFLM,176..181,XP_017270724,Kryptolebias marmoratus (mangrove rivulus),solute carrier family 17 member 9,465
+ESVFYV,209..214,XP_017270724,Kryptolebias marmoratus (mangrove rivulus),solute carrier family 17 member 9,465
+DAKGWV,297..302,XP_017270724,Kryptolebias marmoratus (mangrove rivulus),solute carrier family 17 member 9,465
+V1,V2,V3,V4,V5,V6
+ESGMVL,85..90,XP_017343084,Ictalurus punctatus (channel catfish),PREDICTED: solute carrier family 17 member 9,465
+EKVMLL,114..119,XP_017343084,Ictalurus punctatus (channel catfish),PREDICTED: solute carrier family 17 member 9,465
+ERGFLM,175..180,XP_017343084,Ictalurus punctatus (channel catfish),PREDICTED: solute carrier family 17 member 9,465
+ESVFYI,208..213,XP_017343084,Ictalurus punctatus (channel catfish),PREDICTED: solute carrier family 17 member 9,465
+DSKGWI,296..301,XP_017343084,Ictalurus punctatus (channel catfish),PREDICTED: solute carrier family 17 member 9,465
+V1,V2,V3,V4,V5,V6
+EAGIVL,50..55,XP_017358999,Cebus capucinus imitator,PREDICTED: solute carrier family 17 member 9,425
+EKVILL,79..84,XP_017358999,Cebus capucinus imitator,PREDICTED: solute carrier family 17 member 9,425
+ESERAF,138..143,XP_017358999,Cebus capucinus imitator,PREDICTED: solute carrier family 17 member 9,425
+DAKGWI,261..266,XP_017358999,Cebus capucinus imitator,PREDICTED: solute carrier family 17 member 9,425
+ESVVFA,326..331,XP_017358999,Cebus capucinus imitator,PREDICTED: solute carrier family 17 member 9,425
+V1,V2,V3,V4,V5,V6
+ESGMVL,85..90,XP_017566413,Pygocentrus nattereri (red-bellied piranha),PREDICTED: solute carrier family 17 member 9,465
+EKVMLL,114..119,XP_017566413,Pygocentrus nattereri (red-bellied piranha),PREDICTED: solute carrier family 17 member 9,465
+ERGFLM,175..180,XP_017566413,Pygocentrus nattereri (red-bellied piranha),PREDICTED: solute carrier family 17 member 9,465
+ESVFYV,208..213,XP_017566413,Pygocentrus nattereri (red-bellied piranha),PREDICTED: solute carrier family 17 member 9,465
+DSKGWV,296..301,XP_017566413,Pygocentrus nattereri (red-bellied piranha),PREDICTED: solute carrier family 17 member 9,465
+V1,V2,V3,V4,V5,V6
+DGDPYW,26..31,XP_017670691,Lepidothrix coronata (blue-crowned manakin),PREDICTED: solute carrier family 17 member 9,449
+EKVLLL,103..108,XP_017670691,Lepidothrix coronata (blue-crowned manakin),PREDICTED: solute carrier family 17 member 9,449
+ESERAF,162..167,XP_017670691,Lepidothrix coronata (blue-crowned manakin),PREDICTED: solute carrier family 17 member 9,449
+ESVFYF,197..202,XP_017670691,Lepidothrix coronata (blue-crowned manakin),PREDICTED: solute carrier family 17 member 9,449
+EKELII,221..226,XP_017670691,Lepidothrix coronata (blue-crowned manakin),PREDICTED: solute carrier family 17 member 9,449
+ESKGWV,285..290,XP_017670691,Lepidothrix coronata (blue-crowned manakin),PREDICTED: solute carrier family 17 member 9,449
+DTDSAY,441..446,XP_017670691,Lepidothrix coronata (blue-crowned manakin),PREDICTED: solute carrier family 17 member 9,449
+V1,V2,V3,V4,V5,V6
+ERRKWF,23..28,XP_017762337,Eufriesea mexicana,PREDICTED: solute carrier family 17 member 9,425
+DSGVIL,62..67,XP_017762337,Eufriesea mexicana,PREDICTED: solute carrier family 17 member 9,425
+EVIELF,110..115,XP_017762337,Eufriesea mexicana,PREDICTED: solute carrier family 17 member 9,425
+DSSIIL,119..124,XP_017762337,Eufriesea mexicana,PREDICTED: solute carrier family 17 member 9,425
+ERASFF,155..160,XP_017762337,Eufriesea mexicana,PREDICTED: solute carrier family 17 member 9,425
+EHYNWI,183..188,XP_017762337,Eufriesea mexicana,PREDICTED: solute carrier family 17 member 9,425
+EVKGWV,269..274,XP_017762337,Eufriesea mexicana,PREDICTED: solute carrier family 17 member 9,425
+ETICFL,312..317,XP_017762337,Eufriesea mexicana,PREDICTED: solute carrier family 17 member 9,425
+EIISLL,319..324,XP_017762337,Eufriesea mexicana,PREDICTED: solute carrier family 17 member 9,425
+V1,V2,V3,V4,V5,V6
+ERRKWF,23..28,XP_017795231,Habropoda laboriosa,PREDICTED: solute carrier family 17 member 9,425
+DSGIIL,62..67,XP_017795231,Habropoda laboriosa,PREDICTED: solute carrier family 17 member 9,425
+DTSVLL,119..124,XP_017795231,Habropoda laboriosa,PREDICTED: solute carrier family 17 member 9,425
+ERASFF,155..160,XP_017795231,Habropoda laboriosa,PREDICTED: solute carrier family 17 member 9,425
+ENYNWI,183..188,XP_017795231,Habropoda laboriosa,PREDICTED: solute carrier family 17 member 9,425
+EVKGWV,269..274,XP_017795231,Habropoda laboriosa,PREDICTED: solute carrier family 17 member 9,425
+ETICFL,312..317,XP_017795231,Habropoda laboriosa,PREDICTED: solute carrier family 17 member 9,425
+EIISLL,319..324,XP_017795231,Habropoda laboriosa,PREDICTED: solute carrier family 17 member 9,425
+V1,V2,V3,V4,V5,V6
+DTQSIW,16..21,XP_017859436,Drosophila arizonae,PREDICTED: solute carrier family 17 member 9,438
+EKRVWF,25..30,XP_017859436,Drosophila arizonae,PREDICTED: solute carrier family 17 member 9,438
+DSGTVL,64..69,XP_017859436,Drosophila arizonae,PREDICTED: solute carrier family 17 member 9,438
+ERSSFF,158..163,XP_017859436,Drosophila arizonae,PREDICTED: solute carrier family 17 member 9,438
+ERNRII,216..221,XP_017859436,Drosophila arizonae,PREDICTED: solute carrier family 17 member 9,438
+EMNCFF,261..266,XP_017859436,Drosophila arizonae,PREDICTED: solute carrier family 17 member 9,438
+DFHTAL,344..349,XP_017859436,Drosophila arizonae,PREDICTED: solute carrier family 17 member 9,438
+V1,V2,V3,V4,V5,V6
+ERRKWF,23..28,XP_017880965,Ceratina calcarata,solute carrier family 17 member 9,425
+DSGIVL,62..67,XP_017880965,Ceratina calcarata,solute carrier family 17 member 9,425
+EVIELF,110..115,XP_017880965,Ceratina calcarata,solute carrier family 17 member 9,425
+DTSVLL,119..124,XP_017880965,Ceratina calcarata,solute carrier family 17 member 9,425
+ERASFF,155..160,XP_017880965,Ceratina calcarata,solute carrier family 17 member 9,425
+ENYSWV,183..188,XP_017880965,Ceratina calcarata,solute carrier family 17 member 9,425
+EVKGWV,269..274,XP_017880965,Ceratina calcarata,solute carrier family 17 member 9,425
+ETICFL,312..317,XP_017880965,Ceratina calcarata,solute carrier family 17 member 9,425
+EIISLV,319..324,XP_017880965,Ceratina calcarata,solute carrier family 17 member 9,425
+V1,V2,V3,V4,V5,V6
+EAGVVL,61..66,XP_017913055,Capra hircus (goat),PREDICTED: solute carrier family 17 member 9,436
+EKVILL,90..95,XP_017913055,Capra hircus (goat),PREDICTED: solute carrier family 17 member 9,436
+ESERAF,149..154,XP_017913055,Capra hircus (goat),PREDICTED: solute carrier family 17 member 9,436
+ERDLIL,208..213,XP_017913055,Capra hircus (goat),PREDICTED: solute carrier family 17 member 9,436
+V1,V2,V3,V4,V5,V6
+DGDPYW,26..31,XP_017929324,Manacus vitellinus (golden-collared manakin),solute carrier family 17 member 9,449
+EKVLLL,103..108,XP_017929324,Manacus vitellinus (golden-collared manakin),solute carrier family 17 member 9,449
+ESERAF,162..167,XP_017929324,Manacus vitellinus (golden-collared manakin),solute carrier family 17 member 9,449
+ESVFYF,197..202,XP_017929324,Manacus vitellinus (golden-collared manakin),solute carrier family 17 member 9,449
+EKELII,221..226,XP_017929324,Manacus vitellinus (golden-collared manakin),solute carrier family 17 member 9,449
+ESKGWV,285..290,XP_017929324,Manacus vitellinus (golden-collared manakin),solute carrier family 17 member 9,449
+DTDSAY,441..446,XP_017929324,Manacus vitellinus (golden-collared manakin),solute carrier family 17 member 9,449
+V1,V2,V3,V4,V5,V6
+ERQKWF,28..33,XP_018055736,Atta colombica,PREDICTED: solute carrier family 17 member 9,430
+DSGIIL,67..72,XP_018055736,Atta colombica,PREDICTED: solute carrier family 17 member 9,430
+EIIEFF,115..120,XP_018055736,Atta colombica,PREDICTED: solute carrier family 17 member 9,430
+DGTSIL,123..128,XP_018055736,Atta colombica,PREDICTED: solute carrier family 17 member 9,430
+ERASFF,160..165,XP_018055736,Atta colombica,PREDICTED: solute carrier family 17 member 9,430
+ENYNWM,188..193,XP_018055736,Atta colombica,PREDICTED: solute carrier family 17 member 9,430
+EIRGWI,274..279,XP_018055736,Atta colombica,PREDICTED: solute carrier family 17 member 9,430
+EIGSLL,324..329,XP_018055736,Atta colombica,PREDICTED: solute carrier family 17 member 9,430
+V1,V2,V3,V4,V5,V6
+EKVIFL,109..114,XP_018092519,Xenopus laevis (African clawed frog),PREDICTED: solute carrier family 17 member 9,453
+ETERAF,168..173,XP_018092519,Xenopus laevis (African clawed frog),PREDICTED: solute carrier family 17 member 9,453
+ESVFYF,203..208,XP_018092519,Xenopus laevis (African clawed frog),PREDICTED: solute carrier family 17 member 9,453
+EKERIV,227..232,XP_018092519,Xenopus laevis (African clawed frog),PREDICTED: solute carrier family 17 member 9,453
+ESKGWV,291..296,XP_018092519,Xenopus laevis (African clawed frog),PREDICTED: solute carrier family 17 member 9,453
+V1,V2,V3,V4,V5,V6
+ERQKWF,23..28,XP_018307412,Trachymyrmex zeteki,PREDICTED: solute carrier family 17 member 9,425
+DSGIIL,62..67,XP_018307412,Trachymyrmex zeteki,PREDICTED: solute carrier family 17 member 9,425
+EIIEFF,110..115,XP_018307412,Trachymyrmex zeteki,PREDICTED: solute carrier family 17 member 9,425
+DGTSVL,118..123,XP_018307412,Trachymyrmex zeteki,PREDICTED: solute carrier family 17 member 9,425
+ERASFF,155..160,XP_018307412,Trachymyrmex zeteki,PREDICTED: solute carrier family 17 member 9,425
+ENYNWM,183..188,XP_018307412,Trachymyrmex zeteki,PREDICTED: solute carrier family 17 member 9,425
+EIRGWI,269..274,XP_018307412,Trachymyrmex zeteki,PREDICTED: solute carrier family 17 member 9,425
+EIGSLL,319..324,XP_018307412,Trachymyrmex zeteki,PREDICTED: solute carrier family 17 member 9,425
+V1,V2,V3,V4,V5,V6
+ERQKWF,23..28,XP_018345374,Trachymyrmex septentrionalis,PREDICTED: solute carrier family 17 member 9,425
+DSGIIL,62..67,XP_018345374,Trachymyrmex septentrionalis,PREDICTED: solute carrier family 17 member 9,425
+EIIEFF,110..115,XP_018345374,Trachymyrmex septentrionalis,PREDICTED: solute carrier family 17 member 9,425
+DGTSVL,118..123,XP_018345374,Trachymyrmex septentrionalis,PREDICTED: solute carrier family 17 member 9,425
+ERASFF,155..160,XP_018345374,Trachymyrmex septentrionalis,PREDICTED: solute carrier family 17 member 9,425
+ENYNWM,183..188,XP_018345374,Trachymyrmex septentrionalis,PREDICTED: solute carrier family 17 member 9,425
+EIRGWI,269..274,XP_018345374,Trachymyrmex septentrionalis,PREDICTED: solute carrier family 17 member 9,425
+EIGSLL,319..324,XP_018345374,Trachymyrmex septentrionalis,PREDICTED: solute carrier family 17 member 9,425
+V1,V2,V3,V4,V5,V6
+ERQKWF,23..28,XP_018365689,Trachymyrmex cornetzi,PREDICTED: solute carrier family 17 member 9,425
+DSGIIL,62..67,XP_018365689,Trachymyrmex cornetzi,PREDICTED: solute carrier family 17 member 9,425
+EIIEFF,110..115,XP_018365689,Trachymyrmex cornetzi,PREDICTED: solute carrier family 17 member 9,425
+DGTSVL,118..123,XP_018365689,Trachymyrmex cornetzi,PREDICTED: solute carrier family 17 member 9,425
+ERASFF,155..160,XP_018365689,Trachymyrmex cornetzi,PREDICTED: solute carrier family 17 member 9,425
+ENYNWM,183..188,XP_018365689,Trachymyrmex cornetzi,PREDICTED: solute carrier family 17 member 9,425
+EIRGWI,269..274,XP_018365689,Trachymyrmex cornetzi,PREDICTED: solute carrier family 17 member 9,425
+EIGSLL,319..324,XP_018365689,Trachymyrmex cornetzi,PREDICTED: solute carrier family 17 member 9,425
+V1,V2,V3,V4,V5,V6
+DDETAL,12..17,XP_018398556,Cyphomyrmex costatus,PREDICTED: solute carrier family 17 member 9,424
+ERQKWF,23..28,XP_018398556,Cyphomyrmex costatus,PREDICTED: solute carrier family 17 member 9,424
+DSGIIL,62..67,XP_018398556,Cyphomyrmex costatus,PREDICTED: solute carrier family 17 member 9,424
+EVIQFF,110..115,XP_018398556,Cyphomyrmex costatus,PREDICTED: solute carrier family 17 member 9,424
+DGTSVL,118..123,XP_018398556,Cyphomyrmex costatus,PREDICTED: solute carrier family 17 member 9,424
+ERASFF,155..160,XP_018398556,Cyphomyrmex costatus,PREDICTED: solute carrier family 17 member 9,424
+ENYNWI,183..188,XP_018398556,Cyphomyrmex costatus,PREDICTED: solute carrier family 17 member 9,424
+V1,V2,V3,V4,V5,V6
+DVDLLL,13..18,XP_018415350,Nanorana parkeri,PREDICTED: solute carrier family 17 member 9,464
+EARVWM,49..54,XP_018415350,Nanorana parkeri,PREDICTED: solute carrier family 17 member 9,464
+ERVLLV,117..122,XP_018415350,Nanorana parkeri,PREDICTED: solute carrier family 17 member 9,464
+EYVFYF,211..216,XP_018415350,Nanorana parkeri,PREDICTED: solute carrier family 17 member 9,464
+EKNKFL,235..240,XP_018415350,Nanorana parkeri,PREDICTED: solute carrier family 17 member 9,464
+ESKGLV,298..303,XP_018415350,Nanorana parkeri,PREDICTED: solute carrier family 17 member 9,464
+DIDSAL,454..459,XP_018415350,Nanorana parkeri,PREDICTED: solute carrier family 17 member 9,464
+V1,V2,V3,V4,V5,V6
+EKRVWF,27..32,XP_018794434,Bactrocera latifrons,PREDICTED: solute carrier family 17 member 9,439
+DSGTVL,66..71,XP_018794434,Bactrocera latifrons,PREDICTED: solute carrier family 17 member 9,439
+ERTSFF,160..165,XP_018794434,Bactrocera latifrons,PREDICTED: solute carrier family 17 member 9,439
+ERGRII,218..223,XP_018794434,Bactrocera latifrons,PREDICTED: solute carrier family 17 member 9,439
+DNVPWL,239..244,XP_018794434,Bactrocera latifrons,PREDICTED: solute carrier family 17 member 9,439
+EMNCFF,262..267,XP_018794434,Bactrocera latifrons,PREDICTED: solute carrier family 17 member 9,439
+DFHTAL,345..350,XP_018794434,Bactrocera latifrons,PREDICTED: solute carrier family 17 member 9,439
+V1,V2,V3,V4,V5,V6
+ETGMVL,85..90,XP_018921920,Cyprinus carpio (common carp),PREDICTED: solute carrier family 17 member 9,465
+EKVMLL,114..119,XP_018921920,Cyprinus carpio (common carp),PREDICTED: solute carrier family 17 member 9,465
+ERGFLM,175..180,XP_018921920,Cyprinus carpio (common carp),PREDICTED: solute carrier family 17 member 9,465
+ESVFYI,208..213,XP_018921920,Cyprinus carpio (common carp),PREDICTED: solute carrier family 17 member 9,465
+DAKGWV,296..301,XP_018921920,Cyprinus carpio (common carp),PREDICTED: solute carrier family 17 member 9,465
+V1,V2,V3,V4,V5,V6
+ESGMVL,86..91,XP_019112003,Larimichthys crocea (large yellow croaker),solute carrier family 17 member 9,466
+EKVLLL,115..120,XP_019112003,Larimichthys crocea (large yellow croaker),solute carrier family 17 member 9,466
+ERGFLM,176..181,XP_019112003,Larimichthys crocea (large yellow croaker),solute carrier family 17 member 9,466
+ESVFYV,209..214,XP_019112003,Larimichthys crocea (large yellow croaker),solute carrier family 17 member 9,466
+DAKGWV,297..302,XP_019112003,Larimichthys crocea (large yellow croaker),solute carrier family 17 member 9,466
+V1,V2,V3,V4,V5,V6
+EKVLLL,84..89,XP_019326205,Aptenodytes forsteri (emperor penguin),PREDICTED: solute carrier family 17 member 9,430
+ESERAF,143..148,XP_019326205,Aptenodytes forsteri (emperor penguin),PREDICTED: solute carrier family 17 member 9,430
+ESVFYF,178..183,XP_019326205,Aptenodytes forsteri (emperor penguin),PREDICTED: solute carrier family 17 member 9,430
+ENELII,202..207,XP_019326205,Aptenodytes forsteri (emperor penguin),PREDICTED: solute carrier family 17 member 9,430
+ESKGWV,266..271,XP_019326205,Aptenodytes forsteri (emperor penguin),PREDICTED: solute carrier family 17 member 9,430
+DTDSAY,422..427,XP_019326205,Aptenodytes forsteri (emperor penguin),PREDICTED: solute carrier family 17 member 9,430
+V1,V2,V3,V4,V5,V6
+EKVLLL,115..120,XP_019365673,Gavialis gangeticus (Gharial),PREDICTED: solute carrier family 17 member 9,461
+ESERAF,174..179,XP_019365673,Gavialis gangeticus (Gharial),PREDICTED: solute carrier family 17 member 9,461
+ESVFYF,209..214,XP_019365673,Gavialis gangeticus (Gharial),PREDICTED: solute carrier family 17 member 9,461
+EKGLII,233..238,XP_019365673,Gavialis gangeticus (Gharial),PREDICTED: solute carrier family 17 member 9,461
+ESKGWV,297..302,XP_019365673,Gavialis gangeticus (Gharial),PREDICTED: solute carrier family 17 member 9,461
+DTVSAY,453..458,XP_019365673,Gavialis gangeticus (Gharial),PREDICTED: solute carrier family 17 member 9,461
+V1,V2,V3,V4,V5,V6
+EKVLLL,115..120,XP_019403788,Crocodylus porosus (Australian saltwater crocodile),PREDICTED: solute carrier family 17 member 9,461
+ESERAF,174..179,XP_019403788,Crocodylus porosus (Australian saltwater crocodile),PREDICTED: solute carrier family 17 member 9,461
+ESVFYF,209..214,XP_019403788,Crocodylus porosus (Australian saltwater crocodile),PREDICTED: solute carrier family 17 member 9,461
+EKGLII,233..238,XP_019403788,Crocodylus porosus (Australian saltwater crocodile),PREDICTED: solute carrier family 17 member 9,461
+ESKGWV,297..302,XP_019403788,Crocodylus porosus (Australian saltwater crocodile),PREDICTED: solute carrier family 17 member 9,461
+DTVSAY,453..458,XP_019403788,Crocodylus porosus (Australian saltwater crocodile),PREDICTED: solute carrier family 17 member 9,461
+V1,V2,V3,V4,V5,V6
+DSQSIW,21..26,XP_019535860,Aedes albopictus (Asian tiger mosquito),solute carrier family 17 member 9,442
+EKRTWF,30..35,XP_019535860,Aedes albopictus (Asian tiger mosquito),solute carrier family 17 member 9,442
+DSGTVL,69..74,XP_019535860,Aedes albopictus (Asian tiger mosquito),solute carrier family 17 member 9,442
+ERTSFF,163..168,XP_019535860,Aedes albopictus (Asian tiger mosquito),solute carrier family 17 member 9,442
+DRNRII,221..226,XP_019535860,Aedes albopictus (Asian tiger mosquito),solute carrier family 17 member 9,442
+ETVPWL,242..247,XP_019535860,Aedes albopictus (Asian tiger mosquito),solute carrier family 17 member 9,442
+EMNCFF,265..270,XP_019535860,Aedes albopictus (Asian tiger mosquito),solute carrier family 17 member 9,442
+V1,V2,V3,V4,V5,V6
+ESGMVL,86..91,XP_019951422,Paralichthys olivaceus (Japanese flounder),PREDICTED: solute carrier family 17 member 9,466
+EKVLLL,115..120,XP_019951422,Paralichthys olivaceus (Japanese flounder),PREDICTED: solute carrier family 17 member 9,466
+ERGFLM,176..181,XP_019951422,Paralichthys olivaceus (Japanese flounder),PREDICTED: solute carrier family 17 member 9,466
+ESVFYV,209..214,XP_019951422,Paralichthys olivaceus (Japanese flounder),PREDICTED: solute carrier family 17 member 9,466
+EAKGWV,297..302,XP_019951422,Paralichthys olivaceus (Japanese flounder),PREDICTED: solute carrier family 17 member 9,466
+V1,V2,V3,V4,V5,V6
+EARRAA,7..12,XP_020029313,Castor canadensis (American beaver),solute carrier family 17 member 9,436
+ETSIVL,61..66,XP_020029313,Castor canadensis (American beaver),solute carrier family 17 member 9,436
+EKVILL,90..95,XP_020029313,Castor canadensis (American beaver),solute carrier family 17 member 9,436
+ESERAL,149..154,XP_020029313,Castor canadensis (American beaver),solute carrier family 17 member 9,436
+EKDLLL,208..213,XP_020029313,Castor canadensis (American beaver),solute carrier family 17 member 9,436
+V1,V2,V3,V4,V5,V6
+EAGVVL,72..77,XP_020137329,Microcebus murinus (gray mouse lemur),solute carrier family 17 member 9,447
+EKVIVL,101..106,XP_020137329,Microcebus murinus (gray mouse lemur),solute carrier family 17 member 9,447
+ESERAF,160..165,XP_020137329,Microcebus murinus (gray mouse lemur),solute carrier family 17 member 9,447
+EKDLVL,219..224,XP_020137329,Microcebus murinus (gray mouse lemur),solute carrier family 17 member 9,447
+V1,V2,V3,V4,V5,V6
+EAGVVL,72..77,XP_020137330,Microcebus murinus (gray mouse lemur),solute carrier family 17 member 9,447
+EKVIVL,101..106,XP_020137330,Microcebus murinus (gray mouse lemur),solute carrier family 17 member 9,447
+ESERAF,160..165,XP_020137330,Microcebus murinus (gray mouse lemur),solute carrier family 17 member 9,447
+EKDLVL,219..224,XP_020137330,Microcebus murinus (gray mouse lemur),solute carrier family 17 member 9,447
+V1,V2,V3,V4,V5,V6
+DKTGVA,24..29,XP_020315597,Oncorhynchus kisutch (coho salmon),solute carrier family 17 member 9,466
+EPNTYW,38..43,XP_020315597,Oncorhynchus kisutch (coho salmon),solute carrier family 17 member 9,466
+DQGMVL,86..91,XP_020315597,Oncorhynchus kisutch (coho salmon),solute carrier family 17 member 9,466
+EKVLLL,115..120,XP_020315597,Oncorhynchus kisutch (coho salmon),solute carrier family 17 member 9,466
+ERGFLM,176..181,XP_020315597,Oncorhynchus kisutch (coho salmon),solute carrier family 17 member 9,466
+ESVFYV,209..214,XP_020315597,Oncorhynchus kisutch (coho salmon),solute carrier family 17 member 9,466
+DAKGWV,297..302,XP_020315597,Oncorhynchus kisutch (coho salmon),solute carrier family 17 member 9,466
+V1,V2,V3,V4,V5,V6
+ETGMVL,86..91,XP_020463808,Monopterus albus (swamp eel),solute carrier family 17 member 9,466
+EKVLLL,115..120,XP_020463808,Monopterus albus (swamp eel),solute carrier family 17 member 9,466
+ERGFLM,176..181,XP_020463808,Monopterus albus (swamp eel),solute carrier family 17 member 9,466
+ESVFYV,209..214,XP_020463808,Monopterus albus (swamp eel),solute carrier family 17 member 9,466
+DAKGWV,297..302,XP_020463808,Monopterus albus (swamp eel),solute carrier family 17 member 9,466
+V1,V2,V3,V4,V5,V6
+ETGMVL,86..91,XP_020485268,Labrus bergylta (ballan wrasse),solute carrier family 17 member 9,466
+EKVLLL,115..120,XP_020485268,Labrus bergylta (ballan wrasse),solute carrier family 17 member 9,466
+ERGFLM,176..181,XP_020485268,Labrus bergylta (ballan wrasse),solute carrier family 17 member 9,466
+ESVFYV,209..214,XP_020485268,Labrus bergylta (ballan wrasse),solute carrier family 17 member 9,466
+EAKGWV,297..302,XP_020485268,Labrus bergylta (ballan wrasse),solute carrier family 17 member 9,466
+V1,V2,V3,V4,V5,V6
+EKVLLL,125..130,XP_020660269,Pogona vitticeps (central bearded dragon),solute carrier family 17 member 9,471
+ENERAF,184..189,XP_020660269,Pogona vitticeps (central bearded dragon),solute carrier family 17 member 9,471
+EQEIII,243..248,XP_020660269,Pogona vitticeps (central bearded dragon),solute carrier family 17 member 9,471
+DSKGWI,307..312,XP_020660269,Pogona vitticeps (central bearded dragon),solute carrier family 17 member 9,471
+V1,V2,V3,V4,V5,V6
+EAGVVL,93..98,XP_020745190,Odocoileus virginianus texanus,solute carrier family 17 member 9,468
+EKVILL,122..127,XP_020745190,Odocoileus virginianus texanus,solute carrier family 17 member 9,468
+ESERAF,181..186,XP_020745190,Odocoileus virginianus texanus,solute carrier family 17 member 9,468
+ERDLIL,240..245,XP_020745190,Odocoileus virginianus texanus,solute carrier family 17 member 9,468
+V1,V2,V3,V4,V5,V6
+EQSAYW,40..45,XP_020785391,Boleophthalmus pectinirostris (great blue-spotted mudskipper),solute carrier family 17 member 9,468
+ESGMVL,88..93,XP_020785391,Boleophthalmus pectinirostris (great blue-spotted mudskipper),solute carrier family 17 member 9,468
+EKVMLL,117..122,XP_020785391,Boleophthalmus pectinirostris (great blue-spotted mudskipper),solute carrier family 17 member 9,468
+ERGFLM,178..183,XP_020785391,Boleophthalmus pectinirostris (great blue-spotted mudskipper),solute carrier family 17 member 9,468
+ESVFYV,211..216,XP_020785391,Boleophthalmus pectinirostris (great blue-spotted mudskipper),solute carrier family 17 member 9,468
+DAKGWV,299..304,XP_020785391,Boleophthalmus pectinirostris (great blue-spotted mudskipper),solute carrier family 17 member 9,468
+V1,V2,V3,V4,V5,V6
+DTQSIW,16..21,XP_020810406,Drosophila serrata,solute carrier family 17 member 9,439
+EKRVWF,25..30,XP_020810406,Drosophila serrata,solute carrier family 17 member 9,439
+DSGTVL,64..69,XP_020810406,Drosophila serrata,solute carrier family 17 member 9,439
+ERSSFF,158..163,XP_020810406,Drosophila serrata,solute carrier family 17 member 9,439
+ERNRII,216..221,XP_020810406,Drosophila serrata,solute carrier family 17 member 9,439
+EMNCFF,262..267,XP_020810406,Drosophila serrata,solute carrier family 17 member 9,439
+DFHTAL,345..350,XP_020810406,Drosophila serrata,solute carrier family 17 member 9,439
+V1,V2,V3,V4,V5,V6
+DESFLA,33..38,XP_020897594,Exaiptasia pallida,solute carrier family 17 member 9,453
+DRPKWL,47..52,XP_020897594,Exaiptasia pallida,solute carrier family 17 member 9,453
+EKLVLW,115..120,XP_020897594,Exaiptasia pallida,solute carrier family 17 member 9,453
+DAPGWV,297..302,XP_020897594,Exaiptasia pallida,solute carrier family 17 member 9,453
+ss,sn,,,,
+none,0..0,XP_020897596,Exaiptasia pallida,solute carrier family 17 member 9,444
+V1,V2,V3,V4,V5,V6
+EAGVVL,61..66,XP_020933896,Sus scrofa (pig),solute carrier family 17 member 9,436
+EKVILL,90..95,XP_020933896,Sus scrofa (pig),solute carrier family 17 member 9,436
+ESERAF,149..154,XP_020933896,Sus scrofa (pig),solute carrier family 17 member 9,436
+ERDLIL,208..213,XP_020933896,Sus scrofa (pig),solute carrier family 17 member 9,436
+V1,V2,V3,V4,V5,V6
+EAGIVL,72..77,XP_021035669,Mus caroli (Ryukyu mouse),solute carrier family 17 member 9,421
+EKVILL,101..106,XP_021035669,Mus caroli (Ryukyu mouse),solute carrier family 17 member 9,421
+ESERAF,160..165,XP_021035669,Mus caroli (Ryukyu mouse),solute carrier family 17 member 9,421
+DLFLAL,195..200,XP_021035669,Mus caroli (Ryukyu mouse),solute carrier family 17 member 9,421
+V1,V2,V3,V4,V5,V6
+EAGIVL,72..77,XP_021050557,Mus pahari (shrew mouse),solute carrier family 17 member 9,447
+EKVILL,101..106,XP_021050557,Mus pahari (shrew mouse),solute carrier family 17 member 9,447
+ESERAF,160..165,XP_021050557,Mus pahari (shrew mouse),solute carrier family 17 member 9,447
+EKDLVL,219..224,XP_021050557,Mus pahari (shrew mouse),solute carrier family 17 member 9,447
+V1,V2,V3,V4,V5,V6
+ESGMVL,86..91,XP_021171974,Fundulus heteroclitus (mummichog),solute carrier family 17 member 9,466
+EKVLLL,115..120,XP_021171974,Fundulus heteroclitus (mummichog),solute carrier family 17 member 9,466
+ERGFLM,176..181,XP_021171974,Fundulus heteroclitus (mummichog),solute carrier family 17 member 9,466
+ESVFYV,209..214,XP_021171974,Fundulus heteroclitus (mummichog),solute carrier family 17 member 9,466
+DAKGWV,297..302,XP_021171974,Fundulus heteroclitus (mummichog),solute carrier family 17 member 9,466
+V1,V2,V3,V4,V5,V6
+EKVLLL,102..107,XP_021409205,Lonchura striata domestica (Bengalese finch),solute carrier family 17 member 9,448
+EGERAF,161..166,XP_021409205,Lonchura striata domestica (Bengalese finch),solute carrier family 17 member 9,448
+ESVFYF,196..201,XP_021409205,Lonchura striata domestica (Bengalese finch),solute carrier family 17 member 9,448
+DSKGWV,284..289,XP_021409205,Lonchura striata domestica (Bengalese finch),solute carrier family 17 member 9,448
+DTDSVY,440..445,XP_021409205,Lonchura striata domestica (Bengalese finch),solute carrier family 17 member 9,448
+V1,V2,V3,V4,V5,V6
+EAGIVL,63..68,XP_021533457,Neomonachus schauinslandi (Hawaiian monk seal),solute carrier family 17 member 9,438
+EKVILL,92..97,XP_021533457,Neomonachus schauinslandi (Hawaiian monk seal),solute carrier family 17 member 9,438
+ESERAF,151..156,XP_021533457,Neomonachus schauinslandi (Hawaiian monk seal),solute carrier family 17 member 9,438
+EKDLIL,210..215,XP_021533457,Neomonachus schauinslandi (Hawaiian monk seal),solute carrier family 17 member 9,438
+V1,V2,V3,V4,V5,V6
+DTQSIW,16..21,XP_022224442,Drosophila obscura,solute carrier family 17 member 9,438
+EKRVWF,25..30,XP_022224442,Drosophila obscura,solute carrier family 17 member 9,438
+DSGTVL,64..69,XP_022224442,Drosophila obscura,solute carrier family 17 member 9,438
+ERSSFF,158..163,XP_022224442,Drosophila obscura,solute carrier family 17 member 9,438
+ERNRII,216..221,XP_022224442,Drosophila obscura,solute carrier family 17 member 9,438
+EMNCFF,261..266,XP_022224442,Drosophila obscura,solute carrier family 17 member 9,438
+DFHTAL,344..349,XP_022224442,Drosophila obscura,solute carrier family 17 member 9,438
+V1,V2,V3,V4,V5,V6
+ESGMVL,85..90,XP_022518655,Astyanax mexicanus (Mexican tetra),solute carrier family 17 member 9,439
+EKVMLL,114..119,XP_022518655,Astyanax mexicanus (Mexican tetra),solute carrier family 17 member 9,439
+ERGFLM,175..180,XP_022518655,Astyanax mexicanus (Mexican tetra),solute carrier family 17 member 9,439
+ESVFYI,208..213,XP_022518655,Astyanax mexicanus (Mexican tetra),solute carrier family 17 member 9,439
+DSKGWV,296..301,XP_022518655,Astyanax mexicanus (Mexican tetra),solute carrier family 17 member 9,439
+V1,V2,V3,V4,V5,V6
+ESGMVL,86..91,XP_022594977,Seriola dumerili (greater amberjack),solute carrier family 17 member 9,466
+EKVLLL,115..120,XP_022594977,Seriola dumerili (greater amberjack),solute carrier family 17 member 9,466
+ERGFLM,176..181,XP_022594977,Seriola dumerili (greater amberjack),solute carrier family 17 member 9,466
+ESVFYV,209..214,XP_022594977,Seriola dumerili (greater amberjack),solute carrier family 17 member 9,466
+DAKGWV,297..302,XP_022594977,Seriola dumerili (greater amberjack),solute carrier family 17 member 9,466
+V1,V2,V3,V4,V5,V6
+EAGVVL,62..67,XP_023106779,Felis catus (domestic cat),solute carrier family 17 member 9,437
+EKVILL,91..96,XP_023106779,Felis catus (domestic cat),solute carrier family 17 member 9,437
+ESERAF,150..155,XP_023106779,Felis catus (domestic cat),solute carrier family 17 member 9,437
+EKDLIL,209..214,XP_023106779,Felis catus (domestic cat),solute carrier family 17 member 9,437
+V1,V2,V3,V4,V5,V6
+DKIGVA,25..30,XP_023134423,Amphiprion ocellaris (clown anemonefish),solute carrier family 17 member 9,466
+ESGMVL,86..91,XP_023134423,Amphiprion ocellaris (clown anemonefish),solute carrier family 17 member 9,466
+EKVLLL,115..120,XP_023134423,Amphiprion ocellaris (clown anemonefish),solute carrier family 17 member 9,466
+ERGFLM,176..181,XP_023134423,Amphiprion ocellaris (clown anemonefish),solute carrier family 17 member 9,466
+ESVFYV,209..214,XP_023134423,Amphiprion ocellaris (clown anemonefish),solute carrier family 17 member 9,466
+DAKGWV,297..302,XP_023134423,Amphiprion ocellaris (clown anemonefish),solute carrier family 17 member 9,466
+V1,V2,V3,V4,V5,V6
+DTQSIW,16..21,XP_023170870,Drosophila hydei,solute carrier family 17 member 9,438
+EKRVWF,25..30,XP_023170870,Drosophila hydei,solute carrier family 17 member 9,438
+DSGTVL,64..69,XP_023170870,Drosophila hydei,solute carrier family 17 member 9,438
+ERSSFF,158..163,XP_023170870,Drosophila hydei,solute carrier family 17 member 9,438
+DRNRII,216..221,XP_023170870,Drosophila hydei,solute carrier family 17 member 9,438
+EMNCFF,261..266,XP_023170870,Drosophila hydei,solute carrier family 17 member 9,438
+DFHTAL,344..349,XP_023170870,Drosophila hydei,solute carrier family 17 member 9,438
+V1,V2,V3,V4,V5,V6
+ESGMVL,86..91,XP_023257606,Seriola lalandi dorsalis,solute carrier family 17 member 9,466
+EKVLLL,115..120,XP_023257606,Seriola lalandi dorsalis,solute carrier family 17 member 9,466
+ERGFLM,176..181,XP_023257606,Seriola lalandi dorsalis,solute carrier family 17 member 9,466
+ESVFYV,209..214,XP_023257606,Seriola lalandi dorsalis,solute carrier family 17 member 9,466
+DAKGWV,297..302,XP_023257606,Seriola lalandi dorsalis,solute carrier family 17 member 9,466
+V1,V2,V3,V4,V5,V6
+DNQSVW,18..23,XP_023295142,Lucilia cuprina (Australian sheep blowfly),solute carrier family 17 member 9,439
+EKRVWF,27..32,XP_023295142,Lucilia cuprina (Australian sheep blowfly),solute carrier family 17 member 9,439
+DSGTVL,66..71,XP_023295142,Lucilia cuprina (Australian sheep blowfly),solute carrier family 17 member 9,439
+ERTSFF,160..165,XP_023295142,Lucilia cuprina (Australian sheep blowfly),solute carrier family 17 member 9,439
+ERNRII,218..223,XP_023295142,Lucilia cuprina (Australian sheep blowfly),solute carrier family 17 member 9,439
+DTVPWL,239..244,XP_023295142,Lucilia cuprina (Australian sheep blowfly),solute carrier family 17 member 9,439
+EMNCFF,262..267,XP_023295142,Lucilia cuprina (Australian sheep blowfly),solute carrier family 17 member 9,439
+DFHTAL,345..350,XP_023295142,Lucilia cuprina (Australian sheep blowfly),solute carrier family 17 member 9,439
+V1,V2,V3,V4,V5,V6
+EAQDAL,12..17,XP_023396611,Loxodonta africana (African savanna elephant),solute carrier family 17 member 9,519
+EAGVVL,61..66,XP_023396611,Loxodonta africana (African savanna elephant),solute carrier family 17 member 9,519
+EKVILL,90..95,XP_023396611,Loxodonta africana (African savanna elephant),solute carrier family 17 member 9,519
+DSERAF,149..154,XP_023396611,Loxodonta africana (African savanna elephant),solute carrier family 17 member 9,519
+EKDLVM,208..213,XP_023396611,Loxodonta africana (African savanna elephant),solute carrier family 17 member 9,519
+EVPGLV,294..299,XP_023396611,Loxodonta africana (African savanna elephant),solute carrier family 17 member 9,519
+V1,V2,V3,V4,V5,V6
+EAGVVL,61..66,XP_023560125,Octodon degus (degu),solute carrier family 17 member 9,436
+EKVILL,90..95,XP_023560125,Octodon degus (degu),solute carrier family 17 member 9,436
+ESERAL,149..154,XP_023560125,Octodon degus (degu),solute carrier family 17 member 9,436
+DHILAL,210..215,XP_023560125,Octodon degus (degu),solute carrier family 17 member 9,436
+V1,V2,V3,V4,V5,V6
+DSFGVA,24..29,XP_023654715,Paramormyrops kingsleyae,solute carrier family 17 member 9,465
+ESGMVL,85..90,XP_023654715,Paramormyrops kingsleyae,solute carrier family 17 member 9,465
+EKVLLL,114..119,XP_023654715,Paramormyrops kingsleyae,solute carrier family 17 member 9,465
+ERGFLM,175..180,XP_023654715,Paramormyrops kingsleyae,solute carrier family 17 member 9,465
+ESVFYV,208..213,XP_023654715,Paramormyrops kingsleyae,solute carrier family 17 member 9,465
+DAKGWV,296..301,XP_023654715,Paramormyrops kingsleyae,solute carrier family 17 member 9,465
+V1,V2,V3,V4,V5,V6
+ESGLVL,83..88,XP_023812579,Oryzias latipes (Japanese medaka),solute carrier family 17 member 9,458
+ERVLLM,112..117,XP_023812579,Oryzias latipes (Japanese medaka),solute carrier family 17 member 9,458
+ERGFLM,173..178,XP_023812579,Oryzias latipes (Japanese medaka),solute carrier family 17 member 9,458
+V1,V2,V3,V4,V5,V6
+ERVLLL,115..120,XP_023847287,Salvelinus alpinus (Arctic char),solute carrier family 17 member 9,461
+ERGFLM,176..181,XP_023847287,Salvelinus alpinus (Arctic char),solute carrier family 17 member 9,461
+V1,V2,V3,V4,V5,V6
+DKTGVA,24..29,XP_023861051,Salvelinus alpinus (Arctic char),solute carrier family 17 member 9,466
+EPNTYW,38..43,XP_023861051,Salvelinus alpinus (Arctic char),solute carrier family 17 member 9,466
+DQGMVL,86..91,XP_023861051,Salvelinus alpinus (Arctic char),solute carrier family 17 member 9,466
+EKVLLL,115..120,XP_023861051,Salvelinus alpinus (Arctic char),solute carrier family 17 member 9,466
+ERGFLM,176..181,XP_023861051,Salvelinus alpinus (Arctic char),solute carrier family 17 member 9,466
+ESVFYV,209..214,XP_023861051,Salvelinus alpinus (Arctic char),solute carrier family 17 member 9,466
+DAKGWV,297..302,XP_023861051,Salvelinus alpinus (Arctic char),solute carrier family 17 member 9,466
+V1,V2,V3,V4,V5,V6
+EKVLLL,123..128,XP_023970691,Chrysemys picta bellii (western painted turtle),solute carrier family 17 member 9,469
+ESERAF,182..187,XP_023970691,Chrysemys picta bellii (western painted turtle),solute carrier family 17 member 9,469
+ESVFYF,217..222,XP_023970691,Chrysemys picta bellii (western painted turtle),solute carrier family 17 member 9,469
+DKELII,241..246,XP_023970691,Chrysemys picta bellii (western painted turtle),solute carrier family 17 member 9,469
+ESKGWV,305..310,XP_023970691,Chrysemys picta bellii (western painted turtle),solute carrier family 17 member 9,469
+DTDSAY,461..466,XP_023970691,Chrysemys picta bellii (western painted turtle),solute carrier family 17 member 9,469
+V1,V2,V3,V4,V5,V6
+EKVLLL,123..128,XP_024050478,Terrapene carolina triunguis (Three-toed box turtle),solute carrier family 17 member 9,469
+ESERAF,182..187,XP_024050478,Terrapene carolina triunguis (Three-toed box turtle),solute carrier family 17 member 9,469
+ESVFYF,217..222,XP_024050478,Terrapene carolina triunguis (Three-toed box turtle),solute carrier family 17 member 9,469
+EKELII,241..246,XP_024050478,Terrapene carolina triunguis (Three-toed box turtle),solute carrier family 17 member 9,469
+ESKGWV,305..310,XP_024050478,Terrapene carolina triunguis (Three-toed box turtle),solute carrier family 17 member 9,469
+DTDSAY,461..466,XP_024050478,Terrapene carolina triunguis (Three-toed box turtle),solute carrier family 17 member 9,469
+V1,V2,V3,V4,V5,V6
+DKTGVA,25..30,XP_024149340,Oryzias melastigma (Indian medaka),solute carrier family 17 member 9,466
+ESGMVL,86..91,XP_024149340,Oryzias melastigma (Indian medaka),solute carrier family 17 member 9,466
+EKVLLL,115..120,XP_024149340,Oryzias melastigma (Indian medaka),solute carrier family 17 member 9,466
+ERGFLM,176..181,XP_024149340,Oryzias melastigma (Indian medaka),solute carrier family 17 member 9,466
+ESVFYI,209..214,XP_024149340,Oryzias melastigma (Indian medaka),solute carrier family 17 member 9,466
+DAKGWV,297..302,XP_024149340,Oryzias melastigma (Indian medaka),solute carrier family 17 member 9,466
+V1,V2,V3,V4,V5,V6
+DKTGVA,25..30,XP_024149341,Oryzias melastigma (Indian medaka),solute carrier family 17 member 9,466
+ESGMVL,86..91,XP_024149341,Oryzias melastigma (Indian medaka),solute carrier family 17 member 9,466
+EKVLLL,115..120,XP_024149341,Oryzias melastigma (Indian medaka),solute carrier family 17 member 9,466
+ERGFLM,176..181,XP_024149341,Oryzias melastigma (Indian medaka),solute carrier family 17 member 9,466
+ESVFYI,209..214,XP_024149341,Oryzias melastigma (Indian medaka),solute carrier family 17 member 9,466
+DAKGWV,297..302,XP_024149341,Oryzias melastigma (Indian medaka),solute carrier family 17 member 9,466
+V1,V2,V3,V4,V5,V6
+EPEDYF,14..19,XP_024507642,Strongyloides ratti,Solute carrier family 17 member 9,455
+DIAYFL,119..124,XP_024507642,Strongyloides ratti,Solute carrier family 17 member 9,455
+DKAKVF,162..167,XP_024507642,Strongyloides ratti,Solute carrier family 17 member 9,455
+ERQHVV,260..265,XP_024507642,Strongyloides ratti,Solute carrier family 17 member 9,455
+EAKGFV,313..318,XP_024507642,Strongyloides ratti,Solute carrier family 17 member 9,455
+V1,V2,V3,V4,V5,V6
+EAGVVL,61..66,XP_024605925,Neophocaena asiaeorientalis asiaeorientalis (Yangtze finless,solute carrier family 17 member 9,436
+EKVILL,90..95,XP_024605925,Neophocaena asiaeorientalis asiaeorientalis (Yangtze finless,solute carrier family 17 member 9,436
+ESERAF,149..154,XP_024605925,Neophocaena asiaeorientalis asiaeorientalis (Yangtze finless,solute carrier family 17 member 9,436
+EKDLIL,208..213,XP_024605925,Neophocaena asiaeorientalis asiaeorientalis (Yangtze finless,solute carrier family 17 member 9,436
+V1,V2,V3,V4,V5,V6
+EAGVVL,61..66,XP_024856359,Bos taurus (cattle),solute carrier family 17 member 9 isoform X1,443
+EKVILL,90..95,XP_024856359,Bos taurus (cattle),solute carrier family 17 member 9 isoform X1,443
+ESERAF,149..154,XP_024856359,Bos taurus (cattle),solute carrier family 17 member 9 isoform X1,443
+DLILAL,227..232,XP_024856359,Bos taurus (cattle),solute carrier family 17 member 9 isoform X1,443
+V1,V2,V3,V4,V5,V6
+DDRTAL,12..17,XP_024869474,Temnothorax curvispinosus,solute carrier family 17 member 9,425
+ERQKWF,23..28,XP_024869474,Temnothorax curvispinosus,solute carrier family 17 member 9,425
+DSGIIL,62..67,XP_024869474,Temnothorax curvispinosus,solute carrier family 17 member 9,425
+EIIEFF,110..115,XP_024869474,Temnothorax curvispinosus,solute carrier family 17 member 9,425
+DGTSVL,118..123,XP_024869474,Temnothorax curvispinosus,solute carrier family 17 member 9,425
+ERASFF,155..160,XP_024869474,Temnothorax curvispinosus,solute carrier family 17 member 9,425
+ENYNWM,183..188,XP_024869474,Temnothorax curvispinosus,solute carrier family 17 member 9,425
+EVRGWV,269..274,XP_024869474,Temnothorax curvispinosus,solute carrier family 17 member 9,425
+EIGSLL,319..324,XP_024869474,Temnothorax curvispinosus,solute carrier family 17 member 9,425
+V1,V2,V3,V4,V5,V6
+DSGLVL,83..88,XP_024915051,Cynoglossus semilaevis (tongue sole),solute carrier family 17 member 9,451
+ERVLVV,112..117,XP_024915051,Cynoglossus semilaevis (tongue sole),solute carrier family 17 member 9,451
+ERGFLM,173..178,XP_024915051,Cynoglossus semilaevis (tongue sole),solute carrier family 17 member 9,451
+V1,V2,V3,V4,V5,V6
+EGLIIY,27..32,XP_024997976,Gallus gallus (chicken),solute carrier family 17 member 9 isoform X2,545
+EKVLLL,260..265,XP_024997976,Gallus gallus (chicken),solute carrier family 17 member 9 isoform X2,545
+ESERAF,319..324,XP_024997976,Gallus gallus (chicken),solute carrier family 17 member 9 isoform X2,545
+ESVFYF,354..359,XP_024997976,Gallus gallus (chicken),solute carrier family 17 member 9 isoform X2,545
+EKDLVI,378..383,XP_024997976,Gallus gallus (chicken),solute carrier family 17 member 9 isoform X2,545
+ESKGWV,442..447,XP_024997976,Gallus gallus (chicken),solute carrier family 17 member 9 isoform X2,545
+V1,V2,V3,V4,V5,V6
+EKVLLL,115..120,XP_025057523,Alligator sinensis (Chinese alligator),solute carrier family 17 member 9,461
+ESERAF,174..179,XP_025057523,Alligator sinensis (Chinese alligator),solute carrier family 17 member 9,461
+ESVFYF,209..214,XP_025057523,Alligator sinensis (Chinese alligator),solute carrier family 17 member 9,461
+EKELII,233..238,XP_025057523,Alligator sinensis (Chinese alligator),solute carrier family 17 member 9,461
+ESKGWV,297..302,XP_025057523,Alligator sinensis (Chinese alligator),solute carrier family 17 member 9,461
+DTVSAY,453..458,XP_025057523,Alligator sinensis (Chinese alligator),solute carrier family 17 member 9,461
+V1,V2,V3,V4,V5,V6
+DRETAI,97..102,XP_025787896,Puma concolor (puma),solute carrier family 17 member 9,631
+DTEGLI,133..138,XP_025787896,Puma concolor (puma),solute carrier family 17 member 9,631
+EAGVVL,256..261,XP_025787896,Puma concolor (puma),solute carrier family 17 member 9,631
+EKVILL,285..290,XP_025787896,Puma concolor (puma),solute carrier family 17 member 9,631
+ESERAF,344..349,XP_025787896,Puma concolor (puma),solute carrier family 17 member 9,631
+EKDLIL,403..408,XP_025787896,Puma concolor (puma),solute carrier family 17 member 9,631
+V1,V2,V3,V4,V5,V6
+EAGIVL,62..67,XP_025870919,Vulpes vulpes (red fox),solute carrier family 17 member 9,437
+EKVILL,91..96,XP_025870919,Vulpes vulpes (red fox),solute carrier family 17 member 9,437
+ESERAF,150..155,XP_025870919,Vulpes vulpes (red fox),solute carrier family 17 member 9,437
+ELILAL,211..216,XP_025870919,Vulpes vulpes (red fox),solute carrier family 17 member 9,437
+V1,V2,V3,V4,V5,V6
+EKVLLL,79..84,XP_025898054,Nothoprocta perdicaria,solute carrier family 17 member 9, partial,425
+ESERAF,138..143,XP_025898054,Nothoprocta perdicaria,solute carrier family 17 member 9, partial,425
+ESVFYF,173..178,XP_025898054,Nothoprocta perdicaria,solute carrier family 17 member 9, partial,425
+EKELII,197..202,XP_025898054,Nothoprocta perdicaria,solute carrier family 17 member 9, partial,425
+ESKGWV,261..266,XP_025898054,Nothoprocta perdicaria,solute carrier family 17 member 9, partial,425
+DTDSAY,417..422,XP_025898054,Nothoprocta perdicaria,solute carrier family 17 member 9, partial,425
+V1,V2,V3,V4,V5,V6
+EKVLLL,103..108,XP_025913148,Apteryx rowi (Okarito brown kiwi),solute carrier family 17 member 9,449
+ESERAF,162..167,XP_025913148,Apteryx rowi (Okarito brown kiwi),solute carrier family 17 member 9,449
+ESVFYF,197..202,XP_025913148,Apteryx rowi (Okarito brown kiwi),solute carrier family 17 member 9,449
+EKELII,221..226,XP_025913148,Apteryx rowi (Okarito brown kiwi),solute carrier family 17 member 9,449
+ESKGWV,285..290,XP_025913148,Apteryx rowi (Okarito brown kiwi),solute carrier family 17 member 9,449
+DTDSAY,441..446,XP_025913148,Apteryx rowi (Okarito brown kiwi),solute carrier family 17 member 9,449
+V1,V2,V3,V4,V5,V6
+EKVLLL,108..113,XP_025948636,Dromaius novaehollandiae (emu),solute carrier family 17 member 9,454
+ESERAF,167..172,XP_025948636,Dromaius novaehollandiae (emu),solute carrier family 17 member 9,454
+ESVFYF,202..207,XP_025948636,Dromaius novaehollandiae (emu),solute carrier family 17 member 9,454
+EKELII,226..231,XP_025948636,Dromaius novaehollandiae (emu),solute carrier family 17 member 9,454
+ESKGWV,290..295,XP_025948636,Dromaius novaehollandiae (emu),solute carrier family 17 member 9,454
+DTDSAY,446..451,XP_025948636,Dromaius novaehollandiae (emu),solute carrier family 17 member 9,454
+V1,V2,V3,V4,V5,V6
+EAGIVL,61..66,XP_026263608,Urocitellus parryii (Arctic ground squirrel),solute carrier family 17 member 9,436
+EKVILL,90..95,XP_026263608,Urocitellus parryii (Arctic ground squirrel),solute carrier family 17 member 9,436
+ESERAF,149..154,XP_026263608,Urocitellus parryii (Arctic ground squirrel),solute carrier family 17 member 9,436
+EKDLIL,208..213,XP_026263608,Urocitellus parryii (Arctic ground squirrel),solute carrier family 17 member 9,436
+ss,sn,,,,
+ESVVFA,24..29,XP_026305661,Piliocolobus tephrosceles (Ugandan red Colobus),solute carrier family 17 member 9,123
+V1,V2,V3,V4,V5,V6
+DDSNIW,16..21,XP_026468681,Ctenocephalides felis (cat flea),solute carrier family 17 member 9,431
+EKRIWF,25..30,XP_026468681,Ctenocephalides felis (cat flea),solute carrier family 17 member 9,431
+DSGTVL,64..69,XP_026468681,Ctenocephalides felis (cat flea),solute carrier family 17 member 9,431
+ERASYF,157..162,XP_026468681,Ctenocephalides felis (cat flea),solute carrier family 17 member 9,431
+DAKGWV,275..280,XP_026468681,Ctenocephalides felis (cat flea),solute carrier family 17 member 9,431
+EVLGLY,325..330,XP_026468681,Ctenocephalides felis (cat flea),solute carrier family 17 member 9,431
+EALFWM,340..345,XP_026468681,Ctenocephalides felis (cat flea),solute carrier family 17 member 9,431
+V1,V2,V3,V4,V5,V6
+EKVLLL,122..127,XP_026539206,Notechis scutatus (mainland tiger snake),solute carrier family 17 member 9,469
+ESERAL,181..186,XP_026539206,Notechis scutatus (mainland tiger snake),solute carrier family 17 member 9,469
+ESVFYL,216..221,XP_026539206,Notechis scutatus (mainland tiger snake),solute carrier family 17 member 9,469
+DSKGWI,305..310,XP_026539206,Notechis scutatus (mainland tiger snake),solute carrier family 17 member 9,469
+DLDPAY,461..466,XP_026539206,Notechis scutatus (mainland tiger snake),solute carrier family 17 member 9,469
+V1,V2,V3,V4,V5,V6
+EKVLLL,122..127,XP_026553158,Pseudonaja textilis,solute carrier family 17 member 9,469
+ESERAL,181..186,XP_026553158,Pseudonaja textilis,solute carrier family 17 member 9,469
+ESVFYL,216..221,XP_026553158,Pseudonaja textilis,solute carrier family 17 member 9,469
+DSKGWI,305..310,XP_026553158,Pseudonaja textilis,solute carrier family 17 member 9,469
+DLDPAY,461..466,XP_026553158,Pseudonaja textilis,solute carrier family 17 member 9,469
+V1,V2,V3,V4,V5,V6
+EKVLLL,80..85,XP_026717842,Athene cunicularia (burrowing owl),solute carrier family 17 member 9,426
+ESERAF,139..144,XP_026717842,Athene cunicularia (burrowing owl),solute carrier family 17 member 9,426
+ESVFYF,174..179,XP_026717842,Athene cunicularia (burrowing owl),solute carrier family 17 member 9,426
+EKELII,198..203,XP_026717842,Athene cunicularia (burrowing owl),solute carrier family 17 member 9,426
+ESKGWV,262..267,XP_026717842,Athene cunicularia (burrowing owl),solute carrier family 17 member 9,426
+DTDSAY,418..423,XP_026717842,Athene cunicularia (burrowing owl),solute carrier family 17 member 9,426
+V1,V2,V3,V4,V5,V6
+DGDPYW,26..31,XP_027502183,Corapipo altera (White-ruffed manakin),solute carrier family 17 member 9,449
+EKVLLL,103..108,XP_027502183,Corapipo altera (White-ruffed manakin),solute carrier family 17 member 9,449
+ESERAF,162..167,XP_027502183,Corapipo altera (White-ruffed manakin),solute carrier family 17 member 9,449
+ESVFYF,197..202,XP_027502183,Corapipo altera (White-ruffed manakin),solute carrier family 17 member 9,449
+EKELII,221..226,XP_027502183,Corapipo altera (White-ruffed manakin),solute carrier family 17 member 9,449
+ESKGWV,285..290,XP_027502183,Corapipo altera (White-ruffed manakin),solute carrier family 17 member 9,449
+DTDSAY,441..446,XP_027502183,Corapipo altera (White-ruffed manakin),solute carrier family 17 member 9,449
+V1,V2,V3,V4,V5,V6
+DGDPYW,26..31,XP_027553115,Neopelma chrysocephalum (saffron-crested tyrant-manakin),solute carrier family 17 member 9,449
+EKVLLL,103..108,XP_027553115,Neopelma chrysocephalum (saffron-crested tyrant-manakin),solute carrier family 17 member 9,449
+ESERAF,162..167,XP_027553115,Neopelma chrysocephalum (saffron-crested tyrant-manakin),solute carrier family 17 member 9,449
+ESVFYF,197..202,XP_027553115,Neopelma chrysocephalum (saffron-crested tyrant-manakin),solute carrier family 17 member 9,449
+EKELII,221..226,XP_027553115,Neopelma chrysocephalum (saffron-crested tyrant-manakin),solute carrier family 17 member 9,449
+ESKGWV,285..290,XP_027553115,Neopelma chrysocephalum (saffron-crested tyrant-manakin),solute carrier family 17 member 9,449
+DTDSAY,441..446,XP_027553115,Neopelma chrysocephalum (saffron-crested tyrant-manakin),solute carrier family 17 member 9,449
+V1,V2,V3,V4,V5,V6
+DGDPYW,26..31,XP_027566519,Pipra filicauda (Wire-tailed manakin),solute carrier family 17 member 9,449
+EKVLLL,103..108,XP_027566519,Pipra filicauda (Wire-tailed manakin),solute carrier family 17 member 9,449
+ESERAF,162..167,XP_027566519,Pipra filicauda (Wire-tailed manakin),solute carrier family 17 member 9,449
+ESVFYF,197..202,XP_027566519,Pipra filicauda (Wire-tailed manakin),solute carrier family 17 member 9,449
+EKELII,221..226,XP_027566519,Pipra filicauda (Wire-tailed manakin),solute carrier family 17 member 9,449
+ESKGWV,285..290,XP_027566519,Pipra filicauda (Wire-tailed manakin),solute carrier family 17 member 9,449
+DTDSAY,441..446,XP_027566519,Pipra filicauda (Wire-tailed manakin),solute carrier family 17 member 9,449
+V1,V2,V3,V4,V5,V6
+DGDPYW,28..33,XP_027737368,Empidonax traillii (willow flycatcher),solute carrier family 17 member 9,451
+ESGVVL,76..81,XP_027737368,Empidonax traillii (willow flycatcher),solute carrier family 17 member 9,451
+EKVLLL,105..110,XP_027737368,Empidonax traillii (willow flycatcher),solute carrier family 17 member 9,451
+ESERAF,164..169,XP_027737368,Empidonax traillii (willow flycatcher),solute carrier family 17 member 9,451
+ESVFYF,199..204,XP_027737368,Empidonax traillii (willow flycatcher),solute carrier family 17 member 9,451
+EKELII,223..228,XP_027737368,Empidonax traillii (willow flycatcher),solute carrier family 17 member 9,451
+ESKGWV,287..292,XP_027737368,Empidonax traillii (willow flycatcher),solute carrier family 17 member 9,451
+DTDSAY,443..448,XP_027737368,Empidonax traillii (willow flycatcher),solute carrier family 17 member 9,451
+V1,V2,V3,V4,V5,V6
+ESGMVL,86..91,XP_027876053,Xiphophorus couchianus (Monterrey platyfish),solute carrier family 17 member 9,466
+EKVLLL,115..120,XP_027876053,Xiphophorus couchianus (Monterrey platyfish),solute carrier family 17 member 9,466
+ERGFLM,176..181,XP_027876053,Xiphophorus couchianus (Monterrey platyfish),solute carrier family 17 member 9,466
+ESVFYV,209..214,XP_027876053,Xiphophorus couchianus (Monterrey platyfish),solute carrier family 17 member 9,466
+EAKGWV,297..302,XP_027876053,Xiphophorus couchianus (Monterrey platyfish),solute carrier family 17 member 9,466
+V1,V2,V3,V4,V5,V6
+ESGMVL,86..91,XP_028266565,Parambassis ranga (Indian glassy fish),solute carrier family 17 member 9,466
+EKVLLL,115..120,XP_028266565,Parambassis ranga (Indian glassy fish),solute carrier family 17 member 9,466
+ERGFLM,176..181,XP_028266565,Parambassis ranga (Indian glassy fish),solute carrier family 17 member 9,466
+DAKGWV,297..302,XP_028266565,Parambassis ranga (Indian glassy fish),solute carrier family 17 member 9,466
+V1,V2,V3,V4,V5,V6
+ETGMVL,88..93,XP_028308070,Gouania willdenowi (blunt-snouted clingfish),solute carrier family 17 member 9,468
+EKVLLL,117..122,XP_028308070,Gouania willdenowi (blunt-snouted clingfish),solute carrier family 17 member 9,468
+ERGFLM,178..183,XP_028308070,Gouania willdenowi (blunt-snouted clingfish),solute carrier family 17 member 9,468
+ESVFYI,211..216,XP_028308070,Gouania willdenowi (blunt-snouted clingfish),solute carrier family 17 member 9,468
+DAKGWV,299..304,XP_028308070,Gouania willdenowi (blunt-snouted clingfish),solute carrier family 17 member 9,468
+V1,V2,V3,V4,V5,V6
+EAGMVL,64..69,XP_028380313,Phyllostomus discolor (pale spear-nosed bat),solute carrier family 17 member 9,439
+EKVILL,93..98,XP_028380313,Phyllostomus discolor (pale spear-nosed bat),solute carrier family 17 member 9,439
+ESERAF,152..157,XP_028380313,Phyllostomus discolor (pale spear-nosed bat),solute carrier family 17 member 9,439
+EFVRAL,213..218,XP_028380313,Phyllostomus discolor (pale spear-nosed bat),solute carrier family 17 member 9,439
+V1,V2,V3,V4,V5,V6
+ESGMVL,85..90,XP_028439258,Perca flavescens (yellow perch),solute carrier family 17 member 9,465
+EKVLLL,114..119,XP_028439258,Perca flavescens (yellow perch),solute carrier family 17 member 9,465
+ERGFLM,175..180,XP_028439258,Perca flavescens (yellow perch),solute carrier family 17 member 9,465
+V1,V2,V3,V4,V5,V6
+ERVLFL,71..76,XP_028591619,Podarcis muralis (Common wall lizard),solute carrier family 17 member 9,524
+ENERAF,237..242,XP_028591619,Podarcis muralis (Common wall lizard),solute carrier family 17 member 9,524
+DSKGWV,360..365,XP_028591619,Podarcis muralis (Common wall lizard),solute carrier family 17 member 9,524
+DTESAF,516..521,XP_028591619,Podarcis muralis (Common wall lizard),solute carrier family 17 member 9,524
+V1,V2,V3,V4,V5,V6
+EAGIVL,72..77,XP_028629893,Grammomys surdaster,solute carrier family 17 member 9,447
+EKVILL,101..106,XP_028629893,Grammomys surdaster,solute carrier family 17 member 9,447
+ESERAF,160..165,XP_028629893,Grammomys surdaster,solute carrier family 17 member 9,447
+EKDLVL,219..224,XP_028629893,Grammomys surdaster,solute carrier family 17 member 9,447
+V1,V2,V3,V4,V5,V6
+EKALMF,38..43,XP_028943146,Antrostomus carolinensis (chuck-will's-widow),solute carrier family 17 member 9,460
+EKVLLL,114..119,XP_028943146,Antrostomus carolinensis (chuck-will's-widow),solute carrier family 17 member 9,460
+ESERAF,173..178,XP_028943146,Antrostomus carolinensis (chuck-will's-widow),solute carrier family 17 member 9,460
+ESVFYF,208..213,XP_028943146,Antrostomus carolinensis (chuck-will's-widow),solute carrier family 17 member 9,460
+EKELII,232..237,XP_028943146,Antrostomus carolinensis (chuck-will's-widow),solute carrier family 17 member 9,460
+ESKGWV,296..301,XP_028943146,Antrostomus carolinensis (chuck-will's-widow),solute carrier family 17 member 9,460
+V1,V2,V3,V4,V5,V6
+ERRKWF,23..28,XP_029033108,Osmia bicornis bicornis,solute carrier family 17 member 9,425
+DSGIIL,62..67,XP_029033108,Osmia bicornis bicornis,solute carrier family 17 member 9,425
+EIIEFF,110..115,XP_029033108,Osmia bicornis bicornis,solute carrier family 17 member 9,425
+EASVLL,119..124,XP_029033108,Osmia bicornis bicornis,solute carrier family 17 member 9,425
+ERASFF,155..160,XP_029033108,Osmia bicornis bicornis,solute carrier family 17 member 9,425
+ENYNWM,183..188,XP_029033108,Osmia bicornis bicornis,solute carrier family 17 member 9,425
+EIKGWV,269..274,XP_029033108,Osmia bicornis bicornis,solute carrier family 17 member 9,425
+ETICFI,312..317,XP_029033108,Osmia bicornis bicornis,solute carrier family 17 member 9,425
+EIISLL,319..324,XP_029033108,Osmia bicornis bicornis,solute carrier family 17 member 9,425
+V1,V2,V3,V4,V5,V6
+EKRKWF,23..28,XP_029166414,Nylanderia fulva,solute carrier family 17 member 9,425
+ESGIIL,62..67,XP_029166414,Nylanderia fulva,solute carrier family 17 member 9,425
+DQTSVL,118..123,XP_029166414,Nylanderia fulva,solute carrier family 17 member 9,425
+ERASFF,155..160,XP_029166414,Nylanderia fulva,solute carrier family 17 member 9,425
+ENYNWM,183..188,XP_029166414,Nylanderia fulva,solute carrier family 17 member 9,425
+EVKIWV,269..274,XP_029166414,Nylanderia fulva,solute carrier family 17 member 9,425
+EIGSLL,319..324,XP_029166414,Nylanderia fulva,solute carrier family 17 member 9,425
+V1,V2,V3,V4,V5,V6
+ESGMVL,86..91,XP_029363166,Echeneis naucrates (live sharksucker),solute carrier family 17 member 9,466
+EKVLLL,115..120,XP_029363166,Echeneis naucrates (live sharksucker),solute carrier family 17 member 9,466
+ERGFLM,176..181,XP_029363166,Echeneis naucrates (live sharksucker),solute carrier family 17 member 9,466
+ESVFYV,209..214,XP_029363166,Echeneis naucrates (live sharksucker),solute carrier family 17 member 9,466
+DAKGWV,297..302,XP_029363166,Echeneis naucrates (live sharksucker),solute carrier family 17 member 9,466
+V1,V2,V3,V4,V5,V6
+DKTGVA,24..29,XP_029477361,Oncorhynchus nerka (sockeye salmon),solute carrier family 17 member 9,466
+EPNTYW,38..43,XP_029477361,Oncorhynchus nerka (sockeye salmon),solute carrier family 17 member 9,466
+DQGMVL,86..91,XP_029477361,Oncorhynchus nerka (sockeye salmon),solute carrier family 17 member 9,466
+EKVLLL,115..120,XP_029477361,Oncorhynchus nerka (sockeye salmon),solute carrier family 17 member 9,466
+ERGFLM,176..181,XP_029477361,Oncorhynchus nerka (sockeye salmon),solute carrier family 17 member 9,466
+ESVFYV,209..214,XP_029477361,Oncorhynchus nerka (sockeye salmon),solute carrier family 17 member 9,466
+DAKGWV,297..302,XP_029477361,Oncorhynchus nerka (sockeye salmon),solute carrier family 17 member 9,466
+V1,V2,V3,V4,V5,V6
+ESGMVL,86..91,XP_029975365,Salarias fasciatus (jewelled blenny),solute carrier family 17 member 9,466
+EKVLLL,115..120,XP_029975365,Salarias fasciatus (jewelled blenny),solute carrier family 17 member 9,466
+ERGFLM,176..181,XP_029975365,Salarias fasciatus (jewelled blenny),solute carrier family 17 member 9,466
+DAKGWV,297..302,XP_029975365,Salarias fasciatus (jewelled blenny),solute carrier family 17 member 9,466
+V1,V2,V3,V4,V5,V6
+ESGMVL,83..88,XP_029993992,Sphaeramia orbicularis (orbiculate cardinalfish),solute carrier family 17 member 9,463
+EKVLLL,112..117,XP_029993992,Sphaeramia orbicularis (orbiculate cardinalfish),solute carrier family 17 member 9,463
+ERGFLM,173..178,XP_029993992,Sphaeramia orbicularis (orbiculate cardinalfish),solute carrier family 17 member 9,463
+ESVFYV,206..211,XP_029993992,Sphaeramia orbicularis (orbiculate cardinalfish),solute carrier family 17 member 9,463
+DAKGWV,294..299,XP_029993992,Sphaeramia orbicularis (orbiculate cardinalfish),solute carrier family 17 member 9,463
+V1,V2,V3,V4,V5,V6
+EKVLLL,120..125,XP_030067815,Microcaecilia unicolor,solute carrier family 17 member 9,468
+ENERAF,179..184,XP_030067815,Microcaecilia unicolor,solute carrier family 17 member 9,468
+ESVFYF,214..219,XP_030067815,Microcaecilia unicolor,solute carrier family 17 member 9,468
+ESKGWV,302..307,XP_030067815,Microcaecilia unicolor,solute carrier family 17 member 9,468
+DPTCAI,460..465,XP_030067815,Microcaecilia unicolor,solute carrier family 17 member 9,468
+V1,V2,V3,V4,V5,V6
+ESGMVL,86..91,XP_030211322,Gadus morhua (Atlantic cod),solute carrier family 17 member 9,466
+EKVLLL,115..120,XP_030211322,Gadus morhua (Atlantic cod),solute carrier family 17 member 9,466
+ERGFLM,176..181,XP_030211322,Gadus morhua (Atlantic cod),solute carrier family 17 member 9,466
+ESVFYL,209..214,XP_030211322,Gadus morhua (Atlantic cod),solute carrier family 17 member 9,466
+DAKGWV,297..302,XP_030211322,Gadus morhua (Atlantic cod),solute carrier family 17 member 9,466
+V1,V2,V3,V4,V5,V6
+DTQSIW,16..21,XP_030238604,Drosophila navojoa,solute carrier family 17 member 9,438
+EKRVWF,25..30,XP_030238604,Drosophila navojoa,solute carrier family 17 member 9,438
+DSGTVL,64..69,XP_030238604,Drosophila navojoa,solute carrier family 17 member 9,438
+ERSSFF,158..163,XP_030238604,Drosophila navojoa,solute carrier family 17 member 9,438
+ERNRII,216..221,XP_030238604,Drosophila navojoa,solute carrier family 17 member 9,438
+EMNCFF,261..266,XP_030238604,Drosophila navojoa,solute carrier family 17 member 9,438
+DFHTAL,344..349,XP_030238604,Drosophila navojoa,solute carrier family 17 member 9,438
+V1,V2,V3,V4,V5,V6
+ESGMVL,84..89,XP_030279623,Sparus aurata (gilthead seabream),solute carrier family 17 member 9,464
+EKVLLL,113..118,XP_030279623,Sparus aurata (gilthead seabream),solute carrier family 17 member 9,464
+ERGFLM,174..179,XP_030279623,Sparus aurata (gilthead seabream),solute carrier family 17 member 9,464
+ESVFYV,207..212,XP_030279623,Sparus aurata (gilthead seabream),solute carrier family 17 member 9,464
+DAKGWV,295..300,XP_030279623,Sparus aurata (gilthead seabream),solute carrier family 17 member 9,464
+V1,V2,V3,V4,V5,V6
+EKVLLL,102..107,XP_030318959,Calypte anna (Anna's hummingbird),solute carrier family 17 member 9,448
+ESVFYF,196..201,XP_030318959,Calypte anna (Anna's hummingbird),solute carrier family 17 member 9,448
+EKELII,220..225,XP_030318959,Calypte anna (Anna's hummingbird),solute carrier family 17 member 9,448
+ESKGWV,284..289,XP_030318959,Calypte anna (Anna's hummingbird),solute carrier family 17 member 9,448
+V1,V2,V3,V4,V5,V6
+EKVLLL,102..107,XP_030359316,Strigops habroptila (Kakapo),solute carrier family 17 member 9,448
+ESERAF,161..166,XP_030359316,Strigops habroptila (Kakapo),solute carrier family 17 member 9,448
+ESVFYF,196..201,XP_030359316,Strigops habroptila (Kakapo),solute carrier family 17 member 9,448
+EKELII,220..225,XP_030359316,Strigops habroptila (Kakapo),solute carrier family 17 member 9,448
+ESKGWV,284..289,XP_030359316,Strigops habroptila (Kakapo),solute carrier family 17 member 9,448
+DTDSAY,440..445,XP_030359316,Strigops habroptila (Kakapo),solute carrier family 17 member 9,448
+V1,V2,V3,V4,V5,V6
+DTQSIW,16..21,XP_030383180,Scaptodrosophila lebanonensis,solute carrier family 17 member 9,438
+EKRVWF,25..30,XP_030383180,Scaptodrosophila lebanonensis,solute carrier family 17 member 9,438
+DSGTVL,64..69,XP_030383180,Scaptodrosophila lebanonensis,solute carrier family 17 member 9,438
+ERSSFF,158..163,XP_030383180,Scaptodrosophila lebanonensis,solute carrier family 17 member 9,438
+ERTRII,216..221,XP_030383180,Scaptodrosophila lebanonensis,solute carrier family 17 member 9,438
+EMNCFF,261..266,XP_030383180,Scaptodrosophila lebanonensis,solute carrier family 17 member 9,438
+DARGWV,282..287,XP_030383180,Scaptodrosophila lebanonensis,solute carrier family 17 member 9,438
+DFHTAL,344..349,XP_030383180,Scaptodrosophila lebanonensis,solute carrier family 17 member 9,438
+V1,V2,V3,V4,V5,V6
+EKVLLL,120..125,XP_030389269,Gopherus evgoodei (Goodes thornscrub tortoise),solute carrier family 17 member 9,466
+ESERAF,179..184,XP_030389269,Gopherus evgoodei (Goodes thornscrub tortoise),solute carrier family 17 member 9,466
+ESVFYF,214..219,XP_030389269,Gopherus evgoodei (Goodes thornscrub tortoise),solute carrier family 17 member 9,466
+EKELII,238..243,XP_030389269,Gopherus evgoodei (Goodes thornscrub tortoise),solute carrier family 17 member 9,466
+ESKGWV,302..307,XP_030389269,Gopherus evgoodei (Goodes thornscrub tortoise),solute carrier family 17 member 9,466
+DTDSAY,458..463,XP_030389269,Gopherus evgoodei (Goodes thornscrub tortoise),solute carrier family 17 member 9,466
+V1,V2,V3,V4,V5,V6
+DTQSIW,16..21,XP_030556758,Drosophila novamexicana,solute carrier family 17 member 9,438
+EKRVWF,25..30,XP_030556758,Drosophila novamexicana,solute carrier family 17 member 9,438
+DSGTVL,64..69,XP_030556758,Drosophila novamexicana,solute carrier family 17 member 9,438
+ERSSFF,158..163,XP_030556758,Drosophila novamexicana,solute carrier family 17 member 9,438
+ERNRII,216..221,XP_030556758,Drosophila novamexicana,solute carrier family 17 member 9,438
+EMNCFF,261..266,XP_030556758,Drosophila novamexicana,solute carrier family 17 member 9,438
+V1,V2,V3,V4,V5,V6
+DTQSIW,16..21,XP_030556759,Drosophila novamexicana,solute carrier family 17 member 9,438
+EKRVWF,25..30,XP_030556759,Drosophila novamexicana,solute carrier family 17 member 9,438
+DSGTVL,64..69,XP_030556759,Drosophila novamexicana,solute carrier family 17 member 9,438
+ERSSFF,158..163,XP_030556759,Drosophila novamexicana,solute carrier family 17 member 9,438
+ERNRII,216..221,XP_030556759,Drosophila novamexicana,solute carrier family 17 member 9,438
+EMNCFF,261..266,XP_030556759,Drosophila novamexicana,solute carrier family 17 member 9,438
+V1,V2,V3,V4,V5,V6
+DTQSIW,16..21,XP_030556760,Drosophila novamexicana,solute carrier family 17 member 9,438
+EKRVWF,25..30,XP_030556760,Drosophila novamexicana,solute carrier family 17 member 9,438
+DSGTVL,64..69,XP_030556760,Drosophila novamexicana,solute carrier family 17 member 9,438
+ERSSFF,158..163,XP_030556760,Drosophila novamexicana,solute carrier family 17 member 9,438
+ERNRII,216..221,XP_030556760,Drosophila novamexicana,solute carrier family 17 member 9,438
+EMNCFF,261..266,XP_030556760,Drosophila novamexicana,solute carrier family 17 member 9,438
+V1,V2,V3,V4,V5,V6
+ESGMVL,86..91,XP_030589621,Archocentrus centrarchus (flier cichlid),solute carrier family 17 member 9,466
+EKVLLL,115..120,XP_030589621,Archocentrus centrarchus (flier cichlid),solute carrier family 17 member 9,466
+ERGFLM,176..181,XP_030589621,Archocentrus centrarchus (flier cichlid),solute carrier family 17 member 9,466
+V1,V2,V3,V4,V5,V6
+EKVILL,122..127,XP_030618748,Delphinapterus leucas (beluga whale),solute carrier family 17 member 9,611
+ESERAF,181..186,XP_030618748,Delphinapterus leucas (beluga whale),solute carrier family 17 member 9,611
+EKDLIL,240..245,XP_030618748,Delphinapterus leucas (beluga whale),solute carrier family 17 member 9,611
+V1,V2,V3,V4,V5,V6
+ESGMVL,82..87,XP_030625042,Chanos chanos (milkfish),solute carrier family 17 member 9,462
+EKVLLL,111..116,XP_030625042,Chanos chanos (milkfish),solute carrier family 17 member 9,462
+ERGFLM,172..177,XP_030625042,Chanos chanos (milkfish),solute carrier family 17 member 9,462
+ESVFYV,205..210,XP_030625042,Chanos chanos (milkfish),solute carrier family 17 member 9,462
+EAKGWV,293..298,XP_030625042,Chanos chanos (milkfish),solute carrier family 17 member 9,462
+V1,V2,V3,V4,V5,V6
+EKVLLL,102..107,XP_030818979,Camarhynchus parvulus,solute carrier family 17 member 9,448
+ESERAF,161..166,XP_030818979,Camarhynchus parvulus,solute carrier family 17 member 9,448
+ESVFYF,196..201,XP_030818979,Camarhynchus parvulus,solute carrier family 17 member 9,448
+DSKGWV,284..289,XP_030818979,Camarhynchus parvulus,solute carrier family 17 member 9,448
+DTGSVY,440..445,XP_030818979,Camarhynchus parvulus,solute carrier family 17 member 9,448
+V1,V2,V3,V4,V5,V6
+ESGMVL,85..90,XP_031172526,Sander lucioperca (pike-perch),solute carrier family 17 member 9,465
+EKVLLL,114..119,XP_031172526,Sander lucioperca (pike-perch),solute carrier family 17 member 9,465
+ERGFLM,175..180,XP_031172526,Sander lucioperca (pike-perch),solute carrier family 17 member 9,465
+V1,V2,V3,V4,V5,V6
+ESGMVL,85..90,XP_031601380,Oreochromis aureus,solute carrier family 17 member 9,465
+EKVLLL,114..119,XP_031601380,Oreochromis aureus,solute carrier family 17 member 9,465
+ERGFLM,175..180,XP_031601380,Oreochromis aureus,solute carrier family 17 member 9,465
+DAKGWV,296..301,XP_031601380,Oreochromis aureus,solute carrier family 17 member 9,465
+V1,V2,V3,V4,V5,V6
+DDISIW,15..20,XP_031622735,Contarinia nasturtii (swede midge),solute carrier family 17 member 9,437
+EKRLWF,24..29,XP_031622735,Contarinia nasturtii (swede midge),solute carrier family 17 member 9,437
+ESGTVL,63..68,XP_031622735,Contarinia nasturtii (swede midge),solute carrier family 17 member 9,437
+ERSSFF,157..162,XP_031622735,Contarinia nasturtii (swede midge),solute carrier family 17 member 9,437
+DRNRII,215..220,XP_031622735,Contarinia nasturtii (swede midge),solute carrier family 17 member 9,437
+DSVPWL,237..242,XP_031622735,Contarinia nasturtii (swede midge),solute carrier family 17 member 9,437
+V1,V2,V3,V4,V5,V6
+EKVIFL,154..159,XP_031750445,Xenopus tropicalis (tropical clawed frog),solute carrier family 17 member 9,498
+EAERAF,213..218,XP_031750445,Xenopus tropicalis (tropical clawed frog),solute carrier family 17 member 9,498
+EKERIV,272..277,XP_031750445,Xenopus tropicalis (tropical clawed frog),solute carrier family 17 member 9,498
+ESKGWV,336..341,XP_031750445,Xenopus tropicalis (tropical clawed frog),solute carrier family 17 member 9,498
+V1,V2,V3,V4,V5,V6
+DSGTVL,72..77,XP_031780502,Nasonia vitripennis (jewel wasp),solute carrier family 17 member 9,436
+DIISLF,120..125,XP_031780502,Nasonia vitripennis (jewel wasp),solute carrier family 17 member 9,436
+ETIAFA,134..139,XP_031780502,Nasonia vitripennis (jewel wasp),solute carrier family 17 member 9,436
+ERASFF,166..171,XP_031780502,Nasonia vitripennis (jewel wasp),solute carrier family 17 member 9,436
+EVKSWI,280..285,XP_031780502,Nasonia vitripennis (jewel wasp),solute carrier family 17 member 9,436
+DKAILY,344..349,XP_031780502,Nasonia vitripennis (jewel wasp),solute carrier family 17 member 9,436
+V1,V2,V3,V4,V5,V6
+EAGIVL,61..66,XP_031997942,Hylobates moloch (silvery gibbon),solute carrier family 17 member 9,436
+EKVILL,90..95,XP_031997942,Hylobates moloch (silvery gibbon),solute carrier family 17 member 9,436
+ESERAF,149..154,XP_031997942,Hylobates moloch (silvery gibbon),solute carrier family 17 member 9,436
+EKDLIL,208..213,XP_031997942,Hylobates moloch (silvery gibbon),solute carrier family 17 member 9,436
+DAKGWI,272..277,XP_031997942,Hylobates moloch (silvery gibbon),solute carrier family 17 member 9,436
+ESVVFA,337..342,XP_031997942,Hylobates moloch (silvery gibbon),solute carrier family 17 member 9,436
+V1,V2,V3,V4,V5,V6
+EKVLLL,106..111,XP_032054515,Aythya fuligula (tufted duck),solute carrier family 17 member 9,452
+ESERAF,165..170,XP_032054515,Aythya fuligula (tufted duck),solute carrier family 17 member 9,452
+ESVFYF,200..205,XP_032054515,Aythya fuligula (tufted duck),solute carrier family 17 member 9,452
+ESKGWV,288..293,XP_032054515,Aythya fuligula (tufted duck),solute carrier family 17 member 9,452
+DTDSAY,444..449,XP_032054515,Aythya fuligula (tufted duck),solute carrier family 17 member 9,452
+V1,V2,V3,V4,V5,V6
+DAQNWI,104..109,XP_032239108,Nematostella vectensis (starlet sea anemone),solute carrier family 17 member 9,260
+EFWQAL,166..171,XP_032239108,Nematostella vectensis (starlet sea anemone),solute carrier family 17 member 9,260
+V1,V2,V3,V4,V5,V6
+EAGIVL,64..69,XP_032243559,Phoca vitulina (harbor seal),solute carrier family 17 member 9,439
+EKVILL,93..98,XP_032243559,Phoca vitulina (harbor seal),solute carrier family 17 member 9,439
+ESERAF,152..157,XP_032243559,Phoca vitulina (harbor seal),solute carrier family 17 member 9,439
+EKDLIL,211..216,XP_032243559,Phoca vitulina (harbor seal),solute carrier family 17 member 9,439
+V1,V2,V3,V4,V5,V6
+ESGMVL,86..91,XP_032377195,Etheostoma spectabile (orangethroat darter),solute carrier family 17 member 9,466
+EKVLLL,115..120,XP_032377195,Etheostoma spectabile (orangethroat darter),solute carrier family 17 member 9,466
+ERGFLM,176..181,XP_032377195,Etheostoma spectabile (orangethroat darter),solute carrier family 17 member 9,466
+V1,V2,V3,V4,V5,V6
+ESGMVL,86..91,XP_032432353,Xiphophorus hellerii (green swordtail),solute carrier family 17 member 9,466
+EKVLLL,115..120,XP_032432353,Xiphophorus hellerii (green swordtail),solute carrier family 17 member 9,466
+ERGFLM,176..181,XP_032432353,Xiphophorus hellerii (green swordtail),solute carrier family 17 member 9,466
+ESVFYV,209..214,XP_032432353,Xiphophorus hellerii (green swordtail),solute carrier family 17 member 9,466
+DAKGWV,297..302,XP_032432353,Xiphophorus hellerii (green swordtail),solute carrier family 17 member 9,466
+V1,V2,V3,V4,V5,V6
+DGDPYW,26..31,XP_032561052,Chiroxiphia lanceolata (lance-tailed manakin),solute carrier family 17 member 9,449
+EKVLLL,103..108,XP_032561052,Chiroxiphia lanceolata (lance-tailed manakin),solute carrier family 17 member 9,449
+ESERAF,162..167,XP_032561052,Chiroxiphia lanceolata (lance-tailed manakin),solute carrier family 17 member 9,449
+ESVFYF,197..202,XP_032561052,Chiroxiphia lanceolata (lance-tailed manakin),solute carrier family 17 member 9,449
+EKELII,221..226,XP_032561052,Chiroxiphia lanceolata (lance-tailed manakin),solute carrier family 17 member 9,449
+ESKGWV,285..290,XP_032561052,Chiroxiphia lanceolata (lance-tailed manakin),solute carrier family 17 member 9,449
+DTDSAY,441..446,XP_032561052,Chiroxiphia lanceolata (lance-tailed manakin),solute carrier family 17 member 9,449
+V1,V2,V3,V4,V5,V6
+EKVLLL,120..125,XP_032622270,Chelonoidis abingdonii (Abingdon island giant tortoise),solute carrier family 17 member 9,466
+ESERAF,179..184,XP_032622270,Chelonoidis abingdonii (Abingdon island giant tortoise),solute carrier family 17 member 9,466
+ESVFYF,214..219,XP_032622270,Chelonoidis abingdonii (Abingdon island giant tortoise),solute carrier family 17 member 9,466
+EKELII,238..243,XP_032622270,Chelonoidis abingdonii (Abingdon island giant tortoise),solute carrier family 17 member 9,466
+ESKGWV,302..307,XP_032622270,Chelonoidis abingdonii (Abingdon island giant tortoise),solute carrier family 17 member 9,466
+DTDSAY,458..463,XP_032622270,Chelonoidis abingdonii (Abingdon island giant tortoise),solute carrier family 17 member 9,466
+V1,V2,V3,V4,V5,V6
+DEKSLA,34..39,XP_032810649,Petromyzon marinus (sea lamprey),solute carrier family 17 member 9,463
+DTKTLW,45..50,XP_032810649,Petromyzon marinus (sea lamprey),solute carrier family 17 member 9,463
+ELRLWV,54..59,XP_032810649,Petromyzon marinus (sea lamprey),solute carrier family 17 member 9,463
+ESERAF,181..186,XP_032810649,Petromyzon marinus (sea lamprey),solute carrier family 17 member 9,463
+ESLFIL,216..221,XP_032810649,Petromyzon marinus (sea lamprey),solute carrier family 17 member 9,463
+DSKGWV,306..311,XP_032810649,Petromyzon marinus (sea lamprey),solute carrier family 17 member 9,463
+ESFSLA,367..372,XP_032810649,Petromyzon marinus (sea lamprey),solute carrier family 17 member 9,463
+V1,V2,V3,V4,V5,V6
+EAKSWV,43..48,XP_032897284,Amblyraja radiata (thorny skate),solute carrier family 17 member 9,450
+ESDRAF,170..175,XP_032897284,Amblyraja radiata (thorny skate),solute carrier family 17 member 9,450
+ESVFYF,205..210,XP_032897284,Amblyraja radiata (thorny skate),solute carrier family 17 member 9,450
+ESKGWV,293..298,XP_032897284,Amblyraja radiata (thorny skate),solute carrier family 17 member 9,450
+V1,V2,V3,V4,V5,V6
+EKVLLL,100..105,XP_032931239,Catharus ustulatus (Swainson's thrush),solute carrier family 17 member 9,446
+ESERAF,159..164,XP_032931239,Catharus ustulatus (Swainson's thrush),solute carrier family 17 member 9,446
+ESVFYF,194..199,XP_032931239,Catharus ustulatus (Swainson's thrush),solute carrier family 17 member 9,446
+ESKGWV,282..287,XP_032931239,Catharus ustulatus (Swainson's thrush),solute carrier family 17 member 9,446
+DTDSVY,438..443,XP_032931239,Catharus ustulatus (Swainson's thrush),solute carrier family 17 member 9,446
+V1,V2,V3,V4,V5,V6
+EKVILL,115..120,XP_033009602,Lacerta agilis,solute carrier family 17 member 9,461
+ENERAF,174..179,XP_033009602,Lacerta agilis,solute carrier family 17 member 9,461
+DSKGWV,297..302,XP_033009602,Lacerta agilis,solute carrier family 17 member 9,461
+DSFCLA,358..363,XP_033009602,Lacerta agilis,solute carrier family 17 member 9,461
+DTDSAF,453..458,XP_033009602,Lacerta agilis,solute carrier family 17 member 9,461
+V1,V2,V3,V4,V5,V6
+EAGIVL,61..66,XP_033042926,Trachypithecus francoisi (Francois's langur),solute carrier family 17 member 9,436
+EKVILL,90..95,XP_033042926,Trachypithecus francoisi (Francois's langur),solute carrier family 17 member 9,436
+DSERAF,149..154,XP_033042926,Trachypithecus francoisi (Francois's langur),solute carrier family 17 member 9,436
+DLVLAL,210..215,XP_033042926,Trachypithecus francoisi (Francois's langur),solute carrier family 17 member 9,436
+ESVVFA,337..342,XP_033042926,Trachypithecus francoisi (Francois's langur),solute carrier family 17 member 9,436
+V1,V2,V3,V4,V5,V6
+DTQSIW,16..21,XP_033150898,Drosophila busckii,solute carrier family 17 member 9,438
+EKRVWF,25..30,XP_033150898,Drosophila busckii,solute carrier family 17 member 9,438
+DSGTVL,64..69,XP_033150898,Drosophila busckii,solute carrier family 17 member 9,438
+ERSSFF,158..163,XP_033150898,Drosophila busckii,solute carrier family 17 member 9,438
+ERNRII,216..221,XP_033150898,Drosophila busckii,solute carrier family 17 member 9,438
+EMNCFF,261..266,XP_033150898,Drosophila busckii,solute carrier family 17 member 9,438
+DFHTAL,344..349,XP_033150898,Drosophila busckii,solute carrier family 17 member 9,438
+V1,V2,V3,V4,V5,V6
+ERQKWF,21..26,XP_033202761,Bombus vancouverensis nearcticus,solute carrier family 17 member 9,423
+DSGVIL,60..65,XP_033202761,Bombus vancouverensis nearcticus,solute carrier family 17 member 9,423
+EVIELF,108..113,XP_033202761,Bombus vancouverensis nearcticus,solute carrier family 17 member 9,423
+DDSSVL,116..121,XP_033202761,Bombus vancouverensis nearcticus,solute carrier family 17 member 9,423
+ERASFF,153..158,XP_033202761,Bombus vancouverensis nearcticus,solute carrier family 17 member 9,423
+ENYNWV,181..186,XP_033202761,Bombus vancouverensis nearcticus,solute carrier family 17 member 9,423
+EVKGWV,267..272,XP_033202761,Bombus vancouverensis nearcticus,solute carrier family 17 member 9,423
+ETICFL,310..315,XP_033202761,Bombus vancouverensis nearcticus,solute carrier family 17 member 9,423
+EIISLL,317..322,XP_033202761,Bombus vancouverensis nearcticus,solute carrier family 17 member 9,423
+V1,V2,V3,V4,V5,V6
+ERQKWF,21..26,XP_033309895,Bombus bifarius,solute carrier family 17 member 9,423
+DSGVIL,60..65,XP_033309895,Bombus bifarius,solute carrier family 17 member 9,423
+EVIELF,108..113,XP_033309895,Bombus bifarius,solute carrier family 17 member 9,423
+DDSSVL,116..121,XP_033309895,Bombus bifarius,solute carrier family 17 member 9,423
+ERASFF,153..158,XP_033309895,Bombus bifarius,solute carrier family 17 member 9,423
+ENYNWV,181..186,XP_033309895,Bombus bifarius,solute carrier family 17 member 9,423
+EVKGWV,267..272,XP_033309895,Bombus bifarius,solute carrier family 17 member 9,423
+ETICFL,310..315,XP_033309895,Bombus bifarius,solute carrier family 17 member 9,423
+EIISLL,317..322,XP_033309895,Bombus bifarius,solute carrier family 17 member 9,423
+V1,V2,V3,V4,V5,V6
+EKRKWF,23..28,XP_033341709,Megalopta genalis,solute carrier family 17 member 9,425
+DSGVIL,62..67,XP_033341709,Megalopta genalis,solute carrier family 17 member 9,425
+EIIEFV,110..115,XP_033341709,Megalopta genalis,solute carrier family 17 member 9,425
+DTSVLL,119..124,XP_033341709,Megalopta genalis,solute carrier family 17 member 9,425
+ERASFF,155..160,XP_033341709,Megalopta genalis,solute carrier family 17 member 9,425
+ENYNWM,183..188,XP_033341709,Megalopta genalis,solute carrier family 17 member 9,425
+DPLQWL,225..230,XP_033341709,Megalopta genalis,solute carrier family 17 member 9,425
+EVKSWV,269..274,XP_033341709,Megalopta genalis,solute carrier family 17 member 9,425
+ETICFV,312..317,XP_033341709,Megalopta genalis,solute carrier family 17 member 9,425
+EIISLL,319..324,XP_033341709,Megalopta genalis,solute carrier family 17 member 9,425
+V1,V2,V3,V4,V5,V6
+ERQKWF,21..26,XP_033357337,Bombus vosnesenskii,solute carrier family 17 member 9,423
+DSGVIL,60..65,XP_033357337,Bombus vosnesenskii,solute carrier family 17 member 9,423
+EVIELF,108..113,XP_033357337,Bombus vosnesenskii,solute carrier family 17 member 9,423
+DDSSVL,116..121,XP_033357337,Bombus vosnesenskii,solute carrier family 17 member 9,423
+ERASFF,153..158,XP_033357337,Bombus vosnesenskii,solute carrier family 17 member 9,423
+ENYNWV,181..186,XP_033357337,Bombus vosnesenskii,solute carrier family 17 member 9,423
+EVKGWV,267..272,XP_033357337,Bombus vosnesenskii,solute carrier family 17 member 9,423
+ETICFL,310..315,XP_033357337,Bombus vosnesenskii,solute carrier family 17 member 9,423
+EIISLL,317..322,XP_033357337,Bombus vosnesenskii,solute carrier family 17 member 9,423
+V1,V2,V3,V4,V5,V6
+DTQNIW,16..21,XP_034099141,Drosophila albomicans,solute carrier family 17 member 9,438
+EKRVWF,25..30,XP_034099141,Drosophila albomicans,solute carrier family 17 member 9,438
+DSGTVL,64..69,XP_034099141,Drosophila albomicans,solute carrier family 17 member 9,438
+ERSSFF,158..163,XP_034099141,Drosophila albomicans,solute carrier family 17 member 9,438
+ERNRII,216..221,XP_034099141,Drosophila albomicans,solute carrier family 17 member 9,438
+EMNCFF,261..266,XP_034099141,Drosophila albomicans,solute carrier family 17 member 9,438
+DFHTAL,344..349,XP_034099141,Drosophila albomicans,solute carrier family 17 member 9,438
+V1,V2,V3,V4,V5,V6
+DTQSIW,16..21,XP_034125848,Drosophila guanche,solute carrier family 17 member 9,438
+EKRIWF,25..30,XP_034125848,Drosophila guanche,solute carrier family 17 member 9,438
+DSGTVL,64..69,XP_034125848,Drosophila guanche,solute carrier family 17 member 9,438
+ERSSFF,158..163,XP_034125848,Drosophila guanche,solute carrier family 17 member 9,438
+ERNRII,216..221,XP_034125848,Drosophila guanche,solute carrier family 17 member 9,438
+EMNCFF,261..266,XP_034125848,Drosophila guanche,solute carrier family 17 member 9,438
+DFHTAL,344..349,XP_034125848,Drosophila guanche,solute carrier family 17 member 9,438
+V1,V2,V3,V4,V5,V6
+EMGNVF,45..50,XP_034297206,Pantherophis guttatus,solute carrier family 17 member 9,470
+EKVLLL,123..128,XP_034297206,Pantherophis guttatus,solute carrier family 17 member 9,470
+ESERAL,182..187,XP_034297206,Pantherophis guttatus,solute carrier family 17 member 9,470
+ESVFYL,217..222,XP_034297206,Pantherophis guttatus,solute carrier family 17 member 9,470
+DSKGWI,306..311,XP_034297206,Pantherophis guttatus,solute carrier family 17 member 9,470
+DLDPAY,462..467,XP_034297206,Pantherophis guttatus,solute carrier family 17 member 9,470

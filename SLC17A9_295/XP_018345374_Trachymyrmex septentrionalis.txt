@@ -1,0 +1,60 @@
+
+LOCUS       XP_018345374             425 aa            linear   INV 23-SEP-2016
+DEFINITION  PREDICTED: solute carrier family 17 member 9 [Trachymyrmex
+            septentrionalis].
+ACCESSION   XP_018345374
+VERSION     XP_018345374.1
+DBLINK      BioProject: PRJNA343973
+DBSOURCE    REFSEQ: accession XM_018489872.1
+KEYWORDS    RefSeq.
+SOURCE      Trachymyrmex septentrionalis
+  ORGANISM  Trachymyrmex septentrionalis
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta;
+            Pterygota; Neoptera; Holometabola; Hymenoptera; Apocrita; Aculeata;
+            Vespoidea; Formicidae; Myrmicinae; Trachymyrmex.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_017305536.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Trachymyrmex septentrionalis
+                                           Annotation Release 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 7.1
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..425
+                     /organism="Trachymyrmex septentrionalis"
+                     /isolate="Tsep2-gDNA-1"
+                     /isolation_source="Nest"
+                     /db_xref="taxon:34720"
+                     /chromosome="Unknown"
+                     /tissue_type="Whole body"
+                     /country="Panama: Gamboa"
+                     /collection_date="2011"
+     Protein         1..425
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=46770
+     CDS             1..425
+                     /gene="LOC108750436"
+                     /coded_by="XM_018489872.1:410..1687"
+                     /db_xref="GeneID:108750436"
+ORIGIN      
+        1 mqlqisldtp fddrttssws rrerqkwfls llcgtcliya trtsvpllip vvsqeknwsk
+       61 sdsgiilssf fwgytltqva sgyisdkigg qkvlwisalg wsattflmpe iieffssdgt
+      121 svllvaavrm ingafqgmhf psmislisqr lheaerasff slltsgsalg tlltgslgsy
+      181 llenynwmtv fralggmsla wtallsyhtl pfkektasik sttdytlpws kllsqppfws
+      241 cvighacqnn cffvllswmp tyfhdtfpei rgwivnmvpw lsmlpctflg kalseeiika
+      301 gysvtvtrkt iqticfviei gsllflakve sfenailcla liiggsgfhn naiavnpsdl
+      361 apkhsgsvfg lmntvgaipg flgvyfsghi lhvthswpav flfiavidal gcimyllfgs
+      421 gqaii
+//
+

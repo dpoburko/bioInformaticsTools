@@ -1,0 +1,63 @@
+
+LOCUS       XP_031780502             436 aa            linear   INV 29-FEB-2020
+DEFINITION  solute carrier family 17 member 9 [Nasonia vitripennis].
+ACCESSION   XP_031780502
+VERSION     XP_031780502.1
+DBLINK      BioProject: PRJNA594415
+DBSOURCE    REFSEQ: accession XM_031924642.2
+KEYWORDS    RefSeq.
+SOURCE      Nasonia vitripennis (jewel wasp)
+  ORGANISM  Nasonia vitripennis
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta;
+            Pterygota; Neoptera; Holometabola; Hymenoptera; Apocrita;
+            Parasitoida; Chalcidoidea; Pteromalidae; Pteromalinae; Nasonia.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_045758.1) annotated using gene prediction method: Gnomon,
+            supported by EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Nasonia vitripennis Annotation
+                                           Release 104
+            Annotation Version          :: 104
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.3
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..436
+                     /organism="Nasonia vitripennis"
+                     /strain="AsymCx"
+                     /db_xref="taxon:7425"
+                     /chromosome="2"
+                     /map="unlocalized"
+                     /sex="male"
+                     /tissue_type="whole animal"
+                     /dev_stage="adult"
+                     /genotype="PSR+"
+     Protein         1..436
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=48202
+     CDS             1..436
+                     /gene="LOC100120472"
+                     /coded_by="XM_031924642.2:153..1463"
+                     /db_xref="GeneID:100120472"
+                     /db_xref="NASONIABASE:NV13199"
+ORIGIN      
+        1 mqnrrilttv lmphssksvq thdsinlhwt rkerlkwsii llsgtclvya trtsvpllvp
+       61 iigkerewsk tdsgtvlssf fwgytmtqvl ggyvsdrigg qrimwiaaig wgistfllpd
+      121 iislfskdda ysietiafar lingafqgmh fpsmisltsq rlsegerasf fslvtsgsal
+      181 gtlltgvlgs yvlesykwdt vfrllgcisv awtfvliyys lllngrtttn kqsssnklpi
+      241 relitkapfw scvighacqn ncffillswm ptyfhdtfpe vkswivnmvp wlasvpsifl
+      301 graiseklik tgysitatrk iiqttcftiq ainllflaat nssdkailyv tliiagsgfh
+      361 nsaivvnpsd lapkhsgsvf gfmntigavp gflgvyfagh ilhlthswav vflymfviei
+      421 igcavylifg sgqail
+//
+

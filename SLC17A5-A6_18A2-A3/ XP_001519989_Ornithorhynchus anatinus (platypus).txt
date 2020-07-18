@@ -1,0 +1,78 @@
+
+LOCUS       XP_001519989             555 aa            linear   MAM 29-APR-2019
+DEFINITION  vesicular acetylcholine transporter [Ornithorhynchus anatinus].
+ACCESSION   XP_001519989
+VERSION     XP_001519989.4
+DBLINK      BioProject: PRJNA534073
+DBSOURCE    REFSEQ: accession XM_001519939.4
+KEYWORDS    RefSeq; includes ab initio.
+SOURCE      Ornithorhynchus anatinus (platypus)
+  ORGANISM  Ornithorhynchus anatinus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Monotremata; Ornithorhynchidae; Ornithorhynchus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_041730.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            On Apr 29, 2019 this sequence version replaced XP_001519989.3.
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Ornithorhynchus anatinus Annotation
+                                           Release 104
+            Annotation Version          :: 104
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            ab initio :: 1% of CDS bases
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..555
+                     /organism="Ornithorhynchus anatinus"
+                     /isolate="Pmale09"
+                     /db_xref="taxon:9258"
+                     /chromosome="3"
+                     /sex="male"
+                     /tissue_type="liver; muscle"
+     Protein         1..555
+                     /product="vesicular acetylcholine transporter"
+                     /calculated_mol_wt=58865
+     Region          34..430
+                     /region_name="MFS_SLC18A3_VAChT"
+                     /note="Vesicular acetylcholine transporter (VAChT) and
+                     similar transporters of the Major Facilitator Superfamily;
+                     cd17383"
+                     /db_xref="CDD:340941"
+     Site            order(44..45,48..49,52,99,149..150,152..154,157,178,
+                     181..182,185,258,261..262,265..267,270,298,302,351..352,
+                     356,360,381,384..385,388..389,392)
+                     /site_type="other"
+                     /note="putative chemical substrate binding pocket
+                     [chemical binding]"
+                     /db_xref="CDD:340941"
+     CDS             1..555
+                     /gene="SLC18A3"
+                     /coded_by="XM_001519939.4:1..1668"
+                     /db_xref="GeneID:100091000"
+ORIGIN      
+        1 mawasgklse avgergrrwg salreaerqr rlvlvivcva lfldnmlymv ivpivpdyva
+       61 hmrgpggpan gsrgpatege dakigvlfas kailqllvnp lsgafidrvg ydaplligla
+      121 vmflstvlfa laedyaalfa arslqglgsa fadtsgiami adrfpeeper sralgvalaf
+      181 isfgslvapp fggilyqfag krvpflvlaa vclldgllll llaaaraggq earaarppgt
+      241 pfhrllrdpy vavvagaltt cniplaflep tvaawmertm gasewqmglv wlpafvphvl
+      301 gvyltvrlaa ryphlqwflg alglvaigas sctvpacrsf vqlvvplcgi cfgialvdta
+      361 llptlaflvd lrhvsvygsv yaiadvsysv ayalgpivas qivhtlgfaq lslgmglanv
+      421 lyapvllllr rvsylrpsrs ereilldepp rglydtille drpdhppapq grpdghpdgh
+      481 ppdhppgppp ehppglppgh ppehppehpp ghppghppgq pswhppghpp ghppghpddr
+      541 agppaprpls edqgs
+//
+

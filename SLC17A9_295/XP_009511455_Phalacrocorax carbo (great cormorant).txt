@@ -1,0 +1,67 @@
+
+LOCUS       XP_009511455             289 aa            linear   VRT 08-OCT-2014
+DEFINITION  PREDICTED: solute carrier family 17 member 9, partial
+            [Phalacrocorax carbo].
+ACCESSION   XP_009511455
+VERSION     XP_009511455.1
+DBLINK      BioProject: PRJNA261839
+DBSOURCE    REFSEQ: accession XM_009513160.1
+KEYWORDS    RefSeq.
+SOURCE      Phalacrocorax carbo (great cormorant)
+  ORGANISM  Phalacrocorax carbo
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Pelecaniformes; Phalacrocoracidae;
+            Phalacrocorax.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_009176867.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Phalacrocorax carbo Annotation
+                                           Release 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 6.1
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: incomplete on the carboxy end.
+FEATURES             Location/Qualifiers
+     source          1..289
+                     /organism="Phalacrocorax carbo"
+                     /isolate="BGI_N336"
+                     /db_xref="taxon:9209"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /country="Denmark"
+     Protein         1..>289
+                     /product="solute carrier family 17 member 9"
+     Region          1..>274
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Region          4..>284
+                     /region_name="MFS_1"
+                     /note="Major Facilitator Superfamily; pfam07690"
+                     /db_xref="CDD:284993"
+     CDS             1..289
+                     /gene="SLC17A9"
+                     /coded_by="XM_009513160.1:10..>876"
+                     /db_xref="GeneID:104052005"
+ORIGIN      
+        1 mvmlllgtcl lycarvtvpi cavalsthfd wdkkqsgivl ssffwgyclt qiigghisdq
+       61 iggervllls asawgfltvl tpllthvtsa hlvfmassrf lmgllqgvyf pslasllsqk
+      121 vreserafty stvgtgsqfg tlviggagsl lldwygxxxx xxxxxxxxll wvyctckyll
+      181 sekeliipid ylmrglsisk qtkvpwkqlf kkapiwavii aqlstastff tllswlptff
+      241 kesfpeskgw vfnvvpwlva iptslfsgfl sdhlinqgyk titirkfmq
+//
+

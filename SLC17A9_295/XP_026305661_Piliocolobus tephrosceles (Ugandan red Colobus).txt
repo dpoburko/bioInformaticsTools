@@ -1,0 +1,62 @@
+
+LOCUS       XP_026305661             123 aa            linear   PRI 30-DEC-2019
+DEFINITION  solute carrier family 17 member 9 [Piliocolobus tephrosceles].
+ACCESSION   XP_026305661
+VERSION     XP_026305661.1
+DBLINK      BioProject: PRJNA419387
+DBSOURCE    REFSEQ: accession XM_026449876.1
+KEYWORDS    RefSeq.
+SOURCE      Piliocolobus tephrosceles (Ugandan red Colobus)
+  ORGANISM  Piliocolobus tephrosceles
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Colobinae; Piliocolobus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_022310576.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA and EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Piliocolobus tephrosceles Annotation
+                                           Release 102
+            Annotation Version          :: 102
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.3
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..123
+                     /organism="Piliocolobus tephrosceles"
+                     /isolate="RC106"
+                     /isolation_source="whole blood"
+                     /db_xref="taxon:591936"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /country="Uganda: Kibale National Park"
+                     /lat_lon="0.4862 N 30.3897 E"
+                     /collection_date="27-Jul-2014"
+     Protein         1..123
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=12466
+     Region          <3..122
+                     /region_name="UhpC"
+                     /note="Sugar phosphate permease [Carbohydrate transport
+                     and metabolism]; cl27298"
+                     /db_xref="CDD:332119"
+     CDS             1..123
+                     /gene="LOC111531807"
+                     /coded_by="XM_026449876.1:28..399"
+                     /db_xref="GeneID:111531807"
+ORIGIN      
+        1 mqgmglglss vfalclghts sfcesvvfas asiglqtfnh sgisvniqdl apscagflfg
+       61 vantagalag vvgvclggyl iettgswtcl fnlvaiisnl glctflvfgq aqrvdlssth
+      121 edl
+//
+

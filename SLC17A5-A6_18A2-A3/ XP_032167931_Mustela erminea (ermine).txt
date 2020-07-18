@@ -1,0 +1,63 @@
+
+LOCUS       XP_032167931             517 aa            linear   MAM 03-FEB-2020
+DEFINITION  synaptic vesicular amine transporter [Mustela erminea].
+ACCESSION   XP_032167931
+VERSION     XP_032167931.1
+DBLINK      BioProject: PRJNA602914
+DBSOURCE    REFSEQ: accession XM_032312040.1
+KEYWORDS    RefSeq.
+SOURCE      Mustela erminea (ermine)
+  ORGANISM  Mustela erminea
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Carnivora; Caniformia;
+            Mustelidae; Mustelinae; Mustela.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_045627.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Mustela erminea Annotation Release
+                                           100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.3
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..517
+                     /organism="Mustela erminea"
+                     /isolate="mMusErm1"
+                     /db_xref="taxon:36723"
+                     /chromosome="14"
+                     /sex="male"
+                     /tissue_type="spleen (genome), liver, muscle, kidney"
+                     /dev_stage="adult"
+                     /country="New Zealand: Coromandel"
+                     /lat_lon="37.304717 S 175.755071 E"
+                     /collected_by="Andrew Veale, Tim Cruickshank"
+     Protein         1..517
+                     /product="synaptic vesicular amine transporter"
+                     /calculated_mol_wt=55765
+     CDS             1..517
+                     /gene="SLC18A2"
+                     /coded_by="XM_032312040.1:124..1677"
+                     /db_xref="GeneID:116572762"
+ORIGIN      
+        1 malselallr wllesrhsrk lilfivflal lldnmlltvv vpiipsylys inheknssev
+       61 qtakpvltas tsgsfesifs yydnatmvtg nstrelhrgl lrpaatqhtv tntstapsdc
+      121 psedkdllne nvqvgllfas katvqlltnp figmltnrig ypipmfagfc imfvstimfa
+      181 fsssyaflli arslqgigss cssvagmgml asvytddeer gnamgialgg lamgvlvgpp
+      241 fgsvlyefvg ktapflvlaa lvlldgaiql fvlqpsrvqp esqkgtpltt llkdpyilia
+      301 agsicfanmg iamlepalpi wmmetmcsrk wqlgiaflpa sisyligtni fgmlahkmgr
+      361 wlcallgmii vgisilcipf akniygliap nfgvgfaigm vdssmmpimg ylvdlrhvsv
+      421 ygsvyaiadv afcmgyaigp saggavakai gfpwlmtiig iidilfaplc fflrsppake
+      481 ekmailmdhn cpiktkmytq nntqsypigd deesesd
+//
+

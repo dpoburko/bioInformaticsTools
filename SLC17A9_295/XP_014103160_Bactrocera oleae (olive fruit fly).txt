@@ -1,0 +1,80 @@
+
+LOCUS       XP_014103160             439 aa            linear   INV 21-SEP-2015
+DEFINITION  PREDICTED: solute carrier family 17 member 9 [Bactrocera oleae].
+ACCESSION   XP_014103160
+VERSION     XP_014103160.1
+DBLINK      BioProject: PRJNA293367
+DBSOURCE    REFSEQ: accession XM_014247685.1
+KEYWORDS    RefSeq.
+SOURCE      Bactrocera oleae (olive fruit fly)
+  ORGANISM  Bactrocera oleae
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta;
+            Pterygota; Neoptera; Holometabola; Diptera; Brachycera;
+            Muscomorpha; Tephritoidea; Tephritidae; Bactrocera; Daculus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_013581222.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Bactrocera oleae Annotation Release
+                                           100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 6.4
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..439
+                     /organism="Bactrocera oleae"
+                     /isolate="Demokritus"
+                     /host="Olea europaea"
+                     /db_xref="taxon:104688"
+                     /chromosome="Unknown"
+                     /sex="pooled male and female"
+                     /tissue_type="whole insect"
+                     /germline
+                     /country="Greece"
+                     /collection_date="1975"
+     Protein         1..439
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=48754
+     Region          32..432
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Region          34..397
+                     /region_name="MFS_1"
+                     /note="Major Facilitator Superfamily; pfam07690"
+                     /db_xref="CDD:284993"
+     Site            order(46,49..51,53..54,71,74..75,78,82..83,85..86,
+                     141..142,145..146,149..150,153,165..166,169..170,176,263,
+                     266..267,270..271,274,286,290,294,297,301,359..360,363,
+                     367..368,371,382..383,386..387,390..391,394)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..439
+                     /gene="LOC106627537"
+                     /coded_by="XM_014247685.1:258..1577"
+                     /db_xref="GeneID:106627537"
+ORIGIN      
+        1 msmdeklkys llrgelvdsq nawtrtekrv wfltlitgtl mlystrtsmp llipavaaeq
+       61 kwsktdsgtv lssffwgytl tqvvggyfsd rfggqrvilf aaigwslitf fmpniiwist
+      121 aikaysipfi vtiriingaf qgvhfpsmis ltsqnlcpne rtsffgllta gsalgtlltg
+      181 slgsfvldyf gwpyvfrvig flgiswalml ryytmagerg riinvsvpsr lcankqipdn
+      241 vpwlryfrkl sfwacvltha cemncffvll swlptyfhdg fphakvwvvn mipwlalppc
+      301 tlfaryltgr llarewstsa vrkiiqsccf asqnlalfim artsdfhtal icmtviiggt
+      361 gfhnnavtvn pqdlapshsg svfglmntvg avpgflgvyl aghileitqs wpivfstaaa
+      421 inlvgwtvfi vfgsaeaiv
+//
+

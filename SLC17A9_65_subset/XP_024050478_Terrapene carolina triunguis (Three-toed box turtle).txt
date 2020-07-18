@@ -1,0 +1,63 @@
+
+LOCUS       XP_024050478             469 aa            linear   VRT 15-JUL-2019
+DEFINITION  solute carrier family 17 member 9 [Terrapene carolina triunguis].
+ACCESSION   XP_024050478
+VERSION     XP_024050478.2
+DBLINK      BioProject: PRJNA435426
+DBSOURCE    REFSEQ: accession XM_024194710.3
+KEYWORDS    RefSeq.
+SOURCE      Terrapene carolina triunguis (Three-toed box turtle)
+  ORGANISM  Terrapene carolina triunguis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Testudines; Cryptodira; Durocryptodira;
+            Testudinoidea; Emydidae; Terrapene.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_020664481.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            On Oct 5, 2018 this sequence version replaced XP_024050478.1.
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Terrapene carolina triunguis
+                                           Annotation Release 102
+            Annotation Version          :: 102
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..469
+                     /organism="Terrapene carolina triunguis"
+                     /isolate="2854851"
+                     /isolation_source="Kennedy Woods, Forest Park"
+                     /sub_species="triunguis"
+                     /db_xref="taxon:2587831"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /tissue_type="blood"
+                     /country="USA: St. Louis, MO"
+     Protein         1..469
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=51433
+     CDS             1..469
+                     /gene="SLC17A9"
+                     /coded_by="XM_024194710.3:75..1484"
+                     /db_xref="GeneID:112103102"
+ORIGIN      
+        1 massigrngv qvyssdlvsl hhhshhyqqq qpvkktykeg tkkdgtvday wsrpesriwt
+       61 vmlllgtcll ycarvtmpic avamsshfdw dkkqsgivls sffwgycltq iigghlsdri
+      121 ggekvlllsa sawgfitait plltyissah lifmtiarfl mgllqgvyfp alaslfsqkv
+      181 reseraftcs tvgtgsqfgt lviggagsll ldwygwesvf yfsglltllw vycmckylln
+      241 ekeliirleh lakglslskq tkvpwkqlfk kapiwaviva qlstgstfft llswlptffk
+      301 dtfpeskgwv fnvvpwlvai ptslfsgfls dhlinqgykt itvrkfmqvi gsgvssifal
+      361 cmgqtssfck aivfasvsig lqtfnhsgis vnvqdlapsc agllfgignt ggallgvvcv
+      421 ylaghliett gswvsvfnlv atvnalglct flifgeaqrm dtdsayidl
+//
+

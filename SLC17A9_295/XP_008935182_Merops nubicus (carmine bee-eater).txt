@@ -1,0 +1,76 @@
+
+LOCUS       XP_008935182             416 aa            linear   VRT 02-SEP-2014
+DEFINITION  PREDICTED: solute carrier family 17 member 9, partial [Merops
+            nubicus].
+ACCESSION   XP_008935182
+VERSION     XP_008935182.1
+DBLINK      BioProject: PRJNA253837
+DBSOURCE    REFSEQ: accession XM_008936934.1
+KEYWORDS    RefSeq.
+SOURCE      Merops nubicus (carmine bee-eater)
+  ORGANISM  Merops nubicus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Coraciiformes; Meropidae; Merops.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_008598138.1) annotated using gene prediction method: Gnomon,
+            supported by EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Merops nubicus Annotation Release
+                                           100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 6.1
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: incomplete on the amino end.
+FEATURES             Location/Qualifiers
+     source          1..416
+                     /organism="Merops nubicus"
+                     /isolate="BGI_N331"
+                     /db_xref="taxon:57421"
+                     /chromosome="Unknown"
+                     /sex="female"
+     Protein         <1..416
+                     /product="solute carrier family 17 member 9"
+     Region          7..401
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Region          12..401
+                     /region_name="2A0114"
+                     /note="D-galactonate transporter; TIGR00893"
+                     /db_xref="CDD:273326"
+     Site            order(21,24..26,28..29,46,49..50,53,57..58,60..61,
+                     112..113,116..117,120..121,124,136..137,140..141,147,232,
+                     235..236,239..240,243,257,259,263,266,270,326,329..330,
+                     333,337..338,341,351..352,355..356,359..360,363)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..416
+                     /gene="SLC17A9"
+                     /coded_by="XM_008936934.1:<1..1252"
+                     /codon_start=2
+                     /db_xref="GeneID:103769709"
+ORIGIN      
+        1 pesrvwtvml llgtcllyca rvaapvcava lgarfswdkk qsgivlssff wgycltqiig
+       61 ghvsdrigge kvlllsasaw gfltlltpll thitsahlvf mtssrflmgl lqgvyfpsla
+      121 sllsqkvres eraftystvg tgsqfgtlvi ggagsllldw ygwesvfyfs glltllwvyc
+      181 tckyllseke liiprdyltr glsvskqtkv pwkqlfkkap iwaviiaqls tastfftlls
+      241 wlptffketf peskgwvfnv vpwlvaipts lfsgflsdhl inqgyrtitv rkfmqvvgsg
+      301 vssvfalclg qtssfckaiv fasasvglqt fnhsgisvnv qdlapscagl lfgvgntgga
+      361 llgvvcvyla gyliettgsw isvfnlvaav nsiglcaflm fgeaqrvdtd saymdl
+//
+

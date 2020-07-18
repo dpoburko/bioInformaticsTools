@@ -1,0 +1,77 @@
+
+LOCUS       XP_006873416             436 aa            linear   MAM 19-FEB-2014
+DEFINITION  PREDICTED: solute carrier family 17 member 9 [Chrysochloris
+            asiatica].
+ACCESSION   XP_006873416
+VERSION     XP_006873416.1
+DBLINK      BioProject: PRJNA232768
+DBSOURCE    REFSEQ: accession XM_006873354.1
+KEYWORDS    RefSeq.
+SOURCE      Chrysochloris asiatica (Cape golden mole)
+  ORGANISM  Chrysochloris asiatica
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Afrotheria; Chrysochloridae; Chrysochlorinae;
+            Chrysochloris.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_006408756.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Chrysochloris asiatica Annotation
+                                           Release 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 5.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..436
+                     /organism="Chrysochloris asiatica"
+                     /db_xref="taxon:185453"
+                     /chromosome="Unknown"
+                     /sex="female"
+                     /tissue_type="Spleen"
+                     /country="South Africa"
+     Protein         1..436
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=47165
+     Region          30..421
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Region          32..421
+                     /region_name="2A0114"
+                     /note="D-galactonate transporter; TIGR00893"
+                     /db_xref="CDD:273326"
+     Site            order(41,44..46,48..49,66,69..70,73,77..78,80..81,
+                     132..133,136..137,140..141,144,156..157,160..161,167,252,
+                     255..256,259..260,263,277,279,283,286,290,346,349..350,
+                     353,357..358,361,371..372,375..376,379..380,383)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..436
+                     /gene="SLC17A9"
+                     /coded_by="XM_006873354.1:1..1311"
+                     /db_xref="GeneID:102828228"
+ORIGIN      
+        1 mqpvpdevrq daaqnapwsr pecqawtrtl llgtcllyca rvsmsvctvs msqdfgwskt
+       61 eagivlssff wgycltqvvg ghlgdrigge kvillsasaw glitaatpll thlstaqlaf
+      121 mtcsrilmgl lqgvhfpalt sllsqkvrds eraftystvg agsqvgtlvt ggvgsllldr
+      181 hgwpsvfyfs ggltllwvyy vyryllnekd llmalgalvr gppisrhtkv rwkqlfrkpa
+      241 vwaavgsqls sacafftlls wlptffretf psskgwvfnv vpwlvaipas lfsgflsdhl
+      301 ishgyrtivv rkfmqamglg lssvfalclg htssffksmv fasaslglqt fnhsgisvni
+      361 qdlapscagf lfgvantaga lagvvgvylg gylmettgsw tslfnlvaiv silglctflv
+      421 fgeaqrvdln pthedl
+//
+

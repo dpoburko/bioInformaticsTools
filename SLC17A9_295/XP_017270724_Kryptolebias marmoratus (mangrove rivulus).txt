@@ -1,0 +1,60 @@
+
+LOCUS       XP_017270724             465 aa            linear   VRT 04-MAY-2018
+DEFINITION  solute carrier family 17 member 9 [Kryptolebias marmoratus].
+ACCESSION   XP_017270724
+VERSION     XP_017270724.1
+DBLINK      BioProject: PRJNA326783
+DBSOURCE    REFSEQ: accession XM_017415235.2
+KEYWORDS    RefSeq.
+SOURCE      Kryptolebias marmoratus (mangrove rivulus)
+  ORGANISM  Kryptolebias marmoratus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Atherinomorphae; Cyprinodontiformes;
+            Rivulidae; Kryptolebias.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_016094272.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Kryptolebias marmoratus Annotation
+                                           Release 101
+            Annotation Version          :: 101
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.0
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..465
+                     /organism="Kryptolebias marmoratus"
+                     /isolate="JLee-2015"
+                     /db_xref="taxon:37003"
+                     /chromosome="Unknown"
+                     /sex="hermaphrodite"
+                     /tissue_type="liver"
+                     /dev_stage="adult"
+     Protein         1..465
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=50466
+     CDS             1..465
+                     /gene="slc17a9"
+                     /coded_by="XM_017415235.2:308..1705"
+                     /db_xref="GeneID:108235304"
+ORIGIN      
+        1 maviqkyakn cgpdlvclke nhppdkpgap gchkkrpesh sswsrpvarl wtavlllgtc
+       61 llycarvamp icavsmaekf swskresgmv lgsffwgycf tqvfggyvsd rvggekvlll
+      121 saaawgsmta ftpilahlcs qpilsmtvar flmgllqgvh ypslaslcsq kvvesergfl
+      181 mstvgsgsyl gtlviggags lmldlygwes vfyvsglmsv lwaycmwkyl lkgegpiitl
+      241 eslgsggtqs klnkrhwlri lkqppvcavi vthlcaastf ftllswlptf fkdtfpdakg
+      301 wvfnvipwlv aipsslfsgc lsdhlirqgi dtasvrklmq ffsmgvcsvf tvllcgdttf
+      361 pwavafvsat mglttfshsg vslnvqdlap scagalfgvm ntcgafsgvl mvyfsgylie
+      421 atgswasmfa littfnllgl ctflafaesr rvdidsskvr hnihi
+//
+

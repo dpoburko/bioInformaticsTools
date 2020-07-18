@@ -1,0 +1,74 @@
+
+LOCUS       XP_025787896             631 aa            linear   MAM 26-JUL-2018
+DEFINITION  solute carrier family 17 member 9 [Puma concolor].
+ACCESSION   XP_025787896
+VERSION     XP_025787896.1
+DBLINK      BioProject: PRJNA481988
+DBSOURCE    REFSEQ: accession XM_025932111.1
+KEYWORDS    RefSeq; includes ab initio.
+SOURCE      Puma concolor (puma)
+  ORGANISM  Puma concolor
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Carnivora; Feliformia; Felidae;
+            Felinae; Puma.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_020340008.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Puma concolor Annotation Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.1
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            ab initio :: 33% of CDS bases
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..631
+                     /organism="Puma concolor"
+                     /isolate="SC36_Marlon"
+                     /db_xref="taxon:9696"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /tissue_type="blood"
+                     /dev_stage="adult"
+     Protein         1..631
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=66090
+     Region          <3..216
+                     /region_name="Atrophin-1"
+                     /note="Atrophin-1 family; cl26464"
+                     /db_xref="CDD:331285"
+     Region          233..616
+                     /region_name="UhpC"
+                     /note="Sugar phosphate permease [Carbohydrate transport
+                     and metabolism]; cl27298"
+                     /db_xref="CDD:332119"
+     CDS             1..631
+                     /gene="SLC17A9"
+                     /coded_by="XM_025932111.1:1..1896"
+                     /db_xref="GeneID:112869046"
+ORIGIN      
+        1 mapkpfflpt patlqvgggv tvqsserlgl hsrppgvfgk ghsprpggpa rtvgsggvsp
+       61 aappsqaagp qlrrlralgm vpcgavrvsa srretgdret aiplspavpd lrtcgpgtls
+      121 ssppppnppa aldtegliqa irrikesvpg ppsparlpcs vspatgeeth phlgawrpap
+      181 gaapvvsgps cgesrspdfs rpvgpapgrg vcgngpecqa wtgtlllgtg llycarvsvp
+      241 vcavsmsqdf gwnkkeagvv lssffwgycl tqvvgghlgd riggekvill sasawgfita
+      301 atpllarlss ahlvlmtfsr iltgllqgvy fpaltsllsq kvreseraft ysavgagsqf
+      361 gtlvtgavgs llldrygwps vfylsggltl lwvcyvhryl lsekdlilal gvlvrglrvs
+      421 rrtkvpwrql frkpsvwaai saqlssacal fillswlptf fketfpsskg wvfnvvpwlv
+      481 aipaglfsgf lsdhlinqgy rtitvrkfmq vmglglssvf alclghtssf cksvvfasas
+      541 iglqtfnhsg isvniqdlap scagflfgva ntagalagvv gvclggylie ttgswtsmfs
+      601 lvaaisslgl cifllfgeaq rvdlspthed l
+//
+

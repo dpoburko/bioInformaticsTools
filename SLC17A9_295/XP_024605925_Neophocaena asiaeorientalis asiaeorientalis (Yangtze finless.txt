@@ -1,0 +1,69 @@
+
+LOCUS       XP_024605925             436 aa            linear   MAM 18-APR-2018
+DEFINITION  solute carrier family 17 member 9 [Neophocaena asiaeorientalis
+            asiaeorientalis].
+ACCESSION   XP_024605925
+VERSION     XP_024605925.1
+DBLINK      BioProject: PRJNA449518
+DBSOURCE    REFSEQ: accession XM_024750157.1
+KEYWORDS    RefSeq.
+SOURCE      Neophocaena asiaeorientalis asiaeorientalis (Yangtze finless
+            porpoise)
+  ORGANISM  Neophocaena asiaeorientalis asiaeorientalis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Cetartiodactyla; Cetacea;
+            Odontoceti; Phocoenidae; Neophocaena.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_020173687.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Neophocaena asiaeorientalis
+                                           asiaeorientalis Annotation Release
+                                           100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.0
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..436
+                     /organism="Neophocaena asiaeorientalis asiaeorientalis"
+                     /sub_species="asiaeorientalis"
+                     /db_xref="taxon:1706337"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /tissue_type="meat"
+                     /dev_stage="adult"
+                     /country="China: Nanjing"
+                     /breed="wild"
+     Protein         1..436
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=46823
+     Region          55..428
+                     /region_name="UhpC"
+                     /note="Sugar phosphate permease [Carbohydrate transport
+                     and metabolism]; cl27298"
+                     /db_xref="CDD:332119"
+     CDS             1..436
+                     /gene="SLC17A9"
+                     /coded_by="XM_024750157.1:219..1529"
+                     /db_xref="GeneID:112402933"
+ORIGIN      
+        1 mqpppdetrr eaaedaqwsr pecqvwtgtl llgtcllyca rvsmpvcaaa msqdfgwnkk
+       61 eagvvlssff wgycltqvvg ghlgdrigge kvillsasaw gfitaatpll srlssahlaf
+      121 mtfsriltgl lqgvyfpalt sllsqkvres eraftystvg agsqfgtlvt gavgsllldw
+      181 ygwpsvfyfs ggltllwvcy vyrcllgekd lilalgvlaq glpvsrhtkv pwrqlfrkps
+      241 vwaaiisqls aacsffills wlptffketf psskgwvfnv vpwlvaipas lfsgllsdrl
+      301 inqgyrtitv rkfmqamglg lssvfalclg htssfcksvv fasasiglqt fnhsgisvni
+      361 qdlapscagf lsgvantaga lagvvgvclg gyliettgsw tsvfnlvaai gslglctflv
+      421 fgkaqrvdls paredl
+//
+

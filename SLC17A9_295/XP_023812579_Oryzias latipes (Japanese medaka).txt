@@ -1,0 +1,62 @@
+
+LOCUS       XP_023812579             458 aa            linear   VRT 15-FEB-2018
+DEFINITION  solute carrier family 17 member 9 [Oryzias latipes].
+ACCESSION   XP_023812579
+VERSION     XP_023812579.1
+DBLINK      BioProject: PRJNA183868
+DBSOURCE    REFSEQ: accession XM_023956811.1
+KEYWORDS    RefSeq.
+SOURCE      Oryzias latipes (Japanese medaka)
+  ORGANISM  Oryzias latipes
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Atherinomorphae; Beloniformes;
+            Adrianichthyidae; Oryziinae; Oryzias.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_019865.2) annotated using gene prediction method: Gnomon,
+            supported by EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Oryzias latipes Annotation Release
+                                           103
+            Annotation Version          :: 103
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.0
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..458
+                     /organism="Oryzias latipes"
+                     /db_xref="taxon:8090"
+                     /chromosome="7"
+     Protein         1..458
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=50088
+     Region          54..427
+                     /region_name="UhpC"
+                     /note="Sugar phosphate permease [Carbohydrate transport
+                     and metabolism]; cl27298"
+                     /db_xref="CDD:332119"
+     CDS             1..458
+                     /gene="LOC101174349"
+                     /coded_by="XM_023956811.1:632..2008"
+                     /db_xref="GeneID:101174349"
+ORIGIN      
+        1 maeshttgdq kqdlhvslld lsiyglqese keepknqnlw prpvarkwlv vlfmgtclly
+       61 ctrmtmpvca vfmaarfhws kiesglvlgg ffwgycftqi lgghlsdivg gervllmsaa
+      121 swalisagtp llahfgshql ffmtlarilm gllqgvffps laslcsqrvv egergflmst
+      181 mnsgshlgtl laggmasvml eqygwesify csgllsgfwa ltvwqyllkg evslvqvktq
+      241 nrlqpglsrk hwlnlfkkpp vwamvfahmc icstsytfls wlptyfkesf pdaqagvynv
+      301 vpwltaipsa lsggfvsdll iirgygvltv rrimqfcamg asslfilpla gevnfpsaii
+      361 fisasvgfst fssggasvnv qdltpscaga lygfmnmmga fmglllvsfs gylikitlsw
+      421 atvfsliilv natglgifli fgdaqrldqt ahcqlvvv
+//
+

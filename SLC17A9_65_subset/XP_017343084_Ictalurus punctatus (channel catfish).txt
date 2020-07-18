@@ -1,0 +1,60 @@
+
+LOCUS       XP_017343084             465 aa            linear   VRT 06-JUL-2016
+DEFINITION  PREDICTED: solute carrier family 17 member 9 [Ictalurus punctatus].
+ACCESSION   XP_017343084
+VERSION     XP_017343084.1
+DBLINK      BioProject: PRJNA327588
+DBSOURCE    REFSEQ: accession XM_017487595.1
+KEYWORDS    RefSeq.
+SOURCE      Ictalurus punctatus (channel catfish)
+  ORGANISM  Ictalurus punctatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi; Siluriformes;
+            Ictaluridae; Ictalurus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_030430.1) annotated using gene prediction method: Gnomon,
+            supported by EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Ictalurus punctatus Annotation
+                                           Release 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 7.1
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..465
+                     /organism="Ictalurus punctatus"
+                     /db_xref="taxon:7998"
+                     /chromosome="15"
+                     /sex="female"
+                     /tissue_type="blood"
+                     /dev_stage="adult"
+                     /breed="USDA103"
+                     /note="double haploid"
+     Protein         1..465
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=50515
+     CDS             1..465
+                     /gene="slc17a9"
+                     /coded_by="XM_017487595.1:683..2080"
+                     /db_xref="GeneID:108276160"
+ORIGIN      
+        1 mailqkhgkn sspdlasvkd spadnfegvg hqkkwpessq nwsrpvariw tvvlllgtcl
+       61 lycarvampi cavsmaerfs wskresgmvl gsffwgycft qvlggyisdr vggekvmlls
+      121 aaawgamtaf tpilahfcsq pivsmtvsrf lmgllqgvhy pslaslcsqk vvesergflm
+      181 stvgsgsylg tlviggigsl mldlygwesv fyisgllsvl wayciwkyll kgegpiitle
+      241 slgsagtqsk lsrrnwlrlf rqpavcavii thlctastff tllswlptff kdtfpdskgw
+      301 ifnvipwlva ipsslfsgcl sdhlisqgfd iasvrklmqf fsmgvssvft lllcgtstfp
+      361 mavafvsaam glttfshsgv svnvqdlaps cagalfgvmn tcgafsgvim vyfsgyliet
+      421 tgswasvfal vtvvnllglg mfltyaearr vdieamkgry hnihi
+//
+

@@ -1,0 +1,69 @@
+
+LOCUS       XP_026263608             436 aa            linear   ROD 11-SEP-2018
+DEFINITION  solute carrier family 17 member 9 [Urocitellus parryii].
+ACCESSION   XP_026263608
+VERSION     XP_026263608.1
+DBLINK      BioProject: PRJNA489874
+DBSOURCE    REFSEQ: accession XM_026407823.1
+KEYWORDS    RefSeq.
+SOURCE      Urocitellus parryii (Arctic ground squirrel)
+  ORGANISM  Urocitellus parryii
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia;
+            Sciuromorpha; Sciuridae; Xerinae; Marmotini; Urocitellus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_020540261.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Urocitellus parryii Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.1
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..436
+                     /organism="Urocitellus parryii"
+                     /isolate="AGS 11-09-20"
+                     /isolation_source="Arctic tundra"
+                     /db_xref="taxon:9999"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /tissue_type="skeletal muscle"
+                     /dev_stage="adult"
+                     /ecotype="Arctic tundra"
+                     /country="USA: Alaska, Toolik Lake"
+                     /lat_lon="68.63 N 149.6 W"
+                     /collection_date="27-Jul-2011"
+                     /collected_by="Institute of Arctic Biology"
+     Protein         1..436
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=46856
+     Region          42..386
+                     /region_name="MFS_1"
+                     /note="Major Facilitator Superfamily; pfam07690"
+                     /db_xref="CDD:311564"
+     CDS             1..436
+                     /gene="Slc17a9"
+                     /coded_by="XM_026407823.1:23..1333"
+                     /db_xref="GeneID:113196107"
+ORIGIN      
+        1 mqpppdetrr daaenaqwsr pecqvwtgtl llgtcllyca rvtmpvctva msqdfgwnkk
+       61 eagivlssff wgycltqvvg ghlgdrigge kvillsastw gsitmatpll ahlgsahlvs
+      121 mvfsrvligl lqgvyfpalt sllsqrvres eraftystvg agsqfgtlvt gvvgsllldw
+      181 cgwqsvfyfs ggltllwvcy vyryllnekd lilalgvlaq glpvarpskv pwrqlfrkps
+      241 vwaavcsqls sacsffills wlptffketf phskgwvfnv vpwlvaipas lfsgflsdhl
+      301 isqgygtitv rksmqvmglg lssvfalclg htssflkavv fasasiglqt fnhsgisvni
+      361 qdlapscagf lfgvantaga lagvvgvclg gylieatgsw tcvfnlvavi snlglgtflv
+      421 fgqaqrvdls pahedl
+//
+

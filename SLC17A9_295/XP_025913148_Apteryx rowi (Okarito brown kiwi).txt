@@ -1,0 +1,69 @@
+
+LOCUS       XP_025913148             449 aa            linear   VRT 08-AUG-2018
+DEFINITION  solute carrier family 17 member 9 [Apteryx rowi].
+ACCESSION   XP_025913148
+VERSION     XP_025913148.1
+DBLINK      BioProject: PRJNA484763
+DBSOURCE    REFSEQ: accession XM_026057363.1
+KEYWORDS    RefSeq.
+SOURCE      Apteryx rowi (Okarito brown kiwi)
+  ORGANISM  Apteryx rowi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Palaeognathae; Apterygiformes; Apterygidae;
+            Apteryx.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_020447195.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Apteryx rowi Annotation Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.1
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..449
+                     /organism="Apteryx rowi"
+                     /isolate="R43461"
+                     /specimen_voucher="ROM:ORN:R43461"
+                     /db_xref="taxon:308060"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /tissue_type="blood"
+                     /dev_stage="adult"
+                     /country="New Zealand: Okarito, Westland"
+                     /collection_date="16-Jul-1993"
+                     /collected_by="Royal Ontario Museum"
+     Protein         1..449
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=48404
+     Region          68..444
+                     /region_name="UhpC"
+                     /note="Sugar phosphate permease [Carbohydrate transport
+                     and metabolism]; cl27298"
+                     /db_xref="CDD:332119"
+     CDS             1..449
+                     /gene="SLC17A9"
+                     /coded_by="XM_026057363.1:1..1350"
+                     /db_xref="GeneID:112961809"
+ORIGIN      
+        1 maagcgrnvp lcsaehgprg arrdggaery wsrpesrvwt axlllgtcll ycarvavpic
+       61 avalssrfgw dkkqsgvvls sffwgycltq vigghisdri ggekvlllsa sawgfltvvt
+      121 pllthvssah lafmtssrfl mgllqgvyfp alasllsqkv reseraftys tvgtgsqfgt
+      181 lviggagsll ldwygwesvf yfsglltllw vyctckylln ekeliipldy ltrglaiskq
+      241 tkvpwkqlfk kapiwaviia qlstastfft llswlptffk etfpeskgwv fnvvpwlvai
+      301 ptslfsgfls dhlisqgykt itirkfmqvi gsgvssifal clgqtssfck aivfasasvg
+      361 lqsfnhsgis vnvqdlapsc agllfgvgnt ggallgvvcv ylagyliett gswisvfnlv
+      421 aavnsiglca flifgeaqrv dtdsayidl
+//
+

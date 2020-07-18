@@ -1,0 +1,62 @@
+
+LOCUS       XP_020933896             436 aa            linear   MAM 13-MAY-2017
+DEFINITION  solute carrier family 17 member 9 [Sus scrofa].
+ACCESSION   XP_020933896
+VERSION     XP_020933896.1
+DBLINK      BioProject: PRJNA28993
+DBSOURCE    REFSEQ: accession XM_021078237.1
+KEYWORDS    RefSeq.
+SOURCE      Sus scrofa (pig)
+  ORGANISM  Sus scrofa
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Cetartiodactyla; Suina; Suidae;
+            Sus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_010459.5) annotated using gene prediction method: Gnomon,
+            supported by EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Sus scrofa Annotation Release 106
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 7.4
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..436
+                     /organism="Sus scrofa"
+                     /isolate="TJ Tabasco"
+                     /db_xref="taxon:9823"
+                     /chromosome="17"
+                     /sex="female"
+                     /breed="Duroc"
+     Protein         1..436
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=46618
+     Region          38..421
+                     /region_name="UhpC"
+                     /note="Sugar phosphate permease [Carbohydrate transport
+                     and metabolism]; cl27298"
+                     /db_xref="CDD:332119"
+     CDS             1..436
+                     /gene="SLC17A9"
+                     /coded_by="XM_021078237.1:136..1446"
+                     /db_xref="GeneID:110257489"
+ORIGIN      
+        1 mqppadearr dgaedaqwsr pegqvwtgtl llgtcllyca rvsmpvcaaa msqdfgwnkk
+       61 eagvvlssff wgycltqvvg ghlgdrigge kvillsasaw gfitaatpll ahlgsahlaf
+      121 mtfsriltgl lqgvyfpalt sllsqkvres eraftystvg agsqfgtlvt gavgsllldw
+      181 ygwpsvfyfs ggltllwvwy vykcllserd lilalgvlaq glpvsrptkv pwrqlfrkpa
+      241 vwaavtsqls aacsffillc wlptffeetf psskgwvfnv vpwlvaipas llsgllsdhl
+      301 inqgyrtisv rkfmqvmglg lsgvfalclg htssfctsvv fasasiglqt fnhsgisvni
+      361 qdlapscagf lfgvantaga lagvvgvclg gyliettgsw asvfnlvaav sslglciflv
+      421 fgkaqrvdls pahedl
+//
+

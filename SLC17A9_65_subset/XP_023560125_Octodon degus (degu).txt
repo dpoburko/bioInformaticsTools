@@ -1,0 +1,61 @@
+
+LOCUS       XP_023560125             436 aa            linear   ROD 24-JAN-2018
+DEFINITION  solute carrier family 17 member 9 [Octodon degus].
+ACCESSION   XP_023560125
+VERSION     XP_023560125.1
+DBLINK      BioProject: PRJNA193441
+DBSOURCE    REFSEQ: accession XM_023704357.1
+KEYWORDS    RefSeq.
+SOURCE      Octodon degus (degu)
+  ORGANISM  Octodon degus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia;
+            Hystricognathi; Octodontidae; Octodon.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_004524770.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Octodon degus Annotation Release 102
+            Annotation Version          :: 102
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.0
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..436
+                     /organism="Octodon degus"
+                     /isolate="3935"
+                     /db_xref="taxon:10160"
+                     /chromosome="Unknown"
+                     /sex="female"
+     Protein         1..436
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=46723
+     Region          32..408
+                     /region_name="UhpC"
+                     /note="Sugar phosphate permease [Carbohydrate transport
+                     and metabolism]; cl27298"
+                     /db_xref="CDD:332119"
+     CDS             1..436
+                     /gene="Slc17a9"
+                     /coded_by="XM_023704357.1:30..1340"
+                     /db_xref="GeneID:101565984"
+ORIGIN      
+        1 mqlstdqphr daaedvqwsr pecqawtgil llgtcllycv rvtmpvcvva msqdfgwnkk
+       61 eagvvlssff wgycltqvvg ghlgdrvgge kvillsastw glitvatpal ahlgrahlvs
+      121 macsrvltgl lqgvyfpalt sllsqrvpes eralaystvg agsqfgtlvt gavgsllldw
+      181 ggwqsvfyfs ggltllwvcy vhryllhgkd hilalgvlvq glplarpskv pwrqlfqkps
+      241 vwaaicaqls sacsffills wlptffketf phskgwvfnv vpwlaaipas lfsgflsdql
+      301 isqgyraitv rkfmqvmglg lssvfalclg htssflkavv fasasiglqt fnhsgisvni
+      361 qdlapscagf lfgvantaga lagvvgvclg gylieatgsw tclfnlvaii snlglgtflv
+      421 fgqaqrvdls ptredl
+//
+

@@ -1,0 +1,76 @@
+
+LOCUS       XP_010289447             344 aa            linear   VRT 17-NOV-2014
+DEFINITION  PREDICTED: solute carrier family 17 member 9, partial [Phaethon
+            lepturus].
+ACCESSION   XP_010289447
+VERSION     XP_010289447.1
+DBLINK      BioProject: PRJNA265998
+DBSOURCE    REFSEQ: accession XM_010291145.1
+KEYWORDS    RefSeq.
+SOURCE      Phaethon lepturus (White-tailed tropicbird)
+  ORGANISM  Phaethon lepturus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Pelecaniformes; Phaethontidae;
+            Phaethon.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_010552246.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA and EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Phaethon lepturus Annotation Release
+                                           100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 6.1
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: incomplete on the carboxy end.
+FEATURES             Location/Qualifiers
+     source          1..344
+                     /organism="Phaethon lepturus"
+                     /isolate="BGI_N335"
+                     /db_xref="taxon:97097"
+                     /chromosome="Unknown"
+                     /sex="female"
+                     /country="Antarctica"
+     Protein         1..>344
+                     /product="solute carrier family 17 member 9"
+     Region          1..337
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Region          2..337
+                     /region_name="MFS_1"
+                     /note="Major Facilitator Superfamily; pfam07690"
+                     /db_xref="CDD:284993"
+     Site            order(13,16..18,20..21,38,41..42,45,49..50,52..53,
+                     104..105,108..109,112..113,116,128..129,132..133,139,224,
+                     227..228,231..232,235,249,251,255,258,262,318,321..322,
+                     325,329..330,333)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..344
+                     /gene="SLC17A9"
+                     /coded_by="XM_010291145.1:25..>1057"
+                     /db_xref="GeneID:104623917"
+ORIGIN      
+        1 mlllgtclly carvtvpica valsthfdwd kkqsgivlss ffwgycltqi igghisdqvg
+       61 gekvlllsas awgfltvltp llthvtsahl vfmtssrflm gllqgvyfps lasllsqkvr
+      121 eseraftyst vgtgsqfgtl viggagslll dwygwesvfy fsglltllwv yctckyllne
+      181 keliipidyl mrglsisrqt kvpwkqlfkk apiwaviiaq lstastfftl lswlptffke
+      241 tfpeskgwvf nvvpwlvaip tslfsgflsd ylinqgykti tirkfmqvig sgvssifalc
+      301 lgqtssfrka ivfasasvgl qtfnhsgisv nvqdlapsca gllf
+//
+

@@ -1,0 +1,62 @@
+
+LOCUS       XP_032377195             466 aa            linear   VRT 21-FEB-2020
+DEFINITION  solute carrier family 17 member 9 [Etheostoma spectabile].
+ACCESSION   XP_032377195
+VERSION     XP_032377195.1
+DBLINK      BioProject: PRJNA606051
+DBSOURCE    REFSEQ: accession XM_032521304.1
+KEYWORDS    RefSeq.
+SOURCE      Etheostoma spectabile (orangethroat darter)
+  ORGANISM  Etheostoma spectabile
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Percoidei; Percidae;
+            Etheostomatinae; Etheostoma.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_045739.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Etheostoma spectabile Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.3
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..466
+                     /organism="Etheostoma spectabile"
+                     /isolate="EspeVRDwgs_2016"
+                     /db_xref="taxon:54343"
+                     /chromosome="7"
+                     /sex="male"
+                     /tissue_type="muscle"
+                     /dev_stage="adult"
+                     /country="USA: Vermillion River drainage, Champaign
+                     County, IL"
+     Protein         1..466
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=50746
+     CDS             1..466
+                     /gene="slc17a9"
+                     /coded_by="XM_032521304.1:628..2028"
+                     /db_xref="GeneID:116692783"
+ORIGIN      
+        1 maviqkygkn yshdlvchke shssdkigap gchkkwpehn ttwsrpvarv wtvvlllgtc
+       61 llycarvamp icavsmaeqf kwskresgmv lgsffwgycf tqvfggyvsd rvggekvlll
+      121 saaawgsmta ftpilahfcs qpilsmtlar flmgllqgvh ypslaslcsq kvvesergfl
+      181 mstvgsgsyl gtlviggags lmldlygwqs vfyvsgllsv lwaycmwkyl lkgegpiitl
+      241 eslgsggpqs klskrhwlrl lkqpavcavi vthlctastf ftllswlptf fkdtfpnakg
+      301 wvfnvipwlv aipsslfsgw lsdnliskgf dtasvrklmq cfsmgvssvf tlllcgnttf
+      361 pwavafvsat mglttfshsg vsvnvqdlap scagalfgvm ntcgaflgvl lvyfsgylie
+      421 atgswasvfa littvnllgl ctflafaear rvdidcskvr hhdihi
+//
+

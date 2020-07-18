@@ -1,0 +1,76 @@
+
+LOCUS       XP_006976129             447 aa            linear   ROD 21-MAR-2016
+DEFINITION  PREDICTED: solute carrier family 17 member 9 [Peromyscus
+            maniculatus bairdii].
+ACCESSION   XP_006976129
+VERSION     XP_006976129.1
+DBLINK      BioProject: PRJNA237107
+DBSOURCE    REFSEQ: accession XM_006976067.2
+KEYWORDS    RefSeq.
+SOURCE      Peromyscus maniculatus bairdii (prairie deer mouse)
+  ORGANISM  Peromyscus maniculatus bairdii
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+            Muroidea; Cricetidae; Neotominae; Peromyscus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_006501107.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Peromyscus maniculatus bairdii
+                                           Annotation Release 101
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 6.5
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..447
+                     /organism="Peromyscus maniculatus bairdii"
+                     /sub_species="bairdii"
+                     /db_xref="taxon:230844"
+                     /chromosome="Unknown"
+     Protein         1..447
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=48323
+     Region          40..432
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Region          43..419
+                     /region_name="2A0114"
+                     /note="D-galactonate transporter; TIGR00893"
+                     /db_xref="CDD:273326"
+     Site            order(52,55..57,59..60,77,80..81,84,88..89,91..92,
+                     143..144,147..148,151..152,155,167..168,171..172,178,263,
+                     266..267,270..271,274,288,290,294,297,301,357,360..361,
+                     364,368..369,372,382..383,386..387,390..391,394)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..447
+                     /gene="Slc17a9"
+                     /coded_by="XM_006976067.2:22..1365"
+                     /db_xref="GeneID:102918351"
+ORIGIN      
+        1 mpsqrsslmq stpeeagktp saaaedtqws rpecqawtgm lllgtcllyc arvtmpvctv
+       61 amsqdfgwnk keagivlssf fwgycltqvv gghlgdrigg ekvillsast wgfitvvtpl
+      121 lahlgsghla fmtfsriltg llqgvyfpal tsllsqrvqe seraftystv gagsqfgtlv
+      181 tggvgsvlld wcgwqsvfyf sggltllwvy yvyryllnek dlilalgvla qglpmarpsk
+      241 vpwrqlfrkp svwaavcsql ssacsffill swlptffket fphskgwvfn vvpwllaipa
+      301 slfsgflsdr lisqgyrvit vrkfmqvmgl glssifalcl ghttsflkai ifasasvsfq
+      361 tfnhsgisvn iqdlapscag flfgvantag alagvigvcl ggylieatgs wtcvfnlvai
+      421 isnlglgtfl vfgkaqrvdl tpthedl
+//
+

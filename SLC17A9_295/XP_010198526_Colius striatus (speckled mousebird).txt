@@ -1,0 +1,81 @@
+
+LOCUS       XP_010198526             432 aa            linear   VRT 07-NOV-2014
+DEFINITION  PREDICTED: solute carrier family 17 member 9, partial [Colius
+            striatus].
+ACCESSION   XP_010198526
+VERSION     XP_010198526.1
+DBLINK      BioProject: PRJNA265879
+DBSOURCE    REFSEQ: accession XM_010200224.1
+KEYWORDS    RefSeq; includes ab initio.
+SOURCE      Colius striatus (speckled mousebird)
+  ORGANISM  Colius striatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Coliiformes; Coliidae; Colius.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_010661860.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA and EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Colius striatus Annotation Release
+                                           100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 6.1
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            ab initio :: 1% of CDS bases
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: incomplete on the amino end.
+FEATURES             Location/Qualifiers
+     source          1..432
+                     /organism="Colius striatus"
+                     /isolate="BGI_N325"
+                     /db_xref="taxon:57412"
+                     /chromosome="Unknown"
+                     /sex="male"
+     Protein         <1..432
+                     /product="solute carrier family 17 member 9"
+     Region          23..417
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Region          28..417
+                     /region_name="2A0114"
+                     /note="D-galactonate transporter; TIGR00893"
+                     /db_xref="CDD:273326"
+     Site            order(37,40..42,44..45,62,65..66,69,73..74,76..77,
+                     128..129,132..133,136..137,140,152..153,156..157,163,248,
+                     251..252,255..256,259,273,275,279,282,286,342,345..346,
+                     349,353..354,357,367..368,371..372,375..376,379)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..432
+                     /gene="SLC17A9"
+                     /coded_by="XM_010200224.1:<1..1300"
+                     /codon_start=2
+                     /db_xref="GeneID:104556380"
+ORIGIN      
+        1 qtcslrarrq asqesrpesr vwtvmlllgt cllycarvtv picavalstr fdwdkkqsgi
+       61 vlssffwgyc ltqiigghis dqiggekvll lsasawgflt vltpllthit sahlifmtfs
+      121 rflmgllqgv yfpslaslls qkvreseraf tystvgtgsq fgtlvigvag sllldwygwe
+      181 svfyfsgllt llwvhctcky llsekeliip idylmrglsi pkqtkvpwkq lfkkapiwav
+      241 iiaqlsttst fftllswlpt ffkesfpesk gwvfnvvpwl vaiptslfsg flsdhlinqg
+      301 yktitirkfm qvigsgvssi falclgytss fckaivfasa siglqtfnhs gisvnvqdla
+      361 pscagllfgv gntggallgv icvylagylt ettgswisvf slvaavnsig lcafllfgea
+      421 qrvdtdsvym dl
+//
+

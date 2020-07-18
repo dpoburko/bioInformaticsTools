@@ -1,0 +1,56 @@
+
+LOCUS       XP_029993992             463 aa            linear   VRT 02-AUG-2019
+DEFINITION  solute carrier family 17 member 9 [Sphaeramia orbicularis].
+ACCESSION   XP_029993992
+VERSION     XP_029993992.1
+DBLINK      BioProject: PRJNA556027
+DBSOURCE    REFSEQ: accession XM_030138132.1
+KEYWORDS    RefSeq.
+SOURCE      Sphaeramia orbicularis (orbiculate cardinalfish)
+  ORGANISM  Sphaeramia orbicularis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Gobiaria; Kurtiformes; Apogonoidei; Apogonidae;
+            Apogoninae; Sphaeramia.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_043963.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Sphaeramia orbicularis Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..463
+                     /organism="Sphaeramia orbicularis"
+                     /db_xref="taxon:375764"
+                     /chromosome="7"
+     Protein         1..463
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=50467
+     CDS             1..463
+                     /gene="slc17a9"
+                     /coded_by="XM_030138132.1:247..1638"
+                     /db_xref="GeneID:115422076"
+ORIGIN      
+        1 maviqkygkn yspdlvchke nhpigvpgch kkwteqntnw prpvariwtv vlllgtclly
+       61 carvampica vsmaerfnws kresgmvlgs ffwgycftqv fggyvsdrvg gekvlllsaa
+      121 awgsmtaftp ilahfcsqpi lsmtlarflm gllqgvhyps laslcsqkvv esergflmst
+      181 vgsgsylgtl viggagslml dlygwesvfy vsgllsvlwa ycmwkyllkg egpiitlesl
+      241 gsggpqskls krhwlrlfkq pavcavivth lctastfftl lswlptffkd tfpdakgwvf
+      301 nvipwlvaip sslfsgclsd hlisqgfdta svrklmqffs mgvsslftll lcgkttfpwa
+      361 vafvsatmgl ttfshsgvsv nvqdlapsca galfgvmntc gafsgvlmvy fsgylieatg
+      421 swasvfalit tvnllglctf lafaearrvd idsskgrhhn ihi
+//
+

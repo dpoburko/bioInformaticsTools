@@ -1,0 +1,56 @@
+
+LOCUS       XP_016954928             441 aa            linear   INV 16-JUN-2016
+DEFINITION  PREDICTED: solute carrier family 17 member 9 [Drosophila
+            biarmipes].
+ACCESSION   XP_016954928
+VERSION     XP_016954928.1
+DBLINK      BioProject: PRJNA325502
+DBSOURCE    REFSEQ: accession XM_017099439.1
+KEYWORDS    RefSeq.
+SOURCE      Drosophila biarmipes
+  ORGANISM  Drosophila biarmipes
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta;
+            Pterygota; Neoptera; Holometabola; Diptera; Brachycera;
+            Muscomorpha; Ephydroidea; Drosophilidae; Drosophila; Sophophora.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_016033729.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Drosophila biarmipes Annotation
+                                           Release 101
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 7.1
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..441
+                     /organism="Drosophila biarmipes"
+                     /bio_material="DSSC<USA-CA>:14023-0361.10"
+                     /db_xref="taxon:125945"
+                     /chromosome="Unknown"
+     Protein         1..441
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=48777
+     CDS             1..441
+                     /gene="LOC108027847"
+                     /coded_by="XM_017099439.1:300..1625"
+                     /db_xref="GeneID:108027847"
+ORIGIN      
+        1 mtmdeklkys llrgelvdtq siwtrhekrv wfitlitgtc mlystrttmp llvpavasaq
+       61 kwsktdsgtv lssffwgytl tqvvggyfsd rfggqrvilf aavgwslitf lmptiiwsag
+      121 siksyaipfi vairilngal qgvhfpsmis ltsqnlcpne rssffgllta gsalgtlltg
+      181 imgsflldyf gwsyvfrvig lmgiawalvl ryyamagern riiniatpsr lcankspaea
+      241 tavpwlryfs rlsfwacvlt hacemncffv llswlptyfh dgfphakgwv vnmipwlalp
+      301 pctlfakylt trllarewht ttvrkfiqsc cfaaqnlalf vmsrtsdfht alicmtiiia
+      361 gtgfhnnavt vnpqdlaplh sgsvfglmnt vgaipgflgv ylaghilelt qswpmvfsaa
+      421 aginlvgwii fmvfgsaeai v
+//
+

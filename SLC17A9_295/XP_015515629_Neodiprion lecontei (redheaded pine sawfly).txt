@@ -1,0 +1,84 @@
+
+LOCUS       XP_015515629             435 aa            linear   INV 19-FEB-2016
+DEFINITION  PREDICTED: solute carrier family 17 member 9 [Neodiprion lecontei].
+ACCESSION   XP_015515629
+VERSION     XP_015515629.1
+DBLINK      BioProject: PRJNA312506
+DBSOURCE    REFSEQ: accession XM_015660143.1
+KEYWORDS    RefSeq.
+SOURCE      Neodiprion lecontei (redheaded pine sawfly)
+  ORGANISM  Neodiprion lecontei
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta;
+            Pterygota; Neoptera; Holometabola; Hymenoptera; Tenthredinoidea;
+            Diprionidae; Diprioninae; Neodiprion.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_015384071.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Neodiprion lecontei Annotation
+                                           Release 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 6.5
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..435
+                     /organism="Neodiprion lecontei"
+                     /isolate="Nlec_01"
+                     /isolation_source="haploid male siblings derived from a
+                     single diploid female originally collected from a bush on
+                     private property"
+                     /host="Pinus mugo"
+                     /db_xref="taxon:441921"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /tissue_type="whole body"
+                     /dev_stage="larva"
+                     /country="USA: KY, Lexington"
+                     /collection_date="22-Aug-2011"
+                     /collected_by="J. Larson"
+     Protein         1..435
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=47887
+     Region          38..428
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Region          44..428
+                     /region_name="2A0114"
+                     /note="D-galactonate transporter; TIGR00893"
+                     /db_xref="CDD:273326"
+     Site            order(52,55..57,59..60,77,80..81,84,88..89,91..92,
+                     146..147,150..151,154..155,158,170..171,174..175,181,259,
+                     262..263,266..267,270,282,286,290,293,297,355..356,359,
+                     363..364,367,378..379,382..383,386..387,390)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..435
+                     /gene="LOC107221229"
+                     /coded_by="XM_015660143.1:140..1447"
+                     /db_xref="GeneID:107221229"
+ORIGIN      
+        1 mdktniqesk svtamnnqll teckahlfws rkqrrkwfft llygtclvya trtsvpllip
+       61 aiskekhwtk tdsgtilssf fwgytltqva sgfisdrigg qkviffaavg wslttlfmpe
+      121 iintfsnnev svkfiaavrm lngafqgmhf psmisltsqr lhepdrasff slltsgsalg
+      181 tlltgslgsy lletynwtkv fqvlgglglm wtavlsyysl slmknaasnk ssnvtplpwl
+      241 qllskppfws cvlghacqnn cffvllswmp tyfhdtfpev kgwvvnmvpw lsllpctfla
+      301 kmvsenlvks gysvtvtrki veticlvtqs inllilasvt nyqaailclt liigstgfhn
+      361 naiavnpsdl apkhsgsvfg lmntvgaipg flgvyvaghl leithnwsiv fvitsivnvl
+      421 gcivyllfgs gnaii
+//
+

@@ -1,0 +1,65 @@
+
+LOCUS       XP_024915051             451 aa            linear   VRT 16-MAY-2018
+DEFINITION  solute carrier family 17 member 9 [Cynoglossus semilaevis].
+ACCESSION   XP_024915051
+VERSION     XP_024915051.1
+DBLINK      BioProject: PRJNA251742
+DBSOURCE    REFSEQ: accession XM_025059283.1
+KEYWORDS    RefSeq.
+SOURCE      Cynoglossus semilaevis (tongue sole)
+  ORGANISM  Cynoglossus semilaevis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Euteleostei; Neoteleostei;
+            Acanthomorpha; Acanthopterygii; Percomorpha; Pleuronectiformes;
+            Soleoidei; Cynoglossidae; Cynoglossinae; Cynoglossus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_024316.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Cynoglossus semilaevis Annotation
+                                           Release 102
+            Annotation Version          :: 102
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.0
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..451
+                     /organism="Cynoglossus semilaevis"
+                     /isolate="Cse_v1.0"
+                     /db_xref="taxon:244447"
+                     /chromosome="10"
+                     /tissue_type="blood"
+                     /country="China"
+                     /collection_date="Sep-2009"
+     Protein         1..451
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=49989
+     Region          54..441
+                     /region_name="UhpC"
+                     /note="Sugar phosphate permease [Carbohydrate transport
+                     and metabolism]; cl27298"
+                     /db_xref="CDD:332119"
+     CDS             1..451
+                     /gene="LOC103385592"
+                     /coded_by="XM_025059283.1:925..2280"
+                     /db_xref="GeneID:103385592"
+ORIGIN      
+        1 madeymkrdg wkhynsslqk hktriereys paqagiqnlw prqlaqrwtl vlfvgtclly
+       61 carmampisa vtmaatfqws kidsglvlgg ffwgycftqi lgghvsdkvg gervlvvsta
+      121 lwamitiatp llahfgshal flmalsrflm gvlqgvffps lasicsqrvl egergflmst
+      181 mhsgcymgtl vaggmgsvil dlygwqslfy sfgvlsvlwa lfvwmfflkg evtpkqvktn
+      241 nssqwtwlrl lallknppvw amvfthmcis ctsntllswl ptyfkesfph atswvynvvp
+      301 wfsaivsait ggyvsdflis rgygissvrk lmqflsmgvs smflmlvcek tftsftsalf
+      361 fisvavgltt ftscgvsvnv qdltpscaga lygfmnmmga fmgllmvalc gylievyqsw
+      421 alvfrlialv nstglgifll fgdaqrvdvd c
+//
+

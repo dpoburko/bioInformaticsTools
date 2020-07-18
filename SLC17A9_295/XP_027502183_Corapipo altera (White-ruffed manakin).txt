@@ -1,0 +1,63 @@
+
+LOCUS       XP_027502183             449 aa            linear   VRT 11-JAN-2019
+DEFINITION  solute carrier family 17 member 9 [Corapipo altera].
+ACCESSION   XP_027502183
+VERSION     XP_027502183.1
+DBLINK      BioProject: PRJNA512899
+DBSOURCE    REFSEQ: accession XM_027646382.1
+KEYWORDS    RefSeq.
+SOURCE      Corapipo altera (White-ruffed manakin)
+  ORGANISM  Corapipo altera
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Passeriformes; Pipridae; Corapipo.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_020884893.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA and EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Corapipo altera Annotation Release
+                                           100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.1
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..449
+                     /organism="Corapipo altera"
+                     /isolate="COAL_440"
+                     /db_xref="taxon:415028"
+                     /chromosome="Unknown"
+                     /sex="female"
+                     /tissue_type="liver and muscle"
+                     /dev_stage="adult"
+                     /country="Costa Rica: Volcan Tenorio National Park"
+                     /lat_lon="10.40 N 85.0 W"
+                     /collection_date="2017"
+     Protein         1..449
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=48808
+     CDS             1..449
+                     /gene="SLC17A9"
+                     /coded_by="XM_027646382.1:90..1439"
+                     /db_xref="GeneID:113948638"
+ORIGIN      
+        1 maaggggrnv pvgtaergph dgmrrdgdpy wsrpesrvwt vmlllgtcll ycarvtvpic
+       61 avalssyfdw dkkqsgvvls sffwgycltq iigghisdqi ggekvlllsa sawgfltvlt
+      121 pvlthitsah lvfmtssrfl mgllqgvyfp slasllsqrv reseraftys tvgtgsqfgt
+      181 lviggagsll ldwygwesvf yfsglltllw vyctckylls ekeliipidy ltrglsipkq
+      241 tkvpwkqlfr kapiwaviia qlstastfft llswlptffk etfpeskgwv fnvvpwlvai
+      301 ptslfsgfls dhlisqgyrt itirkfmqvi gsgvssvfal clgqtssfcr aivfasasvg
+      361 lqtfnhsgis vnvqdlapsc agllfgvant ggallgvicv ylagyliett gswisvfnlv
+      421 aavnsiglcv fllfgeaqrv dtdsayvdl
+//
+

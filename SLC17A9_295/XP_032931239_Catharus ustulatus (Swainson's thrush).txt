@@ -1,0 +1,64 @@
+
+LOCUS       XP_032931239             446 aa            linear   VRT 22-MAR-2020
+DEFINITION  solute carrier family 17 member 9 [Catharus ustulatus].
+ACCESSION   XP_032931239
+VERSION     XP_032931239.1
+DBLINK      BioProject: PRJNA613294
+DBSOURCE    REFSEQ: accession XM_033075348.1
+KEYWORDS    RefSeq.
+SOURCE      Catharus ustulatus (Swainson's thrush)
+  ORGANISM  Catharus ustulatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Passeriformes; Turdidae; Catharus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_046237.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA and EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Catharus ustulatus Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.4
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..446
+                     /organism="Catharus ustulatus"
+                     /isolate="bCatUst1"
+                     /db_xref="taxon:91951"
+                     /chromosome="17"
+                     /sex="female"
+                     /tissue_type="blood"
+                     /dev_stage="adult"
+                     /country="Canada: Kamloops"
+                     /lat_lon="50.67613 N 120.33787 W"
+                     /collection_date="15-Jul-2018"
+                     /collected_by="Kira Delmore"
+     Protein         1..446
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=48565
+     CDS             1..446
+                     /gene="SLC17A9"
+                     /coded_by="XM_033075348.1:34..1374"
+                     /db_xref="GeneID:117004544"
+ORIGIN      
+        1 maaggggrnv plgprdgmrr dggaepywsr pesrvwtlml llgtcllyca rvsvpicava
+       61 lssyfhwdkk qfgvvlssff wgycltqiig ghisdqigge kvlllsasaw glltvltpll
+      121 thitsahlvf mtssrflmgl lqgvyfpsla sllsqrvres eraftystvg tgsqfgtlli
+      181 ggagsllldw ygwesvfyfs glltllwvyc tckyllskke ltipmnyltr glsipkqtkv
+      241 pwkqlfrkap iwaviiaqls tastfftlls wlptffketf peskgwvfnv vpwlvaipts
+      301 lfsgflsdhl isqgyrtiti rkfmqvigsg vssifalclg qtssfckaiv fasasvglqt
+      361 fnhsgisvnv qdlapscagl lfgvantgga llgvicvyla gyliettgsw isvfnlvaav
+      421 nsiglctfll fgeaqrvdtd svyvdl
+//
+

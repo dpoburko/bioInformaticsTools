@@ -1,0 +1,81 @@
+
+LOCUS       XP_013872232             465 aa            linear   VRT 17-SEP-2015
+DEFINITION  PREDICTED: solute carrier family 17 member 9 [Austrofundulus
+            limnaeus].
+ACCESSION   XP_013872232
+VERSION     XP_013872232.1
+DBLINK      BioProject: PRJNA294420
+DBSOURCE    REFSEQ: accession XM_014016778.1
+KEYWORDS    RefSeq.
+SOURCE      Austrofundulus limnaeus
+  ORGANISM  Austrofundulus limnaeus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Atherinomorphae; Cyprinodontiformes;
+            Rivulidae; Austrofundulus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_013952405.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Austrofundulus limnaeus Annotation
+                                           Release 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 6.4
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..465
+                     /organism="Austrofundulus limnaeus"
+                     /strain="Quisiro"
+                     /db_xref="taxon:52670"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /tissue_type="liver; brain; white muscle"
+                     /dev_stage="adult"
+                     /collection_date="11-Mar-2014"
+                     /collected_by="Josiah Wagner"
+     Protein         1..465
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=50548
+     Region          52..447
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Region          55..410
+                     /region_name="MFS_1"
+                     /note="Major Facilitator Superfamily; pfam07690"
+                     /db_xref="CDD:284993"
+     Site            order(66,69..71,73..74,91,94..95,98,102..103,105..106,
+                     157..158,161..162,165..166,169,181..182,185..186,192,277,
+                     280..281,284..285,288,300,304,308,311,315,370,373..374,
+                     377,381..382,385,396..397,400..401,404..405,408)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..465
+                     /gene="slc17a9"
+                     /coded_by="XM_014016778.1:464..1861"
+                     /db_xref="GeneID:106523382"
+ORIGIN      
+        1 maviqkyakn cgpdlvchke nhppdktgvp gcqkkwpesh thwsrpvarl wtvvlllgtc
+       61 llycarvamp icaismaekf nwskresgmv lgsffwgycf tqvfggyvsd rvggekvlll
+      121 saaawgsmta ftpvlahlcs qpivsmtvar flmgllqgvh ypslaslcsq kxvesergfl
+      181 mstvgsgsyl gtlviggags vmldlygwes vfyvsglmsv lwaycmwkyl lkgegpiitl
+      241 eslgsggaqs klnkrhwlrl lkqppvcavi vthlctastf ftllswlpmf fkdtfpdakg
+      301 wvfnvipwlv aipsslfsgc lsdhlirqgf dtasvrklmq ffsmgvcsvf tvllcgdptf
+      361 plavvfvsat mglttfshsg vslnvqdlap scagalfgvm ntcgafsgvl mvyfsgylie
+      421 atgswasmfa littfnllgl ctflafaear rvdidssklr hnihi
+//
+

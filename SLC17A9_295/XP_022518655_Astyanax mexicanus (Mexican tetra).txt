@@ -1,0 +1,76 @@
+
+LOCUS       XP_022518655             439 aa            linear   VRT 03-OCT-2017
+DEFINITION  solute carrier family 17 member 9 [Astyanax mexicanus].
+ACCESSION   XP_022518655
+VERSION     XP_022518655.1
+DBLINK      BioProject: PRJNA237016
+DBSOURCE    REFSEQ: accession XM_022662934.1
+KEYWORDS    RefSeq; includes ab initio.
+SOURCE      Astyanax mexicanus (Mexican tetra)
+  ORGANISM  Astyanax mexicanus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Characiformes; Characoidei; Characidae; Characidae incertae sedis;
+            Astyanax clade; Astyanax.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_019171883.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Astyanax mexicanus Annotation
+                                           Release 102
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 7.4
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            ab initio :: 1% of CDS bases
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..439
+                     /organism="Astyanax mexicanus"
+                     /db_xref="taxon:7994"
+                     /chromosome="Unknown"
+                     /sex="female"
+                     /tissue_type="heart, liver, and a part of gill"
+     Protein         1..439
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=47739
+     Region          51..420
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Site            order(65,68..70,72..73,90,93..94,97,101..102,104..105,
+                     156..157,160..161,164..165,168,180..181,184..185,191,276,
+                     279..280,283..284,287,301,303,307,310,314,348,351..352,
+                     355,359..360,363,369..370,373..374,377..378,381)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..439
+                     /gene="slc17a9"
+                     /coded_by="XM_022662934.1:810..2129"
+                     /db_xref="GeneID:103028144"
+ORIGIN      
+        1 mailqkhgkn ssadlasikd spadhfgpvg aqkkwpeasq nwsrpvarvw tvvlllgtcl
+       61 lycarvampi cavsmaerfs wskresgmvl gsffwgycft qvlggyvsdr vggekvmlls
+      121 aaawgamtaf tpilahfcsq pivsmtisrf lmgllqgvhy pslaslcsqk vvesergflm
+      181 stvgsgsylg tlviggvgsl mldmygwesv fyisgllsvl waycmwkyll kgegpiitle
+      241 slgsagtqsk lsrrnwlrlf rqpavcaviv thlctastff tllswlptff kdtfpdskgw
+      301 vfnvipwfva ipsslfsgcl sdhlisqgmn thtgthrhth thhmglttfs hsgvsvnvqd
+      361 lapscagalf gvmntcgaft gvimvylsgy lieatnswas vfalisvvnl lglgtflafa
+      421 earrvdidat kgryhnihi
+//
+

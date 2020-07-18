@@ -1,0 +1,144 @@
+
+LOCUS       NP_001243154             515 aa            linear   VRT 25-APR-2020
+DEFINITION  synaptic vesicular amine transporter [Danio rerio].
+ACCESSION   NP_001243154 XP_002665236
+VERSION     NP_001243154.1
+DBSOURCE    REFSEQ: accession NM_001256225.2
+KEYWORDS    RefSeq.
+SOURCE      Danio rerio (zebrafish)
+  ORGANISM  Danio rerio
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Danio.
+REFERENCE   1  (residues 1 to 515)
+  AUTHORS   Tang YQ, Li ZR, Zhang SZ, Mi P, Chen DY and Feng XZ.
+  TITLE     Venlafaxine plus melatonin ameliorate reserpine-induced
+            depression-like behavior in zebrafish
+  JOURNAL   Neurotoxicol Teratol 76, 106835 (2019)
+   PUBMED   31518687
+REFERENCE   2  (residues 1 to 515)
+  AUTHORS   Bruning JM, Wang Y, Oltrabella F, Tian B, Kholodar SA, Liu H,
+            Bhattacharya P, Guo S, Holton JM, Fletterick RJ, Jacobson MP and
+            England PM.
+  TITLE     Covalent Modification and Regulation of the Nuclear Receptor Nurr1
+            by a Dopamine Metabolite
+  JOURNAL   Cell Chem Biol 26 (5), 674-685 (2019)
+   PUBMED   30853418
+REFERENCE   3  (residues 1 to 515)
+  AUTHORS   Zhang X, Jia S, Chen Z, Chong YL, Xie H, Feng D, Wu X, Song DZ, Roy
+            S and Zhao C.
+  TITLE     Cilia-driven cerebrospinal fluid flow directs expression of
+            urotensin neuropeptides to straighten the vertebrate body axis
+  JOURNAL   Nat. Genet. 50 (12), 1666-1673 (2018)
+   PUBMED   30420648
+REFERENCE   4  (residues 1 to 515)
+  AUTHORS   Naderi M, Salahinejad A, Ferrari MCO, Niyogi S and Chivers DP.
+  TITLE     Dopaminergic dysregulation and impaired associative learning
+            behavior in zebrafish during chronic dietary exposure to selenium
+  JOURNAL   Environ. Pollut. 237, 174-185 (2018)
+   PUBMED   29482023
+REFERENCE   5  (residues 1 to 515)
+  AUTHORS   Tanaka Y, Fujiwara M, Shindo A, Yin G, Kitazawa T and Teraoka H.
+  TITLE     Aroclor 1254 and BDE-47 inhibit dopaminergic function manifesting
+            as changes in locomotion behaviors in zebrafish embryos
+  JOURNAL   Chemosphere 193, 1207-1215 (2018)
+   PUBMED   29874750
+REFERENCE   6  (residues 1 to 515)
+  AUTHORS   Fujimoto E, Stevenson TJ, Chien CB and Bonkowsky JL.
+  TITLE     Identification of a dopaminergic enhancer indicates complexity in
+            vertebrate dopamine neuron phenotype specification
+  JOURNAL   Dev. Biol. 352 (2), 393-404 (2011)
+   PUBMED   21276790
+REFERENCE   7  (residues 1 to 515)
+  AUTHORS   Yamamoto K, Ruuskanen JO, Wullimann MF and Vernier P.
+  TITLE     Differential expression of dopaminergic cell markers in the adult
+            zebrafish forebrain
+  JOURNAL   J. Comp. Neurol. 519 (3), 576-598 (2011)
+   PUBMED   21192085
+REFERENCE   8  (residues 1 to 515)
+  AUTHORS   Jacobsson JA, Stephansson O and Fredriksson R.
+  TITLE     C6ORF192 forms a unique evolutionary branch among solute carriers
+            (SLC16, SLC17, and SLC18) and is abundantly expressed in several
+            brain regions
+  JOURNAL   J. Mol. Neurosci. 41 (2), 230-242 (2010)
+   PUBMED   19697161
+REFERENCE   9  (residues 1 to 515)
+  AUTHORS   Yamamoto K, Ruuskanen JO, Wullimann MF and Vernier P.
+  TITLE     Two tyrosine hydroxylase genes in vertebrates New dopaminergic
+            territories revealed in the zebrafish brain
+  JOURNAL   Mol. Cell. Neurosci. 43 (4), 394-402 (2010)
+   PUBMED   20123022
+REFERENCE   10 (residues 1 to 515)
+  AUTHORS   Wen L, Wei W, Gu W, Huang P, Ren X, Zhang Z, Zhu Z, Lin S and Zhang
+            B.
+  TITLE     Visualization of monoaminergic neurons and neurotoxicity of MPTP in
+            live transgenic zebrafish
+  JOURNAL   Dev. Biol. 314 (1), 84-92 (2008)
+   PUBMED   18164283
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. The reference sequence was derived from BC090766.1.
+            On Jan 14, 2012 this sequence version replaced XP_002665236.1.
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: BC090766.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMEA4476810, SAMEA898404
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..515
+                     /organism="Danio rerio"
+                     /strain="Singapore"
+                     /db_xref="taxon:7955"
+                     /chromosome="17"
+                     /map="17"
+     Protein         1..515
+                     /product="synaptic vesicular amine transporter"
+                     /note="vmat2; solute carrier family 18 (vesicular
+                     monoamine), member 2; solute carrier family 18 (vesicular
+                     monoamine transporter), member 2"
+                     /calculated_mol_wt=55568
+     Region          132..438
+                     /region_name="MFS_1"
+                     /note="Major Facilitator Superfamily; pfam07690"
+                     /db_xref="CDD:284993"
+     Region          133..274
+                     /region_name="2_A_01_02"
+                     /note="Multidrug resistance protein; TIGR00880"
+                     /db_xref="CDD:273318"
+     Site            order(136,139..140,143,147..148,150..151,197..198,
+                     201..202,205..206,209,222..223,226..227,233,306,309..310,
+                     313..314,317,331,335,339,342,346,393,396..397,403,
+                     407..408,411,422..423,426..427,430..431,434)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     Region          295..>472
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     CDS             1..515
+                     /gene="slc18a2"
+                     /coded_by="NM_001256225.2:140..1687"
+                     /db_xref="GeneID:553304"
+                     /db_xref="ZFIN:ZDB-GENE-080514-1"
+ORIGIN      
+        1 mglfdalrdf slltwlreer qsrrlilliv fiallldnml ltvvvpiips ylytvddeaa
+       61 qmvknhsmtp lspsstfqsi vslydnttrv tgfspqmsta gpmslaptfv spqnqsdcpk
+      121 addqllnenv kvgllfaska tvqlitnpfi gpltnrigyq ipmfagfcim fvstimfafs
+      181 ssytllflar slqgvgsscs svagmgmlas vytddeergn aigialggla mgvlvgppfg
+      241 svmyefvgkt apflilavla vldgalqlfv lqpskvepes qkgtslitlm kdpyiliaag
+      301 sicfanmaia mlepalpiwm metmcprkwq lgiafvpasi syligtnifa vlahkmgrwl
+      361 csligmllvg isilcvplak diyglivpnf gvgfaigmvd ssmmpimgyl vdlrhvsvyg
+      421 svyaiadvaf cmgfalgpsa ggaiarsigf pwlmtiiglv dimfaplcff lrnppaneek
+      481 mailmdsncs mktrsystqg ssyqmgddfd pespe
+//
+

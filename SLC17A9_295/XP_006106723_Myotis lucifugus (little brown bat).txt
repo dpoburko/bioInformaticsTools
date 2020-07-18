@@ -1,0 +1,65 @@
+
+LOCUS       XP_006106723             534 aa            linear   MAM 26-JAN-2018
+DEFINITION  solute carrier family 17 member 9 [Myotis lucifugus].
+ACCESSION   XP_006106723
+VERSION     XP_006106723.2
+DBLINK      BioProject: PRJNA208947
+DBSOURCE    REFSEQ: accession XM_006106661.3
+KEYWORDS    RefSeq.
+SOURCE      Myotis lucifugus (little brown bat)
+  ORGANISM  Myotis lucifugus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Chiroptera; Microchiroptera;
+            Vespertilionidae; Myotis.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_005871927.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            On Jan 26, 2018 this sequence version replaced XP_006106723.1.
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Myotis lucifugus Annotation Release
+                                           102
+            Annotation Version          :: 102
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.0
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..534
+                     /organism="Myotis lucifugus"
+                     /db_xref="taxon:59463"
+                     /chromosome="Unknown"
+                     /sex="female"
+                     /country="USA: Framingham, MA"
+     Protein         1..534
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=56908
+     Region          136..519
+                     /region_name="UhpC"
+                     /note="Sugar phosphate permease [Carbohydrate transport
+                     and metabolism]; cl27298"
+                     /db_xref="CDD:332119"
+     CDS             1..534
+                     /gene="SLC17A9"
+                     /coded_by="XM_006106661.3:166..1770"
+                     /db_xref="GeneID:102434686"
+ORIGIN      
+        1 maacagapga qgagqmarap etgrhaeslg drhpqggrrg gpaccgsppp prgvavwgdt
+       61 swerrteall gltrglgrrc gprepvsgls vhrgcpllmq pppdkahqdt agdaqwsrpe
+      121 cqawtgtlll gtcllycarv smpictvsms qdfgwnkkea givlssffwg ycltqilggh
+      181 lgdriggekv illsasawgf ltaatpllah lgsahlafmt fsrvltgllq gvyfpaltsl
+      241 lsqkvreser aftystvgag sqfgtlvtga vgsllldwcg wqsvfylsgg ltllwvcyvy
+      301 ryllskqdli lalgvlaqgl pmarhtrvpw kqlfrkpsvw aavfsqlsaa csffillswl
+      361 ptffketfps skgwvfnvvp wlvaipaslf sgflsdhlis qgyrtitvrk fmqvmglgls
+      421 svfalclght ssfcksvffa sasiglqtfn hsgisvniqd lapscagvlf gvantagala
+      481 gvvgvglggy liettgswts vfnlvaavss lglctflmfg kaqrvdlspr qedl
+//
+

@@ -1,0 +1,54 @@
+
+LOCUS       XP_030067815             468 aa            linear   VRT 03-AUG-2019
+DEFINITION  solute carrier family 17 member 9 [Microcaecilia unicolor].
+ACCESSION   XP_030067815
+VERSION     XP_030067815.1
+DBLINK      BioProject: PRJNA556662
+DBSOURCE    REFSEQ: accession XM_030211955.1
+KEYWORDS    RefSeq.
+SOURCE      Microcaecilia unicolor
+  ORGANISM  Microcaecilia unicolor
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Gymnophiona; Siphonopidae; Microcaecilia.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_044038.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Microcaecilia unicolor Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..468
+                     /organism="Microcaecilia unicolor"
+                     /db_xref="taxon:1415580"
+                     /chromosome="8"
+     Protein         1..468
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=51081
+     CDS             1..468
+                     /gene="SLC17A9"
+                     /coded_by="XM_030211955.1:203..1609"
+                     /db_xref="GeneID:115475891"
+ORIGIN      
+        1 masdayrsgg qvsgtdvlvs lqqqkqcqva qesspeemgi ggnadlcwsr pqtrvwtlml
+       61 llgtcllyca rvtmpicsma msehfswnkk qsgiilgsff wgycltqvig ghlsdkvgge
+      121 kvlllsasaw gllttitpfv ahmtsvplvf ltslrflmgl lqgvhfpala slfsqkvren
+      181 eraftcctvg sgsqfgtlvi ggvgsllldw ygwesvfyfa glctlfwvyw myrhllseke
+      241 ltvsledlgk glspskqtcv pwkqlfkkas vwavivaqls vastfftlls wlptffketf
+      301 peskgwvfnv vpwlvaipas ifsgvlsdhl ttlgfqtifv rklmqiigmg assffvlcls
+      361 qtssyrkaii fvtasiglqt fnhsgisvnv qdlapscagf lfgvantgga llgvvwvsls
+      421 gylietvgsw tpvfhlvvvv nmvglsifll fadarrvdid ptcairvl
+//
+

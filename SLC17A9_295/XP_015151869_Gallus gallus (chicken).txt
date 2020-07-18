@@ -1,0 +1,70 @@
+
+LOCUS       XP_015151869             540 aa            linear   VRT 17-MAY-2018
+DEFINITION  solute carrier family 17 member 9 isoform X3 [Gallus gallus].
+ACCESSION   XP_015151869
+VERSION     XP_015151869.1
+DBLINK      BioProject: PRJNA10808
+DBSOURCE    REFSEQ: accession XM_015296383.2
+KEYWORDS    RefSeq.
+SOURCE      Gallus gallus (chicken)
+  ORGANISM  Gallus gallus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Galloanserae; Galliformes;
+            Phasianidae; Phasianinae; Gallus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_006107.5) annotated using gene prediction method: Gnomon,
+            supported by mRNA and EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Gallus gallus Annotation Release 104
+            Annotation Version          :: 104
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.0
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..540
+                     /organism="Gallus gallus"
+                     /isolate="RJF #256"
+                     /db_xref="taxon:9031"
+                     /chromosome="20"
+                     /sex="female"
+                     /breed="Red Jungle Fowl"
+     Protein         1..540
+                     /product="solute carrier family 17 member 9 isoform X3"
+                     /calculated_mol_wt=58544
+     Region          190..525
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     CDS             1..540
+                     /gene="SLC17A9"
+                     /gene_synonym="C20orf59; POROK8; VNUT"
+                     /coded_by="XM_015296383.2:3845..5467"
+                     /db_xref="GeneID:419236"
+                     /db_xref="CGNC:4260"
+ORIGIN      
+        1 mlkgedghak aksfqlflls hhcvagegli iywrkrkkik rgkkkkkerk kptvqrpslr
+       61 erdgdakapl raarrpsafr ghrefgaapg ldaepgprps palcgrpqhr ggrrdfperp
+      121 ggealtrgcg sagggsrrpa rcepagpega armaagggrn apvcggergs rapqhdgmwk
+      181 dgggeqywsr iggekvllls asawgfltfi tplltqitsa hlvfmtcsrf lmgllqgvyf
+      241 pslasllsqr vreserafty stvgtgsqfg tlvigaagsl lldwygwesv fyfsglltll
+      301 wvyctckyll vekdlvipid ylrrgisisk qskvpwkqlf kkapiwaviv aqlctastff
+      361 tllswlptff ketfpeskgw vfnvvpwlva iptslfsgfl sdhlinqgyk titvrkfmqv
+      421 igsgvssvfa lclgqtssfc kaivfasasv glqtfnhsgi svnvqdlaps cagllfgvgn
+      481 tggallgvvc vylagylmet tgswisvfnl vavvnsvglc vflvfgeaqr vdtdsayidl
+//
+

@@ -1,0 +1,67 @@
+
+LOCUS       XP_005146906             448 aa            linear   VRT 06-MAY-2020
+DEFINITION  solute carrier family 17 member 9 [Melopsittacus undulatus].
+ACCESSION   XP_005146906
+VERSION     XP_005146906.2
+DBLINK      BioProject: PRJNA629576
+DBSOURCE    REFSEQ: accession XM_005146849.3
+KEYWORDS    RefSeq.
+SOURCE      Melopsittacus undulatus (budgerigar)
+  ORGANISM  Melopsittacus undulatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Psittaciformes; Psittaculidae;
+            Melopsittacus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_047536.1) annotated using gene prediction method: Gnomon,
+            supported by EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            On May 6, 2020 this sequence version replaced XP_005146906.1.
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Melopsittacus undulatus Annotation
+                                           Release 104
+            Annotation Version          :: 104
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.4
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..448
+                     /organism="Melopsittacus undulatus"
+                     /isolate="bMelUnd1"
+                     /db_xref="taxon:13146"
+                     /chromosome="10"
+                     /sex="female"
+                     /tissue_type="blood"
+                     /dev_stage="juvenile"
+                     /country="USA: New Mexico State University"
+                     /lat_lon="32.278282 N 106.74994 W"
+                     /collection_date="02-Nov-2018"
+                     /collected_by="Timothy Wright, Justin Apodaca"
+     Protein         1..448
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=48557
+     CDS             1..448
+                     /gene="LOC101880036"
+                     /coded_by="XM_005146849.3:13..1359"
+                     /db_xref="GeneID:101880036"
+ORIGIN      
+        1 maagaggrkv pvcsaehggv rrdgcgdphw srpearvwtv mlllgtclly ctrvtvpica
+       61 valstyfdwd kkqsgivlss ffwgycltqi igghisdqig gekvlllsas awgfltvltp
+      121 lltritsahl afmassrflm gllqgvyfps lasllsqkvr eseraftyst vgtgsqfgtl
+      181 viggagslll dwygwesvfy fsglltllwv yctckyllse keliipidcl mrglsiskqt
+      241 kvpwkqlfrk apiwaviiaq lstastfftl lswlptffke tfpeskdwvf nvvpwlvaip
+      301 tslfsgflsd hlisqgykti tirkfmqvig sgvssifalc lgqtssfcka ivfasasvgl
+      361 qtfnhsgisv nvqdlapsca gllfgvgntg gallgvicvy lagyliettg swisvfnlva
+      421 avnsiglcaf llfgeaqrvd tdsaymdl
+//
+

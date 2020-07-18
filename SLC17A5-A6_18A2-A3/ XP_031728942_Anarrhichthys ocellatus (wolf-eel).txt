@@ -1,0 +1,62 @@
+
+LOCUS       XP_031728942             517 aa            linear   VRT 16-DEC-2019
+DEFINITION  synaptic vesicular amine transporter isoform X1 [Anarrhichthys
+            ocellatus].
+ACCESSION   XP_031728942
+VERSION     XP_031728942.1
+DBLINK      BioProject: PRJNA595352
+DBSOURCE    REFSEQ: accession XM_031873082.1
+KEYWORDS    RefSeq.
+SOURCE      Anarrhichthys ocellatus (wolf-eel)
+  ORGANISM  Anarrhichthys ocellatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Cottioidei; Zoarcales;
+            Anarhichadidae; Anarrhichthys.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_022280098.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Anarrhichthys ocellatus Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.3
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..517
+                     /organism="Anarrhichthys ocellatus"
+                     /isolate="YVR2014"
+                     /db_xref="taxon:433405"
+                     /chromosome="Unknown"
+                     /sex="female"
+                     /tissue_type="blood"
+                     /dev_stage="adult"
+     Protein         1..517
+                     /product="synaptic vesicular amine transporter isoform X1"
+                     /calculated_mol_wt=55993
+     CDS             1..517
+                     /gene="slc18a2"
+                     /coded_by="XM_031873082.1:777..2330"
+                     /db_xref="GeneID:116397561"
+ORIGIN      
+        1 mgrldalrql nlikwlreer qsrklslfiv fvallldnml ltvvvpiips ylynldespd
+       61 vmlknntlsq qgppaafhni vslydntirs sgsnttartt dmvptppaat elphnssdcp
+      121 qstskllden vkvgmlfask atvqlitnpf igpltnrvgy qlpifagfci mfvstimfaf
+      181 sssytllfla rsmqgvgssc ssvagmgmla svytddeerg haigialggl algvlvgppf
+      241 gsvmyefvgk tapflilafl alfdgalqli vlqptkvepe sqkgtplltl mkdpyiiiaa
+      301 gaicfgnmai amleptlpiw mmetmcarkw qlgvaflpas isyligtyif stlahkmgrw
+      361 lcaligitmv gisvicvpla kdiyglivpn fgvgfaigmv dssmmpimgy lvdlrhvsvy
+      421 gsvyaiadva fcmgfalgps iggaiaesig fpwlmtiigi vdisfaplci flrnppgqee
+      481 kiailmdtnc smktrsystq gtyyqgenmd peyddyd
+//
+

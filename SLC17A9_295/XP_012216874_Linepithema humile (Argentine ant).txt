@@ -1,0 +1,77 @@
+
+LOCUS       XP_012216874             427 aa            linear   INV 27-APR-2015
+DEFINITION  PREDICTED: solute carrier family 17 member 9 [Linepithema humile].
+ACCESSION   XP_012216874
+VERSION     XP_012216874.1
+DBLINK      BioProject: PRJNA281950
+DBSOURCE    REFSEQ: accession XM_012361451.1
+KEYWORDS    RefSeq.
+SOURCE      Linepithema humile (Argentine ant)
+  ORGANISM  Linepithema humile
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta;
+            Pterygota; Neoptera; Holometabola; Hymenoptera; Apocrita; Aculeata;
+            Vespoidea; Formicidae; Dolichoderinae; Linepithema.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_012160514.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Linepithema humile Annotation
+                                           Release 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 6.3
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..427
+                     /organism="Linepithema humile"
+                     /isolation_source="queens and workers from a genetically
+                     bottlenecked supercolony"
+                     /db_xref="taxon:83485"
+                     /chromosome="Unknown"
+                     /country="USA: orchard in Santa Clara county, California"
+                     /lat_lon="37.2565 N 122.0153 W"
+     Protein         1..427
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=47515
+     Region          30..420
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Region          33..385
+                     /region_name="MFS_1"
+                     /note="Major Facilitator Superfamily; pfam07690"
+                     /db_xref="CDD:284993"
+     Site            order(44,47..49,51..52,69,72..73,76,80..81,83..84,
+                     138..139,142..143,146..147,150,162..163,166..167,173,251,
+                     254..255,258..259,262,274,278,282,285,289,345,348..349,
+                     352,356..357,360,370..371,374..375,378..379,382)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..427
+                     /gene="LOC105668830"
+                     /coded_by="XM_012361451.1:586..1869"
+                     /db_xref="GeneID:105668830"
+ORIGIN      
+        1 mrlqisqgvl pdtvdrisss wsrkerrkwf lsllcgtcli yatrtslpll mpivskerhw
+       61 skpdsgiils sffwgytltq vasgyisdri gghkvlwisa lgwstttffm peiieffssd
+      121 dssiflivml rivngafqgm hfpsmislis qrmheveras ffslltsgsa lgtlltgslg
+      181 syllenynwm tvfrilggms lawtallsyh ilpfkeraas tksttnytlp wfkllskppf
+      241 wscvighacq nncffvllsw mptyfhdnfp dvkvwivnmv pwlsmlpctf lgkalsekii
+      301 kagysvtvtr ktiqticfit eigslllltk vesfqsailc lafiiggsgf hnnaiavnps
+      361 dlapkhsgsv fglmntvgai pgflgvyfcg yilhvthswp vvflfiaiid aigciiyllf
+      421 gsgqaii
+//
+

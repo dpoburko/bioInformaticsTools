@@ -1,0 +1,62 @@
+
+LOCUS       XP_027553115             449 aa            linear   VRT 10-JAN-2019
+DEFINITION  solute carrier family 17 member 9 [Neopelma chrysocephalum].
+ACCESSION   XP_027553115
+VERSION     XP_027553115.1
+DBLINK      BioProject: PRJNA513341
+DBSOURCE    REFSEQ: accession XM_027697314.1
+KEYWORDS    RefSeq.
+SOURCE      Neopelma chrysocephalum (saffron-crested tyrant-manakin)
+  ORGANISM  Neopelma chrysocephalum
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Passeriformes; Pipridae; Neopelma.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_020897781.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA and EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Neopelma chrysocephalum Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.1
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..449
+                     /organism="Neopelma chrysocephalum"
+                     /specimen_voucher="YPM:ORN:139661"
+                     /db_xref="taxon:114329"
+                     /chromosome="Unknown"
+                     /sex="female"
+                     /tissue_type="muscle"
+                     /dev_stage="adult"
+                     /country="Suriname: South America, Para Distrikt Zanderij,
+                     forest E of airport"
+     Protein         1..449
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=48832
+     CDS             1..449
+                     /gene="SLC17A9"
+                     /coded_by="XM_027697314.1:73..1422"
+                     /db_xref="GeneID:113974294"
+ORIGIN      
+        1 maaggggrnv plgtaergph dgmrrdgdpy wsrpesrvwt vmlllgtcll ycarvtvpic
+       61 avalssyfdw dkkqsgvvls sffwgycltq iigghisdqi ggekvlllsa sawgfltvlt
+      121 pvfthitsah lvfmtssrfl mgllqgvyfp slasllsqrv reseraftys tvgtgsqfgt
+      181 lviggagsll ldwygwesvf yfsglltllw vyctckylls ekeliipidy ltrglsipkq
+      241 tkvswkqlfr kapiwaviia qlstastfft llswlptffk etfpeskgwv fnvipwlvai
+      301 ptslfsgfls dhlisqgyrt itirkfmqvi gsgvssvfal clgqtssfck aivfasasvg
+      361 lqtfnhsgis vnvqdlapsc agllfgvant ggallgvicv ylagyliett gswisvfnlv
+      421 aavnsiglcv fllfgeaqrv dtdsayvdl
+//
+

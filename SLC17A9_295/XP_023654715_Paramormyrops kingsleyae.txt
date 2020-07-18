@@ -1,0 +1,64 @@
+
+LOCUS       XP_023654715             465 aa            linear   VRT 03-FEB-2018
+DEFINITION  solute carrier family 17 member 9 [Paramormyrops kingsleyae].
+ACCESSION   XP_023654715
+VERSION     XP_023654715.1
+DBLINK      BioProject: PRJNA432421
+DBSOURCE    REFSEQ: accession XM_023798947.1
+KEYWORDS    RefSeq.
+SOURCE      Paramormyrops kingsleyae
+  ORGANISM  Paramormyrops kingsleyae
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Osteoglossocephala;
+            Osteoglossomorpha; Osteoglossiformes; Mormyridae; Paramormyrops.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_019715776.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Paramormyrops kingsleyae Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.0
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..465
+                     /organism="Paramormyrops kingsleyae"
+                     /isolate="PKING1"
+                     /db_xref="taxon:1676925"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /tissue_type="Fin Clip"
+                     /dev_stage="adult"
+                     /ecotype="Bambomo Creek, P0-Absent"
+                     /country="Gabon: Bambomo Creek"
+                     /lat_lon="2.163416667 S 11.46185 E"
+                     /collection_date="Jul-2009"
+                     /collected_by="Jason Gallant"
+     Protein         1..465
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=50412
+     CDS             1..465
+                     /gene="slc17a9"
+                     /coded_by="XM_023798947.1:642..2039"
+                     /db_xref="GeneID:111837115"
+ORIGIN      
+        1 mailqkhgks cnpdlpdlkd nppdsfgvag sqrkwadnna nwprplarvw tvvlllgtcl
+       61 lycarvampi cavsmadqfk wskresgmvl gsffwgycft qviggyvsdr vggekvllls
+      121 aaawgamtaf tpilahfcsq piismmlsrf lmgllqgvhy pslaslcsqk vtesergflm
+      181 stvgsgsylg tlvigaagsl mldlygwesv fyvtgllsvl waycmwkyll kgedpiitle
+      241 slgsagtqsk lakrhwlrll kqpavcaviv thlctastff tllswlptff kdtfpdakgw
+      301 vfnvipwfva ipssllsgcl sdhligqgfd taavrklmqf fsmgvssift lflcgtptfp
+      361 tavafvsatm glttfshsgv svnvqdlaps cagalfgimn tcgaftgvvm vyfsgyliea
+      421 tgswasvfal isvvnllglc tfltfaearr vdiegarvky hnihi
+//
+

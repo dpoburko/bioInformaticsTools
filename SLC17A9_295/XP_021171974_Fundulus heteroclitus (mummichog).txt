@@ -1,0 +1,80 @@
+
+LOCUS       XP_021171974             466 aa            linear   VRT 01-JUN-2017
+DEFINITION  solute carrier family 17 member 9 [Fundulus heteroclitus].
+ACCESSION   XP_021171974
+VERSION     XP_021171974.1
+DBLINK      BioProject: PRJNA286680
+DBSOURCE    REFSEQ: accession XM_021316299.1
+KEYWORDS    RefSeq; corrected model.
+SOURCE      Fundulus heteroclitus (mummichog)
+  ORGANISM  Fundulus heteroclitus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Atherinomorphae; Cyprinodontiformes;
+            Fundulidae; Fundulus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_012234264.1) and transcript sequences (GCES01146888.1 and
+            GCES01159750.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Fundulus heteroclitus Annotation
+                                           Release 101
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 7.4
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            assembly gap :: added 237 transcript bases to patch genome assembly
+                            gap
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..466
+                     /organism="Fundulus heteroclitus"
+                     /db_xref="taxon:8078"
+                     /chromosome="Unknown"
+     Protein         1..466
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=50643
+     Region          52..447
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Site            order(66,69..71,73..74,91,94..95,98,102..103,105..106,
+                     157..158,161..162,165..166,169,181..182,185..186,192,277,
+                     280..281,284..285,288,300,304,308,311,315,370,373..374,
+                     377,381..382,385,396..397,400..401,404..405,408)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..466
+                     /gene="slc17a9"
+                     /coded_by="XM_021316299.1:454..1854"
+                     /note="The sequence of the model RefSeq protein was
+                     modified relative to its source genomic sequence to
+                     represent the inferred CDS: added 237 bases not found in
+                     genome assembly"
+                     /db_xref="GeneID:105926070"
+ORIGIN      
+        1 maviqkhgks sgpdlvfhke slppdkvgah gcqkkwpeah shwsrpvarv wtvvlllgtc
+       61 llycarvamp icavsmaekf nwtkresgmv lgsffwgycf tqvfggyvsd rvggekvlll
+      121 saaawgsmta ftpilahlcs qpifsmtlar flmgllqgvh ypslaslcsq kvvesergfl
+      181 mstvgsgsyl gtlviggvgs lmldlygwes vfyvsgllsv lwaycmwkyl lkgegpiitl
+      241 eslgngvaqs kltkrhwarl lkqpavcavi vthlctastf ftllswlptf fkdtfpdakg
+      301 wvfnvipwlv aipsslfsgc lsdhlisqgf dtasvrklmq ffsmgvssvf tvllcgnttf
+      361 pwavafvsat mglttfshsg vsvnvqdlap scagalfgim ntcgafsgvl mvyfsgylie
+      421 atgswgsmfa littvnlmgl ftflafaear rvdiesgrir hnsihi
+//
+

@@ -1,0 +1,60 @@
+
+LOCUS       XP_019326205             430 aa            linear   VRT 05-DEC-2016
+DEFINITION  PREDICTED: solute carrier family 17 member 9 [Aptenodytes
+            forsteri].
+ACCESSION   XP_019326205
+VERSION     XP_019326205.1
+DBLINK      BioProject: PRJNA261081
+DBSOURCE    REFSEQ: accession XM_019470660.1
+KEYWORDS    RefSeq.
+SOURCE      Aptenodytes forsteri (emperor penguin)
+  ORGANISM  Aptenodytes forsteri
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Sphenisciformes; Spheniscidae;
+            Aptenodytes.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_008794731.1) annotated using gene prediction method: Gnomon,
+            supported by EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Aptenodytes forsteri Annotation
+                                           Release 101
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 7.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..430
+                     /organism="Aptenodytes forsteri"
+                     /isolate="BGI_AS27"
+                     /db_xref="taxon:9233"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /country="Antarctica"
+     Protein         1..430
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=47014
+     CDS             1..430
+                     /gene="SLC17A9"
+                     /coded_by="XM_019470660.1:1..1293"
+                     /db_xref="GeneID:103894530"
+ORIGIN      
+        1 mcftltqfgy lqhrpesrvw tvmlllgtcl lycarvtvpi cavalsthfd wdkkqsgivl
+       61 ssffwgyclt qiigghisdq iggekvllls asawgfltvl tpllthvtsa hlvfmtssrf
+      121 lmgllqgvyf pslasllsqk vreserafty stvgtgsqfg tlviggagsl lldwygwesv
+      181 fyfsglltll wvyctckyll seneliipid ylmrglsisk qtkvpwkqlf kkapiwavii
+      241 aqlstastff tllswlptff ketfpeskgw vfnvvpwlva iptslfsgfl sdhlinqgyk
+      301 titirkfmqv igsgvssifa lclgqtssfc kaivfasasv glqtfnhsgi svnvqdlaps
+      361 cagllfgvgn tggallgvic vylagyliet tgswisvfnl vaavnsiglc aflmfgeaqr
+      421 vdtdsaymdl
+//
+

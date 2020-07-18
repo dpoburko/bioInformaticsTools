@@ -1,0 +1,83 @@
+
+LOCUS       XP_012281033             420 aa            linear   INV 02-JAN-2018
+DEFINITION  solute carrier family 17 member 9 [Orussus abietinus].
+ACCESSION   XP_012281033
+VERSION     XP_012281033.1
+DBLINK      BioProject: PRJNA282746
+DBSOURCE    REFSEQ: accession XM_012425610.2
+KEYWORDS    RefSeq.
+SOURCE      Orussus abietinus
+  ORGANISM  Orussus abietinus
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta;
+            Pterygota; Neoptera; Holometabola; Hymenoptera; Orussoidea;
+            Orussidae; Orussus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_019394277.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Orussus abietinus Annotation Release
+                                           101
+            Annotation Version          :: 101
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.0
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..420
+                     /organism="Orussus abietinus"
+                     /isolate="OABI.00-Male"
+                     /isolation_source="haploid male collected from an old tree
+                     in a forest"
+                     /db_xref="taxon:222816"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /tissue_type="whole organism"
+                     /dev_stage="adult"
+                     /country="Germany: Gross-Gerau, Hessen"
+                     /lat_lon="49.960617 N 8.542233 E"
+                     /altitude="103 m"
+                     /collection_date="23-Apr-2011"
+     Protein         1..420
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=46541
+     Region          22..413
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Region          28..411
+                     /region_name="2A0114"
+                     /note="D-galactonate transporter; TIGR00893"
+                     /db_xref="CDD:273326"
+     Site            order(36,39..41,43..44,61,64..65,68,72..73,75..76,
+                     130..131,134..135,138..139,142,154..155,158..159,165,244,
+                     247..248,251..252,255,267,271,275,278,282,340..341,344,
+                     348..349,352,363..364,367..368,371..372,375)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..420
+                     /gene="LOC105700052"
+                     /coded_by="XM_012425610.2:462..1724"
+                     /db_xref="GeneID:105700052"
+ORIGIN      
+        1 malsaddmtc lfwsrkerrr wfilllcgtc lvyatrtsvp llmptiieen hwsktdsgif
+       61 lssffwgytl tqvaggyisd riggqkvmwi salgwsfitc lmpiimklls dsdfviqlla
+      121 lvrtingafq gmhfpsmisl tsqrlheser asffslltag salgilltgs lgsyilenyd
+      181 wtvvfkvlgg lsllwtgcls yyctslkgtt istnkssnnh slpwsellsk ppfwscvigh
+      241 acqnncffvi lswmpmyfhe typeakgwiv nmlpwipslp ctylgkilse klikagytit
+      301 vtrkivqtic fmtqsinllf laraetfqga llcftliigg sgfhntaivv npadlapkya
+      361 gsvfglmntv gaipgslgvy fagyilhtth swpivfivts mietlgciiy lwfgsgnsii
+//
+

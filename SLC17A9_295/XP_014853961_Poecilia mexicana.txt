@@ -1,0 +1,77 @@
+
+LOCUS       XP_014853961             466 aa            linear   VRT 15-DEC-2015
+DEFINITION  PREDICTED: solute carrier family 17 member 9 [Poecilia mexicana].
+ACCESSION   XP_014853961
+VERSION     XP_014853961.1
+DBLINK      BioProject: PRJNA305619
+DBSOURCE    REFSEQ: accession XM_014998475.1
+KEYWORDS    RefSeq.
+SOURCE      Poecilia mexicana
+  ORGANISM  Poecilia mexicana
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Atherinomorphae; Cyprinodontiformes;
+            Poeciliidae; Poeciliinae; Poecilia.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_015095221.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Poecilia mexicana Annotation Release
+                                           100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 6.5
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..466
+                     /organism="Poecilia mexicana"
+                     /isolate="Pme_1353_1.1"
+                     /db_xref="taxon:48701"
+                     /chromosome="Unknown"
+                     /sex="female"
+                     /dev_stage="adult"
+     Protein         1..466
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=50594
+     Region          52..447
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Region          55..410
+                     /region_name="MFS_1"
+                     /note="Major Facilitator Superfamily; pfam07690"
+                     /db_xref="CDD:284993"
+     Site            order(66,69..71,73..74,91,94..95,98,102..103,105..106,
+                     157..158,161..162,165..166,169,181..182,185..186,192,277,
+                     280..281,284..285,288,300,304,308,311,315,370,373..374,
+                     377,381..382,385,396..397,400..401,404..405,408)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..466
+                     /gene="slc17a9"
+                     /coded_by="XM_014998475.1:541..1941"
+                     /db_xref="GeneID:106924659"
+ORIGIN      
+        1 maviqkhgks sspdlvchke nvppdkigap gchkkrpeah snwprpvari wtvvlllgtc
+       61 llycarvamp icavsmaekf nwtkresgmv lgsffwgycf tqvfggyvsd rvggekvlll
+      121 saaawgsmta ftpilahlcs qpifsmtlar flmgllqgvh ypslaslcsq kvvesergfl
+      181 mstvgsgsyl gtlviggvgs lmldlygwes vfyvsgllsv lwaycmwkyl lkgegpiitl
+      241 eslgnggtqs klnkrhwarl lkqpavcavi vthlctastf ftllswlptf fkdtfpdakg
+      301 wvfnvipwlv aipsslfsgc lsdhlicqgf dtasvrklmq ffsmgvssvf tvllcgnttf
+      361 swavafvsat mglttfshsg vslnvqdlap scagalfgim ntcgafsgvl mvyfsgylie
+      421 atgswasvfa littvnlmgl ftflafaear rvdidsgrvr hhsihi
+//
+

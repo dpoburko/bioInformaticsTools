@@ -1,0 +1,72 @@
+
+LOCUS       XP_019112003             466 aa            linear   VRT 05-DEC-2018
+DEFINITION  solute carrier family 17 member 9 [Larimichthys crocea].
+ACCESSION   XP_019112003
+VERSION     XP_019112003.1
+DBLINK      BioProject: PRJNA354443
+DBSOURCE    REFSEQ: accession XM_019256458.2
+KEYWORDS    RefSeq.
+SOURCE      Larimichthys crocea (large yellow croaker)
+  ORGANISM  Larimichthys crocea
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Sciaenidae; Larimichthys.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_040025.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Larimichthys crocea Annotation
+                                           Release 102
+            Annotation Version          :: 102
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.1
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..466
+                     /organism="Larimichthys crocea"
+                     /isolate="SSNF"
+                     /db_xref="taxon:215358"
+                     /chromosome="XV"
+                     /tissue_type="blood"
+                     /country="China: Southeast region"
+                     /collection_date="Aug-2011"
+     Protein         1..466
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=50801
+     Region          52..447
+                     /region_name="MFS_SLC17A9_like"
+                     /note="Solute carrier family 17 member 9 and similar
+                     proteins of the Major Facilitator Superfamily of
+                     transporters; cd17380"
+                     /db_xref="CDD:340938"
+     Site            order(62..63,66..67,70,102,157..158,160..162,165,185,
+                     188..189,192,273,276..277,280..282,285,311,315,372..373,
+                     377,381,397,400..401,404..405,408)
+                     /site_type="other"
+                     /note="putative chemical substrate binding pocket
+                     [chemical binding]"
+                     /db_xref="CDD:340938"
+     CDS             1..466
+                     /gene="slc17a9"
+                     /coded_by="XM_019256458.2:589..1989"
+                     /db_xref="GeneID:109137904"
+ORIGIN      
+        1 maviqkygkn yspdlvchke nhpsdkigvp gchkkwpehn tnwprpvarv wtvvlllgtc
+       61 llycarvamp icavsmaeqf nwskresgmv lgsffwgycf tqvfggyvsd rvggekvlll
+      121 saaawgsmta ftpilahfcs qpimsmtlar flmgllqgvh ypslaslcsq kvvesergfl
+      181 mstvgsgsyl gtlviggags lmldlygwes vfyvsgllsv lwaycmwkyl lkgegpiitl
+      241 eslgsggpqs klskrhwlrl lkqpavcavi vthlctsstf ftllswlptf fkdtfpdakg
+      301 wvfnvipwlv aipsslfsgc lsdhlisqgf dtasvrklmq ffsmgvssvf tlllcgnttf
+      361 pwavafvsat mglttfshsg vsvnvqdlap scagalfgvm ntcgaflgvl mvyfsgylie
+      421 atgswatvfa littvnllgl ctflgfaear rvdidsskvr hhnihi
+//
+

@@ -1,0 +1,62 @@
+
+LOCUS       XP_021050557             447 aa            linear   ROD 18-JUN-2019
+DEFINITION  solute carrier family 17 member 9 [Mus pahari].
+ACCESSION   XP_021050557
+VERSION     XP_021050557.1
+DBLINK      BioProject: PRJNA387191
+DBSOURCE    REFSEQ: accession XM_021194898.2
+KEYWORDS    RefSeq.
+SOURCE      Mus pahari (shrew mouse)
+  ORGANISM  Mus pahari
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+            Muroidea; Muridae; Murinae; Mus; Coelomys.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_034592.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Mus pahari Annotation Release 101
+            Annotation Version          :: 101
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..447
+                     /organism="Mus pahari"
+                     /db_xref="taxon:10093"
+                     /chromosome="3"
+                     /sex="female"
+                     /tissue_type="tail"
+     Protein         1..447
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=48260
+     Region          43..424
+                     /region_name="UhpC"
+                     /note="Sugar phosphate permease [Carbohydrate transport
+                     and metabolism]; cl27298"
+                     /db_xref="CDD:332119"
+     CDS             1..447
+                     /gene="Slc17a9"
+                     /coded_by="XM_021194898.2:41..1384"
+                     /db_xref="GeneID:110319398"
+ORIGIN      
+        1 mssqrsslmq ptpeetrktp saaaedtrws rpecqawtgi lllgtcllyc arvtmpvcta
+       61 amsqdfgwnk keagivlssf fwgycltqvv gghlgdrigg ekvillsasa wgfitvttpl
+      121 lahlgsghla fltfsriltg llqgvyfpal tsllsqkvqe seraftystv gagsqvgtlv
+      181 tggvgsmlld qcgwqsvfyf sggltllwvy yvyryllnek dlvlalgvla qglpvtkpsk
+      241 vpwrqlfwka svwaaicsql csacsffill swlptffket fpnskgwvfn vvpwllaipa
+      301 slfsgfisdh lisqgyrvit vrkfmqvmgl glssifalcl ghttsflnam ifasasigfq
+      361 tfnhsgisvn iqdlapscag flfgvantag alagvvgvcl sgyliettgs wtcvfhlvai
+      421 isnlglgtfl vfgkaqrvdl apthedl
+//
+

@@ -1,0 +1,75 @@
+
+LOCUS       XP_005615273             528 aa            linear   MAM 23-JAN-2018
+DEFINITION  vesicular acetylcholine transporter [Equus caballus].
+ACCESSION   XP_005615273
+VERSION     XP_005615273.2
+DBLINK      BioProject: PRJNA19129
+DBSOURCE    REFSEQ: accession XM_005615216.3
+KEYWORDS    RefSeq.
+SOURCE      Equus caballus (horse)
+  ORGANISM  Equus caballus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Perissodactyla; Equidae; Equus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_009144.3) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            On Jan 23, 2018 this sequence version replaced XP_005615273.1.
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Equus caballus Annotation Release
+                                           103
+            Annotation Version          :: 103
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.0
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..528
+                     /organism="Equus caballus"
+                     /isolate="Twilight"
+                     /db_xref="taxon:9796"
+                     /chromosome="1"
+                     /sex="female"
+                     /breed="thoroughbred"
+     Protein         1..528
+                     /product="vesicular acetylcholine transporter"
+                     /calculated_mol_wt=56128
+     Region          121..455
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Site            order(125,128..129,132,136..137,139..140,186..187,
+                     190..191,194..195,198,211..212,215..216,222,296,299..300,
+                     303..304,307,324,328,332,335,339,388,391..392,395,
+                     399..400,403,417..418,421..422,425..426,429)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..528
+                     /gene="SLC18A3"
+                     /coded_by="XM_005615216.3:451..2037"
+                     /db_xref="GeneID:102151059"
+ORIGIN      
+        1 mepaapagqa rtaatklsea vgaalqeprr qrrlvlvivc valfldnmly mvivpivpyy
+       61 vahmhgspnp atevrvpilp pptpantsad mvntsespta arptrsapqp hvptesedvk
+      121 igvlfaskai lqllvnplsg pfidrmgydv plliglgvmf astvmfafae dyatlfaars
+      181 lqglgsafad tsgiamiadk ypeepersra lgvalafisf gslvappfgg llhqfagkqg
+      241 pflvlaavsl fdavlllava kpfsaaarar anlpvgtpih rlmldpyiav vagalttcni
+      301 plafleptia twmkrtmaas ewevgmawlp afvphvlgvy ltvrlaaryp hlqwlygalg
+      361 lavigasscv vpacrsfapl aislcglcfg ialvdtallp tlaflvdvrh vsvygsvyai
+      421 adisysvaya lgpivaghiv hslgfaqlsl gmglanllya pvllllrnvg lltrsrserd
+      481 vlldeppqgl ydavrlrerp vsdpdgapcs ppgpfeeced dydyytrs
+//
+

@@ -1,0 +1,67 @@
+
+LOCUS       XP_002198570             448 aa            linear   VRT 13-MAR-2020
+DEFINITION  solute carrier family 17 member 9 [Taeniopygia guttata].
+ACCESSION   XP_002198570
+VERSION     XP_002198570.5
+DBLINK      BioProject: PRJNA577119
+DBSOURCE    REFSEQ: accession XM_002198534.5
+KEYWORDS    RefSeq.
+SOURCE      Taeniopygia guttata (zebra finch)
+  ORGANISM  Taeniopygia guttata
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Passeriformes; Passeroidea;
+            Estrildidae; Estrildinae; Taeniopygia.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_045018.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA and EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            On Mar 13, 2020 this sequence version replaced XP_002198570.4.
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Taeniopygia guttata Annotation
+                                           Release 105
+            Annotation Version          :: 105
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.3
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..448
+                     /organism="Taeniopygia guttata"
+                     /isolate="Blue55"
+                     /db_xref="taxon:59729"
+                     /chromosome="20"
+                     /sex="female"
+                     /tissue_type="Muscle, blood, brain"
+                     /dev_stage="adult"
+                     /country="USA"
+                     /lat_lon="36.0014 N 78.9382 W"
+                     /collected_by="Matt Biegler, Duke University and
+                     Rockefeller University"
+     Protein         1..448
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=48682
+     CDS             1..448
+                     /gene="SLC17A9"
+                     /coded_by="XM_002198534.5:70..1416"
+                     /db_xref="GeneID:100220007"
+ORIGIN      
+        1 maaggggrnv ppgsgtrdgm rrdggtepyw srpecrvwta mlllgtclly carvtvpica
+       61 lalssdfhwd kkqfgvvlss ffwgycltqi lgghisdqig gekvlllsas awgfltvltp
+      121 llthitsahl vfmtssrflm gllqgvyfps lasllsqrvr eseraftyst vgtgsqfgtl
+      181 liggagslll dwygwesvfy fsglltllwv yctckyllse keltipvnyl trgllvpkqs
+      241 kvpwkqlfrk apiwaviiaq lstastfftl lswlptffke tfpeskgwvf nvvpwlvaip
+      301 tslfsgflsd hlisqgyrti tirkfmqvig sgvssifalc lgqtssfcka ivfasasvgl
+      361 qtfnhsgisv nvqdlapsca gllfgvantg gallgvicvy lagyliettg swisvfnlva
+      421 avnsiglctf llfgeaqrvd tdsvyvdl
+//
+

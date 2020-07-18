@@ -1,0 +1,57 @@
+
+LOCUS       XP_017762337             425 aa            linear   INV 24-AUG-2016
+DEFINITION  PREDICTED: solute carrier family 17 member 9 [Eufriesea mexicana].
+ACCESSION   XP_017762337
+VERSION     XP_017762337.1
+DBLINK      BioProject: PRJNA339561
+DBSOURCE    REFSEQ: accession XM_017906848.1
+KEYWORDS    RefSeq.
+SOURCE      Eufriesea mexicana
+  ORGANISM  Eufriesea mexicana
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta;
+            Pterygota; Neoptera; Holometabola; Hymenoptera; Apocrita; Aculeata;
+            Apoidea; Apidae; Eufriesea.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_016914133.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Eufriesea mexicana Annotation
+                                           Release 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 7.1
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..425
+                     /organism="Eufriesea mexicana"
+                     /isolate="0111107269"
+                     /db_xref="taxon:516756"
+                     /chromosome="Unknown"
+                     /tissue_type="Whole body"
+                     /collection_date="2011"
+     Protein         1..425
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=47045
+     CDS             1..425
+                     /gene="LOC108552348"
+                     /coded_by="XM_017906848.1:188..1465"
+                     /db_xref="GeneID:108552348"
+ORIGIN      
+        1 mqmqislglt qdekanssws rkerrkwfls llcgtcliya trtsvpllmp iiskekqwsk
+       61 pdsgvilssf fwgytltqva sgyisdrigg qkvllisalg wsmttffmpe vielfsrsds
+      121 siilvatvrt ingafqgmhf psmislisqr lheterasff slltsgsalg tlltgslgsy
+      181 llehynwitv fqtlgglsla wtlllsyhtl pfkekaastk sttnyslpwl kllkkppfws
+      241 cvighacqnn cffvllswmp myfhdtfpev kgwvvnmvpw lsmlpctflg kalseriika
+      301 gysitvtrki ieticfltei isllflvkve tfqsaiicla fiiggsgfhn naiavnpsdl
+      361 apkhsgsvfg lmntvgaipg flgvcfsgyi lhvthsypvv fifiaiidal gcivylffgs
+      421 gqaii
+//
+

@@ -1,0 +1,60 @@
+
+LOCUS       XP_030238604             438 aa            linear   INV 16-AUG-2019
+DEFINITION  solute carrier family 17 member 9 [Drosophila navojoa].
+ACCESSION   XP_030238604
+VERSION     XP_030238604.1
+DBLINK      BioProject: PRJNA340011
+DBSOURCE    REFSEQ: accession XM_030382744.1
+KEYWORDS    RefSeq.
+SOURCE      Drosophila navojoa
+  ORGANISM  Drosophila navojoa
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta;
+            Pterygota; Neoptera; Holometabola; Diptera; Brachycera;
+            Muscomorpha; Ephydroidea; Drosophilidae; Drosophila.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_022045878.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Drosophila navojoa Annotation
+                                           Release 101
+            Annotation Version          :: 101
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..438
+                     /organism="Drosophila navojoa"
+                     /isolate="navoj_Jal97"
+                     /isolation_source="banana trap"
+                     /db_xref="taxon:7232"
+                     /chromosome="Unknown"
+                     /tissue_type="whole organism"
+                     /country="Mexico: Tomatlan, Jalisco"
+                     /collection_date="1997-03"
+     Protein         1..438
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=48496
+     CDS             1..438
+                     /gene="LOC115562030"
+                     /coded_by="XM_030382744.1:259..1575"
+                     /db_xref="GeneID:115562030"
+ORIGIN      
+        1 mdeklkysll rgelvdtqsi wsrnekrvwf itlltgtcml ystrttmpll vpavaaaqkw
+       61 sktdsgtvls sffwgytltq vmggyfsdry ggqrvilfaa igwsiitflm ptiiwsaasv
+      121 ksytipiivt irilngalqg vhfpsmislt sqnlcqsers sffglltsgs amgtlltgil
+      181 gsfvldyfgw syvfrviglm gfawalvlry yamagernri inistparlc gnkalteasv
+      241 pwlrffsrls fwacvlthac emncffvlls wlptyfhdgf phakgwvvnm ipwlalppct
+      301 ffakylttrl iarewstttv rkliqsccfa sqnvalfvms rttdfhtali cmtiiiggtg
+      361 fhnnavtvnp qdlaplhsgs vfglmntvga ipgflgvyla ghileltqsw pmvfsaaagi
+      421 nligwiifli fgsaeaiv
+//
+

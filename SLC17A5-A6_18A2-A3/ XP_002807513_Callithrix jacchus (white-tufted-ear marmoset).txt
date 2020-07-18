@@ -1,0 +1,64 @@
+
+LOCUS       XP_002807513             517 aa            linear   PRI 04-JUL-2020
+DEFINITION  synaptic vesicular amine transporter [Callithrix jacchus].
+ACCESSION   XP_002807513
+VERSION     XP_002807513.3
+DBLINK      BioProject: PRJNA635392
+DBSOURCE    REFSEQ: accession XM_002807467.5
+KEYWORDS    RefSeq.
+SOURCE      Callithrix jacchus (white-tufted-ear marmoset)
+  ORGANISM  Callithrix jacchus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Cebidae; Callitrichinae; Callithrix; Callithrix.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_048394.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA and EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            On Jul 1, 2020 this sequence version replaced XP_002807513.2.
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Callithrix jacchus Annotation
+                                           Release 105
+            Annotation Version          :: 105
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.4
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..517
+                     /organism="Callithrix jacchus"
+                     /strain="cj1700"
+                     /db_xref="taxon:9483"
+                     /chromosome="12"
+                     /sex="female"
+                     /cell_line="cj1700"
+                     /tissue_type="skin"
+                     /collected_by="Wisconsin Primate Research Center"
+     Protein         1..517
+                     /product="synaptic vesicular amine transporter"
+                     /calculated_mol_wt=55995
+     CDS             1..517
+                     /gene="SLC18A2"
+                     /coded_by="XM_002807467.5:318..1871"
+                     /db_xref="GeneID:100395730"
+ORIGIN      
+        1 malselalvr wlqesrrsrk lilfivflal lldnmlltvv vpiipsylys ikheknatei
+       61 qtarpvltas nsdsfesifs yydnstmvtr natrdlqegq lhqtttqhmv anrsavpsdc
+      121 psedkdllne nvqvgllfas katvqlltnp figlltnrig ypipifagfc imfvstimfa
+      181 fsssyallli arslqgigss cssvagmgml asvytddeer gnamgialgg lamgvlvgpp
+      241 fgsvlyefvg ktapflvlaa lvlldgaiql fvlqpsrvqp esqkgtpltt llkdpyilia
+      301 agsicfanmg iamlepalpi wmmetmcsrk wqlgvaflpa sisyligtni fgilahkmgr
+      361 wlcallgmii vgvsilcipf akniygliap nfgvgfaigm vdssmmpimg ylvdlrhvsv
+      421 ygsvyaiadv afcmgyaigp saggaiakai gfpwlmtiig iidilfaplc fflrsppake
+      481 ekmailmdhn cpiktkmytq nniqsypigd dedsesd
+//
+

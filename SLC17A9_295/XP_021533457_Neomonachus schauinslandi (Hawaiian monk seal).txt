@@ -1,0 +1,66 @@
+
+LOCUS       XP_021533457             438 aa            linear   MAM 28-JUN-2017
+DEFINITION  solute carrier family 17 member 9 [Neomonachus schauinslandi].
+ACCESSION   XP_021533457
+VERSION     XP_021533457.1
+DBLINK      BioProject: PRJNA392091
+DBSOURCE    REFSEQ: accession XM_021677782.1
+KEYWORDS    RefSeq.
+SOURCE      Neomonachus schauinslandi (Hawaiian monk seal)
+  ORGANISM  Neomonachus schauinslandi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Carnivora; Caniformia;
+            Phocidae; Neomonachus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_018734260.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Neomonachus schauinslandi Annotation
+                                           Release 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 7.4
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..438
+                     /organism="Neomonachus schauinslandi"
+                     /db_xref="taxon:29088"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /tissue_type="blood"
+                     /country="USA: Kuai'i, HI"
+                     /lat_lon="21.3 N 157.817 W"
+                     /collection_date="2015-01-12"
+                     /collected_by="NOAA"
+     Protein         1..438
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=47083
+     Region          57..430
+                     /region_name="UhpC"
+                     /note="Sugar phosphate permease [Carbohydrate transport
+                     and metabolism]; cl27298"
+                     /db_xref="CDD:332119"
+     CDS             1..438
+                     /gene="SLC17A9"
+                     /coded_by="XM_021677782.1:80..1396"
+                     /db_xref="GeneID:110569822"
+ORIGIN      
+        1 mqplpppeea hrdgaedsqw srpecqvwtg tlllgtclly sarvsmpvca vsmsqdfgwn
+       61 kkeagivlss ffwgycltqv vgghlgdrig gekvillsas awgvitaatp llarlgsahl
+      121 vfmtfsrilt gllqgvyfpa ltsllsqkvr eseraftysa vgagsqfgtl vtgavgslll
+      181 dwcgwpsvfy fsggltllwv cyvdryllse kdlilalgvl aqgvpvsrht kvpwrqlfrk
+      241 psvwaaifsq lssacsffil lswlptffee tfpsskgwvf nvvpwlvaip aslfsgflsd
+      301 hlinqgyrti avrkfmqvmg lglssvfalc lghtssfcks vvfasasigl qtfnhsgisv
+      361 niqdlapsca gflfgvanta galagvvgvc lggyliettg swtsmfnlva avsslglctf
+      421 lllgeaqrvd lsptredl
+//
+

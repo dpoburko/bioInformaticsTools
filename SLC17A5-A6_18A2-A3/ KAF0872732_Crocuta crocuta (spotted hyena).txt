@@ -1,0 +1,64 @@
+
+LOCUS       KAF0872732               513 aa            linear   MAM 14-JAN-2020
+DEFINITION  VACHT protein, partial [Crocuta crocuta].
+ACCESSION   KAF0872732
+VERSION     KAF0872732.1
+DBLINK      BioProject: PRJNA554753
+            BioSample: SAMN12283067
+DBSOURCE    accession VOAJ01006355.1
+KEYWORDS    .
+SOURCE      Crocuta crocuta (spotted hyena)
+  ORGANISM  Crocuta crocuta
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Carnivora; Feliformia;
+            Hyaenidae; Crocuta.
+REFERENCE   1  (residues 1 to 513)
+  AUTHORS   Yang,C., Li,F., Xiong,Z., Koepfli,K.-P., Ryder,O., Chemnick,L.,
+            Perelman,P., Li,Q. and Zhang,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-JUL-2019) BGI-Research, BGI, Jinsha Road, Dapeng New
+            District, Shenzhen 518000, China
+REFERENCE   2  (residues 1 to 513)
+  AUTHORS   Yang,C. and Li,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-NOV-2019) BGI-Research, BGI, Jinsha Road, Dapeng New
+            District, Shenzhen 518000, China
+COMMENT     Annotation was added in January 2020.
+            
+            ##Genome-Assembly-Data-START##
+            Assembly Method        :: SOAPdenovo v. 1.06
+            Assembly Name          :: BGI_CrCroc_1.0
+            Genome Representation  :: Full
+            Expected Final Version :: Yes
+            Genome Coverage        :: 95.2x
+            Sequencing Technology  :: Illumina HiSeq
+            ##Genome-Assembly-Data-END##
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..513
+                     /organism="Crocuta crocuta"
+                     /isolate="KB4526"
+                     /db_xref="taxon:9678"
+                     /sex="male"
+                     /tissue_type="muscle"
+                     /dev_stage="Adult"
+                     /country="USA: Institute for Conservation Research, San
+                     Diego Zoo, Escondido, CA"
+     Protein         <1..>513
+                     /product="VACHT protein"
+     CDS             1..513
+                     /gene="Slc18a3"
+                     /locus_tag="FOF47_R00928"
+                     /coded_by="VOAJ01006355.1:<10122471..>10124009"
+ORIGIN      
+        1 epsapagqar aaasklseam gavlqdprrq rrlvlvivcv alfldnmlym vivpivpdyi
+       61 ahmhkagrpt tspkvhtlqv ptptsdsdnm sntsasptes edvkigvlfa skailqllvn
+      121 plsgpfidrm sydvplligl gvlfastvlf afaedyatlf aarslqglgs afadtsgiam
+      181 iadkypeepe rsralgvala fisfgslvap pfggslyefa gkpapflvla avslldalll
+      241 lvvakpfsav traranlpvg tpihrlmldp yiavvagalt tcniplafle ptiatwmeht
+      301 maasewqtgm awlpafvphv lgvyltvrla aryphlqwly galglaviga sscvvpacrs
+      361 faplvislcg lcfgialvdt allptlaflv dvrhvsvygs vyaiadisys vayalgpiva
+      421 ghivhslgfa qlslgmglan llyapvllll rnvgllrrsr serdvlldep pqglydavrl
+      481 rerpvadpdg aprspsgpfd ecedvynnyy ths
+//
+

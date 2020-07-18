@@ -1,0 +1,78 @@
+
+LOCUS       XP_013116347             439 aa            linear   INV 29-JUL-2015
+DEFINITION  PREDICTED: solute carrier family 17 member 9 [Stomoxys calcitrans].
+ACCESSION   XP_013116347
+VERSION     XP_013116347.1
+DBLINK      BioProject: PRJNA288986
+DBSOURCE    REFSEQ: accession XM_013260893.1
+KEYWORDS    RefSeq.
+SOURCE      Stomoxys calcitrans (stable fly)
+  ORGANISM  Stomoxys calcitrans
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta;
+            Pterygota; Neoptera; Holometabola; Diptera; Brachycera;
+            Muscomorpha; Muscoidea; Muscidae; Stomoxys.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_013173763.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Stomoxys calcitrans Annotation
+                                           Release 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 6.4
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..439
+                     /organism="Stomoxys calcitrans"
+                     /isolation_source="pooled sample from approximately 10
+                     individuals of F7 generation from inbred line"
+                     /db_xref="taxon:35570"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /collected_by="Pia Olafson"
+                     /breed="8C7A2A5H3J4"
+     Protein         1..439
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=49084
+     Region          32..432
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Region          34..397
+                     /region_name="MFS_1"
+                     /note="Major Facilitator Superfamily; pfam07690"
+                     /db_xref="CDD:284993"
+     Site            order(46,49..51,53..54,71,74..75,78,82..83,85..86,
+                     141..142,145..146,149..150,153,165..166,169..170,176,263,
+                     266..267,270..271,274,288,290,294,297,301,359..360,363,
+                     367..368,371,382..383,386..387,390..391,394)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..439
+                     /gene="LOC106093753"
+                     /coded_by="XM_013260893.1:324..1643"
+                     /db_xref="GeneID:106093753"
+ORIGIN      
+        1 msmeeklkys llrnelvdtq siwtrhekri wfitlitgtc mlystrttmp llvpavaaem
+       61 kwsktdsgtv lssffwgytl tqvvggyfsd rfggqrvilf saigwsfitf lmpniiwwap
+      121 nvktyaipfi vtiriingaf qgvhfpsmis ltsqnlcsne rtsffgllts gsaigtlltg
+      181 ilgsfmldyf gwsyvfrvig fmgiswalil ryyamagern riinvslpsr lcvnksnvet
+      241 vpwlkyftkf sfwacvltha cemncffvll swlptyfhdl fphakgwvvn mipwlalpps
+      301 tffakyltgr lqarewsmss vrkivqsccf aaqnlalfim srttdfhtal icmtviiggt
+      361 gfhnnavtvn pqdlapshsg svfglmntvg aipgflgvyl aghileatqs wpmvfsaaag
+      421 inligwiifv vfgsaeaiv
+//
+

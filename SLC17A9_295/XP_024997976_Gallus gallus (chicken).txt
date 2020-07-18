@@ -1,0 +1,78 @@
+
+LOCUS       XP_024997976             545 aa            linear   VRT 17-MAY-2018
+DEFINITION  solute carrier family 17 member 9 isoform X2 [Gallus gallus].
+ACCESSION   XP_024997976
+VERSION     XP_024997976.1
+DBLINK      BioProject: PRJNA10808
+DBSOURCE    REFSEQ: accession XM_025142208.1
+KEYWORDS    RefSeq.
+SOURCE      Gallus gallus (chicken)
+  ORGANISM  Gallus gallus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Galloanserae; Galliformes;
+            Phasianidae; Phasianinae; Gallus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_006107.5) annotated using gene prediction method: Gnomon,
+            supported by mRNA and EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Gallus gallus Annotation Release 104
+            Annotation Version          :: 104
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.0
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..545
+                     /organism="Gallus gallus"
+                     /isolate="RJF #256"
+                     /db_xref="taxon:9031"
+                     /chromosome="20"
+                     /sex="female"
+                     /breed="Red Jungle Fowl"
+     Protein         1..545
+                     /product="solute carrier family 17 member 9 isoform X2"
+                     /calculated_mol_wt=59471
+     Region          197..545
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Site            order(211,214..216,218..219,236,239..240,243,247..248,
+                     250..251,302..303,306..307,310..311,314,326..327,330..331,
+                     337,422,425..426,429..430,433,447,449,453,456,460,508,
+                     511..512,515,519..520,523,534..535,538..539,542..543)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..545
+                     /gene="SLC17A9"
+                     /gene_synonym="C20orf59; POROK8; VNUT"
+                     /coded_by="XM_025142208.1:3845..5482"
+                     /db_xref="GeneID:419236"
+                     /db_xref="CGNC:4260"
+ORIGIN      
+        1 mlkgedghak aksfqlflls hhcvagegli iywrkrkkik rgkkkkkerk kptvqrpslr
+       61 erdgdakapl raarrpsafr ghrefgaapg ldaepgprps palcgrpqhr ggrrdfperp
+      121 ggealtrgcg sagggsrrpa rcepagpega armaagggrn apvcggergs rapqhdgmwk
+      181 dgggeqywsr pecrawtavl llgtcllyca rvtvpicava lsahfgwdkk qsgvvlssff
+      241 wgycltqvig ghisdqigge kvlllsasaw gfltfitpll tqitsahlvf mtcsrflmgl
+      301 lqgvyfpsla sllsqrvres eraftystvg tgsqfgtlvi gaagsllldw ygwesvfyfs
+      361 glltllwvyc tckyllvekd lvipidylrr gisiskqskv pwkqlfkkap iwavivaqlc
+      421 tastfftlls wlptffketf peskgwvfnv vpwlvaipts lfsgflsdhl inqgyktitv
+      481 rkfmqvigsg vssvfalclg qtssfckaiv fasasvglqt fnhslfppcp lspvlsgils
+      541 fgwtg
+//
+

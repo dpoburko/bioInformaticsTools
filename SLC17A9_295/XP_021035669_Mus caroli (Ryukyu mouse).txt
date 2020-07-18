@@ -1,0 +1,74 @@
+
+LOCUS       XP_021035669             421 aa            linear   ROD 10-JUN-2019
+DEFINITION  solute carrier family 17 member 9 [Mus caroli].
+ACCESSION   XP_021035669
+VERSION     XP_021035669.1
+DBLINK      BioProject: PRJNA387030
+DBSOURCE    REFSEQ: accession XM_021180010.2
+KEYWORDS    RefSeq; includes ab initio.
+SOURCE      Mus caroli (Ryukyu mouse)
+  ORGANISM  Mus caroli
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+            Muroidea; Muridae; Murinae; Mus; Mus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_034571.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Mus caroli Annotation Release 101
+            Annotation Version          :: 101
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            ab initio :: 1% of CDS bases
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..421
+                     /organism="Mus caroli"
+                     /db_xref="taxon:10089"
+                     /chromosome="2"
+                     /sex="female"
+     Protein         1..421
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=45275
+     Region          40..406
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Site            order(52,55..57,59..60,77,80..81,84,88..89,91..92,
+                     143..144,147..148,151..152,155,167..168,171..172,177,237,
+                     240..241,244..245,248,262,264,268,271,275,331,334..335,
+                     338,342..343,346,356..357,360..361,364..365,368)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..421
+                     /gene="Slc17a9"
+                     /coded_by="XM_021180010.2:124..1389"
+                     /db_xref="GeneID:110307789"
+ORIGIN      
+        1 mpsqrsslmq pipeetrktp saaaedtrws rpecqawtgi lllgtcllyc arvtmpvctv
+       61 amsqdfgwnk keagivlssf fwgycltqvv gghlgdrigg ekvillsasa wgfitvttpl
+      121 lahlgsghla fltfsriltg llqgvyfpal tsllsqkvqe seraftystv gagsqgqhgv
+      181 pgpeaitlks fvpldlflal gvlxqglpvt kpskvpwrql fwkasvwaai csqlcsacsf
+      241 fillswlptf fketfpnskg wvfnvvpwml aipaslfsgf isdrlisqgy rvikvrkfmq
+      301 vmglglssif alclghttsf lkamifasas igfqtfnhsg isvniqdlap scagflfgva
+      361 ntagalagvv gvclsgylie ttgswtcmfh lvaiisnlgl gtflvfgkaq rvdlvpthed
+      421 l
+//
+

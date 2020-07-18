@@ -1,0 +1,84 @@
+
+LOCUS       XP_009669850             449 aa            linear   VRT 15-OCT-2014
+DEFINITION  PREDICTED: solute carrier family 17 member 9 [Struthio camelus
+            australis].
+ACCESSION   XP_009669850
+VERSION     XP_009669850.1
+DBLINK      BioProject: PRJNA263340
+DBSOURCE    REFSEQ: accession XM_009671555.1
+KEYWORDS    RefSeq; includes ab initio.
+SOURCE      Struthio camelus australis
+  ORGANISM  Struthio camelus australis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Palaeognathae; Struthioniformes;
+            Struthionidae; Struthio.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_009270198.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA and EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Struthio camelus australis
+                                           Annotation Release 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 6.1
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            ab initio :: 5% of CDS bases
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..449
+                     /organism="Struthio camelus australis"
+                     /isolate="BGI_N308"
+                     /sub_species="australis"
+                     /db_xref="taxon:441894"
+                     /chromosome="Unknown"
+                     /sex="female"
+                     /country="USA"
+     Protein         1..449
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=48695
+     Region          40..434
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Region          45..434
+                     /region_name="2A0114"
+                     /note="D-galactonate transporter; TIGR00893"
+                     /db_xref="CDD:273326"
+     Site            order(54,57..59,61..62,79,82..83,86,90..91,93..94,
+                     145..146,149..150,153..154,157,169..170,173..174,180,265,
+                     268..269,272..273,276,290,292,296,299,303,359,362..363,
+                     366,370..371,374,384..385,388..389,392..393,396)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..449
+                     /gene="SLC17A9"
+                     /coded_by="XM_009671555.1:1..1350"
+                     /db_xref="GeneID:104141926"
+ORIGIN      
+        1 msclsrkrsp fslvsegpll apppphlplg lgrpqcrqwt amlllgtcll ycarvtvpvc
+       61 avalssrfaw dkkqsgvvls sffwgycltq vigghisdri ggekvlllsa sawgfltvit
+      121 pllthvssah lvfmtssrfl mgllqgvyfp alasllsqkv reseraftys tvgtgsqfgt
+      181 lviggagsll ldwygwesvf yfsglltllw vyctckylln ekelivplhc lmrgrsvskq
+      241 tkvpwkqlfr kapiwaviva qlstastfft llswlptffk etfpeskgwv fnvvpwlvai
+      301 ptslfsgfls dhlinqgykt itirkfmqvi gsgvssvfal clgqtssfck aivfasasvg
+      361 lqtfnhsgis vnvqdlapsc agllfgvgnt ggallgvicv ylagyliett gswisvfnlv
+      421 aavnsiglca flifgeaqrv dtdsayidl
+//
+

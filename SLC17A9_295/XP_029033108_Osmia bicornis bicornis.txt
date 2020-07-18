@@ -1,0 +1,75 @@
+
+LOCUS       XP_029033108             425 aa            linear   INV 21-MAY-2019
+DEFINITION  solute carrier family 17 member 9 [Osmia bicornis bicornis].
+ACCESSION   XP_029033108
+VERSION     XP_029033108.1
+DBLINK      BioProject: PRJNA542365
+DBSOURCE    REFSEQ: accession XM_029177275.1
+KEYWORDS    RefSeq.
+SOURCE      Osmia bicornis bicornis
+  ORGANISM  Osmia bicornis bicornis
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta;
+            Pterygota; Neoptera; Holometabola; Hymenoptera; Apocrita; Aculeata;
+            Apoidea; Megachilidae; Megachilinae; Osmia.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_021683675.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Osmia bicornis bicornis Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..425
+                     /organism="Osmia bicornis bicornis"
+                     /isolate="LIB18336"
+                     /isolation_source="single healthy male bee"
+                     /sub_species="bicornis"
+                     /db_xref="taxon:1437191"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /country="United Kingdom: Scotland, England"
+                     /lat_lon="55.3781 N 3.4360 W"
+                     /collection_date="27-Apr-2015"
+     Protein         1..425
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=46825
+     Region          31..419
+                     /region_name="MFS_SLC17A9_like"
+                     /note="Solute carrier family 17 member 9 and similar
+                     proteins of the Major Facilitator Superfamily of
+                     transporters; cd17380"
+                     /db_xref="CDD:340938"
+     Site            order(38..39,42..43,46,78,136..137,139..141,144,164,
+                     167..168,171,245,248..249,252..254,257,283,287,344..345,
+                     349,353,369,372..373,376..377,380)
+                     /site_type="other"
+                     /note="putative chemical substrate binding pocket
+                     [chemical binding]"
+                     /db_xref="CDD:340938"
+     CDS             1..425
+                     /gene="LOC114871422"
+                     /coded_by="XM_029177275.1:647..1924"
+                     /db_xref="GeneID:114871422"
+ORIGIN      
+        1 mqmqiplgfs qdektnssws rkerrkwfls llcgtcliya trtsvpllmp iiskekqwsk
+       61 pdsgiilssf fggytltqva sgyisdkvgg qkvllvsafg wsmttffmpe iieffsksea
+      121 svllvaivrt ingafqgmhf psmislisqr lheterasff slltsgsalg tlltgslgsy
+      181 llenynwmtv fqilgglslv wtlllsyhil pfkekaasik sttsyslpwl kllkkppfwa
+      241 cvighacqnn cffvllswmp ayfhdtfpei kgwvvnmvpw lsilpctflg kalsekiika
+      301 gysvtvtrki ieticfitei isllllanvt tfqsaiicla fiiggsgfhn naiavnpsdl
+      361 apkhsgsvfg lmntvgaipg flgvyfsghi lhvthswsvv fifiaiidal gciiyllfgs
+      421 ghaii
+//
+

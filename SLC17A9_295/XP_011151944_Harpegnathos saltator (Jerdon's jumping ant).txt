@@ -1,0 +1,78 @@
+
+LOCUS       XP_011151944             423 aa            linear   INV 26-JUN-2018
+DEFINITION  solute carrier family 17 member 9 [Harpegnathos saltator].
+ACCESSION   XP_011151944
+VERSION     XP_011151944.1
+DBLINK      BioProject: PRJNA476946
+DBSOURCE    REFSEQ: accession XM_011153642.3
+KEYWORDS    RefSeq.
+SOURCE      Harpegnathos saltator (Jerdon's jumping ant)
+  ORGANISM  Harpegnathos saltator
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta;
+            Pterygota; Neoptera; Holometabola; Hymenoptera; Apocrita; Aculeata;
+            Formicoidea; Formicidae; Ponerinae; Ponerini; Harpegnathos.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_020230660.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Harpegnathos saltator Annotation
+                                           Release 102
+            Annotation Version          :: 102
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.1
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..423
+                     /organism="Harpegnathos saltator"
+                     /strain="DR-91"
+                     /db_xref="taxon:610380"
+                     /chromosome="Unknown"
+                     /sex="female"
+                     /tissue_type="whole body"
+                     /dev_stage="worker"
+     Protein         1..423
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=46873
+     Region          28..416
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Region          31..381
+                     /region_name="MFS_1"
+                     /note="Major Facilitator Superfamily; pfam07690"
+                     /db_xref="CDD:284993"
+     Site            order(42,45..47,49..50,67,70..71,74,78..79,81..82,
+                     135..136,139..140,143..144,147,159..160,163..164,170,247,
+                     250..251,254..255,258,270,274,278,281,285,343..344,347,
+                     351..352,355,366..367,370..371,374..375,378)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..423
+                     /gene="LOC105190740"
+                     /coded_by="XM_011153642.3:281..1552"
+                     /db_xref="GeneID:105190740"
+ORIGIN      
+        1 mqlqvaldip pddktssaws rkerrkwffs llwgtcliya trtsvpllip vishekhwsk
+       61 pnsgailstf fwgymmtqva sgyisdrigg qkvlwisafg wsvttffmpe iinfykgkls
+      121 flpvvfvriv ngafqgmhfp smislisqhl heaerasffs lltsgsalgt lltgflgsyl
+      181 lenynwmivf qtlggmslaw tallsyqilp fkertaskpa tsytlpwstl lsklpfwscv
+      241 ighacqnncf fvllswmpty fhdtfpevkg wlvnmvpwls mlpctflgrs lteriikagy
+      301 svtvtrkiiq ticfiteigs llflstvetl qgailclali igasgfhnna iavnpsdlap
+      361 khsgsvfgim ntigaipgfl gvyvaghily lthswsvvfl fiaaidalgc vlyllfgsgl
+      421 aii
+//
+

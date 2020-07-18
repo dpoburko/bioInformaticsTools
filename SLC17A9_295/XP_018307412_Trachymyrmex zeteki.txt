@@ -1,0 +1,59 @@
+
+LOCUS       XP_018307412             425 aa            linear   INV 22-SEP-2016
+DEFINITION  PREDICTED: solute carrier family 17 member 9 [Trachymyrmex zeteki].
+ACCESSION   XP_018307412
+VERSION     XP_018307412.1
+DBLINK      BioProject: PRJNA343251
+DBSOURCE    REFSEQ: accession XM_018451910.1
+KEYWORDS    RefSeq.
+SOURCE      Trachymyrmex zeteki
+  ORGANISM  Trachymyrmex zeteki
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta;
+            Pterygota; Neoptera; Holometabola; Hymenoptera; Apocrita; Aculeata;
+            Vespoidea; Formicidae; Myrmicinae; Trachymyrmex.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_017257313.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Trachymyrmex zeteki Annotation
+                                           Release 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 7.1
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..425
+                     /organism="Trachymyrmex zeteki"
+                     /isolate="Tzet28-1"
+                     /isolation_source="Nest"
+                     /db_xref="taxon:64791"
+                     /chromosome="Unknown"
+                     /tissue_type="Whole body"
+                     /country="Panama: Gamboa"
+                     /collection_date="2011"
+     Protein         1..425
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=46855
+     CDS             1..425
+                     /gene="LOC108725118"
+                     /coded_by="XM_018451910.1:390..1667"
+                     /db_xref="GeneID:108725118"
+ORIGIN      
+        1 mqlqisldtp fddrtassws rrerqkwfls llcgtcliya trtsvpllip vvsqeknwsk
+       61 sdsgiilssf fwgytltqva sgyisdkigg qrvlwisalg wsattflmpe iieffsgdgt
+      121 svllvaavrm ingafqgmhf psmislisqr lheaerasff slltsgsalg tlltgslgsy
+      181 llenynwmtv frvlgcmsla wtallsyhtl pfkekttsik sttdytlpws kllsqppfws
+      241 cvighacqnn cffvllswmp tyfhdtfpei rgwivnmvpw lsmlpctfla kalseeiika
+      301 gysvtvtrkt iqticfviei gsllflakve sfenailcla liiggsgfhn naiavnpsdl
+      361 apkhsgsvfg lmntvgaipg flgvyfsghi lhvthswpav flfiavinal gcimyllfgs
+      421 gqaii
+//
+

@@ -1,0 +1,79 @@
+
+LOCUS       XP_015823585             465 aa            linear   VRT 18-MAR-2016
+DEFINITION  PREDICTED: solute carrier family 17 member 9 [Nothobranchius
+            furzeri].
+ACCESSION   XP_015823585
+VERSION     XP_015823585.1
+DBLINK      BioProject: PRJNA314891
+DBSOURCE    REFSEQ: accession XM_015968099.1
+KEYWORDS    RefSeq.
+SOURCE      Nothobranchius furzeri (turquoise killifish)
+  ORGANISM  Nothobranchius furzeri
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Atherinomorphae; Cyprinodontiformes;
+            Nothobranchiidae; Nothobranchius.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_015443587.1) annotated using gene prediction method: Gnomon,
+            supported by EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Nothobranchius furzeri Annotation
+                                           Release 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 6.5
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..465
+                     /organism="Nothobranchius furzeri"
+                     /strain="GRZ"
+                     /db_xref="taxon:105023"
+                     /chromosome="sgr15"
+                     /sex="female"
+                     /tissue_type="trunk part"
+     Protein         1..465
+                     /product="solute carrier family 17 member 9"
+                     /calculated_mol_wt=50785
+     Region          52..446
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Region          55..409
+                     /region_name="MFS_1"
+                     /note="Major Facilitator Superfamily; pfam07690"
+                     /db_xref="CDD:284993"
+     Site            order(66,69..71,73..74,91,94..95,98,102..103,105..106,
+                     157..158,161..162,165..166,169,181..182,185..186,192,276,
+                     279..280,283..284,287,299,303,307,310,314,369,372..373,
+                     376,380..381,384,395..396,399..400,403..404,407)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..465
+                     /gene="slc17a9"
+                     /coded_by="XM_015968099.1:526..1923"
+                     /db_xref="GeneID:107391053"
+ORIGIN      
+        1 maviqkhakn ggpdlvchke thlpgktgvp gchkkwpenh snwprpvarl wtvvlllgtc
+       61 llycarvamp icavsmaekf nwskresgmv lgsffwgycf tqvfggyvsd rvggekilll
+      121 saaawgsmta ftpilahlcs qpilsmmlar flmgllqgvh ypslaslcsq kvvesergfl
+      181 mstvgsgsyl gtlliggags lmldlygwes vfyvsgllsv lwaycmwkyl lkgegpiitl
+      241 eslggatqsk htkrhwfrll kqpavfaviv thlctastff tllswlptff kdtfpdakgw
+      301 vfnvipwlva ipsslfsgcl sdhlicqgfd tasvrklmqf fsmgvssvft illcsnttfp
+      361 wavafvsvtm glttfshsgv slnvqdlaps cagalfgimn tcgafsgvlm vyfsgyliea
+      421 tgswasmfal ittvnllglf tflafaearr vdidsskvrh hnihi
+//
+
