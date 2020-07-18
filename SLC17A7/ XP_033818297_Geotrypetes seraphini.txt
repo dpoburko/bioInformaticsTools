@@ -1,0 +1,60 @@
+
+LOCUS       XP_033818297             597 aa            linear   VRT 28-APR-2020
+DEFINITION  vesicular glutamate transporter 1 [Geotrypetes seraphini].
+ACCESSION   XP_033818297
+VERSION     XP_033818297.1
+DBLINK      BioProject: PRJNA627137
+DBSOURCE    REFSEQ: accession XM_033962406.1
+KEYWORDS    RefSeq; includes ab initio.
+SOURCE      Geotrypetes seraphini
+  ORGANISM  Geotrypetes seraphini
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Gymnophiona; Geotrypetes.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_047093.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Geotrypetes seraphini Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.4
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            ab initio :: 3% of CDS bases
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..597
+                     /organism="Geotrypetes seraphini"
+                     /db_xref="taxon:260995"
+                     /chromosome="10"
+     Protein         1..597
+                     /product="vesicular glutamate transporter 1"
+                     /calculated_mol_wt=65603
+     CDS             1..597
+                     /gene="SLC17A7"
+                     /coded_by="XM_033962406.1:1..1794"
+                     /db_xref="GeneID:117368681"
+ORIGIN      
+        1 mklpanitla vcfrlrklsa lvplcqreal gkqhrlvlek rqttgetiel tdqgrpvtia
+       61 ekrqpvvdct cfglprryii aimsglgfci sfgircnlgv aivsmvnnnt iykgnklive
+      121 kakftwdpet vgmihgsffw gyivtqipgg fiaqkfaanr vfgfaiiats tlnmlipsaa
+      181 qvhygcvifv rimqglvegv typachgiws kwapplersr lattafcgsy agavvampla
+      241 gvlvqysgws svfyvygsfg ivwymfwilv syespaqhpt iseeerkyie esigesttfm
+      301 nplakfkapw rkfftsmpvy aiiianfcrs wtfylllisq payfeevfgf aiskvgllsa
+      361 lphlvmtiiv piggqiadfl rtkrimsttn vrkmmncggf gmeatlllvv gyshsrgvai
+      421 sflvlavgfs gfaisgfnvn hldiapryas ilmgisngvg tlsgmvcpii vgamtkhktr
+      481 eewqyvflia alvhyggvif ygifasgekq pwaepeelse ekcgfihede laeetedepa
+      541 ashgtygais sgdggggggs gfrnggwkad wdwkeefvqd qgqdpylygt agerdls
+//
+

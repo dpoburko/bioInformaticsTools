@@ -1,0 +1,221 @@
+
+LOCUS       NP_446311                560 aa            linear   ROD 21-JUN-2020
+DEFINITION  vesicular glutamate transporter 1 [Rattus norvegicus].
+ACCESSION   NP_446311
+VERSION     NP_446311.1
+DBSOURCE    REFSEQ: accession NM_053859.2
+KEYWORDS    RefSeq.
+SOURCE      Rattus norvegicus (Norway rat)
+  ORGANISM  Rattus norvegicus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+            Muroidea; Muridae; Murinae; Rattus.
+REFERENCE   1  (residues 1 to 560)
+  AUTHORS   Ortiz-Perez A, Limon-Morales O, Rojas-Castaneda JC, Cerbon M and
+            Picazo O.
+  TITLE     Prolactin prevents the kainic acid-induced neuronal loss in the rat
+            hippocampus by inducing prolactin receptor and putatively
+            increasing the VGLUT1 overexpression
+  JOURNAL   Neurosci. Lett. 694, 116-123 (2019)
+   PUBMED   30500398
+  REMARK    GeneRIF: Study indicates that chronic prolactin administration
+            before kainic acid induced damage induces hippocampal
+            neuroprotection associated with prolactin receptor and VGLUT1
+            overexpression.
+REFERENCE   2  (residues 1 to 560)
+  AUTHORS   Mao H, Hamodeh S and Sultan F.
+  TITLE     Quantitative Comparison Of Vesicular Glutamate Transporters in rat
+            Deep Cerebellar Nuclei
+  JOURNAL   Neuroscience 376, 152-161 (2018)
+   PUBMED   29462701
+  REMARK    GeneRIF: Study calculated the number and sizes of the labeled
+            boutons and compared them between lateral/dentate nucleus (LN/DN),
+            posterior interposed nucleus (PIN), anterior interposed nucleus
+            (AIN), and medial nucleus (MN). The density of vGluT1+ boutons
+            differs significantly within these nuclei. In contrast, the vGluT2+
+            bouton density is more similar between different nuclei.
+REFERENCE   3  (residues 1 to 560)
+  AUTHORS   Zhang CK, Li ZH, Qiao Y, Zhang T, Lu YC, Chen T, Dong YL, Li YQ and
+            Li JL.
+  TITLE     VGLUT1 or VGLUT2 mRNA-positive neurons in spinal trigeminal nucleus
+            provide collateral projections to both the thalamus and the
+            parabrachial nucleus in rats
+  JOURNAL   Mol Brain 11 (1), 22 (2018)
+   PUBMED   29650024
+  REMARK    GeneRIF: dual retrograde tract tracing was used in combination with
+            fluorescence in situ hybridization (FISH) for VGLUT1 or VGLUT2 mRNA
+            to identify the existence of VGLUT1 or VGLUT2 mRNA neurons that
+            send collateral projections to both the thalamus and the
+            parabrachial nucleus.
+            Publication Status: Online-Only
+REFERENCE   4  (residues 1 to 560)
+  AUTHORS   Hasegawa H, Hatano M, Sugimoto H, Ito M, Kawasaki H and Yoshizaki
+            T.
+  TITLE     The effects of unilateral cochlear ablation on the expression of
+            vesicular glutamate transporter 1 in the lower auditory pathway of
+            neonatal rats
+  JOURNAL   Auris Nasus Larynx 44 (6), 690-699 (2017)
+   PUBMED   28238468
+  REMARK    GeneRIF: findings indicate that unilateral cochlear ablation
+            suppresses VGLUT1 expression in the central auditory pathways not
+            only ipsilateral but also contralateral to the ablated side.
+REFERENCE   5  (residues 1 to 560)
+  AUTHORS   Myers B, McKlveen JM, Morano R, Ulrich-Lai YM, Solomon MB, Wilson
+            SP and Herman JP.
+  TITLE     Vesicular Glutamate Transporter 1 Knockdown in Infralimbic
+            Prefrontal Cortex Augments Neuroendocrine Responses to Chronic
+            Stress in Male Rats
+  JOURNAL   Endocrinology 158 (10), 3579-3591 (2017)
+   PUBMED   28938481
+  REMARK    GeneRIF: In previously unstressed rats, vGluT1 siRNA significantly
+            enhanced ACTH and corticosterone secretion. Compared with chronic
+            variable stress (CVS) animals receiving the green fluorescent
+            protein control vector, the vGluT1 siRNA further increased basal
+            and stress-induced corticosterone release. Further analysis
+            revealed enhanced adrenal responsiveness in CVS rats treated with
+            vGluT1 siRNA.
+REFERENCE   6  (residues 1 to 560)
+  AUTHORS   Montana V, Ni Y, Sunjara V, Hua X and Parpura V.
+  TITLE     Vesicular glutamate transporter-dependent glutamate release from
+            astrocytes
+  JOURNAL   J. Neurosci. 24 (11), 2633-2642 (2004)
+   PUBMED   15028755
+  REMARK    GeneRIF: data indicate that VGLUTs play a functional role in
+            exocytotic glutamate release from astrocytes
+REFERENCE   7  (residues 1 to 560)
+  AUTHORS   Gleason KK, Dondeti VR, Hsia HL, Cochran ER, Gumulak-Smith J and
+            Saha MS.
+  TITLE     The vesicular glutamate transporter 1 (xVGlut1) is expressed in
+            discrete regions of the developing Xenopus laevis nervous system
+  JOURNAL   Gene Expr. Patterns 3 (4), 503-507 (2003)
+   PUBMED   12915319
+REFERENCE   8  (residues 1 to 560)
+  AUTHORS   Bellocchio EE, Reimer RJ, Fremeau RT Jr and Edwards RH.
+  TITLE     Uptake of glutamate into synaptic vesicles by an inorganic
+            phosphate transporter
+  JOURNAL   Science 289 (5481), 957-960 (2000)
+   PUBMED   10938000
+REFERENCE   9  (residues 1 to 560)
+  AUTHORS   Aihara Y, Mashima H, Onda H, Hisano S, Kasuya H, Hori T, Yamada S,
+            Tomura H, Yamada Y, Inoue I, Kojima I and Takeda J.
+  TITLE     Molecular cloning of a novel brain-type Na(+)-dependent inorganic
+            phosphate cotransporter
+  JOURNAL   J. Neurochem. 74 (6), 2622-2625 (2000)
+   PUBMED   10820226
+REFERENCE   10 (residues 1 to 560)
+  AUTHORS   Ni B, Rosteck PR Jr, Nadi NS and Paul SM.
+  TITLE     Cloning and expression of a cDNA encoding a brain-specific
+            Na(+)-dependent inorganic phosphate cotransporter
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 91 (12), 5607-5611 (1994)
+   PUBMED   8202535
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. The reference sequence was derived from U07609.1.
+            
+            Summary: a Na(+)-dependent inorganic phosphate cotransporter; may
+            be involved in neuronal Na+ transport [RGD, Feb 2006].
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: U07609.1, FQ211811.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMD00052296, SAMD00052297
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..560
+                     /organism="Rattus norvegicus"
+                     /db_xref="taxon:10116"
+                     /chromosome="1"
+                     /map="1q22"
+     Protein         1..560
+                     /product="vesicular glutamate transporter 1"
+                     /note="brain-specific Na(+)-dependent inorganic phosphate
+                     cotransporter; brain-specific Na-dependent inorganic
+                     phosphate cotransporter; solute carrier family 17
+                     (sodium-dependent inorganic phosphate cotransporter),
+                     member 7; solute carrier family 17 (vesicular glutamate
+                     transporter), member 7"
+                     /calculated_mol_wt=61535
+     Region          49..502
+                     /region_name="2A0114euk"
+                     /note="Na(+)-dependent inorganic phosphate cotransporter;
+                     TIGR00894"
+                     /db_xref="CDD:129972"
+     Site            64..84
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q62634.1)"
+     Region          67..490
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Site            order(80,83..85,87..88,120,123..124,127,131..132,134..135,
+                     183..184,187..188,191..192,195,207..208,211..212,218,315,
+                     318..319,322..323,326,340,344,348,351,355,414..415,418,
+                     422..423,426,437..438,441..442,445..446,449)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     Site            117..137
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q62634.1)"
+     Site            141..161
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q62634.1)"
+     Site            170..190
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q62634.1)"
+     Site            209..229
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q62634.1)"
+     Site            237..257
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q62634.1)"
+     Site            303..323
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q62634.1)"
+     Site            342..362
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q62634.1)"
+     Site            379..399
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q62634.1)"
+     Site            402..422
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q62634.1)"
+     Site            436..456
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q62634.1)"
+     Site            470..490
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q62634.1)"
+     Site            504
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000244|PubMed:22673903; propagated from
+                     UniProtKB/Swiss-Prot (Q62634.1)"
+     CDS             1..560
+                     /gene="Slc17a7"
+                     /gene_synonym="BNPI; Vglut1"
+                     /coded_by="NM_053859.2:121..1803"
+                     /db_xref="GeneID:116638"
+                     /db_xref="RGD:620101"
+ORIGIN      
+        1 mefrqeefrk lagralgrlh rllekrqega etlelsadgr pvtthtrdpp vvdctcfglp
+       61 rryiiaimsg lgfcisfgir cnlgvaivsm vnnstthrgg hvvvqkaqfn wdpetvglih
+      121 gsffwgyivt qipggficqk faanrvfgfa ivatstlnml ipsaarvhyg cvifvrilqg
+      181 lvegvtypac hgiwskwapp lersrlatta fcgsyagavv amplagvlvq ysgwssvfyv
+      241 ygsfgifwyl fwllvsyesp alhpsiseee rkyiedaige saklmnpvtk fntpwrrfft
+      301 smpvyaiiva nfcrswtfyl llisqpayfe evfgfeiskv glvsalphlv mtiivpiggq
+      361 iadflrsrhi msttnvrklm ncggfgmeat lllvvgyshs kgvaisflvl avgfsgfais
+      421 gfnvnhldia pryasilmgi sngvgtlsgm vcpiivgamt khktreewqy vfliaslvhy
+      481 ggvifygvfa sgekqpwaep eemseekcgf vghdqlagsd esemedevep pgappappps
+      541 ygathstvqp prppppvrdy
+//
+

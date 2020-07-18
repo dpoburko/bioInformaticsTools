@@ -17,7 +17,17 @@
 #srchTerm = c("(R|K)(L|V|I)X{4,5}(H|Q)(L|A)")  
 #srchTerm = c("B{2,3}X{9,11}B{3,4}")  
 #srchTerm = c("YXX0")
-srchTerm = c("@XXX00")  
+#srchTerm = c("@X{2,3}00")  
+#To Test
+#YX{2,3}00 dileucine-like
+#B{2,3}X{9,11}B{3,4}_nucBipartite
+#(R|K)(L|V|I)X{4,5}(H|Q)(L|A)
+#H@@0 (vnut tail?)
+#2020-07-13_PXXXXX(RK)X{2,4}(AILV)
+#EX{4,5}(L|I)(L|I)
+#@X{3,5}00 dileucine like
+#@X00
+srchTerm = c("@X{3,5}00")  
 
 fNameSuffix = "_dileucineLike"
 
@@ -111,11 +121,12 @@ parseFile = function(pathIn) {
       sr <- sr[length(sr)]
     }
     if (unlist(gregexpr(pattern ='DEFINITION',line)) == 1 ) {
+      line = "Vesicular glutamate transporter 1, partial [Ophiophagus hannah]."
       dfn <- unlist(strsplit(line,"  "))
       dfn <- dfn[length(dfn)]
       cutAt <- gregexpr("\\[",dfn)[[1]]
       dfn <- substr(dfn,1,cutAt-2)
-      
+      dfn <- gsub(",","",dfn)
     }
     if (unlist(gregexpr(pattern ='LOCUS',line)) == 1 ) {
       b = strsplit(strsplit(line," aa ")[[1]][1],"  ")[[1]]
@@ -123,9 +134,6 @@ parseFile = function(pathIn) {
       
     }
     
-    #Need some function to write lines to file. 
-    #fLines <- rbind(fLines,noquote(line))
-
     #add current line to growing sequence if you have passed the "ORIGIN" line in the file
     if(addToSeq == TRUE) {
       seq <- paste0(seq, as.character(line))
@@ -138,15 +146,6 @@ parseFile = function(pathIn) {
       addToSeq <- FALSE
     }
     #End of current file
-    #if (line == "" ) {
-
-      # pathOut <- paste0(oFolderPath,"/",an,"_",sr,".txt") 
-      # print(paste0("saving ",pathOut))
-      # write.table(fLines, pathOut, append = FALSE, quote = FALSE, sep = " ", dec = ".", row.names = FALSE, col.names = FALSE, qmethod = c("escape", "double"))
-      # fLines <- c("")
-      # an <- "ABC12345" #accession number
-      # sr <- "Genus species" #source organism
-    #}
     seq <- gsub("\\d+","",seq)        #remove numbers from seq
     seq <- toupper(gsub(" ","",seq))  #remove spaces and cast to upper case 
     
@@ -174,9 +173,10 @@ for (i in 1:length(fList)) {
     pf <- parseFile(currFile)
     rm(searchResult)
     searchResult <- aasearch(srchTerm, unlist(pf[1]))
+    
     searchResult <- cbind(searchResult,unlist(strsplit(pf[2], " "))[2],unlist(pf[3]),unlist(pf[4]),unlist(pf[5]))   #add accession numbers and species common names to results table
     searchResultsAll <- rbind(searchResultsAll,searchResult)
-
+    colnames(searchResult) <- c("aa","positions","accession","spp","definition","seqLength")
     write.table(searchResult, pathOut, append = TRUE, quote = FALSE, sep = ",", dec = ".", row.names = FALSE, col.names = TRUE, qmethod = c("escape", "double"))
 }
 

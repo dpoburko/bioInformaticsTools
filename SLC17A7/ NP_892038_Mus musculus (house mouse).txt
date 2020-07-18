@@ -1,0 +1,210 @@
+
+LOCUS       NP_892038                560 aa            linear   ROD 28-JUN-2020
+DEFINITION  vesicular glutamate transporter 1 [Mus musculus].
+ACCESSION   NP_892038
+VERSION     NP_892038.2
+DBSOURCE    REFSEQ: accession NM_182993.2
+KEYWORDS    RefSeq; RefSeq Select.
+SOURCE      Mus musculus (house mouse)
+  ORGANISM  Mus musculus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+            Muroidea; Muridae; Murinae; Mus; Mus.
+REFERENCE   1  (residues 1 to 560)
+  AUTHORS   Luo L, Ambrozkiewicz MC, Benseler F, Chen C, Dumontier E, Falkner
+            S, Furlanis E, Gomez AM, Hoshina N, Huang WH, Hutchison MA,
+            Itoh-Maruoka Y, Lavery LA, Li W, Maruo T, Motohashi J, Pai EL,
+            Pelkey KA, Pereira A, Philips T, Sinclair JL, Stogsdill JA,
+            Traunmuller L, Wang J, Wortel J, You W, Abumaria N, Beier KT, Brose
+            N, Burgess HA, Cepko CL, Cloutier JF, Eroglu C, Goebbels S, Kaeser
+            PS, Kay JN, Lu W, Luo L, Mandai K, McBain CJ, Nave KA, Prado MAM,
+            Prado VF, Rothstein J, Rubenstein JLR, Saher G, Sakimura K, Sanes
+            JR, Scheiffele P, Takai Y, Umemori H, Verhage M, Yuzaki M, Zoghbi
+            HY, Kawabe H and Craig AM.
+  TITLE     Optimizing Nervous System-Specific Gene Targeting with Cre Driver
+            Lines: Prevalence of Germline Recombination and Influencing Factors
+  JOURNAL   Neuron 106 (1), 37-65 (2020)
+   PUBMED   32027825
+REFERENCE   2  (residues 1 to 560)
+  AUTHORS   Ziak J, Weissova R, Jerabkova K, Janikova M, Maimon R, Petrasek T,
+            Pukajova B, Kleisnerova M, Wang M, Brill MS, Kasparek P, Zhou X,
+            Alvarez-Bolado G, Sedlacek R, Misgeld T, Stuchlik A, Perlson E and
+            Balastik M.
+  TITLE     CRMP2 mediates Sema3F-dependent axon pruning and dendritic spine
+            remodeling
+  JOURNAL   EMBO Rep. 21 (3), e48512 (2020)
+   PUBMED   31919978
+REFERENCE   3  (residues 1 to 560)
+  AUTHORS   Takasaki K, Abbasi-Asl R and Waters J.
+  TITLE     Superficial Bound of the Depth Limit of Two-Photon Imaging in Mouse
+            Brain
+  JOURNAL   eNeuro 7 (1) (2020)
+   PUBMED   31907211
+  REMARK    Publication Status: Online-Only
+REFERENCE   4  (residues 1 to 560)
+  AUTHORS   Kim JY, Cho B and Moon C.
+  TITLE     Timely Inhibitory Circuit Formation Controlled by Abl1 Regulates
+            Innate Olfactory Behaviors in Mouse
+  JOURNAL   Cell Rep 30 (1), 187-201 (2020)
+   PUBMED   31914386
+REFERENCE   5  (residues 1 to 560)
+  AUTHORS   de Vries SEJ, Lecoq JA, Buice MA, Groblewski PA, Ocker GK, Oliver
+            M, Feng D, Cain N, Ledochowitsch P, Millman D, Roll K, Garrett M,
+            Keenan T, Kuan L, Mihalas S, Olsen S, Thompson C, Wakeman W, Waters
+            J, Williams D, Barber C, Berbesque N, Blanchard B, Bowles N,
+            Caldejon SD, Casal L, Cho A, Cross S, Dang C, Dolbeare T, Edwards
+            M, Galbraith J, Gaudreault N, Gilbert TL, Griffin F, Hargrave P,
+            Howard R, Huang L, Jewell S, Keller N, Knoblich U, Larkin JD,
+            Larsen R, Lau C, Lee E, Lee F, Leon A, Li L, Long F, Luviano J,
+            Mace K, Nguyen T, Perkins J, Robertson M, Seid S, Shea-Brown E, Shi
+            J, Sjoquist N, Slaughterbeck C, Sullivan D, Valenza R, White C,
+            Williford A, Witten DM, Zhuang J, Zeng H, Farrell C, Ng L, Bernard
+            A, Phillips JW, Reid RC and Koch C.
+  TITLE     A large-scale standardized physiological survey reveals functional
+            organization of the mouse visual cortex
+  JOURNAL   Nat. Neurosci. 23 (1), 138-151 (2020)
+   PUBMED   31844315
+REFERENCE   6  (residues 1 to 560)
+  AUTHORS   Bramblett DE, Pennesi ME, Wu SM and Tsai MJ.
+  TITLE     The transcription factor Bhlhb4 is required for rod bipolar cell
+            maturation
+  JOURNAL   Neuron 43 (6), 779-793 (2004)
+   PUBMED   15363390
+REFERENCE   7  (residues 1 to 560)
+  AUTHORS   Blackshaw S, Harpavat S, Trimarchi J, Cai L, Huang H, Kuo WP, Weber
+            G, Lee K, Fraioli RE, Cho SH, Yung R, Asch E, Ohno-Machado L, Wong
+            WH and Cepko CL.
+  TITLE     Genomic analysis of mouse retinal development
+  JOURNAL   PLoS Biol. 2 (9), E247 (2004)
+   PUBMED   15226823
+REFERENCE   8  (residues 1 to 560)
+  AUTHORS   Schuurmans C, Armant O, Nieto M, Stenman JM, Britz O, Klenin N,
+            Brown C, Langevin LM, Seibt J, Tang H, Cunningham JM, Dyck R, Walsh
+            C, Campbell K, Polleux F and Guillemot F.
+  TITLE     Sequential phases of cortical specification involve
+            Neurogenin-dependent and -independent pathways
+  JOURNAL   EMBO J. 23 (14), 2892-2902 (2004)
+   PUBMED   15229646
+REFERENCE   9  (residues 1 to 560)
+  AUTHORS   Fremeau RT Jr, Kam K, Qureshi T, Johnson J, Copenhagen DR,
+            Storm-Mathisen J, Chaudhry FA, Nicoll RA and Edwards RH.
+  TITLE     Vesicular glutamate transporters 1 and 2 target to functionally
+            distinct synaptic release sites
+  JOURNAL   Science 304 (5678), 1815-1819 (2004)
+   PUBMED   15118123
+  REMARK    GeneRIF: developing hippocampal neurons transiently coexpressed
+            VGLUT2 and VGLUT1 at distinct synaptic sites with different
+            short-term plasticity; the loss of VGLUT1 reduced the reserve pool
+            of synaptic vesicles [vglut1]
+REFERENCE   10 (residues 1 to 560)
+  AUTHORS   Wojcik SM, Rhee JS, Herzog E, Sigler A, Jahn R, Takamori S, Brose N
+            and Rosenmund C.
+  TITLE     An essential role for vesicular glutamate transporter 1 (VGLUT1) in
+            postnatal development and control of quantal size
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 101 (18), 7158-7163 (2004)
+   PUBMED   15103023
+COMMENT     VALIDATED REFSEQ: This record has undergone validation or
+            preliminary review. The reference sequence was derived from
+            BY297164.1, AK159064.1 and BC028989.1.
+            On Dec 17, 2008 this sequence version replaced NP_892038.1.
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: AK159064.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMN00849381, SAMN00849383
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            RefSeq Select criteria :: based on single protein-coding transcript
+            ##RefSeq-Attributes-END##
+FEATURES             Location/Qualifiers
+     source          1..560
+                     /organism="Mus musculus"
+                     /strain="C57BL/6"
+                     /db_xref="taxon:10090"
+                     /chromosome="7"
+                     /map="7"
+     Protein         1..560
+                     /product="vesicular glutamate transporter 1"
+                     /note="brain-specific Na(+)-dependent inorganic phosphate
+                     cotransporter; solute carrier family 17 member 7"
+                     /calculated_mol_wt=61506
+     Site            64..84
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q3TXX4.2)"
+     Region          66..490
+                     /region_name="MFS_SLC17A6_7_8_VGluT"
+                     /note="Solute carrier family 17 members 6, 7, and 8 (also
+                     called Vesicular glutamate transporters) of the Major
+                     Facilitator Superfamily of transporters; cd17382"
+                     /db_xref="CDD:340940"
+     Site            order(76..77,80..81,84,131,183..184,186..188,191,211,
+                     214..215,218,311,314..315,318..320,323,351,355,413..414,
+                     418,422,438,441..442,445..446,449)
+                     /site_type="other"
+                     /note="putative chemical substrate binding pocket
+                     [chemical binding]"
+                     /db_xref="CDD:340940"
+     Site            117..137
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q3TXX4.2)"
+     Site            141..161
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q3TXX4.2)"
+     Site            170..190
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q3TXX4.2)"
+     Site            209..229
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q3TXX4.2)"
+     Site            237..257
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q3TXX4.2)"
+     Site            303..323
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q3TXX4.2)"
+     Site            342..362
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q3TXX4.2)"
+     Site            379..399
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q3TXX4.2)"
+     Site            402..422
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q3TXX4.2)"
+     Site            436..456
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q3TXX4.2)"
+     Site            470..490
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q3TXX4.2)"
+     Site            504
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000250|UniProtKB:Q62634; propagated from
+                     UniProtKB/Swiss-Prot (Q3TXX4.2)"
+     CDS             1..560
+                     /gene="Slc17a7"
+                     /gene_synonym="2900052E22Rik; AI851913; Vglut1"
+                     /coded_by="NM_182993.2:163..1845"
+                     /db_xref="CCDS:CCDS52244.1"
+                     /db_xref="GeneID:72961"
+                     /db_xref="MGI:MGI:1920211"
+ORIGIN      
+        1 mefrqeefrk lagralgrlh rllekrqega etlelsadgr pvtthtrdpp vvdctcfglp
+       61 rryiiaimsg lgfcisfgir cnlgvaivsm vnnstthrgg hvvvqkaqfn wdpetvglih
+      121 gsffwgyivt qipggficqk faanrvfgfa ivatstlnml ipsaarvhyg cvifvrilqg
+      181 lvegvtypac hgiwskwapp lersrlatta fcgsyagavv amplagvlvq ysgwssvfyv
+      241 ygsfgifwyl fwllvsyesp alhpsiseee rkyiedaige saklmnpvtk fntpwrrfft
+      301 smpvyaiiva nfcrswtfyl llisqpayfe evfgfeiskv glvsalphlv mtiivpiggq
+      361 iadflrsrhi msttnvrklm ncggfgmeat lllvvgyshs kgvaisflvl avgfsgfais
+      421 gfnvnhldia pryasilmgi sngvgtlsgm vcpiivgamt khktreewqy vfliaslvhy
+      481 ggvifygvfa sgekqpwaep eemseekcgf vghdqlagsd esemedeaep pgappappps
+      541 ygathstvqp prppppvrdy
+//
+
