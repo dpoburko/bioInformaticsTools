@@ -1,0 +1,63 @@
+
+LOCUS       XP_032022291             582 aa            linear   PRI 13-MAR-2020
+DEFINITION  vesicular glutamate transporter 2 [Hylobates moloch].
+ACCESSION   XP_032022291
+VERSION     XP_032022291.1
+DBLINK      BioProject: PRJNA600985
+DBSOURCE    REFSEQ: accession XM_032166400.1
+KEYWORDS    RefSeq.
+SOURCE      Hylobates moloch (silvery gibbon)
+  ORGANISM  Hylobates moloch
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hylobatidae; Hylobates.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_022611653.1) annotated using gene prediction method: Gnomon,
+            supported by EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Hylobates moloch Annotation Release
+                                           101
+            Annotation Version          :: 101
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.3
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..582
+                     /organism="Hylobates moloch"
+                     /isolate="HMO894"
+                     /isolation_source="EBV transformed lymphoblastoid cell
+                     line"
+                     /db_xref="taxon:81572"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /note="Lionel"
+     Protein         1..582
+                     /product="vesicular glutamate transporter 2"
+                     /calculated_mol_wt=64202
+     CDS             1..582
+                     /gene="SLC17A6"
+                     /coded_by="XM_032166400.1:195..1943"
+                     /db_xref="GeneID:116476426"
+ORIGIN      
+        1 mesvkqrila pgkeglknfa gkslgqiyrv lekkqdtget ieltedgkpl evperkaplc
+       61 dctcfglprr yiiaimsglg fcisfgircn lgvaivdmvn nstihrggkv ikekakfnwd
+      121 petvgmihgs ffwgyiitqi pggyiasrla anrvfgaail ltstlnmlip saarvhygcv
+      181 ifvrilqglv egvtypachg iwskwapple rsrlattsfc gsyagaviam plagilvqyt
+      241 gwssvfyvyg sfgmvwymfw llvsyespak hptitdeerr yieesigesa nllgamekfk
+      301 tpwrkfftsm pvyaiivanf crswtfylll isqpayfeev fgfeiskvgm lsavphlvmt
+      361 iivpiggqia dflrskqils tttvrkimnc ggfgmeatll lvvgyshtrg vaisflvlav
+      421 gfsgfaisgf nvnhldiapr yasilmgisn gvgtlsgmvc piivgamtkn ksreewqyvf
+      481 liaalvhygg vifyaifasg ekqpwadpee tseekcgfih edeldeetgd itqnyinygt
+      541 tksygattqa nggwpsgwek keefvqgevq dshsykdrvd cs
+//
+

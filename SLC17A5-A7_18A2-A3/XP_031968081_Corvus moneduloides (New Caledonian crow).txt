@@ -1,0 +1,66 @@
+
+LOCUS       XP_031968081             581 aa            linear   VRT 23-JAN-2020
+DEFINITION  vesicular glutamate transporter 2 [Corvus moneduloides].
+ACCESSION   XP_031968081
+VERSION     XP_031968081.1
+DBLINK      BioProject: PRJNA599199
+DBSOURCE    REFSEQ: accession XM_032112190.1
+KEYWORDS    RefSeq.
+SOURCE      Corvus moneduloides (New Caledonian crow)
+  ORGANISM  Corvus moneduloides
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Passeriformes; Corvoidea;
+            Corvidae; Corvus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_045481.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA and EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Corvus moneduloides Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.3
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..581
+                     /organism="Corvus moneduloides"
+                     /isolate="bCorMon1"
+                     /db_xref="taxon:1196302"
+                     /chromosome="6"
+                     /sex="female"
+                     /tissue_type="blood"
+                     /country="New Caledonia: near Bourail"
+                     /lat_lon="21.599296 S 165.398128 E"
+                     /collection_date="17-Oct-2018"
+                     /collected_by="Matthew Steele"
+     Protein         1..581
+                     /product="vesicular glutamate transporter 2"
+                     /calculated_mol_wt=64322
+     CDS             1..581
+                     /gene="SLC17A6"
+                     /coded_by="XM_032112190.1:525..2270"
+                     /db_xref="GeneID:116445530"
+ORIGIN      
+        1 mesvkqrilt pgkeglknfa gkslgqlyrv lekrqkpgdt ieltedgkpm evpekkaplc
+       61 dctcfglprr yiiaimsglg fcisfgircn lgvaivdmvn nstihrggki ikekakfnwd
+      121 petvgmihgs ffwgyiitqi pggyissrla anrvfgaail ltsslnmlip saarvhygcv
+      181 ifvrilqglv egvtypachg iwskwapple rsrlattsfc gsyagaviam plagilvqyt
+      241 gwssvfyvyg sfgivwymfw llvsyespak hptitdeerr yieesigesa nllgamekyk
+      301 tpwrkfftsm pvyaiivanf crswtfylll isqpayfeev fgfeiskvgi lsavphlvmt
+      361 iivpiggqia dflrsrqivs ttnvrkimnc ggfgmeatll lvvgyshskg vaisflvlav
+      421 gfsgfaisgf nvnhldiapr yasilmgisn gvgtlsgmvc piivgamtkn ktreewqyvf
+      481 liaalvhygg vifygifasg ekqpwadpeq tseekcgfih edelaeetgd itqnyvnygt
+      541 tksygattqv nggwpngwek keefvqeevq dsynykerdy s
+//
+

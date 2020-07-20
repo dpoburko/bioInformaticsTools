@@ -1,0 +1,63 @@
+
+LOCUS       XP_026166850             581 aa            linear   VRT 10-APR-2020
+DEFINITION  vesicular glutamate transporter 2 [Mastacembelus armatus].
+ACCESSION   XP_026166850
+VERSION     XP_026166850.1
+DBLINK      BioProject: PRJNA489256
+DBSOURCE    REFSEQ: accession XM_026311065.1
+KEYWORDS    RefSeq.
+SOURCE      Mastacembelus armatus (zig-zag eel)
+  ORGANISM  Mastacembelus armatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Anabantaria; Synbranchiformes; Mastacembelidae;
+            Mastacembelus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_046638.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Mastacembelus armatus Annotation
+                                           Release 101
+            Annotation Version          :: 101
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.4
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..581
+                     /organism="Mastacembelus armatus"
+                     /db_xref="taxon:205130"
+                     /chromosome="6"
+     Protein         1..581
+                     /product="vesicular glutamate transporter 2"
+                     /calculated_mol_wt=63975
+     Region          70..512
+                     /region_name="UhpC"
+                     /note="Sugar phosphate permease [Carbohydrate transport
+                     and metabolism]; cl27298"
+                     /db_xref="CDD:332119"
+     CDS             1..581
+                     /gene="slc17a6"
+                     /coded_by="XM_026311065.1:1..1746"
+                     /db_xref="GeneID:113132735"
+ORIGIN      
+        1 mepakekafp tskgglkqia gkalgnlyrr lekrqqtgea ieltedgrpr edqerkaplc
+       61 dctcfglprr yiiamlsglg fcisfgircn lgvaivsmvs nttihqngki iikekakfnw
+      121 dpetvgmihg sffwgyivtq ipggyissrl aanrvfgaai vltstlnmfi psaarvhygc
+      181 vifvrilqgl vegvtypach giwskwappl ersrlatlsf cgsyagavva mplagilvqy
+      241 tgwssvfyvy gsfgivwymf wvlvsyespa ehptiteeer ryieesiges aqlmgamekf
+      301 ktpwrkffts mpvyaiivan fcrswtfyll lisqpayfee vfgfeiskvg mlsalphlvm
+      361 tiivplggql adylrthnim sttmvrkimn cggfgmeatl llvvgyshsk gvaisflvla
+      421 vgfsgfaisg fnvnhldiap ryasilmgis ngvgtlsgmv cplivgamtk nktreewqyv
+      481 fliaslvhyg gvvfygifas gekqpwadpe etseekcgfi dedelaeetg ditqgygamg
+      541 gpaksygats qlnggwvqdw dkteeyvqep agkmyaqrgy s
+//
+

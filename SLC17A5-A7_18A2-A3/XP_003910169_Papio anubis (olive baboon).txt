@@ -1,0 +1,62 @@
+
+LOCUS       XP_003910169             582 aa            linear   PRI 20-NOV-2019
+DEFINITION  vesicular glutamate transporter 2 [Papio anubis].
+ACCESSION   XP_003910169
+VERSION     XP_003910169.4
+DBLINK      BioProject: PRJNA576697
+DBSOURCE    REFSEQ: accession XM_003910120.5
+KEYWORDS    RefSeq.
+SOURCE      Papio anubis (olive baboon)
+  ORGANISM  Papio anubis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Papio.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_044987.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA and EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            On Nov 20, 2019 this sequence version replaced XP_003910169.3.
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Papio anubis Annotation Release 104
+            Annotation Version          :: 104
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..582
+                     /organism="Papio anubis"
+                     /isolate="15944"
+                     /db_xref="taxon:9555"
+                     /chromosome="12"
+                     /sex="male"
+                     /tissue_type="whole blood"
+     Protein         1..582
+                     /product="vesicular glutamate transporter 2"
+                     /calculated_mol_wt=64397
+     CDS             1..582
+                     /gene="SLC17A6"
+                     /coded_by="XM_003910120.5:866..2614"
+                     /db_xref="GeneID:101017198"
+ORIGIN      
+        1 mesvkqrila pgkeglknfa gkslgqiyrv lekkqdtret ieltedgkpl evperkaplc
+       61 dctcfglprr yiiaimsglg fcisfgircn lgvaivdmvn nstihrggkv ikekakfnwd
+      121 petvgmihgs ffwgyiitqi pggyiasrla anrvfgaail ltstlnmlip saarvhygcv
+      181 ifvrilqglv egvtypachg iwskwapple rsrlattsfc gsyagaviam plagilvqyt
+      241 gwpsvfyvyg sfgmvwymfw llvsyespak hptitdeerr yieesigesa nllgamekfk
+      301 tpwrkfftsm pvyaiivanf crswtfylll isqpayfeev fgfeiskvgm lsavphlvmt
+      361 iivpiggqia dflrskqils tttvrkimnc ggfgmeatll lvvgyshtrg vaisflvlav
+      421 gfsgfaisgf nvnhldiapr yasilmgisn gvgtlsgmvc piivgamtkn ksreewqyvf
+      481 liaalvhygg vifyaifasg ekqpwadpee tseekcgfih edeldeetgd itqnyinygt
+      541 tksygattqa nggwpsgwek keefvqgevq dsysykdrvd ys
+//
+

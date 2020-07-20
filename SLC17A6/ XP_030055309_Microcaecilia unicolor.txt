@@ -1,0 +1,56 @@
+
+LOCUS       XP_030055309             582 aa            linear   VRT 03-AUG-2019
+DEFINITION  vesicular glutamate transporter 2 [Microcaecilia unicolor].
+ACCESSION   XP_030055309
+VERSION     XP_030055309.1
+DBLINK      BioProject: PRJNA556662
+DBSOURCE    REFSEQ: accession XM_030199449.1
+KEYWORDS    RefSeq.
+SOURCE      Microcaecilia unicolor
+  ORGANISM  Microcaecilia unicolor
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Gymnophiona; Siphonopidae; Microcaecilia.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_044034.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Microcaecilia unicolor Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..582
+                     /organism="Microcaecilia unicolor"
+                     /db_xref="taxon:1415580"
+                     /chromosome="4"
+     Protein         1..582
+                     /product="vesicular glutamate transporter 2"
+                     /calculated_mol_wt=64252
+     CDS             1..582
+                     /gene="SLC17A6"
+                     /coded_by="XM_030199449.1:1..1749"
+                     /db_xref="GeneID:115467942"
+ORIGIN      
+        1 mdsvnkmifs stkkrlknla gkslgqiyrv lekrsksgen ieltedgkpm evpekkpplc
+       61 dctcfglprr yiiaimsglg fcisfgircn lgvaivdmvn nstihrggki ikekakfnwe
+      121 petvgmihgs ffwgyiitqi pggyiasrla anrvfgaail ltstlnmlip saanvhygcv
+      181 ifvrilqglv egvtypachg iwskwapple rsrlattsfc gsyagaviam plagilvqyt
+      241 gwssvfyvyg sfgivwymfw llvsyespat hptitaeerk yieesigesa nllgalekfk
+      301 tpwrkfftsm pvyaiivanf crswtfylll isqpayfeev fgfeiskvgm lsavphlvmt
+      361 iivpiggqia dflrskeils tttvrkimnc ggfgmeatll lvvgyshsrg vaisflvlav
+      421 gfsgfaisgf nvnhldiapr yasilmgisn gvgtlsgmvc piivgamtkh ktreewqyvf
+      481 liaalvhygg vifygifasg ekqpwadpes tseekcgfid edelaeetgd itqgyinygt
+      541 aksygattqi nsawptgwek keefvqeegq dsynyreedd ys
+//
+

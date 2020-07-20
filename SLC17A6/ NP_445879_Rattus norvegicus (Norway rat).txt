@@ -1,0 +1,230 @@
+
+LOCUS       NP_445879                582 aa            linear   ROD 14-JUN-2020
+DEFINITION  vesicular glutamate transporter 2 [Rattus norvegicus].
+ACCESSION   NP_445879
+VERSION     NP_445879.1
+DBSOURCE    REFSEQ: accession NM_053427.1
+KEYWORDS    RefSeq.
+SOURCE      Rattus norvegicus (Norway rat)
+  ORGANISM  Rattus norvegicus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+            Muroidea; Muridae; Murinae; Rattus.
+REFERENCE   1  (residues 1 to 582)
+  AUTHORS   Li F, Eriksen J, Finer-Moore J, Chang R, Nguyen P, Bowen A,
+            Myasnikov A, Yu Z, Bulkley D, Cheng Y, Edwards RH and Stroud RM.
+  TITLE     Ion transport and regulation in a synaptic vesicle glutamate
+            transporter
+  JOURNAL   Science 368 (6493), 893-897 (2020)
+   PUBMED   32439795
+  REMARK    GeneRIF: this study reports the cryo-electron microscopy structure
+            of rat VGLUT2 at 3.8-angstrom resolution and propose
+            structure-based mechanisms for substrate recognition and allosteric
+            activation by low pH and chloride.
+REFERENCE   2  (residues 1 to 582)
+  AUTHORS   Park SK, Ko SJ, Paik SK, Rah JC, Lee KJ and Bae YC.
+  TITLE     Vesicular glutamate transporter 1 (VGLUT1)- and
+            VGLUT2-immunopositive axon terminals on the rat jaw-closing and
+            jaw-opening motoneurons
+  JOURNAL   Brain Struct Funct 223 (5), 2323-2334 (2018)
+   PUBMED   29476240
+  REMARK    GeneRIF: The findingsof this study suggest that JC and JO
+            motoneurons receive glutamatergic input primarily from
+            VGLUT2-expressing intrinsic neurons (premotoneurons), and may be
+            controlled differently by neurons in the trigeminal mesencephalic
+            nucleus and by glutamatergic premotoneurons.
+REFERENCE   3  (residues 1 to 582)
+  AUTHORS   Mao H, Hamodeh S and Sultan F.
+  TITLE     Quantitative Comparison Of Vesicular Glutamate Transporters in rat
+            Deep Cerebellar Nuclei
+  JOURNAL   Neuroscience 376, 152-161 (2018)
+   PUBMED   29462701
+  REMARK    GeneRIF: Study calculated the number and sizes of the labeled
+            boutons and compared them between lateral/dentate nucleus (LN/DN),
+            posterior interposed nucleus (PIN), anterior interposed nucleus
+            (AIN), and medial nucleus (MN). The density of vGluT1+ boutons
+            differs significantly within these nuclei. In contrast, the vGluT2+
+            bouton density is more similar between different nuclei.
+REFERENCE   4  (residues 1 to 582)
+  AUTHORS   Zhang CK, Li ZH, Qiao Y, Zhang T, Lu YC, Chen T, Dong YL, Li YQ and
+            Li JL.
+  TITLE     VGLUT1 or VGLUT2 mRNA-positive neurons in spinal trigeminal nucleus
+            provide collateral projections to both the thalamus and the
+            parabrachial nucleus in rats
+  JOURNAL   Mol Brain 11 (1), 22 (2018)
+   PUBMED   29650024
+  REMARK    GeneRIF: dual retrograde tract tracing was used in combination with
+            fluorescence in situ hybridization (FISH) for VGLUT1 or VGLUT2 mRNA
+            to identify the existence of VGLUT1 or VGLUT2 mRNA neurons that
+            send collateral projections to both the thalamus and the
+            parabrachial nucleus.
+            Publication Status: Online-Only
+REFERENCE   5  (residues 1 to 582)
+  AUTHORS   Akiyoshi S, Ishii T, Bai Z and Mombaerts P.
+  TITLE     Subpopulations of vomeronasal sensory neurons with coordinated
+            coexpression of type 2 vomeronasal receptor genes are
+            differentially dependent on Vmn2r1
+  JOURNAL   Eur. J. Neurosci. 47 (7), 887-900 (2018)
+   PUBMED   29465786
+REFERENCE   6  (residues 1 to 582)
+  AUTHORS   Liu YY, Wong-Riley MT, Liu JP, Jia Y, Liu HL, Fujiyama F and Ju G.
+  TITLE     Relationship between two types of vesicular glutamate transporters
+            and neurokinin-1 receptor-immunoreactive neurons in the
+            pre-Botzinger complex of rats: light and electron microscopic
+            studies
+  JOURNAL   Eur. J. Neurosci. 17 (1), 41-48 (2003)
+   PUBMED   12534967
+  REMARK    GeneRIF: Vesicular glutamate transporter-2 (VGLUT2) may be involved
+            in a dominant excitatory synaptic pathway for normal respiratory
+            rhythmogenesis.
+REFERENCE   7  (residues 1 to 582)
+  AUTHORS   Hayashi M, Otsuka M, Morimoto R, Hirota S, Yatsushiro S, Takeda J,
+            Yamamoto A and Moriyama Y.
+  TITLE     Differentiation-associated Na+-dependent inorganic phosphate
+            cotransporter (DNPI) is a vesicular glutamate transporter in
+            endocrine glutamatergic systems
+  JOURNAL   J. Biol. Chem. 276 (46), 43400-43406 (2001)
+   PUBMED   11551935
+REFERENCE   8  (residues 1 to 582)
+  AUTHORS   Takamori S, Rhee JS, Rosenmund C and Jahn R.
+  TITLE     Identification of differentiation-associated brain-specific
+            phosphate transporter as a second vesicular glutamate transporter
+            (VGLUT2)
+  JOURNAL   J. Neurosci. 21 (22), RC182 (2001)
+   PUBMED   11698620
+REFERENCE   9  (residues 1 to 582)
+  AUTHORS   Bai L, Xu H, Collins JF and Ghishan FK.
+  TITLE     Molecular and functional analysis of a novel neuronal vesicular
+            glutamate transporter
+  JOURNAL   J. Biol. Chem. 276 (39), 36764-36769 (2001)
+   PUBMED   11432869
+REFERENCE   10 (residues 1 to 582)
+  AUTHORS   Fremeau RT Jr, Troyer MD, Pahner I, Nygaard GO, Tran CH, Reimer RJ,
+            Bellocchio EE, Fortin D, Storm-Mathisen J and Edwards RH.
+  TITLE     The expression of vesicular glutamate transporters defines two
+            classes of excitatory synapse
+  JOURNAL   Neuron 31 (2), 247-260 (2001)
+   PUBMED   11502256
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. The reference sequence was derived from AF271235.1.
+            
+            Summary: Na+-dependent inorganic phosphate cotransporter; involved
+            in Ca2+-dependent glutamate release from astrocytes [RGD, Feb
+            2006].
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: AF271235.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMD00052296, SAMD00052297
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..582
+                     /organism="Rattus norvegicus"
+                     /db_xref="taxon:10116"
+                     /chromosome="1"
+                     /map="1q22"
+     Protein         1..582
+                     /product="vesicular glutamate transporter 2"
+                     /note="differentiation-associated BNPI;
+                     differentiation-associated Na(+)-dependent inorganic
+                     phosphate cotransporter; differentation-associated
+                     Na-dependent inorganic phosphate cotransporter; solute
+                     carrier family 17 (sodium-dependent inorganic phosphate
+                     cotransporter), member 6; solute carrier family 17
+                     (vesicular glutamate transporter), member 6"
+                     /calculated_mol_wt=64445
+     Region          70..511
+                     /region_name="2A0114euk"
+                     /note="Na(+)-dependent inorganic phosphate cotransporter;
+                     TIGR00894"
+                     /db_xref="CDD:129972"
+     Site            72..92
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9JI12.1)"
+     Region          75..498
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Site            order(88,91..93,95..96,128,131..132,135,139..140,142..143,
+                     191..192,195..196,199..200,203,215..216,219..220,226,323,
+                     326..327,330..331,334,348,352,356,359,363,422..423,426,
+                     430..431,434,445..446,449..450,453..454,457)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     Site            100
+                     /site_type="glycosylation"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (Q9JI12.1)"
+     Site            101
+                     /site_type="glycosylation"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (Q9JI12.1)"
+     Site            126..146
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9JI12.1)"
+     Site            149..169
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9JI12.1)"
+     Site            178..198
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9JI12.1)"
+     Site            217..237
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9JI12.1)"
+     Site            245..265
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9JI12.1)"
+     Site            311..331
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9JI12.1)"
+     Site            350..370
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9JI12.1)"
+     Site            387..407
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9JI12.1)"
+     Site            410..430
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9JI12.1)"
+     Site            444..464
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9JI12.1)"
+     Site            470
+                     /site_type="glycosylation"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (Q9JI12.1)"
+     Site            478..498
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9JI12.1)"
+     CDS             1..582
+                     /gene="Slc17a6"
+                     /gene_synonym="Dnpi; Vglut2"
+                     /coded_by="NM_053427.1:463..2211"
+                     /db_xref="GeneID:84487"
+                     /db_xref="RGD:620531"
+ORIGIN      
+        1 mesvkqrila pgkegiknfa gkslgqiyrv lekkqdnret ieltedgkpl evpekkaplc
+       61 dctcfglprr yiiaimsglg fcisfgircn lgvaivdmvn nstihrggkv ikekakfnwd
+      121 petvgmihgs ffwgyiitqi pggyiasrla anrvfgaail ltstlnmlip saarvhygcv
+      181 ifvrilqglv egvtypachg iwskwapple rsrlattsfc gsyagaviam plagilvqyt
+      241 gwssvfyvyg sfgmvwymfw llvsyespak hptitdeerr yieesigesa nllgamekfk
+      301 tpwrkfftsm pvyaiivanf crswtfylll isqpayfeev fgfeiskvgm lsavphlvmt
+      361 iivpiggqia dflrskqils tttvrkimnc ggfgmeatll lvvgyshtrg vaisflvlav
+      421 gfsgfaisgf nvnhldiapr yasilmgisn gvgtlsgmvc piivgamtkn ksreewqyvf
+      481 liaalvhygg vifyalfasg ekqpwadpee tseekcgfih edeldeetgd itqnyinygt
+      541 tksygatsqe nggwpngwek keefvqesaq daysykdrdd ys
+//
+

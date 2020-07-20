@@ -1,0 +1,62 @@
+
+LOCUS       XP_034973425             585 aa            linear   VRT 24-JUN-2020
+DEFINITION  vesicular glutamate transporter 2 [Zootoca vivipara].
+ACCESSION   XP_034973425
+VERSION     XP_034973425.1
+DBLINK      BioProject: PRJNA638687
+DBSOURCE    REFSEQ: accession XM_035117534.1
+KEYWORDS    RefSeq.
+SOURCE      Zootoca vivipara (common lizard)
+  ORGANISM  Zootoca vivipara
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+            Laterata; Lacertibaenia; Lacertidae; Zootoca.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_048605.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Zootoca vivipara Annotation Release
+                                           100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.4
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..585
+                     /organism="Zootoca vivipara"
+                     /isolate="ELT05324"
+                     /db_xref="taxon:8524"
+                     /sex="female"
+                     /tissue_type="whole"
+                     /dev_stage="adult"
+                     /country="United Kingdom: Isle of Cumbrae, Scotland"
+                     /linkage_group="LG1"
+     Protein         1..585
+                     /product="vesicular glutamate transporter 2"
+                     /calculated_mol_wt=64855
+     CDS             1..585
+                     /gene="SLC17A6"
+                     /coded_by="XM_035117534.1:135..1892"
+                     /db_xref="GeneID:118086186"
+ORIGIN      
+        1 mesvkqrilt pgkeglknla gkslgqlyrv lekkqktgdt ieltedgkpl eqpekkkplc
+       61 dctcfglprr yiiaimsglg fcisfgircn lgvaivdmvn nstihrggkv ikekakfnwd
+      121 petvgmihgs ffwgyiitqi pggyissrla anrvfgaail ltstlnmlip saarvhygcv
+      181 ifvrilqglv egvtypachg iwskwapple rsrlvttsfc gsyagaviam plagilvqyt
+      241 gwssvfyvyg sfgmvwymfw llvsyespat hptitdeerr yieesigesa nllgpmekyk
+      301 tpwrkfftsm pvyaiivanf crswtfylll isqpayfeev fgfeiskvgm lsavphlvmt
+      361 iivpiggqia dflrsrqils ttnvrkimnc ggfgmeatll lvvgyshskg vaisflvlav
+      421 gfsgfaisgf nvnhldiapr yasilmgisn gvgtlsgmvc piivgamtkn ktreewqyvf
+      481 liaslvhygg vifygifasg ekqpwadpeq tseekcgfih edeldeetgd itqnyvnygt
+      541 tksygattql aqvnggwpng wekkeefvqe eaqdsysyke redys
+//
+

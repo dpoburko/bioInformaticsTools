@@ -1,0 +1,212 @@
+
+LOCUS       NP_065079                582 aa            linear   PRI 05-JUL-2020
+DEFINITION  vesicular glutamate transporter 2 [Homo sapiens].
+ACCESSION   NP_065079
+VERSION     NP_065079.1
+DBSOURCE    REFSEQ: accession NM_020346.3
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (residues 1 to 582)
+  AUTHORS   Wang L, Chen SR, Ma H, Chen H, Hittelman WN and Pan HL.
+  TITLE     Regulating nociceptive transmission by VGluT2-expressing spinal
+            dorsal horn neurons
+  JOURNAL   J. Neurochem. 147 (4), 526-540 (2018)
+   PUBMED   30203849
+  REMARK    GeneRIF: These findings indicate that VGluT2-expressing excitatory
+            neurons play a crucial role in mediating nociceptive transmission
+            in the spinal dorsal horn
+REFERENCE   2  (residues 1 to 582)
+  AUTHORS   McCollum LA and Roberts RC.
+  TITLE     Uncovering the role of the nucleus accumbens in schizophrenia: A
+            postmortem analysis of tyrosine hydroxylase and vesicular glutamate
+            transporters
+  JOURNAL   Schizophr. Res. 169 (1-3), 369-373 (2015)
+   PUBMED   26386900
+  REMARK    GeneRIF: This study demonstrated that Protein levels of vGLUT2 were
+            significantly increased in schizophrenia subjects compared to
+            controls.
+REFERENCE   3  (residues 1 to 582)
+  AUTHORS   Gautier HO, Evans KA, Volbracht K, James R, Sitnikov S, Lundgaard
+            I, James F, Lao-Peregrin C, Reynolds R, Franklin RJ and Karadottir
+            RT.
+  TITLE     Neuronal activity regulates remyelination via glutamate signalling
+            to oligodendrocyte progenitors
+  JOURNAL   Nat Commun 6, 8518 (2015)
+   PUBMED   26439639
+  REMARK    GeneRIF: Vglut2 and oligodendrocyte progenitor cells co-localize in
+            multiple sclerosis lesions, supporting evidence that neuronal
+            activity and release of glutamate instruct OPCs to differentiate
+            into new myelinating oligodendrocytes that recover lost function.
+            Publication Status: Online-Only
+REFERENCE   4  (residues 1 to 582)
+  AUTHORS   Rogoz K, Andersen HH, Lagerstrom MC and Kullander K.
+  TITLE     Multimodal use of calcitonin gene-related peptide and substance P
+            in itch and acute pain uncovered by the elimination of vesicular
+            glutamate transporter 2 from transient receptor potential cation
+            channel subfamily V member 1 neurons
+  JOURNAL   J. Neurosci. 34 (42), 14055-14068 (2014)
+   PUBMED   25319702
+  REMARK    GeneRIF: Itch is regulated by VGLUT2-mediated transmission in
+            neurons via Trpv1.
+REFERENCE   5  (residues 1 to 582)
+  AUTHORS   Root DH, Mejias-Aponte CA, Qi J and Morales M.
+  TITLE     Role of glutamatergic projections from ventral tegmental area to
+            lateral habenula in aversive conditioning
+  JOURNAL   J. Neurosci. 34 (42), 13906-13910 (2014)
+   PUBMED   25319687
+  REMARK    GeneRIF: There is a glutamatergic signal from ventral tegmental
+            area VGluT2-habenular neurons that plays a role in aversive
+            conditioning.
+REFERENCE   6  (residues 1 to 582)
+  AUTHORS   Kashani A, Lepicard E, Poirel O, Videau C, David JP, Fallet-Bianco
+            C, Simon A, Delacourte A, Giros B, Epelbaum J, Betancur C and El
+            Mestikawy S.
+  TITLE     Loss of VGLUT1 and VGLUT2 in the prefrontal cortex is correlated
+            with cognitive decline in Alzheimer disease
+  JOURNAL   Neurobiol. Aging 29 (11), 1619-1630 (2008)
+   PUBMED   17531353
+  REMARK    GeneRIF: Our results suggest that VGLUT1 expression in the
+            prefrontal cortex could be used as a valuable neurochemical marker
+            of dementia in AD.
+REFERENCE   7  (residues 1 to 582)
+  AUTHORS   Tsutsumi S, Kamata N, Vokes TJ, Maruoka Y, Nakakuki K, Enomoto S,
+            Omura K, Amagasa T, Nagayama M, Saito-Ohara F, Inazawa J, Moritani
+            M, Yamaoka T, Inoue H and Itakura M.
+  TITLE     The novel gene encoding a putative transmembrane protein is mutated
+            in gnathodiaphyseal dysplasia (GDD)
+  JOURNAL   Am. J. Hum. Genet. 74 (6), 1255-1261 (2004)
+   PUBMED   15124103
+REFERENCE   8  (residues 1 to 582)
+  AUTHORS   Takamori S, Rhee JS, Rosenmund C and Jahn R.
+  TITLE     Identification of differentiation-associated brain-specific
+            phosphate transporter as a second vesicular glutamate transporter
+            (VGLUT2)
+  JOURNAL   J. Neurosci. 21 (22), RC182 (2001)
+   PUBMED   11698620
+REFERENCE   9  (residues 1 to 582)
+  AUTHORS   Aihara Y, Onda H, Teraoka M, Yokoyama Y, Seino Y, Kasuya H, Hori T,
+            Tomura H, Inoue I, Kojima I and Takeda J.
+  TITLE     Assignment of SLC17A6 (alias DNPI), the gene encoding
+            brain/pancreatic islet-type Na+-dependent inorganic phosphate
+            cotransporter to human chromosome 11p14.3
+  JOURNAL   Cytogenet. Cell Genet. 92 (1-2), 167-169 (2001)
+   PUBMED   11306821
+REFERENCE   10 (residues 1 to 582)
+  AUTHORS   Aihara Y, Mashima H, Onda H, Hisano S, Kasuya H, Hori T, Yamada S,
+            Tomura H, Yamada Y, Inoue I, Kojima I and Takeda J.
+  TITLE     Molecular cloning of a novel brain-type Na(+)-dependent inorganic
+            phosphate cotransporter
+  JOURNAL   J. Neurochem. 74 (6), 2622-2625 (2000)
+   PUBMED   10820226
+COMMENT     VALIDATED REFSEQ: This record has undergone validation or
+            preliminary review. The reference sequence was derived from
+            DA392769.1, AB032435.1, CK823303.1, BQ188116.1 and BQ185289.1.
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: SRR1660809.225536.1,
+                                           SRR1660803.154912.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMEA2145743, SAMEA2154665
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match     :: ENST00000263160.4/ ENSP00000263160.3
+            RefSeq Select criteria :: based on single protein-coding transcript
+            ##RefSeq-Attributes-END##
+FEATURES             Location/Qualifiers
+     source          1..582
+                     /organism="Homo sapiens"
+                     /db_xref="taxon:9606"
+                     /chromosome="11"
+                     /map="11p14.3"
+     Protein         1..582
+                     /product="vesicular glutamate transporter 2"
+                     /note="differentiation-associated Na-dependent inorganic
+                     phosphate cotransporter; differentiation-associated
+                     Na(+)-dependent inorganic phosphate cotransporter;
+                     differentiation-associated BNPI; solute carrier family 17
+                     (vesicular glutamate transporter), member 6; solute
+                     carrier family 17 (sodium-dependent inorganic phosphate
+                     cotransporter), member 6"
+                     /calculated_mol_wt=64262
+     Site            72..92
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9P2U8.1)"
+     Site            100
+                     /site_type="glycosylation"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (Q9P2U8.1)"
+     Site            101
+                     /site_type="glycosylation"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (Q9P2U8.1)"
+     Site            126..146
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9P2U8.1)"
+     Site            149..169
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9P2U8.1)"
+     Site            178..198
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9P2U8.1)"
+     Site            217..237
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9P2U8.1)"
+     Site            245..265
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9P2U8.1)"
+     Site            311..331
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9P2U8.1)"
+     Site            350..370
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9P2U8.1)"
+     Site            387..407
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9P2U8.1)"
+     Site            410..430
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9P2U8.1)"
+     Site            444..464
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9P2U8.1)"
+     Site            470
+                     /site_type="glycosylation"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (Q9P2U8.1)"
+     Site            478..498
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9P2U8.1)"
+     CDS             1..582
+                     /gene="SLC17A6"
+                     /gene_synonym="DNPI; VGLUT2"
+                     /coded_by="NM_020346.3:154..1902"
+                     /db_xref="CCDS:CCDS7856.1"
+                     /db_xref="GeneID:57084"
+                     /db_xref="HGNC:HGNC:16703"
+                     /db_xref="MIM:607563"
+ORIGIN      
+        1 mesvkqrila pgkeglknfa gkslgqiyrv lekkqdtget ieltedgkpl evperkaplc
+       61 dctcfglprr yiiaimsglg fcisfgircn lgvaivdmvn nstihrggkv ikekakfnwd
+      121 petvgmihgs ffwgyiitqi pggyiasrla anrvfgaail ltstlnmlip saarvhygcv
+      181 ifvrilqglv egvtypachg iwskwapple rsrlattsfc gsyagaviam plagilvqyt
+      241 gwssvfyvyg sfgmvwymfw llvsyespak hptitdeerr yieesigesa nllgamekfk
+      301 tpwrkfftsm pvyaiivanf crswtfylll isqpayfeev fgfeiskvgm lsavphlvmt
+      361 iivpiggqia dflrskqils tttvrkimnc ggfgmeatll lvvgyshtrg vaisflvlav
+      421 gfsgfaisgf nvnhldiapr yasilmgisn gvgtlsgmvc piivgamtkn ksreewqyvf
+      481 liaalvhygg vifyaifasg ekqpwadpee tseekcgfih edeldeetgd itqnyinygt
+      541 tksygattqa nggwpsgwek keefvqgevq dshsykdrvd ys
+//
+

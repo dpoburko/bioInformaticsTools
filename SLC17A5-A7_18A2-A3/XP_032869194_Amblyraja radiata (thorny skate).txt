@@ -1,0 +1,63 @@
+
+LOCUS       XP_032869194             573 aa            linear   VRT 20-MAR-2020
+DEFINITION  vesicular glutamate transporter 1 [Amblyraja radiata].
+ACCESSION   XP_032869194
+VERSION     XP_032869194.1
+DBLINK      BioProject: PRJNA610638
+DBSOURCE    REFSEQ: accession XM_033013303.1
+KEYWORDS    RefSeq.
+SOURCE      Amblyraja radiata (thorny skate)
+  ORGANISM  Amblyraja radiata
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Chondrichthyes;
+            Elasmobranchii; Batoidea; Rajiformes; Rajidae; Amblyraja.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_045993.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Amblyraja radiata Annotation Release
+                                           100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.3
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..573
+                     /organism="Amblyraja radiata"
+                     /isolate="CabotCenter1"
+                     /db_xref="taxon:386614"
+                     /chromosome="38"
+                     /sex="male"
+                     /tissue_type="testis, liver"
+                     /country="USA: Gulf of Main"
+                     /lat_lon="43.1336 N 68.3266 W"
+                     /collection_date="2017-09-18"
+                     /collected_by="Jeff Kneebone"
+     Protein         1..573
+                     /product="vesicular glutamate transporter 1"
+                     /calculated_mol_wt=63123
+     CDS             1..573
+                     /gene="slc17a7"
+                     /coded_by="XM_033013303.1:600..2321"
+                     /db_xref="GeneID:116966923"
+ORIGIN      
+        1 meirkeqlrk lagdglgrlh rvlekrqnvg etielteegr vvgvaekqkp lldctcfglp
+       61 kryliavmsg lgfcisfgir cnlgvaivsm vnshsvkrng klvmekaifn wdpetvgmih
+      121 gsffwgyivt qipggyisqr faanrvfgwa ivatsslnml ipsaakahys cvilvrilqg
+      181 lvegvtypac hgiwskwapp lersrlatts fcgsyagavv amplagvlvq ysgwpsvfyv
+      241 ygsfgmvwyv fwllvsfesp akhptiteee ktyieeaige ggnlmnplvk fkapwrkfft
+      301 smpvyaiiva nfcrswtfyl llisqpayfe evfgleiskv gllsalphlv mtiivpiggq
+      361 ladflrrknl msttnvrkmm ncggfgmeat fllvvgfshs kgvaisflvl avgfsgfais
+      421 gfnvnhldia pryasilmgl sngvgtlsgm icplivgamt khktreewqy vfliaslvhy
+      481 ggvifyglfa sgeqqpwaep edqneekcgf ihedelaeet eaggqgygsy gatnttqvtn
+      541 ggwasdwdkk eqlvqeegkd vymygsaedr dlp
+//
+

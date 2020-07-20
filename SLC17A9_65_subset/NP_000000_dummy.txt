@@ -6,7 +6,7 @@ VERSION     NP_0123456
 DBSOURCE    REFSEQ: accession NM_022082.4
 KEYWORDS    RefSeq; MANE Select.
 SOURCE      dummy file
-  ORGANISM  dummy file
+ORGANISM    dummy file
             Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
             Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
             Catarrhini; Hominidae; Homo.
@@ -200,6 +200,6 @@ ORIGIN
       241 vwaavvsqls aacsffills wlptffeetf pdakgwifnv vpwlvaipas lfsgflsdhl
       301 inqgyraitv rklmqgmglg lssvfalclg htssfcesvv fasasiglqt fnhsgisvni
       361 qdlapscagf lfgvantaga lagvvgvclg gylmettgsw tclfnlvaii snlglctflv
-      421 fgqaqrvdls sthedl
+      421 fgqaqrvdls sthedlpkm
 //
 

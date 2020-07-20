@@ -1,0 +1,64 @@
+
+LOCUS       XP_032379021             581 aa            linear   VRT 21-FEB-2020
+DEFINITION  vesicular glutamate transporter 2 [Etheostoma spectabile].
+ACCESSION   XP_032379021
+VERSION     XP_032379021.1
+DBLINK      BioProject: PRJNA606051
+DBSOURCE    REFSEQ: accession XM_032523130.1
+KEYWORDS    RefSeq.
+SOURCE      Etheostoma spectabile (orangethroat darter)
+  ORGANISM  Etheostoma spectabile
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Percoidei; Percidae;
+            Etheostomatinae; Etheostoma.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_045740.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Etheostoma spectabile Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.3
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..581
+                     /organism="Etheostoma spectabile"
+                     /isolate="EspeVRDwgs_2016"
+                     /db_xref="taxon:54343"
+                     /chromosome="8"
+                     /sex="male"
+                     /tissue_type="muscle"
+                     /dev_stage="adult"
+                     /country="USA: Vermillion River drainage, Champaign
+                     County, IL"
+     Protein         1..581
+                     /product="vesicular glutamate transporter 2"
+                     /calculated_mol_wt=63880
+     CDS             1..581
+                     /gene="slc17a6"
+                     /coded_by="XM_032523130.1:643..2388"
+                     /db_xref="GeneID:116693874"
+ORIGIN      
+        1 mepgtekaap ttkegikqia gkalgkiyrr lekrqqtgda ieltedgrpr adqerrkplc
+       61 dctcfglprr yiiamlsglg fcisfgircn lgvaivsmvn nstihqngki iivekakfnw
+      121 gpetvgmihg sffwgyivtq ipggyissrl aanrvfgaai vltsilnmfi psaarthygc
+      181 vifvrilqgl vegvtypach giwskwappl ersrlatisf cgsyagavia mplagilvqy
+      241 tgwpsvfyly gcfgilwymf wvlvsyespa ehpsitdeer ryieesiges aqlmgameky
+      301 ktpwrkffts mpvyaiivan fcrswtfyll lisqpayfee vfgfeiskvg vvsalphlvm
+      361 tiivplggql adylrthnim sttmvrkimn cggfgmeatl llvvgfshsk gvaisflvla
+      421 vgfsgfaisg fnvnhldiap ryasilmgis ngvgtlsgmv cplivgamtk nktreewqyv
+      481 fliaalvhyg gvvfygifas gekqswadpe etsdekcgfi dedelaeetg ditqsygamg
+      541 gpaksygata qlnggwvqdw dkteeyvqep agkmyaergy s
+//
+

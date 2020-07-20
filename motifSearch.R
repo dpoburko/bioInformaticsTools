@@ -27,9 +27,15 @@
 #EX{4,5}(L|I)(L|I)
 #@X{3,5}00 dileucine like
 #@X00
-srchTerm = c("@X{3,5}00")  
+#srchTerm = c("@X{3,5}00") #dileucine-like  
 
-fNameSuffix = "_dileucineLike"
+#http://elm.eu.org/elms/elmPages/TRG_PTS1.html [SAPTC][KRH][LMFI]$)|([KRH][SAPTC][NTS][LMFI]
+#srchTerm = c("(S|A|P|T|C)(K|R|H)(L|M|F|I)$")   #PST1 - confirmed syntax works. None in 295 VNUT
+#srchTerm = c("(K|R|H)(S|A|P|T|C)(N|T|S)(L|M|F|I)$")   #PST1 - confirmed syntax works. None in 295 VNUT
+#srchTerm = c("B@@0X$") # akin to HEDL. Purely mammalian
+srchTerm = c("B@@0X{1,25}$") # akin to HEDL at c-term but a little ways away - none in SLC17A9  
+
+fNameSuffix = ""
 
 plot.progress <- function(...)	{
   vectOfBar <- c(...)*100
@@ -58,7 +64,7 @@ fList <- choose.files(default = "", caption = "Select genpept formatted files",m
 aasearch <-function(querry, subject) {
 
   #Manual tested for trouble shooting
-  #subject <- c("RKMYAEYMKRYSSL")
+  #subject <- c("RKMYAEYMKRYSSLPKMN")
   subjectO <- subject #make copy of subject to reference original sequence before replacements
   
   #querry = ("YXX0")
@@ -75,6 +81,7 @@ aasearch <-function(querry, subject) {
   if (locus==-1) {
         ss <- c("none")   #grab the sequence that matches the pattern
         sn <- c(paste0(0,"..",0))         #grab the positions that match the pattern
+        fis = 0
   } else {
     for (i in 1:length(c[[1]])) {
       fi <- c[[1]][i]                      #first index of matched string
@@ -83,35 +90,43 @@ aasearch <-function(querry, subject) {
       if (i==1) {
         ss <- c(substring(subjectO,fi,li))   #grab the sequence that matches the pattern
         sn <- c(paste0(fi,"..",li))         #grab the positions that match the pattern
+        fis <- fi
       } else {
         ss <- rbind(ss, c(substring(subjectO,fi,li)))
         sn <- rbind(sn,c(paste0(fi,"..",li)))
+        fis <-rbind(fis,fi)
       }
     }
   }
-  rr <- cbind(ss,sn)  
+  rr <- cbind(ss,sn,fis)  
   return(rr) 
 }
 
 # Function to read amino acid sequence from a genpep formatted text file
 
+addToOrganism = FALSE
+
 parseFile = function(pathIn) {
 
-    #pathIn <- fList[1]
+    #pathIn <- fList[2]
     con <- file(pathIn, "r")
     seq <- as.character("")
     addToSeq <- FALSE
     an <- "ABC12345" #accession number
-    sr <- "Genus species" #source organism
+    sr <- "Genus species" #source #organism
     dfn <- "sequence definition"
     sl <- "1" #sequence length 
-
+    orgTxt <- as.character("")
+    lineNum = 0
+    
   while ( TRUE ) {
+    lineNum <- lineNum+1
+
     line = readLines(con, n = 1)
     if ( length(line) == 0 ) {
       break
     }
-    #print(line)
+    #print(paste0("line ",lineNum,": ",line))
     if (unlist(gregexpr(pattern ='ACCESSION',line)) == 1 ) {
       an <- unlist(strsplit(line,"  "))
       an <- an[length(an)]
@@ -121,7 +136,7 @@ parseFile = function(pathIn) {
       sr <- sr[length(sr)]
     }
     if (unlist(gregexpr(pattern ='DEFINITION',line)) == 1 ) {
-      line = "Vesicular glutamate transporter 1, partial [Ophiophagus hannah]."
+      #line = "Vesicular glutamate transporter 1, partial [Ophiophagus hannah]."
       dfn <- unlist(strsplit(line,"  "))
       dfn <- dfn[length(dfn)]
       cutAt <- gregexpr("\\[",dfn)[[1]]
@@ -131,13 +146,28 @@ parseFile = function(pathIn) {
     if (unlist(gregexpr(pattern ='LOCUS',line)) == 1 ) {
       b = strsplit(strsplit(line," aa ")[[1]][1],"  ")[[1]]
       sl = gsub(" ","",b[length(b)])
-      
     }
-    
+
+    #toggle collection of taxonomy "off" if line ends with "." or subsequent keywords
+    if (unlist(gregexpr(pattern ='\\.$',line)) == 1 ||  unlist(gregexpr(pattern ='REFERENCE',line)) == 1
+        || unlist(gregexpr(pattern ='COMMENT',line)) == 1 || unlist(gregexpr(pattern ='FEATURES',line)) == 1) {
+      addToOrganism = FALSE
+    }
+    #Copy taxonomy of organisms to output
+    if (addToOrganism == TRUE) {
+      #orgTxt = paste0(orgTxt,as.character(line))
+      orgTxt = gsub(" ","", paste0(orgTxt,as.character(line)))
+    }
+    #toggle collection of taxonomy "on" for next lap(s) if line contains "ORGANISM
+    if (unlist(gregexpr(pattern ='ORGANISM',line)) > 0 ) {
+      addToOrganism = TRUE
+    }
+
     #add current line to growing sequence if you have passed the "ORIGIN" line in the file
     if(addToSeq == TRUE) {
       seq <- paste0(seq, as.character(line))
-    }    
+    }   
+    
     #check if you have passed the "ORIGIN" line in the file. Next loop will start to build sequence.
     if (unlist(gregexpr(pattern ='ORIGIN',line)) == 1 ) {
       addToSeq <- TRUE
@@ -148,14 +178,18 @@ parseFile = function(pathIn) {
     #End of current file
     seq <- gsub("\\d+","",seq)        #remove numbers from seq
     seq <- toupper(gsub(" ","",seq))  #remove spaces and cast to upper case 
+    seq <- toupper(gsub("//","",seq))  #remove spaces and cast to upper case 
     
-  }
+  } # close while(TRUE) block
+    
   close(con)
-  return(c(seq,an,sr,dfn,sl))  
+  return(c(seq,an,sr,dfn,sl,orgTxt))  
 }
+
 rm(searchResult)
 rm(searchResultsAll)
-searchResultsAll <- c("aa","positions","accession","spp","definition","seq length")
+headers <-c("aa","positions","aaStart","aaFromEnd","accession","spp","definition","seq length","taxonomy")
+searchResultsAll <- headers
 
 #generate a fileName and path for the output
 pdList <- gregexpr("\\\\.",fList[1]) #split file path to vector separated by "\\"
@@ -173,15 +207,20 @@ for (i in 1:length(fList)) {
     pf <- parseFile(currFile)
     rm(searchResult)
     searchResult <- aasearch(srchTerm, unlist(pf[1]))
+    #STOPPED HERE FIGURE WHY TAXONOMY not being listed
     
-    searchResult <- cbind(searchResult,unlist(strsplit(pf[2], " "))[2],unlist(pf[3]),unlist(pf[4]),unlist(pf[5]))   #add accession numbers and species common names to results table
+    aaFromEnd <- as.numeric(matrix( data = unlist(pf[5]), nrow =length(as.numeric(searchResult[,3]) ) , ncol=1, byrow=FALSE))  - as.numeric(searchResult[,3])
+    searchResult <- cbind(searchResult,aaFromEnd, unlist(strsplit(pf[2], " "))[2],unlist(pf[3]),unlist(pf[4]),unlist(pf[5]),unlist(pf[6]))   #add accession numbers and species common names to results table
     searchResultsAll <- rbind(searchResultsAll,searchResult)
-    colnames(searchResult) <- c("aa","positions","accession","spp","definition","seqLength")
-    write.table(searchResult, pathOut, append = TRUE, quote = FALSE, sep = ",", dec = ".", row.names = FALSE, col.names = TRUE, qmethod = c("escape", "double"))
+    colnames(searchResult) <- headers
+    if (i==1) writeColNames = TRUE
+    if (i>1) writeColNames = FALSE
+    write.table(searchResult, pathOut, append = TRUE, quote = FALSE, sep = ",", dec = ".", row.names = FALSE, col.names = writeColNames, qmethod = c("escape", "double"))
 }
-
+colnames(searchResultsAll) <- headers
+#write.table(searchResultsAll[2:nrow(searchResultsAll),], pathOut, append = TRUE, quote = FALSE, sep = ",", dec = ".", row.names = FALSE, col.names = TRUE, qmethod = c("escape", "double"))
 doneMsg <- paste0(length(fList)," files searched for ", srchTerm, ". Search saved.")
-print(searchResultsAll)
+print(searchResultsAll[,1:6])
 print(doneMsg)
 
 

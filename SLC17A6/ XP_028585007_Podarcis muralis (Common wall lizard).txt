@@ -1,0 +1,74 @@
+
+LOCUS       XP_028585007             585 aa            linear   VRT 21-APR-2019
+DEFINITION  vesicular glutamate transporter 2 [Podarcis muralis].
+ACCESSION   XP_028585007
+VERSION     XP_028585007.1
+DBLINK      BioProject: PRJNA529705
+DBSOURCE    REFSEQ: accession XM_028729174.1
+KEYWORDS    RefSeq.
+SOURCE      Podarcis muralis (Common wall lizard)
+  ORGANISM  Podarcis muralis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+            Laterata; Lacertibaenia; Lacertidae; Podarcis.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_041312.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Podarcis muralis Annotation Release
+                                           100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..585
+                     /organism="Podarcis muralis"
+                     /db_xref="taxon:64176"
+                     /chromosome="1"
+                     /sex="male"
+                     /tissue_type="muscle"
+                     /dev_stage="adult"
+                     /ecotype="yellow"
+     Protein         1..585
+                     /product="vesicular glutamate transporter 2"
+                     /calculated_mol_wt=64699
+     Region          74..498
+                     /region_name="MFS_SLC17A6_7_8_VGluT"
+                     /note="Solute carrier family 17 members 6, 7, and 8 (also
+                     called Vesicular glutamate transporters) of the Major
+                     Facilitator Superfamily of transporters; cd17382"
+                     /db_xref="CDD:340940"
+     Site            order(84..85,88..89,92,139,191..192,194..196,199,219,
+                     222..223,226,319,322..323,326..328,331,359,363,421..422,
+                     426,430,446,449..450,453..454,457)
+                     /site_type="other"
+                     /note="putative chemical substrate binding pocket
+                     [chemical binding]"
+                     /db_xref="CDD:340940"
+     CDS             1..585
+                     /gene="SLC17A6"
+                     /coded_by="XM_028729174.1:1002..2759"
+                     /db_xref="GeneID:114597072"
+ORIGIN      
+        1 mesvkqrilt pgkeglknla gkslgqlyrv lekkqktgdt ieltedgkpl eqpekkaplc
+       61 dctcfglprr yiiaimsglg fcisfgircn lgvaivdmvn nstihrggkv ikekakfnwd
+      121 petvgmihgs ffwgyiitqi pggyissrla anrvfgaail ltstlnmlip saarvhygcv
+      181 ifvrilqglv egvtypachg iwskwapple rsrlattsfc gsyagaviam plagilvqyt
+      241 gwssvfyvyg sfgmvwymfw llvsyespat hptitdeerr yieesigesa nllgamekfk
+      301 tpwrkfftsm pvyaiivanf crswtfylll isqpayfeev fgfeiskvgm lsavphlvmt
+      361 iivpiggqia dflrsrqils tttvrkimnc ggfgmeatll lvvgyshskg vaisflvlav
+      421 gfsgfaisgf nvnhldiapr yasilmgisn gvgtlsgmvc piivgamtkn ktreewqyvf
+      481 liaalvhygg vifygifasg ekqpwadpeq tseekcgfih edeldeetgd itqnyvnygt
+      541 tksygattql aqvnggwpng wekkeefvqe eaqdsysyke redys
+//
+

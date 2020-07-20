@@ -1,0 +1,62 @@
+
+LOCUS       XP_032662363             559 aa            linear   VRT 13-MAR-2020
+DEFINITION  vesicular glutamate transporter 1 [Chelonoidis abingdonii].
+ACCESSION   XP_032662363
+VERSION     XP_032662363.1
+DBLINK      BioProject: PRJNA611832
+DBSOURCE    REFSEQ: accession XM_032806472.1
+KEYWORDS    RefSeq.
+SOURCE      Chelonoidis abingdonii (Abingdon island giant tortoise)
+  ORGANISM  Chelonoidis abingdonii
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Testudines; Cryptodira; Durocryptodira;
+            Testudinoidea; Testudinidae; Chelonoidis.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_022646808.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Chelonoidis abingdonii Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.3
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..559
+                     /organism="Chelonoidis abingdonii"
+                     /isolate="Lonesome George"
+                     /db_xref="taxon:106734"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /tissue_type="blood"
+                     /dev_stage="adult"
+                     /country="Ecuador: Galapagos Islands"
+     Protein         1..559
+                     /product="vesicular glutamate transporter 1"
+                     /calculated_mol_wt=61608
+     CDS             1..559
+                     /gene="SLC17A7"
+                     /coded_by="XM_032806472.1:451..2130"
+                     /db_xref="GeneID:116840094"
+ORIGIN      
+        1 mqfnkeqfqk fagktlgqvh rllerrqpgg etieltqegr avevsekhqp vvdctcfglp
+       61 rryiiamlcg fgfcisfgir cnlgvaivsm vnnntvyrgd kvvvekaqft wdpetvgmih
+      121 gsffwgyivt qipggfiaqk faanrvfgfa ivatstlnml ipsaarvhyg cvifvrilqg
+      181 lvegvtypac hgiwskwapp lersrlatta fcgsyagavv amplagvlvq ysgwtsvfyv
+      241 ygsfgifwym fwllvsyesp aqhptiteee rryieesige saslmnplvk fkapwrkfft
+      301 smpvyaiiva nfcrswtfyl llisqpayfe evfgfeiskv gllsalphlv mtiivpiggq
+      361 iadflrsrri msttnvrkmm ncggfgmeat lllvvgyshs kgvaisflvl avgfsgfais
+      421 gqqrqhgagm rvgarqgagr gpsrgswqyv fliaslvhyg gvvfygifas gekqpwaepe
+      481 etnpekcgfi hedeladeed eaargagdgg sygggygatk stsfanggwa adwdkkeefv
+      541 qepgkdtymy gaprerdls
+//
+

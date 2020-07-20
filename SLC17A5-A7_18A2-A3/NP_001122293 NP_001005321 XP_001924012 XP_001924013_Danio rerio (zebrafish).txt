@@ -1,0 +1,209 @@
+
+LOCUS       NP_001122293             584 aa            linear   VRT 21-JUN-2020
+DEFINITION  vesicular glutamate transporter 2.1 isoform 1 [Danio rerio].
+ACCESSION   NP_001122293 NP_001005321 XP_001924012 XP_001924013
+VERSION     NP_001122293.1
+DBSOURCE    REFSEQ: accession NM_001128821.1
+KEYWORDS    RefSeq.
+SOURCE      Danio rerio (zebrafish)
+  ORGANISM  Danio rerio
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Danionidae; Danioninae; Danio.
+REFERENCE   1  (residues 1 to 584)
+  AUTHORS   Gebhardt C, Auer TO, Henriques PM, Rajan G, Duroure K, Bianco IH
+            and Del Bene F.
+  TITLE     An interhemispheric neural circuit allowing binocular integration
+            in the optic tectum
+  JOURNAL   Nat Commun 10 (1), 5471 (2019)
+   PUBMED   31784529
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (residues 1 to 584)
+  AUTHORS   Yu S and He J.
+  TITLE     Stochastic cell-cycle entry and cell-state-dependent fate outputs
+            of injury-reactivated tectal radial glia in zebrafish
+  JOURNAL   Elife 8, e48660 (2019)
+   PUBMED   31442201
+  REMARK    Publication Status: Online-Only
+REFERENCE   3  (residues 1 to 584)
+  AUTHORS   Andrzejczuk LA, Banerjee S, England SJ, Voufo C, Kamara K and Lewis
+            KE.
+  TITLE     Tal1, Gata2a, and Gata3 Have Distinct Functions in the Development
+            of V2b and Cerebrospinal Fluid-Contacting KA Spinal Neurons
+  JOURNAL   Front Neurosci 12, 170 (2018)
+   PUBMED   29651232
+  REMARK    Publication Status: Online-Only
+REFERENCE   4  (residues 1 to 584)
+  AUTHORS   Choi JH, Jeong YM, Kim S, Lee B, Ariyasiri K, Kim HT, Jung SH,
+            Hwang KS, Choi TI, Park CO, Huh WK, Carl M, Rosenfeld JA, Raskin S,
+            Ma A, Gecz J, Kim HG, Kim JS, Shin HC, Park DS, Gerlai R, Jamieson
+            BB, Kim JS, Iremonger KJ, Lee SH, Shin HS and Kim CH.
+  TITLE     Targeted knockout of a chemokine-like gene increases anxiety and
+            fear responses
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 115 (5), E1041-E1050 (2018)
+   PUBMED   29339520
+REFERENCE   5  (residues 1 to 584)
+  AUTHORS   Furlan G, Cuccioli V, Vuillemin N, Dirian L, Muntasell AJ, Coolen
+            M, Dray N, Bedu S, Houart C, Beaurepaire E, Foucher I and
+            Bally-Cuif L.
+  TITLE     Life-Long Neurogenic Activity of Individual Neural Stem Cells and
+            Continuous Growth Establish an Outside-In Architecture in the
+            Teleost Pallium
+  JOURNAL   Curr. Biol. 27 (21), 3288-3301 (2017)
+   PUBMED   29107546
+REFERENCE   6  (residues 1 to 584)
+  AUTHORS   Smear MC, Tao HW, Staub W, Orger MB, Gosse NJ, Liu Y, Takahashi K,
+            Poo MM and Baier H.
+  TITLE     Vesicular glutamate transport at a central synapse limits the
+            acuity of visual perception in zebrafish
+  JOURNAL   Neuron 53 (1), 65-77 (2007)
+   PUBMED   17196531
+REFERENCE   7  (residues 1 to 584)
+  AUTHORS   Culverwell J and Karlstrom RO.
+  TITLE     Making the connection: retinal axon guidance in the zebrafish
+  JOURNAL   Semin. Cell Dev. Biol. 13 (6), 497-506 (2002)
+   PUBMED   12468253
+  REMARK    Review article
+REFERENCE   8  (residues 1 to 584)
+  AUTHORS   Neuhauss SC, Biehlmaier O, Seeliger MW, Das T, Kohler K, Harris WA
+            and Baier H.
+  TITLE     Genetic disorders of vision revealed by a behavioral screen of 400
+            essential loci in zebrafish
+  JOURNAL   J. Neurosci. 19 (19), 8603-8615 (1999)
+   PUBMED   10493760
+REFERENCE   9  (residues 1 to 584)
+  AUTHORS   Trowe T, Klostermann S, Baier H, Granato M, Crawford AD, Grunewald
+            B, Hoffmann H, Karlstrom RO, Meyer SU, Muller B, Richter S,
+            Nusslein-Volhard C and Bonhoeffer F.
+  TITLE     Mutations disrupting the ordering and topographic mapping of axons
+            in the retinotectal projection of the zebrafish, Danio rerio
+  JOURNAL   Development 123, 439-450 (1996)
+   PUBMED   9007261
+REFERENCE   10 (residues 1 to 584)
+  AUTHORS   Baier H, Klostermann S, Trowe T, Karlstrom RO, Nusslein-Volhard C
+            and Bonhoeffer F.
+  TITLE     Genetic dissection of the retinotectal projection
+  JOURNAL   Development 123, 415-425 (1996)
+   PUBMED   9007259
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. The reference sequence was derived from BC162508.1.
+            On or before May 19, 2009 this sequence version replaced
+            NP_001005321.2, XP_001924012.1, XP_001924013.1.
+            
+            Transcript Variant: This variant (1) represents the longer
+            transcript and encodes the longer isoform (1).
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: BC162508.1, AB183386.1 [ECO:0000332]
+            RNAseq introns              :: mixed/partial sample support
+                                           SAMEA2168446, SAMEA2168447
+                                           [ECO:0000350]
+            ##Evidence-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..584
+                     /organism="Danio rerio"
+                     /db_xref="taxon:7955"
+                     /chromosome="7"
+                     /map="7"
+     Protein         1..584
+                     /product="vesicular glutamate transporter 2.1 isoform 1"
+                     /note="protein blumenkohl; solute carrier family 17 member
+                     6 A; solute carrier family 17 member 6-B; vesicular
+                     glutamate transporter 2-A; solute carrier family 17
+                     (sodium-dependent inorganic phosphate cotransporter),
+                     member 6; solute carrier family 17 (vesicular glutamate
+                     transporter), member 6b; vesicular glutamate transporter
+                     2.1; solute carrier family 17 (sodium-dependent inorganic
+                     phosphate cotransporter), member 6b"
+                     /calculated_mol_wt=63991
+     Region          69..509
+                     /region_name="2A0114euk"
+                     /note="Na(+)-dependent inorganic phosphate cotransporter;
+                     TIGR00894"
+                     /db_xref="CDD:129972"
+     Site            71..91
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q5W8I8.2)"
+     Region          74..498
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Site            order(87,90..92,94..95,128,131..132,135,139..140,142..143,
+                     191..192,195..196,199..200,203,215..216,219..220,226,323,
+                     326..327,330..331,334,348,352,356,359,363,422..423,426,
+                     430..431,434,445..446,449..450,453..454,457)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     Site            99
+                     /site_type="glycosylation"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (Q5W8I8.2)"
+     Site            100
+                     /site_type="glycosylation"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (Q5W8I8.2)"
+     Site            125..145
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q5W8I8.2)"
+     Site            149..169
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q5W8I8.2)"
+     Site            178..198
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q5W8I8.2)"
+     Site            217..237
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q5W8I8.2)"
+     Site            245..265
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q5W8I8.2)"
+     Site            311..331
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q5W8I8.2)"
+     Site            350..370
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q5W8I8.2)"
+     Site            387..407
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q5W8I8.2)"
+     Site            410..430
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q5W8I8.2)"
+     Site            446..466
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q5W8I8.2)"
+     Site            478..498
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q5W8I8.2)"
+     CDS             1..584
+                     /gene="slc17a6b"
+                     /gene_synonym="blu; si:packt73.2; si:packt90.2;
+                     si:xx-packt73.2; slc17a6; VGLUT2.1; vglut2a"
+                     /coded_by="NM_001128821.1:99..1853"
+                     /note="isoform 1 is encoded by transcript variant 1"
+                     /db_xref="GeneID:100149756"
+                     /db_xref="ZFIN:ZDB-GENE-030616-554"
+ORIGIN      
+        1 metprepagf skeglkqlag ktlghvyrvi ekrqkpgeni eltedgrpaq inerkaplcd
+       61 ctcfglprry iiaimsglgf cisfgircnl gvaivsmvnn stihlngkii ikekakfnwd
+      121 petvglihgs ffwgyivtqi pggyissrla anrvfgaail ltstlnmfip saarghygcv
+      181 ifvrilqglv egvtypachg iwskwapple rsrlattsfc gsyagaviam plagilvqyt
+      241 gwssvfyvyg cfgifwymfw ilvsyespae hptitaeerc yieesigesa kllgpadkfk
+      301 tpwrkfftsm pvyaiivanf crswtfylll isqpayfeev fgfeiskvgm lsalphlvmt
+      361 iivpiggqla dhlrsknils tttvrkimnc ggfgmeatll livgyshskg vaisflvlav
+      421 gfsgfaisgf nvnhldiapr yasilmgisn gvgtlsgmvc plivgamtkh ktreewqyvf
+      481 liaslvhygg vifygifasg ekqpwadpel tsdekcgfid edelaeetgd itqsygalga
+      541 paksygattq lnggwaegwd kreeyvqdgv eeggygyrqg gnys
+//
+

@@ -1,0 +1,81 @@
+
+LOCUS       XP_008848925             416 aa            linear   ROD 24-JUN-2019
+DEFINITION  vesicular glutamate transporter 2 [Nannospalax galili].
+ACCESSION   XP_008848925
+VERSION     XP_008848925.1
+DBLINK      BioProject: PRJNA254049
+DBSOURCE    REFSEQ: accession XM_008850703.1
+KEYWORDS    RefSeq; corrected model.
+SOURCE      Nannospalax galili (Upper Galilee mountains blind mole rat)
+  ORGANISM  Nannospalax galili
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia;
+            Sciurognathi; Muroidea; Spalacidae; Spalacinae; Nannospalax.
+REFERENCE   1  (residues 1 to 416)
+  AUTHORS   Malik,A., Korol,A., Hubner,S., Hernandez,A.G., Thimmapuram,J.,
+            Ali,S., Glaser,F., Paz,A., Avivi,A. and Band,M.
+  TITLE     Transcriptome Sequencing of the Blind Subterranean Mole Rat, Spalax
+            galili: Utility and Potential for the Discovery of Novel
+            Evolutionary Patterns
+  JOURNAL   PLoS ONE 6 (8), E21227 (2011)
+   PUBMED   21857902
+  REMARK    Publication Status: Online-Only
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_008353556.1) and transcript sequence (JL975603.1) annotated
+            using gene prediction method: Gnomon, supported by EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Nannospalax galili Annotation
+                                           Release 102
+            Annotation Version          :: 102
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            assembly gap :: added 558 transcript bases to patch genome assembly
+                            gap
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..416
+                     /organism="Nannospalax galili"
+                     /db_xref="taxon:1026970"
+                     /chromosome="Unknown"
+     Protein         1..416
+                     /product="vesicular glutamate transporter 2"
+                     /calculated_mol_wt=46000
+     Region          <3..332
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     CDS             1..416
+                     /gene="Slc17a6"
+                     /coded_by="XM_008850703.1:16..1266"
+                     /note="The sequence of the model RefSeq protein was
+                     modified relative to its source genomic sequence to
+                     represent the inferred CDS: added 543 bases not found in
+                     genome assembly"
+                     /db_xref="GeneID:103748153"
+ORIGIN      
+        1 mlipsaarvh ygcvifvril qglvegvtyp achgiwskwa pplersrlat tsfcgsyaga
+       61 viamplagil vqytgwssvf yvygsfgmvw ymfwllvsye spakhpsite eerryieesi
+      121 gesanllgam ekfktpwrkf ftsmpvyaii vanfcrswtf ylllisqpay feevfgfeis
+      181 kvgmlsavph lvmtiivpig gqiadflrsk qilstttvrk imncggfgme atlllvvgys
+      241 htrgvaisfl vlavgfsgfa isgfnvnhld iapryasilm gisngvgtls gmvcpiivga
+      301 mtknksreew qyvfliaalv hyggvifyai fasgekqpwa dpeetseekc gfihedeleg
+      361 etgditqnyi hygstksygs ttqenggwss gwegkaefvq egardtythk drddys
+//
+

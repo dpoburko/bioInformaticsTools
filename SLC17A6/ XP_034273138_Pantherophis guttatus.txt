@@ -1,0 +1,58 @@
+
+LOCUS       XP_034273138             416 aa            linear   VRT 15-MAY-2020
+DEFINITION  vesicular glutamate transporter 2 [Pantherophis guttatus].
+ACCESSION   XP_034273138
+VERSION     XP_034273138.1
+DBLINK      BioProject: PRJNA632598
+DBSOURCE    REFSEQ: accession XM_034417247.1
+KEYWORDS    RefSeq.
+SOURCE      Pantherophis guttatus
+  ORGANISM  Pantherophis guttatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+            Toxicofera; Serpentes; Colubroidea; Colubridae; Colubrinae;
+            Pantherophis.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_023010720.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Pantherophis guttatus Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.4
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..416
+                     /organism="Pantherophis guttatus"
+                     /isolate="EG266"
+                     /db_xref="taxon:94885"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /tissue_type="blood"
+     Protein         1..416
+                     /product="vesicular glutamate transporter 2"
+                     /calculated_mol_wt=46127
+     CDS             1..416
+                     /gene="SLC17A6"
+                     /coded_by="XM_034417247.1:73..1323"
+                     /db_xref="GeneID:117665412"
+ORIGIN      
+        1 mlipsaarvh fgcvifvril qglvegvtyp achgiwskwa pplersrlat tsfcgsyaga
+       61 viamplagil vqytgwssvf yvygsfgivw ymfwflvsye spathptitd eerryieesi
+      121 gesanllgam ekyktpwrkf ftsmpvyaii vanfcrswtf ylllisqpay feevfgfeis
+      181 kvgmlsalph lvmtiivpig gqiadflrsr qilstttvrk imncggfgme atlllvvgys
+      241 htrgvaisfl vlavgfsgfa isgfnvnhld iapryasilm gisngvgtls gmvcpiivga
+      301 mtknktreew qyvfliaalv hyggvifygi fasgekqpwa dpeqtseekc gfihedelde
+      361 etgditqnyv nygttksyga ttqinggwpd gwekreefvq egaqdsysyk egedys
+//
+

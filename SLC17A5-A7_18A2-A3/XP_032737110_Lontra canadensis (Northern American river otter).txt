@@ -1,0 +1,61 @@
+
+LOCUS       XP_032737110             582 aa            linear   MAM 14-MAR-2020
+DEFINITION  vesicular glutamate transporter 2 [Lontra canadensis].
+ACCESSION   XP_032737110
+VERSION     XP_032737110.1
+DBLINK      BioProject: PRJNA611578
+DBSOURCE    REFSEQ: accession XM_032881219.1
+KEYWORDS    RefSeq.
+SOURCE      Lontra canadensis (Northern American river otter)
+  ORGANISM  Lontra canadensis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Carnivora; Caniformia;
+            Mustelidae; Lutrinae; Lontra.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_022631068.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Lontra canadensis Annotation Release
+                                           100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.3
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..582
+                     /organism="Lontra canadensis"
+                     /isolate="GAN:19392208"
+                     /db_xref="taxon:76717"
+                     /chromosome="Unknown"
+                     /sex="female"
+                     /tissue_type="blood"
+                     /dev_stage="adult"
+     Protein         1..582
+                     /product="vesicular glutamate transporter 2"
+                     /calculated_mol_wt=64419
+     CDS             1..582
+                     /gene="SLC17A6"
+                     /coded_by="XM_032881219.1:462..2210"
+                     /db_xref="GeneID:116881423"
+ORIGIN      
+        1 mesvkqrilt pgkeglknfa gkslgqiyrv lekkqdtget ieltedgkpl evpekkaplc
+       61 dctcfglprr yiiaimsglg fcisfgircn lgvaivdmvn nstihrggkv ikekakfnwd
+      121 petvgmihgs ffwgyiitqi pggyiasrla anrvfgaail ltstlnmlip saarvhygcv
+      181 ifvrilqglv egvtypachg iwskwapple rsrlattsfc gsyagaviam plagilvqyt
+      241 gwssvfyvyg sfgmvwymfw llvsyespak hptitdeerr yieesigesa nllgamekfk
+      301 tpwrkfftsm pvyaiivanf crswtfylll isqpayfeev fgfeiskvgm lsavphlvmt
+      361 iivpiggqia dflrskqils tttvrkimnc ggfgmeatll lvvgyshtrg vaisflvlav
+      421 gfsgfaisgf nvnhldiapr yasilmgisn gvgtlsgmvc piivgamtkn ksreewqyvf
+      481 liaalvhygg vvfyaifasg ekqpwadpee tseekcgfih edeldeetgd itqnyinygt
+      541 tksygattqa nggwpngwek keefvqeevq dsytykerdd ys
+//
+

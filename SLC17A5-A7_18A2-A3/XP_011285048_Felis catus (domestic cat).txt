@@ -1,0 +1,72 @@
+
+LOCUS       XP_011285048             582 aa            linear   MAM 12-DEC-2017
+DEFINITION  vesicular glutamate transporter 2 [Felis catus].
+ACCESSION   XP_011285048
+VERSION     XP_011285048.1
+DBLINK      BioProject: PRJNA175699
+DBSOURCE    REFSEQ: accession XM_011286746.3
+KEYWORDS    RefSeq.
+SOURCE      Felis catus (domestic cat)
+  ORGANISM  Felis catus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Carnivora; Feliformia; Felidae;
+            Felinae; Felis.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_018732.3) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Felis catus Annotation Release 104
+            Annotation Version          :: 104
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.0
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..582
+                     /organism="Felis catus"
+                     /isolate="Cinnamon"
+                     /db_xref="taxon:9685"
+                     /chromosome="D1"
+                     /sex="female"
+                     /breed="Abyssinian"
+     Protein         1..582
+                     /product="vesicular glutamate transporter 2"
+                     /calculated_mol_wt=64433
+     Region          74..498
+                     /region_name="MFS_SLC17A6_7_8_VGluT"
+                     /note="Solute carrier family 17 members 6, 7, and 8 (also
+                     called Vesicular glutamate transporters) of the Major
+                     Facilitator Superfamily of transporters; cd17382"
+                     /db_xref="CDD:340940"
+     Site            order(84..85,88..89,92,139,191..192,194..196,199,219,
+                     222..223,226,319,322..323,326..328,331,359,363,421..422,
+                     426,430,446,449..450,453..454,457)
+                     /site_type="other"
+                     /note="putative chemical substrate binding pocket
+                     [chemical binding]"
+                     /db_xref="CDD:340940"
+     CDS             1..582
+                     /gene="SLC17A6"
+                     /coded_by="XM_011286746.3:1056..2804"
+                     /db_xref="GeneID:101098576"
+ORIGIN      
+        1 mesvkqrilt pgkeglknfa gkslgqiyrv lekkqdtget ieltedgkpl evpekkaplc
+       61 dctcfglprr yiiaimsglg fcisfgircn lgvaivdmvn nstihrggkv ikekakfnwd
+      121 petvgmihgs ffwgyiitqi pggyiasrla anrvfgaail ltstlnmlip saarvhygcv
+      181 ifvrilqglv egvtypachg iwskwapple rsrlattsfc gsyagaviam plagilvqyt
+      241 gwssvfyvyg sfgmiwymfw llvsyespak hptitdeerr yieesigesa nllgamekfk
+      301 tpwrkfftsm pvyaiivanf crswtfylll isqpayfeev fgfeiskvgm lsavphlvmt
+      361 iivpiggqia dflrskqils tttvrkimnc ggfgmeatll lvvgyshtrg vaisflvlav
+      421 gfsgfaisgf nvnhldiapr yasilmgisn gvgtlsgmvc piivgamtkn ksreewqyvf
+      481 liaalvhygg vifyaifasg ekqpwadpee tseekcgfih edeldeetgd itqnyinygt
+      541 tksygattqa nggwpngwek keefvqeevq dsytykdrdd ys
+//
+

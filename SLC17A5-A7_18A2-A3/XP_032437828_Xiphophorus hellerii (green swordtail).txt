@@ -1,0 +1,62 @@
+
+LOCUS       XP_032437828             580 aa            linear   VRT 24-FEB-2020
+DEFINITION  vesicular glutamate transporter 2 [Xiphophorus hellerii].
+ACCESSION   XP_032437828
+VERSION     XP_032437828.1
+DBLINK      BioProject: PRJNA604828
+DBSOURCE    REFSEQ: accession XM_032581937.1
+KEYWORDS    RefSeq.
+SOURCE      Xiphophorus hellerii (green swordtail)
+  ORGANISM  Xiphophorus hellerii
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Atherinomorphae; Cyprinodontiformes;
+            Poeciliidae; Poeciliinae; Xiphophorus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_045673.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Xiphophorus hellerii Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.3
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..580
+                     /organism="Xiphophorus hellerii"
+                     /strain="12219"
+                     /db_xref="taxon:8084"
+                     /chromosome="2"
+                     /sex="male"
+                     /tissue_type="muscle"
+                     /dev_stage="adult"
+     Protein         1..580
+                     /product="vesicular glutamate transporter 2"
+                     /calculated_mol_wt=63929
+     CDS             1..580
+                     /gene="slc17a6"
+                     /coded_by="XM_032581937.1:474..2216"
+                     /db_xref="GeneID:116731992"
+ORIGIN      
+        1 mepgkekafp ikegvkqiag kalgklyrrl ekrqqtgeai eltedgrpre dqerkaplcd
+       61 ctcfglprry iiamlsglgf cisfgircnl gvaivsmvnn stihqngkii vkekaqfnwd
+      121 petvglihgs ffwgyiitqi pggyissrla anrvfgaaiv ltsilnmfip saarthygcv
+      181 iclrilqglv egvtypachg iwskwapple rsrlatlsfc gsyagavvam plagilvqyt
+      241 gwssvfyvyg tfgifwymfw ilvsyespae hptiteeerr yieesigesa qlmgaaekfk
+      301 tpwrkffssm pvyaiivanf crswtfylll isqpayfeev fgfeiskvga lsalphlvmt
+      361 iivplggqla dylrthnims ttnvrkimnc ggfgmeatll lvvgyshskg vaisflvlav
+      421 gfsgfaisgf nvnhldiapr yasilmgisn gvgtlsgmvc plivgamtkh ktreewqyvf
+      481 liaslvhygg vvfygifasg ekqpwadpee tseekcgfid edelaeetgd itqsygamgg
+      541 paksygataq lnggwvqdwd kteeyvqepa gkmytqrgys
+//
+

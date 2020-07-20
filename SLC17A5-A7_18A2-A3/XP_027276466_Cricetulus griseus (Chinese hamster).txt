@@ -1,0 +1,72 @@
+
+LOCUS       XP_027276466             624 aa            linear   ROD 10-JUL-2020
+DEFINITION  vesicular glutamate transporter 1 isoform X2 [Cricetulus griseus].
+ACCESSION   XP_027276466
+VERSION     XP_027276466.2
+DBLINK      BioProject: PRJNA498699
+DBSOURCE    REFSEQ: accession XM_027420665.2
+KEYWORDS    RefSeq; includes ab initio.
+SOURCE      Cricetulus griseus (Chinese hamster)
+  ORGANISM  Cricetulus griseus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+            Muroidea; Cricetidae; Cricetinae; Cricetulus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_048599.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            On Jul 10, 2020 this sequence version replaced XP_027276466.1.
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Cricetulus griseus Annotation
+                                           Release 104
+            Annotation Version          :: 104
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.4
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            ab initio :: 10% of CDS bases
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..624
+                     /organism="Cricetulus griseus"
+                     /strain="17A/GY"
+                     /isolation_source="Laboratory Animal"
+                     /db_xref="taxon:10029"
+                     /chromosome="6"
+                     /sex="female"
+                     /tissue_type="liver"
+                     /country="USA: Baltimore, MD"
+                     /lat_lon="39.299625 N 76.593518 W"
+                     /collection_date="2014-04-16"
+                     /note="pooled liver cells from 5 individuals"
+     Protein         1..624
+                     /product="vesicular glutamate transporter 1 isoform X2"
+                     /calculated_mol_wt=67978
+     CDS             1..624
+                     /gene="Slc17a7"
+                     /coded_by="XM_027420665.2:1..1875"
+                     /db_xref="GeneID:100756172"
+ORIGIN      
+        1 mprpapppdv esryspgqla lsawfppsga agpgragadp gipdagarar grgdwqgtrv
+       61 gtatmefrqe efrklagral grlhrflekr qegaetlels adgrpvttht rdppvvdctc
+      121 fglprryiia imsglgfcis fgircnlgva ivsmvnnstt hrgghvvvqk aqfnwdpetv
+      181 glihgsffwg yivtqipggf icqkfaanrv fgfaivatst lnmlipsaar vhygcvifvr
+      241 ilqglvegvt ypachgiwsk wapplersrl attafcgsya gavvamplag vlvqysgwss
+      301 vfyvygsfgi fwylfwllvs yespalhpsi seeerkyied aigesaklmn pvtkfntpwr
+      361 rfftsmpvya iivanfcrsw tfylllisqp ayfeevfgfe iskvglvsal phlvmtiivp
+      421 iggqiadflr srrimsttnv rklmncggfg meatlllvvg yshskgvais flvlavgfsg
+      481 faisgfnvnh ldiapryasi lmgisngvgt lsgmvcpiiv gamtkhktre ewqyvflias
+      541 lvhyggvify gvfasgekqp waepeemsee kcgfvshdql agsdeseved eaeppgappa
+      601 pppsygaths tvqpprpppp vrdy
+//
+

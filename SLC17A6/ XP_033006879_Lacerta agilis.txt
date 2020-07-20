@@ -1,0 +1,65 @@
+
+LOCUS       XP_033006879             585 aa            linear   VRT 28-MAR-2020
+DEFINITION  vesicular glutamate transporter 2 [Lacerta agilis].
+ACCESSION   XP_033006879
+VERSION     XP_033006879.1
+DBLINK      BioProject: PRJNA614516
+DBSOURCE    REFSEQ: accession XM_033150988.1
+KEYWORDS    RefSeq.
+SOURCE      Lacerta agilis
+  ORGANISM  Lacerta agilis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+            Laterata; Lacertibaenia; Lacertidae; Lacerta.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_046312.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Lacerta agilis Annotation Release
+                                           100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.4
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..585
+                     /organism="Lacerta agilis"
+                     /isolate="rLacAgi1"
+                     /db_xref="taxon:80427"
+                     /chromosome="1"
+                     /sex="female"
+                     /tissue_type="blood"
+                     /dev_stage="adult"
+                     /country="Sweden: Halland"
+                     /lat_lon="57.489552 N 11.936655 E"
+                     /collection_date="28-May-2018"
+                     /collected_by="Mette Lillie, Mats Olsson"
+     Protein         1..585
+                     /product="vesicular glutamate transporter 2"
+                     /calculated_mol_wt=64743
+     CDS             1..585
+                     /gene="SLC17A6"
+                     /coded_by="XM_033150988.1:977..2734"
+                     /db_xref="GeneID:117047678"
+ORIGIN      
+        1 mesvkqrilt pgkeglknla gkslgqlyrv lekkqktgdt ieltedgkpv kqpekkaplc
+       61 dctcfglprr yiiaimsglg fcisfgircn lgvaivdmvn nstihrggkv ikekakfnwd
+      121 petvgmihgs ffwgyiitqi pggyissrla anrvfgaail ltstlnmlip saarvhygcv
+      181 ifvrilqglv egvtypachg iwskwapple rsrlvttsfc gsyagaviam plagilvqyt
+      241 gwssvfyvyg sfgmvwymfw llvsyespat hptisdeerr yieesigesa nllgamekyk
+      301 tpwrkfftsm pvyaiivanf crswtfylll isqpayfeev fgfeiskvgm lsavphlvmt
+      361 iivpiggqia dflrsrqils ttnvrkimnc ggfgmeatll lvvgyshskg vaisflvlav
+      421 gfsgfaisgf nvnhldiapr yasilmgisn gvgtlsgmvc piivgamtkn ktreewqyvf
+      481 liaslvhygg vifygifasg ekqpwadpeq tseekcgfih edeldeetgd itqnyvnygt
+      541 tksygattql aqvnggwpng wekkeefvqe eaqdsysyke redys
+//
+

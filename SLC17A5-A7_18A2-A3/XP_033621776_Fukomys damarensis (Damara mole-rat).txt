@@ -1,0 +1,66 @@
+
+LOCUS       XP_033621776             559 aa            linear   ROD 23-APR-2020
+DEFINITION  vesicular glutamate transporter 1 isoform X1 [Fukomys damarensis].
+ACCESSION   XP_033621776
+VERSION     XP_033621776.1
+DBLINK      BioProject: PRJNA625221
+DBSOURCE    REFSEQ: accession XM_033765885.1
+KEYWORDS    RefSeq.
+SOURCE      Fukomys damarensis (Damara mole-rat)
+  ORGANISM  Fukomys damarensis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia;
+            Hystricomorpha; Bathyergidae; Fukomys.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_022900931.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Fukomys damarensis Annotation
+                                           Release 102
+            Annotation Version          :: 102
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.4
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..559
+                     /organism="Fukomys damarensis"
+                     /isolate="Sample0158"
+                     /db_xref="taxon:885580"
+                     /chromosome="Unknown"
+                     /sex="female"
+                     /tissue_type="blood from cranial vena cava"
+                     /country="USA: Houston Zoo, Houston, TX"
+                     /collection_date="05-Sep-2016"
+                     /collected_by="Joseph P. Flanagan, Kelcie Pletch,
+                     Christine Molter, Maryanne Tocidlowski, Lauren Howard,
+                     Judilee Marrow, Andrea Lee, Jess Jimerson, Katie Plaeger,
+                     Erin Neer"
+     Protein         1..559
+                     /product="vesicular glutamate transporter 1 isoform X1"
+                     /calculated_mol_wt=61395
+     CDS             1..559
+                     /gene="Slc17a7"
+                     /coded_by="XM_033765885.1:1743..3422"
+                     /db_xref="GeneID:104873939"
+ORIGIN      
+        1 mdscvageaa rgpgllsprl spqppgeaar rcgdsgaerr rapgddadpg ppggglhllw
+       61 ppsplhyrhh ewsgflhqlr hplqpgrghr lhgqqqhdpp rgtrggaesp vllgsrdcrp
+      121 htwllflglh chsdswriyl pkirsqqsfr lchcghlhsk hvdpvgrscp lrlcylredp
+      181 aggvtypach giwskwappl ersrlattaf cgsyagavva mplagvlvqy sgwssvfyvy
+      241 gsfgifwylf wllvsyespa lhpsiseeer kyiedaiges aklmnpltkf ntpwrrffts
+      301 mpvyaiivan fcrswtfyll lisqpayfee vfgfeiskvg lvsalphlvm tiivpiggqi
+      361 adflrsrrim sttnvrklmn cggfgmeatl llvvgyshsk gvaisflvla vgfsgfaisg
+      421 fnvnhldiap ryasilmgis ngvgtlsgmv cpiivgamtk hktreewqyv fliaslvhyg
+      481 gvifygvfas gekqpwaepe emseekcgfv ghdqlagsde semedeaepp gappapppsy
+      541 gathstvqpp rppppvrdy
+//
+

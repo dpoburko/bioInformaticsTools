@@ -1,0 +1,70 @@
+
+LOCUS       XP_004050876             582 aa            linear   PRI 30-SEP-2019
+DEFINITION  vesicular glutamate transporter 2 [Gorilla gorilla gorilla].
+ACCESSION   XP_004050876
+VERSION     XP_004050876.1
+DBLINK      BioProject: PRJNA564096
+DBSOURCE    REFSEQ: accession XM_004050828.3
+KEYWORDS    RefSeq.
+SOURCE      Gorilla gorilla gorilla (western lowland gorilla)
+  ORGANISM  Gorilla gorilla gorilla
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Gorilla.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_044613.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA and EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Gorilla gorilla Annotation Release
+                                           102
+            Annotation Version          :: 102
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..582
+                     /organism="Gorilla gorilla gorilla"
+                     /isolate="Kamilah (stud number 0661)"
+                     /sub_species="gorilla"
+                     /db_xref="taxon:9595"
+                     /chromosome="11"
+                     /sex="female"
+                     /cell_type="fibroblast"
+                     /tissue_type="primary cell cultured fibroblast cell line"
+                     /dev_stage="adult"
+                     /breed="western lowland gorilla"
+     Protein         1..582
+                     /product="vesicular glutamate transporter 2"
+                     /calculated_mol_wt=64262
+     Region          70..511
+                     /region_name="UhpC"
+                     /note="Sugar phosphate permease [Carbohydrate transport
+                     and metabolism]; cl27298"
+                     /db_xref="CDD:332119"
+     CDS             1..582
+                     /gene="SLC17A6"
+                     /coded_by="XM_004050828.3:414..2162"
+                     /db_xref="GeneID:101125140"
+ORIGIN      
+        1 mesvkqrila pgkeglknfa gkslgqiyrv lekkqdtget ieltedgkpl evperkaplc
+       61 dctcfglprr yiiaimsglg fcisfgircn lgvaivdmvn nstihrggkv ikekakfnwd
+      121 petvgmihgs ffwgyiitqi pggyiasrla anrvfgaail ltstlnmlip saarvhygcv
+      181 ifvrilqglv egvtypachg iwskwapple rsrlattsfc gsyagaviam plagilvqyt
+      241 gwssvfyvyg sfgmvwymfw llvsyespak hptitdeerr yieesigesa nllgamekfk
+      301 tpwrkfftsm pvyaiivanf crswtfylll isqpayfeev fgfeiskvgm lsavphlvmt
+      361 iivpiggqia dflrskqils tttvrkimnc ggfgmeatll lvvgyshtrg vaisflvlav
+      421 gfsgfaisgf nvnhldiapr yasilmgisn gvgtlsgmvc piivgamtkn ksreewqyvf
+      481 liaalvhygg vifyaifasg ekqpwadpee tseekcgfih edeldeetgd itqnyinygt
+      541 tksygattqa nggwpsgwek keefvqgevq dshsykdrvd ys
+//
+

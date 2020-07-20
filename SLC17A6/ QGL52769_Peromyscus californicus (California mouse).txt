@@ -1,0 +1,47 @@
+
+LOCUS       QGL52769                 582 aa            linear   ROD 24-NOV-2019
+DEFINITION  vesicular glutamate transporter 2 [Peromyscus californicus].
+ACCESSION   QGL52769
+VERSION     QGL52769.1
+DBSOURCE    accession MN265352.1
+KEYWORDS    .
+SOURCE      Peromyscus californicus (California mouse)
+  ORGANISM  Peromyscus californicus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+            Muroidea; Cricetidae; Neotominae; Peromyscus.
+REFERENCE   1  (residues 1 to 582)
+  AUTHORS   Williams,A.V., Britton,M., Hao,R., Settles,M. and Trainor,B.C.
+  TITLE     Oxytocin receptors in the nucleus accumbens
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 582)
+  AUTHORS   Williams,A.V., Britton,M., Hao,R., Settles,M. and Trainor,B.C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-AUG-2019) Psychology, UC Davis, 1 Shields Ave.,
+            Davis, CA 95616, USA
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Trinity v. August 2016
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..582
+                     /organism="Peromyscus californicus"
+                     /db_xref="taxon:42520"
+     Protein         1..582
+                     /product="vesicular glutamate transporter 2"
+     CDS             1..582
+                     /gene="vGlut2"
+                     /coded_by="MN265352.1:750..2498"
+ORIGIN      
+        1 mesvkqrila pgkegiknfa gkslgqiyrv lekkqdtret ieltedgkpl evpekkaplc
+       61 dctcfglprr yiiaimsglg fcisfgircn lgvaivdmvn nstihrggkv ikekakfnwd
+      121 petvgmihgs ffwgyiitqi pggyiasrla anrvfgaail ltstlnmlip saarvhygcv
+      181 ifvrilqglv egvtypachg iwskwapple rsrlattsfc gsyagaviam plagilvqyt
+      241 gwssvfyvyg sfgmvwymfw llvsyespak hptitdeerr yieesigesa nllgamekfk
+      301 tpwrkfftsm pvyaiivanf crswtfylll isqpayfeev fgfeiskvgm lsavphlvmt
+      361 iivpiggqia dflrskqils tttvrkimnc ggfgmeatll lvvgyshtrg vaisflvlav
+      421 gfsgfaisgf nvnhldiapr yasilmgisn gvgtlsgmvc piivgamtkn ksreewqyvf
+      481 liaalvhygg vifyaifasg ekqpwadpee tseekcgfih edeldeetgd itqnyinygp
+      541 tksygattqe nggwpngwek keefvqegaq daysykdqdd ys
+//
+

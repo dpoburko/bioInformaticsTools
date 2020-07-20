@@ -1,0 +1,68 @@
+
+LOCUS       XP_034376946             582 aa            linear   ROD 16-MAY-2020
+DEFINITION  vesicular glutamate transporter 2 [Arvicanthis niloticus].
+ACCESSION   XP_034376946
+VERSION     XP_034376946.1
+DBLINK      BioProject: PRJNA632612
+DBSOURCE    REFSEQ: accession XM_034521055.1
+KEYWORDS    RefSeq.
+SOURCE      Arvicanthis niloticus (African grass rat)
+  ORGANISM  Arvicanthis niloticus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+            Muroidea; Muridae; Murinae; Arvicanthis.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_047658.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Arvicanthis niloticus Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.4
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..582
+                     /organism="Arvicanthis niloticus"
+                     /isolate="mArvNil1"
+                     /specimen_voucher="T564M"
+                     /db_xref="taxon:61156"
+                     /chromosome="1"
+                     /sex="male"
+                     /tissue_type="Spleen (genome), brain & testis
+                     (transcriptome)"
+                     /dev_stage="adult"
+                     /country="USA: Santa Barbara"
+                     /lat_lon="34.41938 N 119.69905 W"
+                     /collection_date="06-Mar-2019"
+                     /collected_by="Huishi Toh"
+     Protein         1..582
+                     /product="vesicular glutamate transporter 2"
+                     /calculated_mol_wt=64443
+     CDS             1..582
+                     /gene="Slc17a6"
+                     /coded_by="XM_034521055.1:813..2561"
+                     /db_xref="GeneID:117722155"
+ORIGIN      
+        1 mesvkqrila pgkegiknfa gkslgqiyrv lekkqdnret ieltedgkpl evpekkaplc
+       61 dctcfglprr yiiaimsglg fcisfgircn lgvaivdmvn nstihrggkv ikekakfnwd
+      121 petvgmihgs ffwgyiitqi pggyiasrla anrvfgaail ltstlnmlip saarvhygcv
+      181 ifvrilqglv egvtypachg iwskwapple rsrlattsfc gsyagaviam plagilvqyt
+      241 gwssvfyvyg sfgmvwymfw llvsyespak hptitdeerr yieesigesa nllgamekfk
+      301 tpwrkfftsm pvyaiivanf crswtfylll isqpayfeev fgfeiskvgm lsavphlvmt
+      361 iivpiggqia dflrskqils tttvrkimnc ggfgmeatll lvvgyshtrg vaisflvlav
+      421 gfsgfaisgf nvnhldiapr yasilmgisn gvgtlsgmvc piivgamtkn ksreewqyvf
+      481 liaalvhygg vifyaifasg ekqpwadpee tseekcgfih edeldeetgd itqnyinygt
+      541 tksygatsqe nggwpngwek keefvqegaq eaytykdrdd ys
+//
+

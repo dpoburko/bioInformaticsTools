@@ -1,0 +1,69 @@
+
+LOCUS       XP_021384213             581 aa            linear   VRT 05-NOV-2019
+DEFINITION  vesicular glutamate transporter 2 [Lonchura striata domestica].
+ACCESSION   XP_021384213
+VERSION     XP_021384213.1
+DBLINK      BioProject: PRJNA391487
+DBSOURCE    REFSEQ: accession XM_021528538.1
+KEYWORDS    RefSeq.
+SOURCE      Lonchura striata domestica (Bengalese finch)
+  ORGANISM  Lonchura striata domestica
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Passeriformes; Passeroidea;
+            Estrildidae; Estrildinae; Lonchura.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_042571.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA and EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Lonchura striata domestica
+                                           Annotation Release 101
+            Annotation Version          :: 101
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..581
+                     /organism="Lonchura striata domestica"
+                     /isolate="Mets1"
+                     /sub_species="domestica"
+                     /db_xref="taxon:299123"
+                     /chromosome="5"
+                     /sex="male"
+                     /tissue_type="blood"
+                     /dev_stage="adult"
+     Protein         1..581
+                     /product="vesicular glutamate transporter 2"
+                     /calculated_mol_wt=64322
+     Region          70..511
+                     /region_name="UhpC"
+                     /note="Sugar phosphate permease [Carbohydrate transport
+                     and metabolism]; cl27298"
+                     /db_xref="CDD:332119"
+     CDS             1..581
+                     /gene="SLC17A6"
+                     /coded_by="XM_021528538.1:182..1927"
+                     /db_xref="GeneID:110469624"
+ORIGIN      
+        1 mesvkqrilt pgkeglknfa gkslgqlyrv lekrqkpgdt ieltedgkpm evpekkaplc
+       61 dctcfglprr yiiaimsglg fcisfgircn lgvaivdmvn nstihrggki ikekakfnwd
+      121 petvgmihgs ffwgyiitqi pggyissrla anrvfgaail ltsslnmlip saarvhygcv
+      181 ifvrilqglv egvtypachg iwskwapple rsrlattsfc gsyagaviam plagilvqyt
+      241 gwssvfyvyg sfgivwymfw llvsyespak hptitdeerr yieesigesa nllgamekyk
+      301 tpwrkfftsm pvyaiivanf crswtfylll isqpayfeev fgfeiskvgi lsavphlvmt
+      361 iivpiggqia dflrsrqivs ttnvrkimnc ggfgmeatll lvvgyshskg vaisflvlav
+      421 gfsgfaisgf nvnhldiapr yasilmgisn gvgtlsgmvc piivgamtkn ktreewqyvf
+      481 liaalvhygg vifygifasg ekqpwadpeq tseekcgfih edelaeetgd itqnyvnygt
+      541 tksygattqv nggwpngwek keefvqeevq dsynykerdy s
+//
+

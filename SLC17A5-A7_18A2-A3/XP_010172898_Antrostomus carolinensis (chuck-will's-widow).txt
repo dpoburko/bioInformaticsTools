@@ -1,0 +1,75 @@
+
+LOCUS       XP_010172898             456 aa            linear   VRT 02-MAY-2019
+DEFINITION  vesicular glutamate transporter 2 [Antrostomus carolinensis].
+ACCESSION   XP_010172898
+VERSION     XP_010172898.2
+DBLINK      BioProject: PRJNA265383
+DBSOURCE    REFSEQ: accession XM_010174596.2
+KEYWORDS    RefSeq.
+SOURCE      Antrostomus carolinensis (chuck-will's-widow)
+  ORGANISM  Antrostomus carolinensis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Caprimulgimorphae;
+            Caprimulgiformes; Caprimulgidae; Antrostomus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_010286546.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA and EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            On May 2, 2019 this sequence version replaced XP_010172898.1.
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Antrostomus carolinensis Annotation
+                                           Release 101
+            Annotation Version          :: 101
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..456
+                     /organism="Antrostomus carolinensis"
+                     /isolate="BGI_N321"
+                     /db_xref="taxon:279965"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /country="USA"
+     Protein         1..456
+                     /product="vesicular glutamate transporter 2"
+                     /calculated_mol_wt=50371
+     Region          1..373
+                     /region_name="MFS_SLC17A6_7_8_VGluT"
+                     /note="Solute carrier family 17 members 6, 7, and 8 (also
+                     called Vesicular glutamate transporters) of the Major
+                     Facilitator Superfamily of transporters; cd17382"
+                     /db_xref="CDD:340940"
+     Site            order(14,66..67,69..71,74,94,97..98,101,194,197..198,
+                     201..203,206,234,238,296..297,301,305,321,324..325,
+                     328..329,332)
+                     /site_type="other"
+                     /note="putative chemical substrate binding pocket
+                     [chemical binding]"
+                     /db_xref="CDD:340940"
+     CDS             1..456
+                     /gene="SLC17A6"
+                     /coded_by="XM_010174596.2:33..1403"
+                     /db_xref="GeneID:104530079"
+ORIGIN      
+        1 mihgsffwgy iitqipggyi ssrlaanrvf gaailltssl nmlipsaarv hygcvifvri
+       61 lqglvegvty pachgiwskw applersrla ttsfcgsyag aviamplagi lvqytgwssv
+      121 fyvygsfgiv wymfwllvsy espakhptit deerryiees igesanllga mekyktpwrk
+      181 fftsmpvyai ivanfcrswt fylllisqpa yfeevfgfei skvgilsavp hlvmtiivpi
+      241 ggqiadflrs kqilstttvr kimncggfgm eatlllvvgy shskgvaisf lvlavgfsgf
+      301 aisgfnvnhl diapryasil mgisngvgtl sgmvcpiivg amtknktree wqyvfliaal
+      361 vhyggvifyg ifasgekqpw adpeqtseek cgfihedela eetgditqny vnygttksyg
+      421 attqvnggwp ngwekkeefv qeevqdsyny kegdys
+//
+

@@ -1,0 +1,71 @@
+
+LOCUS       XP_029108184             586 aa            linear   VRT 22-MAY-2019
+DEFINITION  vesicular glutamate transporter 2 [Scleropages formosus].
+ACCESSION   XP_029108184
+VERSION     XP_029108184.1
+DBLINK      BioProject: PRJNA540586
+DBSOURCE    REFSEQ: accession XM_029252351.1
+KEYWORDS    RefSeq.
+SOURCE      Scleropages formosus (Asian bonytongue)
+  ORGANISM  Scleropages formosus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Osteoglossocephala;
+            Osteoglossomorpha; Osteoglossiformes; Osteoglossidae; Scleropages.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_041810.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Scleropages formosus Annotation
+                                           Release 101
+            Annotation Version          :: 101
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..586
+                     /organism="Scleropages formosus"
+                     /db_xref="taxon:113540"
+                     /chromosome="5"
+     Protein         1..586
+                     /product="vesicular glutamate transporter 2"
+                     /calculated_mol_wt=64515
+     Region          74..499
+                     /region_name="MFS_SLC17A6_7_8_VGluT"
+                     /note="Solute carrier family 17 members 6, 7, and 8 (also
+                     called Vesicular glutamate transporters) of the Major
+                     Facilitator Superfamily of transporters; cd17382"
+                     /db_xref="CDD:340940"
+     Site            order(84..85,88..89,92,140,192..193,195..197,200,220,
+                     223..224,227,320,323..324,327..329,332,360,364,422..423,
+                     427,431,447,450..451,454..455,458)
+                     /site_type="other"
+                     /note="putative chemical substrate binding pocket
+                     [chemical binding]"
+                     /db_xref="CDD:340940"
+     CDS             1..586
+                     /gene="slc17a6"
+                     /coded_by="XM_029252351.1:455..2215"
+                     /db_xref="GeneID:108942275"
+ORIGIN      
+        1 mdtvkerlfa pskeglknfa gktlghvhrv lekrqkttev ieltedgrpl eekekkpplc
+       61 dctcfglprr ytiaimsglg fcisfgircn lgvaivsmvn nstyhrggkv fikekaqfnw
+      121 dpetvgmihg sffwgyivtq ipggyissrl aanrvfgaai fltstlnmli psaarvhygc
+      181 vmfvrilqgl vegvtypach giwskwappl ersrlattsf cgsyagavia mplagilvqy
+      241 sgwssvfyly gcfgivwymf wilvsyespa vhpnisdeer kyieesiges akllgateky
+      301 ktpwkkffts mpvyaiivan fcrswtfyll lisqpayfee vfgfeiskvg mlsalphlvm
+      361 tiivpiggqi adflraknim sttnvrkimn cggfgmeatl llvvgyshsk gvaisflvla
+      421 vgfsgfaisg fnvnhldiap ryasilmgis ngvgtlsgmv cplivgamtk hktreewqyv
+      481 fliaalvhyg gvvfygifas gekqpwadpe qtseekcgfi dedelaeetg ditqgygslg
+      541 gpaktygatt qlnggwhsgw ekkeeyvqeg aaqqggygyr aeddys
+//
+

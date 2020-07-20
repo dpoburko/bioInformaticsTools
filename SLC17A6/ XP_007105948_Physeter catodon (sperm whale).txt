@@ -1,0 +1,82 @@
+
+LOCUS       XP_007105948             582 aa            linear   MAM 21-MAR-2019
+DEFINITION  vesicular glutamate transporter 2 [Physeter catodon].
+ACCESSION   XP_007105948
+VERSION     XP_007105948.1
+DBLINK      BioProject: PRJNA434122
+DBSOURCE    REFSEQ: accession XM_007105886.1
+KEYWORDS    RefSeq.
+SOURCE      Physeter catodon (sperm whale)
+  ORGANISM  Physeter catodon
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Cetartiodactyla; Cetacea;
+            Odontoceti; Physeteridae; Physeter.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_041229.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Physeter catodon Annotation Release
+                                           102
+            Annotation Version          :: 102
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..582
+                     /organism="Physeter catodon"
+                     /isolate="SW-GA"
+                     /db_xref="taxon:9755"
+                     /chromosome="16"
+                     /sex="female"
+                     /tissue_type="muscle"
+                     /dev_stage="adult"
+     Protein         1..582
+                     /product="vesicular glutamate transporter 2"
+                     /calculated_mol_wt=64437
+     Region          70..511
+                     /region_name="2A0114euk"
+                     /note="Na(+)-dependent inorganic phosphate cotransporter;
+                     TIGR00894"
+                     /db_xref="CDD:129972"
+     Region          75..498
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Site            order(88,91..93,95..96,128,131..132,135,139..140,142..143,
+                     191..192,195..196,199..200,203,215..216,219..220,226,323,
+                     326..327,330..331,334,348,352,356,359,363,422..423,426,
+                     430..431,434,445..446,449..450,453..454,457)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..582
+                     /gene="SLC17A6"
+                     /coded_by="XM_007105886.1:108..1856"
+                     /db_xref="GeneID:102990352"
+ORIGIN      
+        1 mesvkqrilt pgkeglknfa gkslgqiyrv lekkqetget ieltedgkpl evpekraplc
+       61 dcrcfglprr yiiaimsglg fcisfgircn lgvaivdmvn nstihrggkv ikekakfnwd
+      121 petvgmihgs ffwgyiitqi pggyiasrla anrvfgaail ltstlnmlip saarvhygcv
+      181 ifvrilqglv egvtypachg iwskwapple rsrlattsfc gsyagaviam plagilvqyt
+      241 gwssvfyvyg sfgmiwymfw llvsyespak hptitdeerr yieesigesa nllgamekfr
+      301 tpwrkfftsm pvyaiivanf crswtfylll isqpayfeev fgfeiskvgm lsavphlvmt
+      361 iivpiggqia dflrskqils tttvrkimnc ggfgmeatll lvvgyshtrg vaisflvlav
+      421 gfsgfaisgf nvnhldiapr yasilmgisn gvgtlsgmvc piivgamtkn ksreewqyvf
+      481 liaalvhygg vifyaifasg ekqpwadpee tseekcgfih edeldeetgd itqnyinygt
+      541 tksygattqa nggwpngwek keefvqedvq dsytykdrgd ns
+//
+

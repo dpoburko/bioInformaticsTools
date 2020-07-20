@@ -1,0 +1,66 @@
+
+LOCUS       XP_032974697             582 aa            linear   MAM 23-MAR-2020
+DEFINITION  vesicular glutamate transporter 2 [Rhinolophus ferrumequinum].
+ACCESSION   XP_032974697
+VERSION     XP_032974697.1
+DBLINK      BioProject: PRJNA613604
+DBSOURCE    REFSEQ: accession XM_033118806.1
+KEYWORDS    RefSeq.
+SOURCE      Rhinolophus ferrumequinum (greater horseshoe bat)
+  ORGANISM  Rhinolophus ferrumequinum
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Chiroptera; Microchiroptera;
+            Rhinolophidae; Rhinolophinae; Rhinolophus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_046294.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Rhinolophus ferrumequinum Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.4
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..582
+                     /organism="Rhinolophus ferrumequinum"
+                     /isolate="MPI-CBG mRhiFer1"
+                     /db_xref="taxon:59479"
+                     /chromosome="11"
+                     /sex="male"
+                     /tissue_type="liver"
+                     /country="United Kingdom: Woodchester Mansion,
+                     Gloucestershire"
+                     /lat_lon="51.7108 N 2.2776 W"
+                     /collection_date="2016-05-31"
+                     /collected_by="Gareth Jones"
+     Protein         1..582
+                     /product="vesicular glutamate transporter 2"
+                     /calculated_mol_wt=64389
+     CDS             1..582
+                     /gene="SLC17A6"
+                     /coded_by="XM_033118806.1:916..2664"
+                     /db_xref="GeneID:117029596"
+ORIGIN      
+        1 mesvkqrivt pgkeglknfa gkslgqiyrv lekkqeaget ieltedgkpl evpekkaplc
+       61 dctcfglprr yiiaimsglg fcisfgircn lgvaivdmvn nstihrggkv ikekakfnwd
+      121 petvgmihgs ffwgyiitqi pggyiasrla anrvfgaail ltstlnmlip saarvhygcv
+      181 ifvrilqglv egvtypachg iwskwapple rsrlattsfc gsyagaviam plagilvqyt
+      241 gwssvfyvyg sfgmiwymfw llvsyespak hptitdeerr yieesigesa nllgamekfk
+      301 tpwrkfftsm pvyaiivanf crswtfylll isqpayfeev fgfeiskvgm lsavphlvmt
+      361 iivpiggqia dflrskqils tttvrkimnc ggfgmeatll lvvgyshtrg vaisflvlav
+      421 gfsgfaisgf nvnhldiapr yasilmgisn gvgtlsgmvc piivgamtkn ksreewqyvf
+      481 liaalvhygg vifygifasg ekqpwadpee tseekcgfih edeldeetgd itqnyinygt
+      541 tksygattqa nggwpngweq keefvqeevq dsytykdrdd ys
+//
+

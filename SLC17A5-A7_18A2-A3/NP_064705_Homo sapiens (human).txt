@@ -1,0 +1,216 @@
+
+LOCUS       NP_064705                560 aa            linear   PRI 04-JUL-2020
+DEFINITION  vesicular glutamate transporter 1 [Homo sapiens].
+ACCESSION   NP_064705
+VERSION     NP_064705.1
+DBSOURCE    REFSEQ: accession NM_020309.4
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (residues 1 to 560)
+  AUTHORS   Zhang XM, Francois U, Silm K, Angelo MF, Fernandez-Busch MV, Maged
+            M, Martin C, Bernard V, Cordelieres FP, Deshors M, Pons S, Maskos
+            U, Bemelmans AP, Wojcik SM, El Mestikawy S, Humeau Y and Herzog E.
+  TITLE     A proline-rich motif on VGLUT1 reduces synaptic vesicle super-pool
+            and spontaneous release frequency
+  JOURNAL   Elife 8, e50401 (2019)
+   PUBMED   31663854
+  REMARK    GeneRIF: In mammals, VGLUT1 gained a proline-rich sequence that
+            recruits endophilinA1 and turns the transporter into a regulator of
+            synaptic vesicles organization and spontaneous release.
+            Publication Status: Online-Only
+REFERENCE   2  (residues 1 to 560)
+  AUTHORS   Gladitz J, Klink B and Seifert M.
+  TITLE     Network-based analysis of oligodendrogliomas predicts novel cancer
+            gene candidates within the region of the 1p/19q co-deletion
+  JOURNAL   Acta Neuropathol Commun 6 (1), 49 (2018)
+   PUBMED   29890994
+  REMARK    GeneRIF: The findings of this study indicate that Slc17A7 located
+            on 1p/19q may simultaneously influence tumor development.
+            Publication Status: Online-Only
+REFERENCE   3  (residues 1 to 560)
+  AUTHORS   Rodriguez-Perdigon M, Tordera RM, Gil-Bea FJ, Gerenu G, Ramirez MJ
+            and Solas M.
+  TITLE     Down-regulation of glutamatergic terminals (VGLUT1) driven by Abeta
+            in Alzheimer's disease
+  JOURNAL   Hippocampus 26 (10), 1303-1312 (2016)
+   PUBMED   27258819
+  REMARK    GeneRIF: Study revealed susceptibility of glutamatergic nerve
+            terminals to Abeta induced toxicity and underlined the importance
+            of VGLUT1 in the progression of Alzheimer's disease, as the
+            decrease of this protein levels could increase the susceptibility
+            to subsequent deleterious inputs by exacerbating Abeta induced
+            neuroinflammation and synaptic plasticity disruption.
+REFERENCE   4  (residues 1 to 560)
+  AUTHORS   Madura SA, McDevitt JK, Tierney RT, Mansell JL, Hayes DJ, Gaughan
+            JP and Krynetskiy E.
+  TITLE     Genetic variation in SLC17A7 promoter associated with response to
+            sport-related concussions
+  JOURNAL   Brain Inj 30 (7), 908-913 (2016)
+   PUBMED   27029226
+  REMARK    GeneRIF: This study was the first to demonstrate an association
+            between genetic polymorphism at rs7417284 SNP in the promoter
+            region of the SLC17A7 gene and concussion severity and duration.
+            Based upon these findings, rs74174284 is a potential predictive
+            genetic marker for identifying athletes who are more susceptible
+            for altered recovery times and worse motor speed ImPACT scores
+            after sport-related concussion.
+REFERENCE   5  (residues 1 to 560)
+  AUTHORS   Rodriguez-Perdigon M, Solas M and Ramirez MJ.
+  TITLE     JNK: A Putative Link Between Insulin Signaling and VGLUT1 in
+            Alzheimer's Disease
+  JOURNAL   J. Alzheimers Dis. 50 (4), 963-967 (2016)
+   PUBMED   26836159
+  REMARK    GeneRIF: Results suggest that activation of JNK in Alzheimer's
+            disease (AD) inhibits insulin signaling which could lead to a
+            decreased expression of VGLUT1, therefore contributing to the
+            glutamatergic deficit in AD
+REFERENCE   6  (residues 1 to 560)
+  AUTHORS   Wistow G, Bernstein SL, Wyatt MK, Ray S, Behal A, Touchman JW,
+            Bouffard G, Smith D and Peterson K.
+  TITLE     Expressed sequence tag analysis of human retina for the NEIBank
+            Project: retbindin, an abundant, novel retinal cDNA and alternative
+            splicing of other retina-preferred gene transcripts
+  JOURNAL   Mol. Vis. 8, 196-204 (2002)
+   PUBMED   12107411
+  REMARK    Publication Status: Online-Only
+REFERENCE   7  (residues 1 to 560)
+  AUTHORS   Takamori S, Rhee JS, Rosenmund C and Jahn R.
+  TITLE     Identification of a vesicular glutamate transporter that defines a
+            glutamatergic phenotype in neurons
+  JOURNAL   Nature 407 (6801), 189-194 (2000)
+   PUBMED   11001057
+REFERENCE   8  (residues 1 to 560)
+  AUTHORS   Bellocchio EE, Reimer RJ, Fremeau RT Jr and Edwards RH.
+  TITLE     Uptake of glutamate into synaptic vesicles by an inorganic
+            phosphate transporter
+  JOURNAL   Science 289 (5481), 957-960 (2000)
+   PUBMED   10938000
+REFERENCE   9  (residues 1 to 560)
+  AUTHORS   Aihara Y, Mashima H, Onda H, Hisano S, Kasuya H, Hori T, Yamada S,
+            Tomura H, Yamada Y, Inoue I, Kojima I and Takeda J.
+  TITLE     Molecular cloning of a novel brain-type Na(+)-dependent inorganic
+            phosphate cotransporter
+  JOURNAL   J. Neurochem. 74 (6), 2622-2625 (2000)
+   PUBMED   10820226
+REFERENCE   10 (residues 1 to 560)
+  AUTHORS   Ni B, Du Y, Wu X, DeHoff BS, Rosteck PR Jr and Paul SM.
+  TITLE     Molecular cloning, expression, and chromosomal localization of a
+            human brain-specific Na(+)-dependent inorganic phosphate
+            cotransporter
+  JOURNAL   J. Neurochem. 66 (6), 2227-2238 (1996)
+   PUBMED   8632143
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AC010619.7, BC059379.1,
+            AB032436.1, BQ636968.1 and BU732143.1.
+            
+            Summary: The protein encoded by this gene is a vesicle-bound,
+            sodium-dependent phosphate transporter that is specifically
+            expressed in the neuron-rich regions of the brain. It is
+            preferentially associated with the membranes of synaptic vesicles
+            and functions in glutamate transport. The protein shares 82%
+            identity with the differentiation-associated Na-dependent inorganic
+            phosphate cotransporter and they appear to form a distinct class
+            within the Na+/Pi cotransporter family. [provided by RefSeq, Jul
+            2008].
+            
+            Sequence Note: The RefSeq transcript and protein were derived from
+            transcript and genomic sequence to make the sequence consistent
+            with the reference genome assembly. The genomic coordinates used
+            for the transcript record were based on alignments.
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: BC059379.1, SRR3476690.554678.1
+                                           [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMEA2145743 [ECO:0000348]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match     :: ENST00000221485.8/ ENSP00000221485.2
+            RefSeq Select criteria :: based on single protein-coding transcript
+            ##RefSeq-Attributes-END##
+FEATURES             Location/Qualifiers
+     source          1..560
+                     /organism="Homo sapiens"
+                     /db_xref="taxon:9606"
+                     /chromosome="19"
+                     /map="19q13.33"
+     Protein         1..560
+                     /product="vesicular glutamate transporter 1"
+                     /note="brain-specific Na-dependent inorganic phosphate
+                     cotransporter; brain-specific Na(+)-dependent inorganic
+                     phosphate cotransporter; solute carrier family 17
+                     (vesicular glutamate transporter), member 7; solute
+                     carrier family 17 (sodium-dependent inorganic phosphate
+                     cotransporter), member 7"
+                     /calculated_mol_wt=61483
+     Site            64..84
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9P2U7.1)"
+     Site            117..137
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9P2U7.1)"
+     Site            141..161
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9P2U7.1)"
+     Site            170..190
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9P2U7.1)"
+     Site            209..229
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9P2U7.1)"
+     Site            237..257
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9P2U7.1)"
+     Site            303..323
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9P2U7.1)"
+     Site            342..362
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9P2U7.1)"
+     Site            379..399
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9P2U7.1)"
+     Site            402..422
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9P2U7.1)"
+     Site            436..456
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9P2U7.1)"
+     Site            470..490
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9P2U7.1)"
+     Site            504
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000250|UniProtKB:Q62634; propagated from
+                     UniProtKB/Swiss-Prot (Q9P2U7.1)"
+     CDS             1..560
+                     /gene="SLC17A7"
+                     /gene_synonym="BNPI; VGLUT1"
+                     /coded_by="NM_020309.4:149..1831"
+                     /db_xref="CCDS:CCDS12764.1"
+                     /db_xref="GeneID:57030"
+                     /db_xref="HGNC:HGNC:16704"
+                     /db_xref="MIM:605208"
+ORIGIN      
+        1 mefrqeefrk lagralgklh rllekrqega etlelsadgr pvttqtrdpp vvdctcfglp
+       61 rryiiaimsg lgfcisfgir cnlgvaivsm vnnstthrgg hvvvqkaqfs wdpetvglih
+      121 gsffwgyivt qipggficqk faanrvfgfa ivatstlnml ipsaarvhyg cvifvrilqg
+      181 lvegvtypac hgiwskwapp lersrlatta fcgsyagavv amplagvlvq ysgwssvfyv
+      241 ygsfgifwyl fwllvsyesp alhpsiseee rkyiedaige saklmnpltk fstpwrrfft
+      301 smpvyaiiva nfcrswtfyl llisqpayfe evfgfeiskv glvsalphlv mtiivpiggq
+      361 iadflrsrri msttnvrklm ncggfgmeat lllvvgyshs kgvaisflvl avgfsgfais
+      421 gfnvnhldia pryasilmgi sngvgtlsgm vcpiivgamt khktreewqy vfliaslvhy
+      481 ggvifygvfa sgekqpwaep eemseekcgf vghdqlagsd dsemedeaep pgappappps
+      541 ygathstfqp prppppvrdy
+//
+

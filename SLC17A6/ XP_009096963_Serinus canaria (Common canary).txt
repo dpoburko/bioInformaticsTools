@@ -1,0 +1,69 @@
+
+LOCUS       XP_009096963             581 aa            linear   VRT 08-AUG-2019
+DEFINITION  vesicular glutamate transporter 2 isoform X1 [Serinus canaria].
+ACCESSION   XP_009096963
+VERSION     XP_009096963.1
+DBLINK      BioProject: PRJNA558035
+DBSOURCE    REFSEQ: accession XM_009098715.3
+KEYWORDS    RefSeq.
+SOURCE      Serinus canaria (Common canary)
+  ORGANISM  Serinus canaria
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Passeriformes; Passeroidea;
+            Fringillidae; Carduelinae; Serinus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_022044854.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA and EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Serinus canaria Annotation Release
+                                           102
+            Annotation Version          :: 102
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..581
+                     /organism="Serinus canaria"
+                     /isolate="sc_yellow_7_cibi"
+                     /db_xref="taxon:9135"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /tissue_type="heart"
+                     /dev_stage="adult"
+                     /ecotype="domestic yellow"
+     Protein         1..581
+                     /product="vesicular glutamate transporter 2 isoform X1"
+                     /calculated_mol_wt=64322
+     Region          70..511
+                     /region_name="UhpC"
+                     /note="Sugar phosphate permease [Carbohydrate transport
+                     and metabolism]; cl27298"
+                     /db_xref="CDD:332119"
+     CDS             1..581
+                     /gene="SLC17A6"
+                     /coded_by="XM_009098715.3:341..2086"
+                     /db_xref="GeneID:103823614"
+ORIGIN      
+        1 mesvkqrilt pgkeglknfa gkslgqlyrv lekrqkpgdt ieltedgkpm evpekkaplc
+       61 dctcfglprr yiiaimsglg fcisfgircn lgvaivdmvn nstihrggki ikekakfnwd
+      121 petvgmihgs ffwgyiitqi pggyissrla anrvfgaail ltsslnmlip saarvhygcv
+      181 ifvrilqglv egvtypachg iwskwapple rsrlattsfc gsyagaviam plagilvqyt
+      241 gwssvfyvyg sfgivwymfw llvsyespak hptitdeerr yieesigesa nllgamekyk
+      301 tpwrkfftsm pvyaiivanf crswtfylll isqpayfeev fgfeiskvgi lsavphlvmt
+      361 iivpiggqia dflrsrqivs ttnvrkimnc ggfgmeatll lvvgyshskg vaisflvlav
+      421 gfsgfaisgf nvnhldiapr yasilmgisn gvgtlsgmvc piivgamtkn ktreewqyvf
+      481 liaalvhygg vifygifasg ekqpwadpeq tseekcgfih edelaeetgd itqnyvnygt
+      541 tksygattqv nggwpngwek keefvqeevq dsynykerdy s
+//
+

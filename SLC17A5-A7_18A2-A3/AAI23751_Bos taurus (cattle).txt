@@ -1,0 +1,85 @@
+
+LOCUS       AAI23751                 560 aa            linear   MAM 09-JUN-2008
+DEFINITION  SLC17A7 protein [Bos taurus].
+ACCESSION   AAI23751
+VERSION     AAI23751.1
+DBSOURCE    accession BC123750.1
+KEYWORDS    MGC.
+SOURCE      Bos taurus (cattle)
+  ORGANISM  Bos taurus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Cetartiodactyla; Ruminantia;
+            Pecora; Bovidae; Bovinae; Bos.
+REFERENCE   1  (residues 1 to 560)
+  AUTHORS   Moore,S., Alexander,L., Brownstein,M., Guan,L., Lobo,S., Meng,Y.,
+            Tanaguchi,M., Wang,Z., Yu,J., Prange,C., Schreiber,K., Shenmen,C.,
+            Wagner,L., Bala,M., Barbazuk,S., Barber,S., Babakaiff,R.,
+            Beland,J., Chun,E., Del Rio,L., Gibson,S., Hanson,R.,
+            Kirkpatrick,R., Liu,J., Matsuo,C., Mayo,M., Santos,R.R., Stott,J.,
+            Tsai,M., Wong,D., Siddiqui,A., Holt,R., Jones,S.J. and Marra,M.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-SEP-2006) BC Cancer Agency, Canada's Michael Smith
+            Genome Sciences Centre, Suite 100, 570 West 7th Avenue, Vancouver,
+            British Columbia V5Z 4S6, Canada
+  REMARK    NIH-MGC Project
+COMMENT     Contact: Robert Kirkpatrick
+            Canada's Michael Smith Genome Sciences Centre
+            BC Cancer Agency
+            Suite 100, 570 West 7th Avenue, Vancouver, British Columbia,
+            Canada, V5Z 4S6
+            Tel: 1-604-707-5900 x5406
+            Fax: 1-604-876-3561
+            Email: robertk@bcgsc.ca
+            Tissue Procurement: Lee Alexander, USDA, ARS, NPA
+            cDNA Library Preparation: Express Genomics
+            cDNA Library Arrayed by: The I.M.A.G.E. Consortium (LLNL)
+            DNA Sequencing by: Bovine Genome Sequencing Program, Genome
+            Sequence Centre,
+            BC Cancer Agency, Vancouver, BC, Canada
+            info@bcgsc.bc.ca
+            Moore S, Alexander L, Brownstein M, Guan L, Lobo S, Meng Y,
+            Tanaguchi M, Wang Z, Prange C, Schreiber K, Shenmen C, Wagner L,
+            Ali J, Chun E, Liao N, Beland J, Cruz K, Featherstone R, Kirk H,
+            Matsuo C, Mayo M, Moore R, Munro S, Roger J, Tam B, Trinh E, Sze W,
+            Wilton J, Wanger S, Huang P, Chu B, Imanian B, Roscoe R, Holt R,
+            Jones S, Marra M
+            
+            Clone distribution: MGC clone distribution information can be found
+            through the I.M.A.G.E. Consortium/LLNL at: http://image.llnl.gov
+            Series: IRAK Plate: 270 Row: l Column: 19.
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..560
+                     /organism="Bos taurus"
+                     /strain="L1 Hereford"
+                     /db_xref="taxon:9913"
+                     /clone="MGC:143145 IMAGE:8222202"
+                     /tissue_type="Cerebral cortex, female calf 8.5 months, L1
+                     Hereford"
+                     /clone_lib="GC_BGC-28"
+                     /lab_host="DH10B"
+                     /note="Vector: pExpress1"
+     Protein         1..560
+                     /product="SLC17A7 protein"
+     Region          49..502
+                     /region_name="UhpC"
+                     /note="Sugar phosphate permease [Carbohydrate transport
+                     and metabolism]; cl27298"
+                     /db_xref="CDD:332119"
+     CDS             1..560
+                     /gene="SLC17A7"
+                     /coded_by="BC123750.1:12..1694"
+                     /db_xref="GeneID:518849"
+ORIGIN      
+        1 mefrqeefrk lagralgklh rllekrqega etlelsadgr pvttqtrdpp vvdctcfglp
+       61 rryiiaimsg lgfcisfgir cnlgvaivsm vnnstthrgg hvvmqkaqfn wdpetvglih
+      121 gsffwgyivt qipggficqk faanrvfgfa ivatstlnml ipsaarvhyg cvifvrilqg
+      181 lvegvtypac hgiwskwapp lersrlatta fcgsyagavv amplagvlvq ysgwssvfyv
+      241 ygsfgifwyl fwllvsyesp alhpsiseee rkyiedaige saklmnpvtk fntpwrrfft
+      301 smpvyaiiva nfcrswtfyl llisqpayfe evfgfeiskv glvsalphlv mtiivpiggq
+      361 iadflrsrri msttnvrklm ncggfgmeat lllvvgyshs kgvaisflvl avgfsgfais
+      421 gfnvnhldia pryasilmgi sngvgtlsgm vcpiivgamt khktreewqy vfliaslvhy
+      481 ggvifygvfa sgekqpwaep eemseekcgf vghdqlagsd esemedeaep pgappappps
+      541 ygathstvqp prppppvrdy
+//
+

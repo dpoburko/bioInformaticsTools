@@ -1,0 +1,57 @@
+
+LOCUS       XP_029379471             581 aa            linear   VRT 16-JUN-2019
+DEFINITION  vesicular glutamate transporter 2 [Echeneis naucrates].
+ACCESSION   XP_029379471
+VERSION     XP_029379471.1
+DBLINK      BioProject: PRJNA548465
+DBSOURCE    REFSEQ: accession XM_029523611.1
+KEYWORDS    RefSeq.
+SOURCE      Echeneis naucrates (live sharksucker)
+  ORGANISM  Echeneis naucrates
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Carangaria; Carangiformes; Echeneidae; Echeneis.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_042526.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Echeneis naucrates Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..581
+                     /organism="Echeneis naucrates"
+                     /db_xref="taxon:173247"
+                     /chromosome="16"
+     Protein         1..581
+                     /product="vesicular glutamate transporter 2"
+                     /calculated_mol_wt=63963
+     CDS             1..581
+                     /gene="slc17a6"
+                     /coded_by="XM_029523611.1:1..1746"
+                     /db_xref="GeneID:115056855"
+ORIGIN      
+        1 mepgkekalp tskegikqia gkalgnlyrr lerrqqtgea ieltedgrpr adqerkaplc
+       61 dctcfglprr yiiamlsglg fcisfgircn lgvaivsmvn nstihqngki iikekakfnw
+      121 dpetvgmihg sffwgyivtq ipggyissrl aanrvfgaai vltstlnmfi psaarvhygc
+      181 vifvrilqgl vegvtypach giwskwappl ersrlatisf cgsyagavva mplagilvqy
+      241 tgwssvfyvy gsfgivwymf wilvsyespa ehptiteeer ryieesiges aqlmgamekf
+      301 ktpwrkffss mpvyaiivan fcrswtfyll lisqpayfee vfgfeiskvg ilsalphlvm
+      361 tiivplggql adylrthnim sttmvrkimn cggfgmeatl llvvgyshsk gvaisflvla
+      421 vgfsgfaisg fnvnhldiap ryasilmgis ngvgtlsgmv cplivgamtk nktreewqyv
+      481 fliaslvhyg gvvfyglfas gekqpwadpe etseekcgfi dedelaeetg ditqgygamg
+      541 gpaksygata qlnggwvqdw dkteeyiqep agkmyaergy s
+//
+

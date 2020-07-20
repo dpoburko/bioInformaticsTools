@@ -1,0 +1,84 @@
+
+LOCUS       XP_028440343             581 aa            linear   VRT 01-APR-2019
+DEFINITION  vesicular glutamate transporter 2 [Perca flavescens].
+ACCESSION   XP_028440343
+VERSION     XP_028440343.1
+DBLINK      BioProject: PRJNA529871
+DBSOURCE    REFSEQ: accession XM_028584542.1
+KEYWORDS    RefSeq; includes ab initio.
+SOURCE      Perca flavescens (yellow perch)
+  ORGANISM  Perca flavescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Percoidei; Percidae;
+            Percinae; Perca.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_041338.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Perca flavescens Annotation Release
+                                           100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            ab initio :: 1% of CDS bases
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..581
+                     /organism="Perca flavescens"
+                     /isolate="YP-PL-M2"
+                     /db_xref="taxon:8167"
+                     /chromosome="8"
+                     /sex="male"
+                     /tissue_type="blood"
+                     /dev_stage="Adult"
+                     /country="USA: Wisconsin, Plum Lake"
+                     /collection_date="28-Apr-2017"
+                     /collected_by="Wes Larson, Wisconsin Cooperative Fishery
+                     Research Unit, University of Wisconsin-Stevens Point, 800
+                     Reserve Street Stevens Point, WI 54481"
+     Protein         1..581
+                     /product="vesicular glutamate transporter 2"
+                     /calculated_mol_wt=63899
+     Region          74..499
+                     /region_name="MFS_SLC17A6_7_8_VGluT"
+                     /note="Solute carrier family 17 members 6, 7, and 8 (also
+                     called Vesicular glutamate transporters) of the Major
+                     Facilitator Superfamily of transporters; cd17382"
+                     /db_xref="CDD:340940"
+     Site            order(84..85,88..89,92,140,192..193,195..197,200,220,
+                     223..224,227,320,323..324,327..329,332,360,364,422..423,
+                     427,431,447,450..451,454..455,458)
+                     /site_type="other"
+                     /note="putative chemical substrate binding pocket
+                     [chemical binding]"
+                     /db_xref="CDD:340940"
+     CDS             1..581
+                     /gene="slc17a6"
+                     /coded_by="XM_028584542.1:1..1746"
+                     /db_xref="GeneID:114559725"
+ORIGIN      
+        1 mepgtekaap ttkegikqia gkalgkiyrr lekrqqtgda ieltedgrpr adqerkkplc
+       61 dctcfglprr yiiamlsglg fcisfgircn lgvaivsmvn nstihengki iitekakfnw
+      121 gpetvgmihg sffwgyivtq ipggyissrl aanrvfgaai vltsilnmfi psaarthygc
+      181 vifvrilqgl vegvtypach giwskwappl ersrlatisf cgsyagavia mplagilvqy
+      241 tgwpsvfyly gcfgifwymf wvlvsyespa ehptitdeer ryieesiges aqlmgameky
+      301 ktpwrkffts mpvyaiivan fcrswtfyll lisqpayfee vfgfeiskvg vvsalphlvm
+      361 tivvplggql adylrthnim sttmvrkimn cggfgmeatl llvvgfshsk gvaisflvla
+      421 vgfsgfaisg fnvnhldiap ryasilmgis ngvgtlsgmv cplivgamtk nktreewqyv
+      481 fliaalvhyg gvvfygifas gekqpwadpe etsdekcgfi dedelaeetg ditqsygamg
+      541 gpaksygata qlnggwvqdw dkteeyvqep agkmyaergy s
+//
+
