@@ -1,0 +1,65 @@
+
+LOCUS       XP_030581115             516 aa            linear   VRT 06-SEP-2019
+DEFINITION  synaptic vesicular amine transporter [Archocentrus centrarchus].
+ACCESSION   XP_030581115
+VERSION     XP_030581115.1
+DBLINK      BioProject: PRJNA559550
+DBSOURCE    REFSEQ: accession XM_030725255.1
+KEYWORDS    RefSeq.
+SOURCE      Archocentrus centrarchus (flier cichlid)
+  ORGANISM  Archocentrus centrarchus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Cichlomorphae; Cichliformes;
+            Cichlidae; New World cichlids; Cichlasomatinae; Heroini;
+            Archocentrus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_022060273.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Archocentrus centrarchus Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..516
+                     /organism="Archocentrus centrarchus"
+                     /isolate="MPI-CPG fArcCen1"
+                     /db_xref="taxon:63155"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /tissue_type="muscle"
+                     /country="Nicaragua"
+                     /lat_lon="12.8654 N 85.2072 W"
+                     /collection_date="2016-03-09"
+                     /collected_by="Axel Meyer, Andreas Kautt, Paolo Franchini"
+     Protein         1..516
+                     /product="synaptic vesicular amine transporter"
+                     /calculated_mol_wt=55829
+     CDS             1..516
+                     /gene="slc18a2"
+                     /coded_by="XM_030725255.1:99..1649"
+                     /db_xref="GeneID:115777362"
+ORIGIN      
+        1 mggldalrqf nllkwlreer qsrklilfiv fvallldnml ltvvvpiips ylytldestd
+       61 tlknnitsqq nspgsfqsiv slydntvrls gfngtartae lvpptptgta lppnstdcpr
+      121 stnklinenv kvgmlfaska tvqlitnpfv gpvtnrigyq lpifvgfcim fistimfafs
+      181 ssyallflar slqgvgsscs svagmgmlas vytddeergh aigialggla lgvlvgppfg
+      241 svmyefvgkt apflilafla mfdgalqlfv lqptkvtpes qkgtplltlm kdpyiliaag
+      301 aicfgnmaig mmeptvpiwm metmcarnwq lgvaflpasi syligtnifg tfahkmgrwl
+      361 caligmvvvg isvicvpfar diyglilpnf gvgfaigmvd ssmmpimgyl vdlrhvsvyg
+      421 svyaiadvaf clgfalgpsi ggsiaesigf pwlmtiigiv diifaplclf lrnppgqeek
+      481 iailmdtncs mktrsystqg tyyqgedmdp eyddyd
+//
+

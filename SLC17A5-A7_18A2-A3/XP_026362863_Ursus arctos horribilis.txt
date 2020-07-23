@@ -1,0 +1,66 @@
+
+LOCUS       XP_026362863             495 aa            linear   MAM 30-SEP-2018
+DEFINITION  sialin [Ursus arctos horribilis].
+ACCESSION   XP_026362863
+VERSION     XP_026362863.1
+DBLINK      BioProject: PRJNA493656
+DBSOURCE    REFSEQ: accession XM_026507078.1
+KEYWORDS    RefSeq.
+SOURCE      Ursus arctos horribilis
+  ORGANISM  Ursus arctos horribilis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Carnivora; Caniformia; Ursidae;
+            Ursus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_020656142.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Ursus arctos horribilis Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.1
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..495
+                     /organism="Ursus arctos horribilis"
+                     /isolate="GAN/ISIS:MIG12-29695490/34125"
+                     /sub_species="horribilis"
+                     /db_xref="taxon:116960"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /tissue_type="blood"
+                     /dev_stage="adult"
+     Protein         1..495
+                     /product="sialin"
+                     /calculated_mol_wt=54352
+     Region          30..491
+                     /region_name="UhpC"
+                     /note="Sugar phosphate permease [Carbohydrate transport
+                     and metabolism]; cl27298"
+                     /db_xref="CDD:332119"
+     CDS             1..495
+                     /gene="SLC17A5"
+                     /coded_by="XM_026507078.1:92..1579"
+                     /db_xref="GeneID:113261113"
+ORIGIN      
+        1 mrspirglts sdgeegsdrt pllqstprve aapaccsary nlavlaffgf fvlyalrvnl
+       61 svalvdmvds nttladnrts kecaehsapi kvlhnqtgkr yqwdaetqgw ilgsffygyi
+      121 itqipggyia skvggklllg fgilgtavft lftpiaadfg vgalivlral eglgegvtfp
+      181 amhamwsswa pplersklls isyagaqlgt vislplsgii cfymnwtyvf ylfgiigiiw
+      241 filwiflvse tpethktisr hekeyilssl knqlssqksv pwmpmlkslp lwaivvahfs
+      301 ynwtfytllt llptymkeil rfnvqengll salpyfgcwl cmilsgqaad nlrakwnfst
+      361 icvrrvfsli gmigpavflv aagfigcdys lavafltist tlggfcssgf sinhldiaps
+      421 yagillgitn tfatipgmvg pviaksltpd ntirewqivf yiaaainvfg aifftlfakg
+      481 evqnwalddr hghrs
+//
+

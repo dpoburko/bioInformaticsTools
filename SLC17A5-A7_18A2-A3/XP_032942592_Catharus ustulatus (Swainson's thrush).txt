@@ -1,0 +1,68 @@
+
+LOCUS       XP_032942592             537 aa            linear   VRT 22-MAR-2020
+DEFINITION  vesicular glutamate transporter 1 [Catharus ustulatus].
+ACCESSION   XP_032942592
+VERSION     XP_032942592.1
+DBLINK      BioProject: PRJNA613294
+DBSOURCE    REFSEQ: accession XM_033086701.1
+KEYWORDS    RefSeq; includes ab initio.
+SOURCE      Catharus ustulatus (Swainson's thrush)
+  ORGANISM  Catharus ustulatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Passeriformes; Turdidae; Catharus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_022679156.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Catharus ustulatus Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.4
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            ab initio :: 1% of CDS bases
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..537
+                     /organism="Catharus ustulatus"
+                     /isolate="bCatUst1"
+                     /db_xref="taxon:91951"
+                     /chromosome="Unknown"
+                     /sex="female"
+                     /tissue_type="blood"
+                     /dev_stage="adult"
+                     /country="Canada: Kamloops"
+                     /lat_lon="50.67613 N 120.33787 W"
+                     /collection_date="15-Jul-2018"
+                     /collected_by="Kira Delmore"
+     Protein         1..537
+                     /product="vesicular glutamate transporter 1"
+                     /calculated_mol_wt=57597
+     CDS             1..537
+                     /gene="SLC17A7"
+                     /coded_by="XM_033086701.1:1..1614"
+                     /db_xref="GeneID:117011347"
+ORIGIN      
+        1 mefnkeefrr qprrflerrq ddpeslelss ggsapaaprp pvldctfcgl prrygiailc
+       61 gigfcisfgi rcnlgvavvs mvnpshgqha qfnwdpetvg mihgsffwgy ivtqipggfi
+      121 aqkfaanrvf glaivstsvl nmlipaaara hvgcviavrv mqglvegvty pachgiwskw
+      181 applersrla ttafcgsyag avvamplagv lvqytgwssv fyvygsfgvc wylfwvlvsy
+      241 espaqhptia peerkyiees igesagsnpl llatpwrqff tsmpvyaiiv anfcrswtfy
+      301 lllisqpayf eevfgfeisk vgllsalphl vmtivvpigg qiadflrsrg lmsttnvrkm
+      361 mncggfgmea tlllvvgysh sravaisflv lavgfsgfai sgfnvnhldi apryasvlmg
+      421 lsngvgtlsg mvcplivgal trhktreewq wvfliaalvh yagvafygaf asgepqpwae
+      481 ppreeaepla pgglgsdeee eegeeegagv ggggppggpp asygatgttp apgtphg
+//
+

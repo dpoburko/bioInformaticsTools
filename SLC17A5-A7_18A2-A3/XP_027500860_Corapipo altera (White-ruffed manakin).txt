@@ -1,0 +1,64 @@
+
+LOCUS       XP_027500860             484 aa            linear   VRT 11-JAN-2019
+DEFINITION  sialin isoform X1 [Corapipo altera].
+ACCESSION   XP_027500860
+VERSION     XP_027500860.1
+DBLINK      BioProject: PRJNA512899
+DBSOURCE    REFSEQ: accession XM_027645059.1
+KEYWORDS    RefSeq.
+SOURCE      Corapipo altera (White-ruffed manakin)
+  ORGANISM  Corapipo altera
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Passeriformes; Pipridae; Corapipo.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_020884890.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA and EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Corapipo altera Annotation Release
+                                           100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.1
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..484
+                     /organism="Corapipo altera"
+                     /isolate="COAL_440"
+                     /db_xref="taxon:415028"
+                     /chromosome="Unknown"
+                     /sex="female"
+                     /tissue_type="liver and muscle"
+                     /dev_stage="adult"
+                     /country="Costa Rica: Volcan Tenorio National Park"
+                     /lat_lon="10.40 N 85.0 W"
+                     /collection_date="2017"
+     Protein         1..484
+                     /product="sialin isoform X1"
+                     /calculated_mol_wt=53143
+     CDS             1..484
+                     /gene="SLC17A5"
+                     /coded_by="XM_027645059.1:127..1581"
+                     /db_xref="GeneID:113947910"
+ORIGIN      
+        1 mepeegedrt pllkesqpgt vpaccsaryn lallacfgff llyalrvnls valvdmvepn
+       61 tslaknatsn vcpehsstin vprnttgeky swdadtqgwi lgsffygyii tqipggylas
+      121 kiggklllgf gifgtsvftl ltplaanlgv gyliavrale glgegvtfpa mhsmwsswap
+      181 plerskllsi syagaqlgtv vslplsglic yymnwvyvfy ifgalgvlww ffwmclvsdt
+      241 pethrsilha ereyilsslk dqlstqksvp wrpmlkslpl waivvahfsy nwtfytlltl
+      301 lptymkeilr fdaqengfls alpyfgcwlc iilsgqiady lrekqnfstv cvrkcftlig
+      361 migpalflva agfigcnyal avafvtistt lggfctsgys inhldiapsy agillgitns
+      421 fatipgmvgp viaknlthnn tvgewqtvfy iaasinlfga iffalfasge vqdwavsgyr
+      481 lhrn
+//
+

@@ -1,0 +1,64 @@
+
+LOCUS       XP_035028400             493 aa            linear   VRT 29-JUN-2020
+DEFINITION  sialin [Hippoglossus stenolepis].
+ACCESSION   XP_035028400
+VERSION     XP_035028400.1
+DBLINK      BioProject: PRJNA642014
+DBSOURCE    REFSEQ: accession XM_035172509.1
+KEYWORDS    RefSeq.
+SOURCE      Hippoglossus stenolepis (Pacific halibut)
+  ORGANISM  Hippoglossus stenolepis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Carangaria; Pleuronectiformes; Pleuronectoidei;
+            Pleuronectidae; Hippoglossus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_048938.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Hippoglossus stenolepis Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.4
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..493
+                     /organism="Hippoglossus stenolepis"
+                     /isolate="PH-IPHC-18"
+                     /db_xref="taxon:195615"
+                     /chromosome="12"
+                     /sex="female"
+                     /tissue_type="blood"
+                     /dev_stage="adult"
+                     /country="USA: Seward, Alaska"
+                     /collection_date="23-Oct-2018"
+                     /collected_by="Josep V. Planas"
+     Protein         1..493
+                     /product="sialin"
+                     /calculated_mol_wt=53938
+     CDS             1..493
+                     /gene="slc17a5"
+                     /coded_by="XM_035172509.1:118..1599"
+                     /db_xref="GeneID:118118937"
+ORIGIN      
+        1 msrfssdved eqdtpllhrg hedkvhrapv ccssryglal lssygffvvy slrvnlsvam
+       61 vdmlnnthqa danhsgtvcp ahanparpkh nhtasvydwd setqgwilgs ffygyiltqi
+      121 pggylagryg pkwlmgfgil gtvfftlltp vaadlgasyl iavrvlegvg egvtfpamyt
+      181 mwaawapple rsrlltisyi gaqlgtvisl plsgeicfyl dwtyvfyvfg anglvwfilw
+      241 aflafdspnt hprisererl yitnslknel stsagyipwr aivtsrplwa ivvahfsynw
+      301 tfytlltllp tymndilgfs iqqngllsal pylgcavfav lsgqiadylr etcrtptvtv
+      361 rkvfsligmi gpavflvaag ytgcnyvlai tfltissalg gvsasgfnin hldiapsyag
+      421 illgitntfa tipgmvgpvi aralttnnti eewqtvfyia asinlvgasf ytvfgrgtvq
+      481 pwavhtslph hgd
+//
+

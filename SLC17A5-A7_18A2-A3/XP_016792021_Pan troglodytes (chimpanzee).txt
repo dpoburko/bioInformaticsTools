@@ -1,0 +1,70 @@
+
+LOCUS       XP_016792021             560 aa            linear   PRI 20-MAR-2018
+DEFINITION  vesicular glutamate transporter 1 [Pan troglodytes].
+ACCESSION   XP_016792021
+VERSION     XP_016792021.2
+DBLINK      BioProject: PRJNA10627
+DBSOURCE    REFSEQ: accession XM_016936532.2
+KEYWORDS    RefSeq.
+SOURCE      Pan troglodytes (chimpanzee)
+  ORGANISM  Pan troglodytes
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Pan.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_036898.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA and EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            On Mar 20, 2018 this sequence version replaced XP_016792021.1.
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Pan troglodytes Annotation Release
+                                           105
+            Annotation Version          :: 105
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.0
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..560
+                     /organism="Pan troglodytes"
+                     /isolate="Yerkes chimp pedigree #C0471 (Clint)"
+                     /db_xref="taxon:9598"
+                     /chromosome="19"
+                     /sex="male"
+                     /tissue_type="blood"
+                     /dev_stage="full grown adult"
+     Protein         1..560
+                     /product="vesicular glutamate transporter 1"
+                     /calculated_mol_wt=61452
+     Region          49..502
+                     /region_name="UhpC"
+                     /note="Sugar phosphate permease [Carbohydrate transport
+                     and metabolism]; cl27298"
+                     /db_xref="CDD:332119"
+     CDS             1..560
+                     /gene="SLC17A7"
+                     /coded_by="XM_016936532.2:167..1849"
+                     /db_xref="GeneID:456204"
+                     /db_xref="VGNC:VGNC:7787"
+ORIGIN      
+        1 mefrqeefrk lagralgklh rllekrqega etlelsadgr pvttqtrdpp vvdctcfglp
+       61 rryiiaimsg lgfcisfgir cnlgvaivsm vnnstthrgg hvvvqkaqfs wdpetvglih
+      121 gsffwgyivt qipggficqk faanrvfgfa ivatstlnml ipsaarvhyg cvifvrilqg
+      181 lvegvtypac hgiwskwapp lersrlatta fcgsyagavv amplagvlvq ysgwssvfyv
+      241 ygsfgifwyl fwllvsyesp alhpsiseee rkyiedaige gaklmnpltk fstpwrrfft
+      301 smpvyaiiva nfcrswtfyl llisqpayfe evfgfeiskv glvsalphlv mtiivpiggq
+      361 iadflrsrri msttnvrklm ncggfgmeat lllvvgyshs kgvaisflvl avgfsgfais
+      421 gfnvnhldia pryasilmgi sngvgtlsgm vcpiivgamt khktreewqy vfliaslvhy
+      481 ggvifygvfa sgekqpwaep eemseekcgf vghdqlagsd dsemedeaep pgappappps
+      541 ygathstfqp prppppvrdy
+//
+

@@ -1,0 +1,56 @@
+
+LOCUS       XP_031817605             256 aa            linear   MAM 31-DEC-2019
+DEFINITION  vesicular glutamate transporter 1 [Sarcophilus harrisii].
+ACCESSION   XP_031817605
+VERSION     XP_031817605.1
+DBLINK      BioProject: PRJNA596784
+DBSOURCE    REFSEQ: accession XM_031961745.1
+KEYWORDS    RefSeq; includes ab initio.
+SOURCE      Sarcophilus harrisii (Tasmanian devil)
+  ORGANISM  Sarcophilus harrisii
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Metatheria; Dasyuromorphia; Dasyuridae; Sarcophilus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_045428.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Sarcophilus harrisii Annotation
+                                           Release 103
+            Annotation Version          :: 103
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.3
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            ab initio :: 1% of CDS bases
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..256
+                     /organism="Sarcophilus harrisii"
+                     /db_xref="taxon:9305"
+                     /chromosome="3"
+                     /cell_line="91H"
+     Protein         1..256
+                     /product="vesicular glutamate transporter 1"
+                     /calculated_mol_wt=28289
+     CDS             1..256
+                     /gene="SLC17A7"
+                     /coded_by="XM_031961745.1:178..948"
+                     /db_xref="GeneID:100930519"
+ORIGIN      
+        1 msglgfcisf gircnlgvai vsmvnnstvh kgghvtvqka qfnwdpetvg lihgsffwgy
+       61 ivtqipggfi cqkfaanrvf gfaivatstl nmlipsaarv hygcvifvri lqglvegvty
+      121 pachgiwskw applersrla ttafcgsyag avvamplagv lvqysgwssv fyvygsfgif
+      181 wylfwllvsy espaqhpsis eeerkyieda igesarlmnp lvkfstpwrr fftsmpvyai
+      241 ivanfcrswt fpllaf
+//
+

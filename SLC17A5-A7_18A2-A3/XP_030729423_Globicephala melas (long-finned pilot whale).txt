@@ -1,0 +1,64 @@
+
+LOCUS       XP_030729423             650 aa            linear   MAM 19-SEP-2019
+DEFINITION  vesicular glutamate transporter 1 [Globicephala melas].
+ACCESSION   XP_030729423
+VERSION     XP_030729423.1
+DBLINK      BioProject: PRJNA563901
+DBSOURCE    REFSEQ: accession XM_030873563.1
+KEYWORDS    RefSeq.
+SOURCE      Globicephala melas (long-finned pilot whale)
+  ORGANISM  Globicephala melas
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Cetartiodactyla; Cetacea;
+            Odontoceti; Delphinidae; Globicephala.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_022134897.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Globicephala melas Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..650
+                     /organism="Globicephala melas"
+                     /isolate="X-22926-18"
+                     /db_xref="taxon:9731"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /tissue_type="brain"
+                     /dev_stage="adult"
+                     /country="Canada: North Lake, Prince Edward Island"
+     Protein         1..650
+                     /product="vesicular glutamate transporter 1"
+                     /calculated_mol_wt=69900
+     CDS             1..650
+                     /gene="SLC17A7"
+                     /coded_by="XM_030873563.1:629..2581"
+                     /db_xref="GeneID:115862162"
+ORIGIN      
+        1 mgscerwagl eykgpglawm ggaspcptpp ptlspvtapr qpalaasfpp sgaagpagpg
+       61 rtpgtrtrpp gpagggiggg gegpaagaat mefrqeefrk lagralgrlh rllekrqega
+      121 etlelsadgr pvttqtrdpp vvdctcfglp rryiiaimsg lgfcisfgir cnlgvaivsm
+      181 vnnstthrgg hvvvqqaqft wdpetvglih gsffwgyivt qipggficqk faanrvfgfa
+      241 ivatstlnml ipsaarvhyg cvifvrilqg lvegvtypac hgiwskwapp lersrlatta
+      301 fcgsyagavv amplagvlvq ysgwssvfyv ygsfgifwyl fwllvsyesp alhpsiseee
+      361 rkyiedaige saklmnpvtk fntpwrrfft smpvyaiiva nfcrswtfyl llisqpayfe
+      421 evfgfeiskv glvsalphlv mtiivpiggq iadflrsrri msttnvrklm ncggfgmeat
+      481 lllvvgyshs kgvaisflvl avgfsgfais gfnvnhldia pryasilmgi sngvgtlsgm
+      541 vcpiivgamt khktreewqy vfliaslvhy ggvifygvfa sgekqpwaep eemseekcgf
+      601 vghdqlagsd esemedeaep pgappappps ygathstvqp prppppvrdy
+//
+

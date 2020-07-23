@@ -1,0 +1,77 @@
+
+LOCUS       XP_002756167             532 aa            linear   PRI 04-JUL-2020
+DEFINITION  vesicular acetylcholine transporter [Callithrix jacchus].
+ACCESSION   XP_002756167
+VERSION     XP_002756167.1
+DBLINK      BioProject: PRJNA635392
+DBSOURCE    REFSEQ: accession XM_002756121.4
+KEYWORDS    RefSeq.
+SOURCE      Callithrix jacchus (white-tufted-ear marmoset)
+  ORGANISM  Callithrix jacchus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Cebidae; Callitrichinae; Callithrix; Callithrix.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_048394.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA and EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Callithrix jacchus Annotation
+                                           Release 105
+            Annotation Version          :: 105
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.4
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..532
+                     /organism="Callithrix jacchus"
+                     /strain="cj1700"
+                     /db_xref="taxon:9483"
+                     /chromosome="12"
+                     /sex="female"
+                     /cell_line="cj1700"
+                     /tissue_type="skin"
+                     /collected_by="Wisconsin Primate Research Center"
+     Protein         1..532
+                     /product="vesicular acetylcholine transporter"
+                     /calculated_mol_wt=56834
+     Region          124..458
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Site            order(128,131..132,135,139..140,142..143,189..190,
+                     193..194,197..198,201,214..215,218..219,225,299,302..303,
+                     306..307,310,327,331,335,338,342,391,394..395,398,
+                     402..403,406,420..421,424..425,428..429,432)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..532
+                     /gene="SLC18A3"
+                     /coded_by="XM_002756121.4:440..2038"
+                     /db_xref="GeneID:100385857"
+ORIGIN      
+        1 mepaapagqa rvaatklsea vgaalqeprr qrqlvlvivc vallldnmly mvivpivpdy
+       61 iahmrgggeg ptptpevwep tlplptptna sayaantsas ptaawpagta lrpryptese
+      121 dvkigvlfas kailqllvnp lsgpfidrms ydvplliglg vmfastvmfa faedyatlfa
+      181 arslqglgsa fadtsgiami adkypeeper sralgvalaf isfgslvapp fggilyefag
+      241 krvpflvlaa vslfdallll avakpfsaaa raranlpvgt pihrlmldpy iavvagaltt
+      301 cniplaflep tiatwmkhtm aasewemgmv wlpafvphvl gvyltvrlaa ryphlqwlyg
+      361 alglavigas sclvpachsf wplvislcgl cfgialvdta llptlaflvd vrhvsvygsv
+      421 yaiadisysv ayalgpivag hivhslgfeq lslgmglanl lyapvllllr nvglltrsrs
+      481 erdvlldepp qglydavrlr erpvsgqdge prsppgpfde ceddynycyt rs
+//
+

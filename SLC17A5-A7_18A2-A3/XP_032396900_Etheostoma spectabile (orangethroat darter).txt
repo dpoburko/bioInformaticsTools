@@ -1,0 +1,63 @@
+
+LOCUS       XP_032396900             491 aa            linear   VRT 21-FEB-2020
+DEFINITION  sialin [Etheostoma spectabile].
+ACCESSION   XP_032396900
+VERSION     XP_032396900.1
+DBLINK      BioProject: PRJNA606051
+DBSOURCE    REFSEQ: accession XM_032541009.1
+KEYWORDS    RefSeq.
+SOURCE      Etheostoma spectabile (orangethroat darter)
+  ORGANISM  Etheostoma spectabile
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Percoidei; Percidae;
+            Etheostomatinae; Etheostoma.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_045749.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Etheostoma spectabile Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.3
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..491
+                     /organism="Etheostoma spectabile"
+                     /isolate="EspeVRDwgs_2016"
+                     /db_xref="taxon:54343"
+                     /chromosome="17"
+                     /sex="male"
+                     /tissue_type="muscle"
+                     /dev_stage="adult"
+                     /country="USA: Vermillion River drainage, Champaign
+                     County, IL"
+     Protein         1..491
+                     /product="sialin"
+                     /calculated_mol_wt=53720
+     CDS             1..491
+                     /gene="slc17a5"
+                     /coded_by="XM_032541009.1:153..1628"
+                     /db_xref="GeneID:116705126"
+ORIGIN      
+        1 mergesdteg ddtpllhrgt edkvqrapac cssryglall ssfgffvvys lrvnlsvamv
+       61 dmlnnthqss tnhsssvcpa hanparpkhn htasvydwds qtqgwilgsf fygyiltqip
+      121 ggylsgrfgp kwlmgfgilg tvvftlltpv aadlgasyli avrvlegige gvtfpamytm
+      181 waawappler srlltisyig aqlgtvialp lsgeicfyld wtyvfyvfga vglvwfflwa
+      241 flvfdspnth prisererly ittslknels tsagyipwra iltsmplwai vvahfsynwt
+      301 fytlltllpt ymndvlgfsi qqngmlsalp yigcavlavl sgqladylre tclyptvvvr
+      361 ksfsivgmlg pavflvavgy tgcnytlavt fltissalgg vsasgfninh ldiapsyagi
+      421 llgitntfat ipgmvgpvia reltkqntie ewqtvfyiaa ainlfgaafy tlfgrgtvqp
+      481 wavhtsfsnr d
+//
+

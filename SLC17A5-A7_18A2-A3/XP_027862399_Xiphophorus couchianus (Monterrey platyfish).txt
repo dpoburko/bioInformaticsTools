@@ -1,0 +1,76 @@
+
+LOCUS       XP_027862399             493 aa            linear   VRT 11-FEB-2019
+DEFINITION  sialin [Xiphophorus couchianus].
+ACCESSION   XP_027862399
+VERSION     XP_027862399.1
+DBLINK      BioProject: PRJNA516883
+DBSOURCE    REFSEQ: accession XM_028006598.1
+KEYWORDS    RefSeq.
+SOURCE      Xiphophorus couchianus (Monterrey platyfish)
+  ORGANISM  Xiphophorus couchianus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Atherinomorphae; Cyprinodontiformes;
+            Poeciliidae; Poeciliinae; Xiphophorus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_040249.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Xiphophorus couchianus Annotation
+                                           Release 101
+            Annotation Version          :: 101
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.1
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..493
+                     /organism="Xiphophorus couchianus"
+                     /isolation_source="77th inbred generation (sibling line
+                     bred)"
+                     /specimen_voucher="Xc77(B)"
+                     /db_xref="taxon:32473"
+                     /chromosome="22"
+                     /sex="female"
+                     /country="Mexico: Nuevo Leon, Huasteca Canyon"
+                     /collection_date="1961"
+     Protein         1..493
+                     /product="sialin"
+                     /calculated_mol_wt=53853
+     Region          39..476
+                     /region_name="MFS_SLC17A5"
+                     /note="Solute carrier family 17 member 5 (also called
+                     sialin) of the Major Facilitator Superfamily of
+                     transporters; cd17381"
+                     /db_xref="CDD:340939"
+     Site            order(50..51,54..55,58,120,172..173,175..177,180,200,
+                     203..204,207,296,299..300,303..305,308,336,340,399..400,
+                     404,408,424,427..428,431..432,435)
+                     /site_type="other"
+                     /note="putative chemical substrate binding pocket
+                     [chemical binding]"
+                     /db_xref="CDD:340939"
+     CDS             1..493
+                     /gene="slc17a5"
+                     /coded_by="XM_028006598.1:98..1579"
+                     /db_xref="GeneID:114137782"
+ORIGIN      
+        1 merydsdtek deqqrpllhr rqddkvhrap accssrygla llssygffvv yslrvnlsva
+       61 mvdmlnnthq sssnhsgsvc tpddnpvppk hnqsagvynw dsatqgwilg sffygyiltq
+      121 ipggylagrc gakwlmgfgv lgtalftllt plaadlgasy liavrvlegv gegvtfpamy
+      181 tmwaswappl ersrlltisy igaqlgtvva lplsgeicfy mgwpyvfylf gavglvwfvl
+      241 waflvfdspn shpriseqer lyitnslkne lstssghipw raivtsmplm aivvahfsyn
+      301 wtfytlltll ptymndilgf siqqngflsa lpylgcalma vlsgqvadyl retclyptvi
+      361 vrksfsligm igpavflvaa gytgcnytla vtfltissal ggvsasgfni nhldiapsya
+      421 gillgitntf atipgmvgpv iaralthsnt ieewqtvfyi aaainvfgal fytvfgrgtv
+      481 qpwaihttys hgd
+//
+

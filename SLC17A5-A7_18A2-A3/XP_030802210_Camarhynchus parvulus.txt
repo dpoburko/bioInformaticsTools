@@ -1,0 +1,58 @@
+
+LOCUS       XP_030802210             484 aa            linear   VRT 26-SEP-2019
+DEFINITION  sialin [Camarhynchus parvulus].
+ACCESSION   XP_030802210
+VERSION     XP_030802210.1
+DBLINK      BioProject: PRJNA566393
+DBSOURCE    REFSEQ: accession XM_030946350.1
+KEYWORDS    RefSeq.
+SOURCE      Camarhynchus parvulus
+  ORGANISM  Camarhynchus parvulus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Passeriformes; Thraupidae;
+            Camarhynchus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_044573.1) annotated using gene prediction method: Gnomon,
+            supported by EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Camarhynchus parvulus Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..484
+                     /organism="Camarhynchus parvulus"
+                     /db_xref="taxon:87175"
+                     /chromosome="3"
+     Protein         1..484
+                     /product="sialin"
+                     /calculated_mol_wt=53245
+     CDS             1..484
+                     /gene="SLC17A5"
+                     /coded_by="XM_030946350.1:212..1666"
+                     /db_xref="GeneID:115902667"
+ORIGIN      
+        1 mepeegedrt pllkepqpdt vpaccsaryn ltllacfgff lvyalrvnls valvdmvepn
+       61 tssaknvtss vcpehsstmn vprnttgeky swdaetqgwi lgsffygyii tqipggylas
+      121 riggklllgf gifgtsvftl ltplaanlgv gyliavrale glgegvtfpa mhsmwsswap
+      181 plerskllsi syagaqlgtv vslplsglic yymnwvyvfy ifgalgilww ffwmllvsdt
+      241 pethrsisha ereyilsslk dqlstqksvp wrpmlgslpl waivvahfsy nwtfytlltl
+      301 lptymkeilr fdaqengfls alpyfgcwlc iilsgqiady lrekqnfstv cvrkcftlig
+      361 migpalflva agfigcnyal avafvtistt lggfctsgys inhldiapsy agillgitns
+      421 fatipgmvgp viakslthnn tveewqmvfy iaasinlfga iffalfasge vqdwavsgyh
+      481 lhrn
+//
+

@@ -1,0 +1,59 @@
+
+LOCUS       XP_033798846             527 aa            linear   VRT 28-APR-2020
+DEFINITION  vesicular acetylcholine transporter [Geotrypetes seraphini].
+ACCESSION   XP_033798846
+VERSION     XP_033798846.1
+DBLINK      BioProject: PRJNA627137
+DBSOURCE    REFSEQ: accession XM_033942955.1
+KEYWORDS    RefSeq; includes ab initio.
+SOURCE      Geotrypetes seraphini
+  ORGANISM  Geotrypetes seraphini
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Gymnophiona; Geotrypetes.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_047087.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Geotrypetes seraphini Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.4
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            ab initio :: 1% of CDS bases
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..527
+                     /organism="Geotrypetes seraphini"
+                     /db_xref="taxon:260995"
+                     /chromosome="4"
+     Protein         1..527
+                     /product="vesicular acetylcholine transporter"
+                     /calculated_mol_wt=57489
+     CDS             1..527
+                     /gene="SLC18A3"
+                     /coded_by="XM_033942955.1:1..1584"
+                     /db_xref="GeneID:117359738"
+ORIGIN      
+        1 midadvttgr aktaveklsd amgertkqig iamqdihhlr rlilvivcia llldnmlymv
+       61 ivpiipdyil sfrkggqeqt lnvsenssna skpilragyp tenedikigv lfaskailql
+      121 linplsgtfi drvgydipll igltvmffst vifafaenya tlfvarslqg lgsafadtsg
+      181 iamiadkyte eaersralgi alafisfgsl aappfggily qfagkrvpfi ilacislvdg
+      241 illltiikpf tnrtrenmpv gtpihrlmid pyiavvagal ttcniplafl eptiatwmkk
+      301 tmdasewemg ltwlpaffph vlgvyitvkl askypqyqwf ygalgmviig assctvpacr
+      361 nfgqlivplc gicfgialvd tallptlall vdlrhvsvyg svyaiadisy svayalgpiv
+      421 agqivhtmgf vqlnlgmgla nvlyapallf lrnicqmkps hsernillee gpkglydtik
+      481 meerkskgkh qdtnmaggvq enstdsysrd qtgryvseed ssdyeys
+//
+

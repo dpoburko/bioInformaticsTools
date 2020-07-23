@@ -1,0 +1,61 @@
+
+LOCUS       XP_034993413             521 aa            linear   VRT 24-JUN-2020
+DEFINITION  synaptic vesicular amine transporter [Zootoca vivipara].
+ACCESSION   XP_034993413
+VERSION     XP_034993413.1
+DBLINK      BioProject: PRJNA638687
+DBSOURCE    REFSEQ: accession XM_035137522.1
+KEYWORDS    RefSeq.
+SOURCE      Zootoca vivipara (common lizard)
+  ORGANISM  Zootoca vivipara
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+            Laterata; Lacertibaenia; Lacertidae; Zootoca.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_048618.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Zootoca vivipara Annotation Release
+                                           100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.4
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..521
+                     /organism="Zootoca vivipara"
+                     /isolate="ELT05324"
+                     /db_xref="taxon:8524"
+                     /sex="female"
+                     /tissue_type="whole"
+                     /dev_stage="adult"
+                     /country="United Kingdom: Isle of Cumbrae, Scotland"
+                     /linkage_group="LG14"
+     Protein         1..521
+                     /product="synaptic vesicular amine transporter"
+                     /calculated_mol_wt=56649
+     CDS             1..521
+                     /gene="SLC18A2"
+                     /coded_by="XM_035137522.1:129..1694"
+                     /db_xref="GeneID:118096154"
+ORIGIN      
+        1 mawsefgvls wlresrqsrk lillivfial lldnmlltvv vpiipsylys iahqknatei
+       61 qtirpetstl sldsfqsifs yydnstmitg nhsegtrpgd fyharteqmv vnmtqaspts
+      121 dcpkedkdll nenvqvgllf askatvqllt npfigpmtnr igyqipmfag fcimfvstim
+      181 fafsesykll fiarslqgvg sscssvagmg mlasvytdde ergnamgial ggmamgvlvg
+      241 ppfgsvmyef vgktapflvl aalalldggi qllilqpsri qpesqkgasl ltllrdpyii
+      301 iaagsicfsn maiamlepal piwmmetmcs rkwqlgvafi pasvsyligt nifgvlahkm
+      361 grwlcaligm vivgisilcv plarniygli apnfgvgfai gmvdssmmpi mgylvdlrhv
+      421 svygsvyaia dvafcmgfal gpsaggaiak aigfpwlmti igiidilfap lclflrsppa
+      481 keekiailmd hnchyktkmy tqnniqshpi gdneeesesd e
+//
+

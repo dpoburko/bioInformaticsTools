@@ -1,0 +1,60 @@
+
+LOCUS       XP_003759321             545 aa            linear   MAM 31-DEC-2019
+DEFINITION  vesicular acetylcholine transporter [Sarcophilus harrisii].
+ACCESSION   XP_003759321
+VERSION     XP_003759321.2
+DBLINK      BioProject: PRJNA596784
+DBSOURCE    REFSEQ: accession XM_003759273.3
+KEYWORDS    RefSeq.
+SOURCE      Sarcophilus harrisii (Tasmanian devil)
+  ORGANISM  Sarcophilus harrisii
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Metatheria; Dasyuromorphia; Dasyuridae; Sarcophilus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_045427.1) annotated using gene prediction method: Gnomon,
+            supported by EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            On Dec 31, 2019 this sequence version replaced XP_003759321.1.
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Sarcophilus harrisii Annotation
+                                           Release 103
+            Annotation Version          :: 103
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.3
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..545
+                     /organism="Sarcophilus harrisii"
+                     /db_xref="taxon:9305"
+                     /chromosome="2"
+                     /cell_line="91H"
+     Protein         1..545
+                     /product="vesicular acetylcholine transporter"
+                     /calculated_mol_wt=58465
+     CDS             1..545
+                     /gene="SLC18A3"
+                     /coded_by="XM_003759273.3:569..2206"
+                     /db_xref="GeneID:100920172"
+ORIGIN      
+        1 maapaglaka aagklseavg ertrrlgsal qethrqrrli lvivcvalfl dnmlymvivp
+       61 ivpvyiagmh kgseedsphh hhhpplppta nasqpanats aptpppkssa kptyptesed
+      121 ikigvlfask ailqllvnpl sgpfidrvgy daplliglgv mfastvlfaf aedyatlfaa
+      181 rslqglgsaf adtsgiamia dkypeepers ralgvalafi sfgslvappf ggalyqfagk
+      241 rypflvlavv slldgfllml vakpfsvkar enlpvgtpih rlmldpyiav vagalttcni
+      301 plafleptia nwmkesmgan ewemgltwlp affphvlgvy ltvklaaryp hlqwfygalg
+      361 lvvigassct vpachnfgql vvplcgicfg ialvdtallp tlaflvdvrh vsvygsvyai
+      421 adisysvaya lgpivasqiv htlgfpqlnl gmglanllya pvllllrnvc ymtpsrseqd
+      481 vlldespkgl ydtirleerl gkdkprhglp pegevslgwe gegaaqdrpr alsgeessdy
+      541 dyeys
+//
+

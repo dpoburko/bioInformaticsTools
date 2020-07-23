@@ -1,0 +1,119 @@
+
+LOCUS       NP_001009742             495 aa            linear   MAM 25-JUN-2020
+DEFINITION  sialin [Ovis aries].
+ACCESSION   NP_001009742 XP_014952738
+VERSION     NP_001009742.1
+DBSOURCE    REFSEQ: accession NM_001009742.1
+KEYWORDS    RefSeq.
+SOURCE      Ovis aries (sheep)
+  ORGANISM  Ovis aries
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Artiodactyla; Ruminantia;
+            Pecora; Bovidae; Caprinae; Ovis.
+REFERENCE   1  (residues 1 to 495)
+  AUTHORS   Fu C, Bardhan S, Cetateanu ND, Wamil BD, Wang Y, Yan HP, Shi E,
+            Carter C, Venkov C, Yakes FM, Page DL, Lloyd RS, Mernaugh RL and
+            Hellerqvist CG.
+  TITLE     Identification of a novel membrane protein, HP59, with therapeutic
+            potential as a target of tumor angiogenesis
+  JOURNAL   Clin. Cancer Res. 7 (12), 4182-4194 (2001)
+   PUBMED   11751519
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. The reference sequence was derived from AF244578.1.
+            On Dec 20, 2015 this sequence version replaced XP_014952738.1.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: AF244578.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMEA104494983, SAMEA104495006
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..495
+                     /organism="Ovis aries"
+                     /db_xref="taxon:9940"
+                     /chromosome="8"
+                     /map="8"
+     Protein         1..495
+                     /product="sialin"
+                     /note="membrane glycoprotein SP55; sodium/sialic acid
+                     cotransporter; solute carrier family 17 (anion/sugar
+                     transporter), member 5"
+                     /calculated_mol_wt=54405
+     Site            3
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine. {ECO:0000250|UniProtKB:Q9NRA2};
+                     propagated from UniProtKB/Swiss-Prot (Q9MZD1.1)"
+     Region          33..486
+                     /region_name="2A0114euk"
+                     /note="Na(+)-dependent inorganic phosphate cotransporter;
+                     TIGR00894"
+                     /db_xref="CDD:129972"
+     Site            42..62
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9MZD1.1)"
+     Region          99..478
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Site            110..130
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9MZD1.1)"
+     Site            order(112,115..116,119,123..124,126..127,175..176,
+                     179..180,183..184,187,199..200,203..204,210,302,305..306,
+                     309..310,313,327,331,335,338,342,399,402..403,406,
+                     410..411,414,425..426,429..430,433..434,437)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     Site            137..157
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9MZD1.1)"
+     Site            159..179
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9MZD1.1)"
+     Site            201..221
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9MZD1.1)"
+     Site            228..248
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9MZD1.1)"
+     Site            289..309
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9MZD1.1)"
+     Site            329..349
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9MZD1.1)"
+     Site            366..386
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9MZD1.1)"
+     Site            392..412
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9MZD1.1)"
+     Site            424..444
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9MZD1.1)"
+     Site            458..478
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9MZD1.1)"
+     CDS             1..495
+                     /gene="SLC17A5"
+                     /gene_synonym="SP55"
+                     /coded_by="NM_001009742.1:84..1571"
+                     /db_xref="GeneID:443098"
+ORIGIN      
+        1 mkspvsdlap sdgeegsdrt pllqraprae papvccsary nlaflsffgf fvlyslrvnl
+       61 svalvdmvds nttakdnrts yecaehsapi kvlhnqtgkk yrwdaetqgw ilgsffygyi
+      121 itqipggyva srsggklllg fgifataift lftplaadfg vgalvalral eglgegvtyp
+      181 amhamwsswa pplersklls isyagaqlgt vvslplsgvi cyymnwtyvf yffgivgiiw
+      241 filwiclvsd tpethktitp yekeyilssl knqlssqksv pwipmlkslp lwaivvahfs
+      301 ynwtfytllt llptymkevl rfniqengfl savpylgcwl cmilsgqaad nlrarwnfst
+      361 lwvrrvfsli gmigpaiflv aagfigcdys lavafltist tlggfcssgf sinhldiaps
+      421 yagillgitn tfatipgmig piiarsltpe ntigewqtvf ciaaainvfg aifftlfakg
+      481 evqnwaisdh qghrn
+//
+

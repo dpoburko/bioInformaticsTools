@@ -1,0 +1,64 @@
+
+LOCUS       XP_032959041             501 aa            linear   MAM 23-MAR-2020
+DEFINITION  sialin isoform X1 [Rhinolophus ferrumequinum].
+ACCESSION   XP_032959041
+VERSION     XP_032959041.1
+DBLINK      BioProject: PRJNA613604
+DBSOURCE    REFSEQ: accession XM_033103150.1
+KEYWORDS    RefSeq.
+SOURCE      Rhinolophus ferrumequinum (greater horseshoe bat)
+  ORGANISM  Rhinolophus ferrumequinum
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Chiroptera; Microchiroptera;
+            Rhinolophidae; Rhinolophinae; Rhinolophus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_046286.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Rhinolophus ferrumequinum Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.4
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..501
+                     /organism="Rhinolophus ferrumequinum"
+                     /isolate="MPI-CBG mRhiFer1"
+                     /db_xref="taxon:59479"
+                     /chromosome="3"
+                     /sex="male"
+                     /tissue_type="liver"
+                     /country="United Kingdom: Woodchester Mansion,
+                     Gloucestershire"
+                     /lat_lon="51.7108 N 2.2776 W"
+                     /collection_date="2016-05-31"
+                     /collected_by="Gareth Jones"
+     Protein         1..501
+                     /product="sialin isoform X1"
+                     /calculated_mol_wt=54697
+     CDS             1..501
+                     /gene="SLC17A5"
+                     /coded_by="XM_033103150.1:125..1630"
+                     /db_xref="GeneID:117020563"
+ORIGIN      
+        1 mrspvrgrsp vrglspidge evsdntpllq gapqaeaapv ccsarynlav laffgffvly
+       61 alrvnlsval vdmvdsnttl adnrtskeca ehsaskkalh kqmgkryqwd aetqgwilgs
+      121 ffygyiitqi pggyvaskvg gklllglgil gtsiftlftp iaadfgvgal ivlraleglg
+      181 egvtfpamha mwsswapple rskllsisya gaqlgtvisl plsgiicfym nwtyvfylfg
+      241 ivgiiwfalw iwlvsdspet hksishseke yilsslknql ssqktvpwip mlkslplwai
+      301 vvahfsynws fytlltllpt ymkeilrfnv qedgilsavp yfgcwlcmil sgqaadhlra
+      361 kwnfsticvr rifsligmig pavflvaagf igcdyslava fltisttlgg fctsgfsinh
+      421 ldiapsyagi llgitntfgt ipgmvgpvia ksltpentir ewqtvfciaa ainvfgaiff
+      481 alfakgevqn walsdhhghr n
+//
+

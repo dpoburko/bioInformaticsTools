@@ -1,0 +1,61 @@
+
+LOCUS       XP_032660715             523 aa            linear   VRT 13-MAR-2020
+DEFINITION  vesicular acetylcholine transporter [Chelonoidis abingdonii].
+ACCESSION   XP_032660715
+VERSION     XP_032660715.1
+DBLINK      BioProject: PRJNA611832
+DBSOURCE    REFSEQ: accession XM_032804824.1
+KEYWORDS    RefSeq.
+SOURCE      Chelonoidis abingdonii (Abingdon island giant tortoise)
+  ORGANISM  Chelonoidis abingdonii
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Testudines; Cryptodira; Durocryptodira;
+            Testudinoidea; Testudinidae; Chelonoidis.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_022641195.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Chelonoidis abingdonii Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.3
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..523
+                     /organism="Chelonoidis abingdonii"
+                     /isolate="Lonesome George"
+                     /db_xref="taxon:106734"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /tissue_type="blood"
+                     /dev_stage="adult"
+                     /country="Ecuador: Galapagos Islands"
+     Protein         1..523
+                     /product="vesicular acetylcholine transporter"
+                     /calculated_mol_wt=56416
+     CDS             1..523
+                     /gene="SLC18A3"
+                     /coded_by="XM_032804824.1:478..2049"
+                     /db_xref="GeneID:116839120"
+ORIGIN      
+        1 mateggagla kstveklsda mgektkqlgt amrdvhrqrr lilvivcval fldnmlymvi
+       61 vpimpsyltm weaqesnasr anakaanasw tkvvlgpgyp penedikigv lfaskailql
+      121 lvnplsgtfi drvgydipll igltvmflst iifalaenya tlfaarslqg lgsafadtsg
+      181 iamiadkyte esdrsralgi alafisfgsl vappfggvly qfagrpvpfl vlasvclldc
+      241 lllltvikpf ghrarenmlv gtpihrlmid pyiavvagal ttcniplafl eptiatwmkk
+      301 tmgasewemg vtwlpaffph vlgvyitvkl aakyphlqwf ygalgmviig assctvpacr
+      361 nfgqlivplc gicfgialvd tallptlafl vdvrhvsvyg svyaiadisy slayalgpiv
+      421 asqivhslgf vqlnlgmgla nvlyapvlll lrnvcqmkas hsernillee gpkglydtik
+      481 mqerkgkgkt phsagemegn svdsyhrdlt gaseedssdy eys
+//
+

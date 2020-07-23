@@ -1,0 +1,63 @@
+
+LOCUS       XP_027511126             518 aa            linear   VRT 11-JAN-2019
+DEFINITION  synaptic vesicular amine transporter [Corapipo altera].
+ACCESSION   XP_027511126
+VERSION     XP_027511126.1
+DBLINK      BioProject: PRJNA512899
+DBSOURCE    REFSEQ: accession XM_027655325.1
+KEYWORDS    RefSeq.
+SOURCE      Corapipo altera (White-ruffed manakin)
+  ORGANISM  Corapipo altera
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Passeriformes; Pipridae; Corapipo.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_020884915.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Corapipo altera Annotation Release
+                                           100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.1
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..518
+                     /organism="Corapipo altera"
+                     /isolate="COAL_440"
+                     /db_xref="taxon:415028"
+                     /chromosome="Unknown"
+                     /sex="female"
+                     /tissue_type="liver and muscle"
+                     /dev_stage="adult"
+                     /country="Costa Rica: Volcan Tenorio National Park"
+                     /lat_lon="10.40 N 85.0 W"
+                     /collection_date="2017"
+     Protein         1..518
+                     /product="synaptic vesicular amine transporter"
+                     /calculated_mol_wt=56061
+     CDS             1..518
+                     /gene="SLC18A2"
+                     /coded_by="XM_027655325.1:1..1557"
+                     /db_xref="GeneID:113952849"
+ORIGIN      
+        1 mawgelgllr wlresrqsrk lillivfial lldnmlltvv vpiipsylys ieheknatei
+       61 qtpkpnplpa tmdsfqsifs yydnttmvtg nesdatepse lhptqteqmp vnvtpspsdc
+      121 prddkellne nvrvgllfas katvqlvtnp figpltnrig yqiplfagfc imfvstimfa
+      181 fsgsyallfi arslqgvgss cssvagmgll atvytddeer gnamgialgg lamgvlvgpp
+      241 fgsvmyefvg ksspflvlaa lalldgavql lvlqpsrtqa esqkgtpllt llkdpyiiia
+      301 agsicfanma iamlepalpi wmmetmcskk wqlgvaflpa svsyligtnl fgilahkigr
+      361 wlcallgmli vgisilcvpf akniygliap tfgvgfaigm vdssmmpimg ylvdlrhvsv
+      421 ygsvyaiadv afcmgfaigp saggaiakai gfpwlmtiig ivdilfaplc fflrsppake
+      481 ekmailmdhn cpvktkmytq nniqsypige eeeyesde
+//
+

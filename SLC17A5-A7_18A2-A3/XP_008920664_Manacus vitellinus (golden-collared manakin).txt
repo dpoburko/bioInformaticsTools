@@ -1,0 +1,61 @@
+
+LOCUS       XP_008920664             518 aa            linear   VRT 29-JUL-2019
+DEFINITION  synaptic vesicular amine transporter [Manacus vitellinus].
+ACCESSION   XP_008920664
+VERSION     XP_008920664.2
+DBLINK      BioProject: PRJNA341382
+DBSOURCE    REFSEQ: accession XM_008922416.3
+KEYWORDS    RefSeq.
+SOURCE      Manacus vitellinus (golden-collared manakin)
+  ORGANISM  Manacus vitellinus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Passeriformes; Pipridae; Manacus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_021940541.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            On Sep 8, 2016 this sequence version replaced XP_008920664.1.
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Manacus vitellinus Annotation
+                                           Release 103
+            Annotation Version          :: 103
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..518
+                     /organism="Manacus vitellinus"
+                     /isolate="BGI_N305"
+                     /db_xref="taxon:328815"
+                     /chromosome="Unknown"
+                     /sex="female"
+                     /country="Panama"
+     Protein         1..518
+                     /product="synaptic vesicular amine transporter"
+                     /calculated_mol_wt=56005
+     CDS             1..518
+                     /gene="SLC18A2"
+                     /coded_by="XM_008922416.3:13..1569"
+                     /db_xref="GeneID:103756369"
+ORIGIN      
+        1 mawgelgllr wlresrqsrk lillivfial lldnmlltvv vpiipsylys ieheknatei
+       61 qtpkpkplsa tmdsfqsifs yydnttmvtg nesaetqpsq lhptqteqtp vngtpspsdc
+      121 prddkellne nvrvgllfas katvqlvtnp figpltnrig yqiplfagfc imfvstimfa
+      181 fsgsyallfi arslqgvgss cssvagmgll atvytddeer gnamgialgg lamgvlvgpp
+      241 fgsvmyefvg ksspflvlaa lalldgavql lvlqpsrtqa esqkgtpllt llkdpyiiia
+      301 agsicfanma iamlepalpi wmmetmcskk wqlgvaflpa svsyligtnl fgilahkigr
+      361 wlcallgmli vgisilcvpf akniygliap tfgvgfaigm vdssmmpimg ylvdlrhvsv
+      421 ygsvyaiadv afcmgfaigp saggaiakai gfpwlmtiig ivdilfaplc fflrsppake
+      481 ekmailmdhn cpvktkmytq nniqsypige eeeyesde
+//
+

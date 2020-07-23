@@ -1,0 +1,62 @@
+
+LOCUS       XP_027816176             517 aa            linear   MAM 06-FEB-2019
+DEFINITION  synaptic vesicular amine transporter [Ovis aries].
+ACCESSION   XP_027816176
+VERSION     XP_027816176.1
+DBLINK      BioProject: PRJNA517172
+DBSOURCE    REFSEQ: accession XM_027960375.1
+KEYWORDS    RefSeq.
+SOURCE      Ovis aries (sheep)
+  ORGANISM  Ovis aries
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Cetartiodactyla; Ruminantia;
+            Pecora; Bovidae; Caprinae; Ovis.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_040273.1) annotated using gene prediction method: Gnomon,
+            supported by EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Ovis aries Annotation Release 103
+            Annotation Version          :: 103
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.1
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..517
+                     /organism="Ovis aries"
+                     /strain="OAR_USU_Benz2616"
+                     /db_xref="taxon:9940"
+                     /chromosome="22"
+                     /sex="female"
+                     /tissue_type="blood"
+                     /dev_stage="adult"
+                     /collection_date="2015-03-01"
+                     /breed="Rambouillet"
+     Protein         1..517
+                     /product="synaptic vesicular amine transporter"
+                     /calculated_mol_wt=55755
+     CDS             1..517
+                     /gene="SLC18A2"
+                     /coded_by="XM_027960375.1:4..1557"
+                     /db_xref="GeneID:101104796"
+ORIGIN      
+        1 malselallr rlqesrhsrk lilfivflal lldnmlltvv vpiipsylys iehekdalei
+       61 qtakpgltas apgsfqnifs yydnstmvtg nntdhlqgpl vheattqrmv tnsssapsdc
+      121 psedkdllne nvqvgllfas katvqlltnp figlltnrig ypipmftgfc imfistvmfa
+      181 fsrsyafllf arslqgigss cssvagmgml asvytddeer gnamgialgg lamgvlvgpp
+      241 fgsvlyefvg ktapflvlaa lvlldgaiql fvlqpsrvqp esqkgtpltt llrdpyilia
+      301 agsicfanmg iamlepalpi wmmetmcshk wqlgvaflpa sisyligtnv fgilahkmgr
+      361 wlcallgmii vgmsilcipl akniygliap nfgvgfaigm vdssmmpimg ylvdlrhvsv
+      421 ygsvyaiadv afcmgyaigp saggaiakai gfpwlmtiig iidilfaplc fflrsppake
+      481 ekmailmdhn cpiktkmytq nssqshpige dedsesd
+//
+

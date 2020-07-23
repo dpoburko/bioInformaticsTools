@@ -1,0 +1,64 @@
+
+LOCUS       XP_032814984             576 aa            linear   VRT 20-MAR-2020
+DEFINITION  vesicular acetylcholine transporter [Petromyzon marinus].
+ACCESSION   XP_032814984
+VERSION     XP_032814984.1
+DBLINK      BioProject: PRJNA611764
+DBSOURCE    REFSEQ: accession XM_032959093.1
+KEYWORDS    RefSeq.
+SOURCE      Petromyzon marinus (sea lamprey)
+  ORGANISM  Petromyzon marinus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Cyclostomata;
+            Hyperoartia; Petromyzontiformes; Petromyzontidae; Petromyzon.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_046090.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Petromyzon marinus Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.3
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..576
+                     /organism="Petromyzon marinus"
+                     /isolate="kPetMar1"
+                     /db_xref="taxon:7757"
+                     /chromosome="22"
+                     /sex="male"
+                     /tissue_type="sperm"
+                     /dev_stage="adult"
+                     /country="USA: Great Lakes Fisheries Commission"
+                     /lat_lon="42.2821 N 83.74847 W"
+                     /collection_date="12-Jun-2018"
+                     /collected_by="Jeremiah Smith"
+     Protein         1..576
+                     /product="vesicular acetylcholine transporter"
+                     /calculated_mol_wt=62340
+     CDS             1..576
+                     /gene="SLC18A3"
+                     /coded_by="XM_032959093.1:694..2424"
+                     /db_xref="GeneID:116945027"
+ORIGIN      
+        1 mawrvatwvr dtahrgmggm qnprrqrglv lfivcvalll dnmlymvivp iipdyveamh
+       61 rdteraalaq eqrahrsqhr hevttavaty seegeegvgg vynftsgtat taaalattva
+      121 atahvaddda dedirigilf askaivqllv npltgtfidr vgydlpllig lsiiflstav
+      181 fafgesyatl faarslqglg safadtaaia miadrfteea ersralgial afisfgslva
+      241 ppfggtlyef vgkrvpflvl acvslfdgll lmvvakpfss rsrenmpqgt piyrlmmdpy
+      301 ivvvagaltm aniplaflep tiaswmkktm ganewqrgmt wlpaffphvl gvyitvklaa
+      361 kypqlqwfyg glglviigss sclvpacrtf eeliaplcgi cfgialvdta llpllaflvd
+      421 vrhasvygsv yaiadisysl ayamgpivag qivhtmgfvq lslgmgltnv lyapmllllr
+      481 hvcalrpsas fterrallpe dsckeaydsf ameeqqqqar qpeggggegl spprrlvdte
+      541 vhltgqaqtr tlpspyqawp esddsfgfgv atkrsp
+//
+

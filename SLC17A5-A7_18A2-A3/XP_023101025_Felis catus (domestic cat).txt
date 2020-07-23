@@ -1,0 +1,65 @@
+
+LOCUS       XP_023101025             560 aa            linear   MAM 12-DEC-2017
+DEFINITION  vesicular glutamate transporter 1 [Felis catus].
+ACCESSION   XP_023101025
+VERSION     XP_023101025.1
+DBLINK      BioProject: PRJNA175699
+DBSOURCE    REFSEQ: accession XM_023245257.1
+KEYWORDS    RefSeq.
+SOURCE      Felis catus (domestic cat)
+  ORGANISM  Felis catus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Carnivora; Feliformia; Felidae;
+            Felinae; Felis.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_018737.3) annotated using gene prediction method: Gnomon,
+            supported by mRNA evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Felis catus Annotation Release 104
+            Annotation Version          :: 104
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.0
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..560
+                     /organism="Felis catus"
+                     /isolate="Cinnamon"
+                     /db_xref="taxon:9685"
+                     /chromosome="E2"
+                     /sex="female"
+                     /breed="Abyssinian"
+     Protein         1..560
+                     /product="vesicular glutamate transporter 1"
+                     /calculated_mol_wt=61533
+     Region          49..502
+                     /region_name="UhpC"
+                     /note="Sugar phosphate permease [Carbohydrate transport
+                     and metabolism]; cl27298"
+                     /db_xref="CDD:332119"
+     CDS             1..560
+                     /gene="SLC17A7"
+                     /coded_by="XM_023245257.1:65..1747"
+                     /db_xref="GeneID:100216332"
+ORIGIN      
+        1 mefrqeefrk lagralgrlh rllekrqegs etlelsadgr pvttqtrdpp vvdctcfglp
+       61 rryiiaimsg lgfcisfgir cnlgvaivsm vnnstthrgg hvvvqkaqfn wdpetvglih
+      121 gsffwgyivt qipggficqk faanrvfgfa ivatstlnml ipsaarvhyg cvifvrilqg
+      181 lvegvtypac hgiwskwapp lersrlatta fcgsyagavv amplagvlvq ysgwssvfyv
+      241 ygsfgifwyl fwllvsyesp alhpsiseee rkyiedaige saklmnpvtk fntpwrrfft
+      301 smpvyaiiva nfcrswtfyl llisqpayfe evfgfeiskv glvsalphlv mtiivpiggq
+      361 iadflrsrri msttnvrklm ncggfgmeat lllvvgyshs kgvaisflvl avgfsgfais
+      421 gfnvnhldia pryasilmgi sngvgtlsgm vcpiivgamt khktreewqy vfliaslvhy
+      481 ggvifygvfa sgekqpwaep eemseekcgf vghdqlagsd esemedeaep pgappappps
+      541 ygathstvqp prppppvrdy
+//
+

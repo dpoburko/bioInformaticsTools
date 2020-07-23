@@ -1,0 +1,63 @@
+
+LOCUS       XP_030171710             495 aa            linear   MAM 27-FEB-2020
+DEFINITION  sialin [Lynx canadensis].
+ACCESSION   XP_030171710
+VERSION     XP_030171710.1
+DBLINK      BioProject: PRJNA558991
+DBSOURCE    REFSEQ: accession XM_030315850.2
+KEYWORDS    RefSeq.
+SOURCE      Lynx canadensis (Canada lynx)
+  ORGANISM  Lynx canadensis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Carnivora; Feliformia; Felidae;
+            Felinae; Lynx.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_044307.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Lynx canadensis Annotation Release
+                                           101
+            Annotation Version          :: 101
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.3
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..495
+                     /organism="Lynx canadensis"
+                     /isolate="LIC74"
+                     /db_xref="taxon:61383"
+                     /chromosome="B2"
+                     /sex="male"
+                     /tissue_type="muscle, distal limb"
+                     /country="USA: Aroostook County, Maine"
+                     /lat_lon="42.2466 N 71.6746 W"
+                     /collection_date="2017-12-05"
+                     /collected_by="Tanya Lama"
+     Protein         1..495
+                     /product="sialin"
+                     /calculated_mol_wt=54070
+     CDS             1..495
+                     /gene="SLC17A5"
+                     /coded_by="XM_030315850.2:84..1571"
+                     /db_xref="GeneID:115514120"
+ORIGIN      
+        1 mrspvrglas sdgeegsdrt pllqstprve aapvcgsary nlavlaffgf fvlyalrvnl
+       61 svalvdmids nttladnkts kecaehsapi kvlhnqtgkr yqwdaetqgw ilgsffygyi
+      121 itqipggyia skvggklllg fgilgtaift lftpvaadfg vgalivlral eglgegvtfp
+      181 amhamwsswa pplersklls isyagaqlgt vislplcgii cfymnwtyvf ylfgivgiiw
+      241 filwillvsd kpethkaisr hekeyilssl knqlssqksv pwvpmlkslp lwaivvahfs
+      301 ynwtfytllt llptymkeil rfnvqengll salpyfgcwl cmilsgqaad nlrakwnfst
+      361 icvrrvfsli gmigpavflv aagfigcdys lavafltist tlggfcssgf sinhldiaps
+      421 yagillgitn tfatipgmvg pviaksltpd ntisewqtvf yiaaainvfg aifftlfgkg
+      481 evqswalndq hghrn
+//
+

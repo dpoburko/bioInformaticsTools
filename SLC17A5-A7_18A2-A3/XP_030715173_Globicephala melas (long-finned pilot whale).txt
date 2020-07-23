@@ -1,0 +1,61 @@
+
+LOCUS       XP_030715173             511 aa            linear   MAM 19-SEP-2019
+DEFINITION  sialin isoform X1 [Globicephala melas].
+ACCESSION   XP_030715173
+VERSION     XP_030715173.1
+DBLINK      BioProject: PRJNA563901
+DBSOURCE    REFSEQ: accession XM_030859313.1
+KEYWORDS    RefSeq.
+SOURCE      Globicephala melas (long-finned pilot whale)
+  ORGANISM  Globicephala melas
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Cetartiodactyla; Cetacea;
+            Odontoceti; Delphinidae; Globicephala.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_022134870.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Globicephala melas Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..511
+                     /organism="Globicephala melas"
+                     /isolate="X-22926-18"
+                     /db_xref="taxon:9731"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /tissue_type="brain"
+                     /dev_stage="adult"
+                     /country="Canada: North Lake, Prince Edward Island"
+     Protein         1..511
+                     /product="sialin isoform X1"
+                     /calculated_mol_wt=55792
+     CDS             1..511
+                     /gene="SLC17A5"
+                     /coded_by="XM_030859313.1:105..1640"
+                     /db_xref="GeneID:115854770"
+ORIGIN      
+        1 mkspvpdlap sdgeegedrt pllqraprae tgeqlresgs sggrrsqapv ccstrynlaf
+       61 laffgffvly slrvnlsval vdmvdsnttt adnrtaneca ehstpikvlh nqtgkkyrwd
+      121 aetqgwilgs ffygyiitqi pagyvasrsg gklllgfgvl gtsvftlftp laadfgvgal
+      181 ialraleglg egvtfpamha mwsswapple rskllsisya gaqlgtvvsl plsgivcfym
+      241 nwtyvfylfg ivgiiwfilw iwlvsdtpet hktispyeke yilsslrnql ssqksvpwvp
+      301 mlkslalwai vvahfsynwt fytlltllpt ymkevlrfni qengflsavp ylgcwlcmil
+      361 sgqaadnlra kwnfstlcvr rvfsligmig pavflvaagf igcdyslava fltisttlgg
+      421 fcssgfsinh ldiapsyagi llgitntfat ipgmigpiia rsltpentvg ewqtvfclaa
+      481 avnvfgaitf tlfskgeaqn wairdhggpr n
+//
+

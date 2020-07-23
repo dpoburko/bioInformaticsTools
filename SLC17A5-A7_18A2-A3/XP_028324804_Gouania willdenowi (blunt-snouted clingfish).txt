@@ -1,0 +1,71 @@
+
+LOCUS       XP_028324804             524 aa            linear   VRT 18-MAR-2019
+DEFINITION  probable vesicular acetylcholine transporter-A [Gouania
+            willdenowi].
+ACCESSION   XP_028324804
+VERSION     XP_028324804.1
+DBLINK      BioProject: PRJNA527273
+DBSOURCE    REFSEQ: accession XM_028469003.1
+KEYWORDS    RefSeq.
+SOURCE      Gouania willdenowi (blunt-snouted clingfish)
+  ORGANISM  Gouania willdenowi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Blenniimorphae; Blenniiformes;
+            Gobiesocoidei; Gobiesocidae; Gobiesocinae; Gouania.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_041058.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Gouania willdenowi Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..524
+                     /organism="Gouania willdenowi"
+                     /db_xref="taxon:441366"
+                     /chromosome="15"
+     Protein         1..524
+                     /product="probable vesicular acetylcholine transporter-A"
+                     /calculated_mol_wt=56540
+     Region          51..457
+                     /region_name="MFS_SLC18A3_VAChT"
+                     /note="Vesicular acetylcholine transporter (VAChT) and
+                     similar transporters of the Major Facilitator Superfamily;
+                     cd17383"
+                     /db_xref="CDD:340941"
+     Site            order(61..62,65..66,69,128,178..179,181..183,186,207,
+                     210..211,214,285,288..289,292..294,297,325,329,378..379,
+                     383,387,408,411..412,415..416,419)
+                     /site_type="other"
+                     /note="putative chemical substrate binding pocket
+                     [chemical binding]"
+                     /db_xref="CDD:340941"
+     CDS             1..524
+                     /gene="LOC114476980"
+                     /coded_by="XM_028469003.1:418..1992"
+                     /db_xref="GeneID:114476980"
+ORIGIN      
+        1 mimdssegtt ggppasnmaq saasklsqms ertkqlgnvi qnperqkrii lvivctalll
+       61 dnmlymvivp iipdyleglq kaadqsqsaa gahtnstnrt vhaytkgnfd vqigllfask
+      121 ailqllvnpl sgtfidrvgy diplfiglni mflstltfaf adnyatlfla rsmqglgsaf
+      181 adtsgiamia dkyteesars kalgialafi sfgslvappf ggvlyqfagk rvpflilaci
+      241 cladgvlcli vlkpfsnrer enmpvgtpiy rlmidpyiav vagaliicni plafleptia
+      301 nwmedtmgas qweigmtwfp affphvlgvy ltvklaakyp hlqwfygaig mvfigassct
+      361 vpacknfgql miplcgicfg iafvdtallp tlgflvdvrh vsvygsvyai adisycvaya
+      421 mgpvvagkiv hdlgfvqlnl gmglanmlya pallllknvs qmkpsfsern lllddgptgl
+      481 ydtikieqre kkkkglcttv eengiktfaq gsyseeessg geya
+//
+

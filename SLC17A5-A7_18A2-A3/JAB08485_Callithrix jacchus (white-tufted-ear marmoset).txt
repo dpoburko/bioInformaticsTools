@@ -1,0 +1,69 @@
+
+LOCUS       JAB08485                 495 aa            linear   PRI 22-AUG-2013
+DEFINITION  sialin [Callithrix jacchus].
+ACCESSION   JAB08485
+VERSION     JAB08485.1
+DBLINK      BioProject: PRJNA203643
+            Sequence Read Archive: SRR866208
+DBSOURCE    accession GAMT01003376.1
+KEYWORDS    TSA; Transcriptome Shotgun Assembly.
+SOURCE      Callithrix jacchus (white-tufted-ear marmoset)
+  ORGANISM  Callithrix jacchus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Cebidae; Callitrichinae; Callithrix; Callithrix.
+REFERENCE   1  (residues 1 to 495)
+  AUTHORS   Maudhoo,M.D., Ren,D., Gradnigo,J.S., Gibbs,R.M., Lubker,A.C.,
+            Moriyama,E.N., French,J.A. and Norgren,R.B. Jr.
+  TITLE     De novo assembly of the common marmoset transcriptome from NextGen
+            mRNA sequences
+  JOURNAL   Gigascience 3, 14 (2014)
+   PUBMED   25243066
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (residues 1 to 495)
+  AUTHORS   Maudhoo,M.D., Ren,D., Grandnigo,J.S., Gibbs,R.M., Lubker,A.C.,
+            Moriyama,E.N., French,J.A. and Norgren,R.B. Jr.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-AUG-2013) Department of Genetics, Cell Biology &
+            Anatomy, University of Nebraska Medical Center, 985805 Nebraska
+            Medical Center, Omaha, NE 68198-5805, USA
+COMMENT     Paired-end, 101 bp sequencing was performed on the Illumina
+            platform. All reads were aligned with the human RefSeq mRNA
+            transcripts using BLAST. Any reads with an alignment length
+            difference with respect to the human reference sequence of 15 or
+            greater were removed prior to assembly. For a given pair of reads,
+            if one sequence was filtered, its pair was also filtered. The
+            assembler used was Velvet followed by Oases. Velveth was performed
+            as recommended and the kmer was set at 31. The output files from
+            velveth were passed to velvetg. After performing velvetg, the
+            working directory was passed to oases where the final assembly was
+            performed. Default parameters were used for velvetg and oases.
+            
+            ##Assembly-Data-START##
+            Assembly Method       :: Velvet 1.2.08; Oases 0.2.08
+            Sequencing Technology :: Illumina HiSeq
+            ##Assembly-Data-END##
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..495
+                     /organism="Callithrix jacchus"
+                     /isolation_source="2218"
+                     /db_xref="taxon:9483"
+                     /tissue_type="bladder"
+     Protein         1..495
+                     /product="sialin"
+     CDS             1..495
+                     /gene="SLC17A5"
+                     /coded_by="GAMT01003376.1:97..1584"
+ORIGIN      
+        1 mkspvrdlaq kdgeestdrt pllsgapqae aapvccsary nlailaffgf fivyalrvnl
+       61 svalvdmvds nttlednrts kacpehsspi kvhhnqtgkk yqwdaetqgw ilgsffygyi
+      121 itqipggyva skiggklllg fgilgtavlt lftpiaadlg vgplivlral eglgegvtfp
+      181 amhamwsswa pplersklls isyagaqlgt vislplsgii cyymnwtyvf yffgavgifw
+      241 fllwiwlvsd tpqthkrish yekeyilssl rnqlssqksv pwvpilkslp lwaivvahfs
+      301 ynwtfytllt llptymkeil rfnvqengll sslpylgswl cmilsgqaad nlrakwnfst
+      361 lcvrrmfsli gmigpavflv aagfigcdys laiafltist tlggfcssgf sinhldiaps
+      421 yagillgitn tfatvpgmvg pviaksltpe ntvgewqtvf yiaavinvfg aifftlfgkg
+      481 evqswalndh hghkh
+//
+

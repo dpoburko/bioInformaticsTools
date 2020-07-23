@@ -1,0 +1,55 @@
+
+LOCUS       XP_030628815             519 aa            linear   VRT 16-SEP-2019
+DEFINITION  vesicular acetylcholine transporter [Chanos chanos].
+ACCESSION   XP_030628815
+VERSION     XP_030628815.1
+DBLINK      BioProject: PRJNA564626
+DBSOURCE    REFSEQ: accession XM_030772955.1
+KEYWORDS    RefSeq.
+SOURCE      Chanos chanos (milkfish)
+  ORGANISM  Chanos chanos
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Gonorynchiformes; Chanidae; Chanos.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_044498.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Chanos chanos Annotation Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..519
+                     /organism="Chanos chanos"
+                     /db_xref="taxon:29144"
+                     /chromosome="4"
+     Protein         1..519
+                     /product="vesicular acetylcholine transporter"
+                     /calculated_mol_wt=56134
+     CDS             1..519
+                     /gene="slc18a3"
+                     /coded_by="XM_030772955.1:1..1560"
+                     /db_xref="GeneID:115810915"
+ORIGIN      
+        1 masegsggla qsaavklsem gertkqlgta iqdpnrqrri ilvivcvall ldnmlymviv
+       61 pivpdylarl ekesekaqae mhtntsnstl dqtqkdnldv qigvlfaska ilqllvnplt
+      121 gtfidrvgyd iplliglsim flstcmfafa enyatlfvar slqglgsafa dtsgiamiad
+      181 kyteegersr algialafis fgslvappfg gvlyefagkr vpfivlacic fadgmlcltv
+      241 lkpfssrtre nmpvgtpiyr lmidpyiavv agalttcnip lafleptian wmeetmdase
+      301 wqigltwlpp ffphilgvyv tvklaaqyph lqwfygalgm viigassctv packnfgeli
+      361 vplcgicfgi alvdtallpt laflvdvrhv svygsvyaia disycvayal gpvvagkivh
+      421 dlgfvqlnlg mglanvlyap allllrnvcl mkpshsernm lleegatgly dtikmeerqs
+      481 kkkgysssag ncvpvdengt fggntrpyse detsepeyi
+//
+

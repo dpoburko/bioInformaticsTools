@@ -1,0 +1,62 @@
+
+LOCUS       XP_034842898             560 aa            linear   MAM 10-JUN-2020
+DEFINITION  vesicular glutamate transporter 1 [Mirounga leonina].
+ACCESSION   XP_034842898
+VERSION     XP_034842898.1
+DBLINK      BioProject: PRJNA638103
+DBSOURCE    REFSEQ: accession XM_034987007.1
+KEYWORDS    RefSeq.
+SOURCE      Mirounga leonina (Southern elephant seal)
+  ORGANISM  Mirounga leonina
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Carnivora; Caniformia;
+            Phocidae; Mirounga.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_023270718.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA and EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Mirounga leonina Annotation Release
+                                           100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.4
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..560
+                     /organism="Mirounga leonina"
+                     /isolate="KUSES-001"
+                     /db_xref="taxon:9715"
+                     /chromosome="Unknown"
+                     /tissue_type="blood"
+                     /dev_stage="adult"
+                     /country="Antarctica"
+     Protein         1..560
+                     /product="vesicular glutamate transporter 1"
+                     /calculated_mol_wt=61616
+     CDS             1..560
+                     /gene="SLC17A7"
+                     /coded_by="XM_034987007.1:16..1698"
+                     /db_xref="GeneID:117998282"
+ORIGIN      
+        1 mefrqeefrk lagralgrlh rllekrqega etlelsadgr pvttqtrdpp vvdctcfglp
+       61 rryiiaimsg lgfcisfgir cnlgvaivsm vnnstthrrg hvvvqkaqfn wdpetvglih
+      121 gsffwgyivt qipggficqk faanrvfgfa ivatstlnml ipsaarvhyg cvifvrilqg
+      181 lvegvtypac hgiwskwapp lersrlatta fcgsyagavv amplagvlvq ysgwssvfyv
+      241 ygsfgifwyl fwllvsyesp alhpsiseee rkyiedaige saklmnpvtk fntpwrrfft
+      301 smpvyaiiva nfcrswtfyl llisqpayfe evfgfeiskv glvsalphlv mtiivpiggq
+      361 iadflrsrri msttnvrklm ncggfgmeat lllvvgyshs kgvaisflvl avgfsgfais
+      421 gfnvnhldia pryasilmgi sngvgtlsgm vcpiivgamt khktreewqy vfliaslvhy
+      481 ggvifygvfa sgekqpwaep eemseekcgf vghdqlagsd esemedeaep pgappappps
+      541 ygathstvqp prppppvrdy
+//
+

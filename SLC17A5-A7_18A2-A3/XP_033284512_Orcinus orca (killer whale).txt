@@ -1,0 +1,60 @@
+
+LOCUS       XP_033284512             511 aa            linear   MAM 15-APR-2020
+DEFINITION  sialin isoform X1 [Orcinus orca].
+ACCESSION   XP_033284512
+VERSION     XP_033284512.1
+DBLINK      BioProject: PRJNA189949
+DBSOURCE    REFSEQ: accession XM_033428621.1
+KEYWORDS    RefSeq.
+SOURCE      Orcinus orca (killer whale)
+  ORGANISM  Orcinus orca
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Artiodactyla; Whippomorpha;
+            Cetacea; Odontoceti; Delphinidae; Orcinus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_004438449.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Orcinus orca Annotation Release 102
+            Annotation Version          :: 102
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.4
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..511
+                     /organism="Orcinus orca"
+                     /isolate="Morgan"
+                     /db_xref="taxon:9733"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /tissue_type="blood"
+                     /collection_date="06-Sep-2011"
+                     /note="Norwegian herring-eating population"
+     Protein         1..511
+                     /product="sialin isoform X1"
+                     /calculated_mol_wt=55786
+     CDS             1..511
+                     /gene="SLC17A5"
+                     /coded_by="XM_033428621.1:116..1651"
+                     /db_xref="GeneID:101288656"
+ORIGIN      
+        1 mkspvpdlap sdgeegedrt pllqraprae tgeqlrepgs sggrrsqapv ccsarynlaf
+       61 laffgffvly slrvnlsval vdmvdsnttt adnrtaneca ehstpikvlh nqtgkkyrwd
+      121 aetqgwilgs ffygyiitqi pagyvasrsg gklllgfgvl gtsvftlftp laadfgvgal
+      181 ialraleglg egvtfpamha mwsswapple rskllsisya gaqlgtvvsl plsgivcfym
+      241 nwtyvfylfg ivgiiwfilw iwlvsdtpet hktispyeke yilsslrnql ssqksvpwvp
+      301 mlkslalwai vvahfsynwt fytlltllpt ymkevlrfni qengflsavp ylgcwlcmil
+      361 sgqaadnlra kwnfstlcvr rvfsligmig pavflvaagf igcdyslava fltisttlgg
+      421 fcssgfsinh ldiapsyagi llgitntfat ipgmigpiia rsltpentvg ewqtvfclaa
+      481 avnvfgaitf tlfskgevqn wavrdhggpr n
+//
+

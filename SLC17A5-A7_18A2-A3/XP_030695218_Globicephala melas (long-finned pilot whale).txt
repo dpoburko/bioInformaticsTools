@@ -1,0 +1,63 @@
+
+LOCUS       XP_030695218             517 aa            linear   MAM 19-SEP-2019
+DEFINITION  synaptic vesicular amine transporter isoform X1 [Globicephala
+            melas].
+ACCESSION   XP_030695218
+VERSION     XP_030695218.1
+DBLINK      BioProject: PRJNA563901
+DBSOURCE    REFSEQ: accession XM_030839358.1
+KEYWORDS    RefSeq.
+SOURCE      Globicephala melas (long-finned pilot whale)
+  ORGANISM  Globicephala melas
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Cetartiodactyla; Cetacea;
+            Odontoceti; Delphinidae; Globicephala.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_022134961.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Globicephala melas Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..517
+                     /organism="Globicephala melas"
+                     /isolate="X-22926-18"
+                     /db_xref="taxon:9731"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /tissue_type="brain"
+                     /dev_stage="adult"
+                     /country="Canada: North Lake, Prince Edward Island"
+     Protein         1..517
+                     /product="synaptic vesicular amine transporter isoform X1"
+                     /calculated_mol_wt=55855
+     CDS             1..517
+                     /gene="SLC18A2"
+                     /coded_by="XM_030839358.1:536..2089"
+                     /db_xref="GeneID:115843404"
+ORIGIN      
+        1 malselallr wlqesrhsrk lilfivflal lldnmlltvv vpiipsylys iehekdaiei
+       61 qtakpvlkas tfgsfqnifs yydnstvvag nstgslqgal lheattqrtv tnrstapsdc
+      121 psedkdllne nvqvgllfas katvqlltnp figlltnrig ypipmftgfc imfistvmfa
+      181 fsrsyaflli arslqgigss cssvagmgml asvytddeer gnamgialgg lamgvlvgpp
+      241 fgsvlyefvg ktapflvlaa lvlldgaiql fvlqpsrvqp esqkgtpltt llkdpyilia
+      301 agsicfanmg iamlepalpi wmmetmcshk wqlgvaflpa sisyligtni fgilahkmgr
+      361 wlcallgmii vgfsilcipl akniygliap nfgvgfaigm vdssmmpimg ylvdlrhvsv
+      421 ygsvyaiadv afcmgyaigp saggaiaksi gfpwlmtiig iidilfaplc fflrsppake
+      481 ekmailmdhn cpiktkmytq nniqsypige deesesd
+//
+

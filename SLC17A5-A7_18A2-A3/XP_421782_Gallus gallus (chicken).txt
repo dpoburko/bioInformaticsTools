@@ -1,0 +1,78 @@
+
+LOCUS       XP_421782                517 aa            linear   VRT 17-MAY-2018
+DEFINITION  synaptic vesicular amine transporter isoform X2 [Gallus gallus].
+ACCESSION   XP_421782
+VERSION     XP_421782.4
+DBLINK      BioProject: PRJNA10808
+DBSOURCE    REFSEQ: accession XM_421782.6
+KEYWORDS    RefSeq.
+SOURCE      Gallus gallus (chicken)
+  ORGANISM  Gallus gallus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Galloanserae; Galliformes;
+            Phasianidae; Phasianinae; Gallus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_006093.5) annotated using gene prediction method: Gnomon,
+            supported by mRNA and EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            On May 17, 2018 this sequence version replaced XP_421782.3.
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Gallus gallus Annotation Release 104
+            Annotation Version          :: 104
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.0
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..517
+                     /organism="Gallus gallus"
+                     /isolate="RJF #256"
+                     /db_xref="taxon:9031"
+                     /chromosome="6"
+                     /sex="female"
+                     /breed="Red Jungle Fowl"
+     Protein         1..517
+                     /product="synaptic vesicular amine transporter isoform X2"
+                     /calculated_mol_wt=55849
+     Region          132..439
+                     /region_name="MFS_1"
+                     /note="Major Facilitator Superfamily; pfam07690"
+                     /db_xref="CDD:311564"
+     Region          134..275
+                     /region_name="2_A_01_02"
+                     /note="Multidrug resistance protein; TIGR00880"
+                     /db_xref="CDD:273318"
+     Site            order(137,140..141,144,148..149,151..152,198..199,
+                     202..203,206..207,210,223..224,227..228,234,307,310..311,
+                     314..315,318,332,336,340,343,347,394,397..398,404,
+                     408..409,412,423..424,427..428,431..432,435)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..517
+                     /gene="SLC18A2"
+                     /coded_by="XM_421782.6:47..1600"
+                     /db_xref="GeneID:423921"
+                     /db_xref="CGNC:52082"
+ORIGIN      
+        1 mawgelslrw lregrqsrkl illivfiall ldnmlltvvv piipsylysi kheknatevq
+       61 takpnaismt mdsvqsifsy ydnsmilign esdkaapgel qhtqtepmtv nataappdcp
+      121 kedkdllnen vqvgllfask atvqlitnpf igpltnrigy qiplfagfci mfvstimfaf
+      181 sgsytllfia rslqgvgssc ssvagmgmla svytddeerg namgialggl amgvlvgppf
+      241 gsimyefvgk sspflvlaal alfdgavqll vlqpsraqae sqkgtplltl mkdpyiiiaa
+      301 gsicfanmai amlepalpiw mmetmcskkw qlgvaflpas isyligtnlf gilahkmgrw
+      361 lcallgmliv gisilcvpfa kniygliapn fgvgfaigmv dssmmpimgy lvdlrhvsvy
+      421 gsvyaiadva fcmgfaigps aggaiakaig fpwlmtiigi vdilfaplcf flrsppakee
+      481 kmailmdhnc pvktkmytqn niqsypigde eeyesde
+//
+

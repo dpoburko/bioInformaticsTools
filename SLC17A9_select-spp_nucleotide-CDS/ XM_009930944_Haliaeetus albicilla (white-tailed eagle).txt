@@ -1,0 +1,113 @@
+
+LOCUS       XM_009930944            3727 bp    mRNA    linear   VRT 28-OCT-2014
+DEFINITION  PREDICTED: Haliaeetus albicilla solute carrier family 17 (vesicular
+            nucleotide transporter), member 9 (SLC17A9), mRNA.
+ACCESSION   XM_009930944
+VERSION     XM_009930944.1
+DBLINK      BioProject: PRJNA263514
+KEYWORDS    RefSeq; corrected model.
+SOURCE      Haliaeetus albicilla (white-tailed eagle)
+  ORGANISM  Haliaeetus albicilla
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Falconiformes; Accipitridae;
+            Accipitrinae; Haliaeetus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_009755577.1) annotated using gene prediction method: Gnomon,
+            supported by EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Haliaeetus albicilla Annotation
+                                           Release 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 6.1
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            frameshifts :: corrected 1 indel
+            ##RefSeq-Attributes-END##
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-138               JJRL01019218.1     3024-3161
+            139-336             JJRL01019218.1     8073-8270
+            337-476             JJRL01019218.1     9881-10020
+            477-576             JJRL01019218.1     10689-10788
+            577-707             JJRL01019218.1     11413-11543
+            708-804             JJRL01019218.1     12364-12460
+            805-901             JJRL01019218.1     13400-13496
+            902-989             JJRL01019219.1     1209-1296
+            990-1024            JJRL01019219.1     1614-1648
+            1025-1140           JJRL01019219.1     2216-2331
+            1141-1196           JJRL01019219.1     2611-2666
+            1197-1226           JJRL01019219.1     3020-3049
+            1227-1332           JJRL01019219.1     3154-3229
+            1333-3727           JJRL01019220.1     1-2395
+FEATURES             Location/Qualifiers
+     source          1..3727
+                     /organism="Haliaeetus albicilla"
+                     /mol_type="mRNA"
+                     /isolate="BGI_N329"
+                     /db_xref="taxon:8969"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /country="Greenland"
+     gene            1..3727
+                     /gene="SLC17A9"
+                     /note="The sequence of the model RefSeq transcript was
+                     modified relative to its source genomic sequence to
+                     represent the inferred CDS: deleted 2 bases in 1 codon;
+                     Derived by automated computational analysis using gene
+                     prediction method: Gnomon. Supporting evidence includes
+                     similarity to: 1 EST, 2 Proteins, and 98% coverage of the
+                     annotated genomic feature by RNAseq alignments, including
+                     1 sample with support for all annotated introns"
+                     /db_xref="GeneID:104326018"
+     CDS             164..1393
+                     /gene="SLC17A9"
+                     /note="The sequence of the model RefSeq protein was
+                     modified relative to its source genomic sequence to
+                     represent the inferred CDS: deleted 2 bases in 1 codon"
+                     /codon_start=1
+                     /product="LOW QUALITY PROTEIN: solute carrier family 17
+                     member 9"
+                     /protein_id="XP_009929246.1"
+                     /db_xref="GeneID:104326018"
+                     /translation="MLLLGTCLLYCARVTVPICAVALSARFDWDKKQSGIVLSSFFWG
+                     YCLTQIIGGHISDQIGGEKVLLLSASAWGFLTVLTPLLTHITSAHLVFMTSSRFLMGL
+                     LQGVYFPSLASLLSQKVRENERAFTYSTVGTGSQCGTLVIGGAGSLLLDWYGWESVFY
+                     FSGLLTLLWVYCTCKYLLNEKELIIPIDYLMRSLSISKQTKVPWKQLFKKAPIWAVII
+                     AQLSTASTFFTLLSWLPTFFKETFPESKGWVFNVVPWLVAIPTSLFSGFLSDHLINQG
+                     YKTITIRKFMQVIGSGVSSVFALCLGQTSSFCKAIVFASASVGLQTFNHSGISVNVQD
+                     LAPSCAGLLFGVGNTGGALLGVICVYLAGYLIETTGSRVFVFKLVAXXXXXXXXXXFL
+                     VFGEAQRVDTDSAYVDL"
+ORIGIN      
+         1 atgttgctgc tggggacgtg cctgctgtac tgcgcccgtg tcaccgtgcc catctgcgcc 
+        61 gtcgccctca gcgcccgctt cgactgggac aagaagcagt cgggcatagt gctcagcagc 
+       121 ttcttctggg gctactgctt gacacagatt atcggaggac atatcagtga tcaaatagga 
+       181 ggtgagaaag tcctcctcct ctccgcatca gcctgggggt tcctcacggt cctcaccccg 
+       241 ctgctcaccc acatcacttc tgcccatctc gtttttatga cctcctccag gttcctcatg 
+       301 gggttgctgc aaggggtgta tttcccatcc ctggccagcc tgctgtccca gaaggtccgg 
+       361 gagaatgagc gagccttcac ctacagcaca gtggggaccg gctcccagtg tgggacgctg 
+       421 gtgatcggcg gtgcggggtc tcttctcctg gactggtacg gctgggagag cgttttctat 
+       481 ttctccggtt tgctcacttt gctctgggtt tactgcacct gcaagtacct cctgaatgag 
+       541 aaagaactca tcatccccat agactattta atgagaagcc tctcgatatc caagcagacc 
+       601 aaagttccct ggaagcagct gtttaagaag gcgccgatat gggctgtcat catcgctcag 
+       661 ctttctacgg ccagcacgtt tttcactctc ctctcctggc tgccgacgtt ctttaaggag 
+       721 actttccccg agtcaaaggg ttgggtgttt aatgtagtcc cctggctggt tgcaattcct 
+       781 acaagcttgt tcagtggatt tctgtctgat catttaatca accaggggta caaaaccatc 
+       841 accattcgta agttcatgca ggtcattggc tccggcgtct caagcgtttt tgctctgtgc 
+       901 ctgggccaga cctccagttt ttgcaaagcg atagtgtttg cctctgcctc tgtcggactt 
+       961 cagaccttta accacagtgg catttcagta aacgtacagg atctggcccc ctcgtgtgcc 
+      1021 ggcttgctgt tcggtgttgg gaatacaggt ggagccctcc taggtgtcat ctgcgtgtac 
+      1081 ttggctggct acttgattga aacgactggc tcccgggttt ttgttttcaa attggtggcn 
+      1141 nnnnnnnnnn nnnnnnnnnn nnnnnnnnna ttcctcgtgt ttggagaggc ccagagggtg 
+      1201 gacacagact ctgcatacgt ggacctctag 
+//
+

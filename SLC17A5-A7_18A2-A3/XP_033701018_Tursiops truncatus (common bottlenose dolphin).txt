@@ -1,0 +1,68 @@
+
+LOCUS       XP_033701018             689 aa            linear   MAM 27-APR-2020
+DEFINITION  vesicular glutamate transporter 1 [Tursiops truncatus].
+ACCESSION   XP_033701018
+VERSION     XP_033701018.1
+DBLINK      BioProject: PRJNA625792
+DBSOURCE    REFSEQ: accession XM_033845127.1
+KEYWORDS    RefSeq.
+SOURCE      Tursiops truncatus (common bottlenose dolphin)
+  ORGANISM  Tursiops truncatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Artiodactyla; Whippomorpha;
+            Cetacea; Odontoceti; Delphinidae; Tursiops.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_047052.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Tursiops truncatus Annotation
+                                           Release 102
+            Annotation Version          :: 102
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.4
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..689
+                     /organism="Tursiops truncatus"
+                     /isolate="mTurTru1"
+                     /db_xref="taxon:9739"
+                     /chromosome="19"
+                     /sex="male"
+                     /tissue_type="spleen"
+                     /country="USA: Baltimore, Maryland"
+                     /lat_lon="39.2851 N 76.6083 W"
+                     /collection_date="11-Nov-2018"
+                     /collected_by="Leigh Clayton, Jill Arnold, Winston Timp,
+                     Norah Hilger"
+     Protein         1..689
+                     /product="vesicular glutamate transporter 1"
+                     /calculated_mol_wt=74792
+     CDS             1..689
+                     /gene="SLC17A7"
+                     /coded_by="XM_033845127.1:511..2580"
+                     /db_xref="GeneID:117309096"
+ORIGIN      
+        1 mdewgvtpgr nrtggdttqt sefrtqrrgl gvegrgtnrh gelrkvggir iqgagssmdg
+       61 rglslphptp daessdspqt artrsllppe rscgagraga dpgypdaaar argrgdrrgg
+      121 egpaagaatm efrqeefrkl agralgrlhr llekrqegae tlelsadgrp vttqtrdppv
+      181 vdctcfglpr ryiiaimsgl gfcisfgirc nlgvaivsmv nnstthrggh vvvqqaqftw
+      241 dpetvglihg sffwgyivtq ipggficqkf aanrvfgfai vatstlnmli psaarvhygc
+      301 vifvrilqgl vegvtypach giwskwappl ersrlattaf cgsyagavva mplagvlvqy
+      361 sgwssvfyvy gsfgifwylf wllvsyespa lhpsiseeer kyiedaiges aklmnpvtkf
+      421 ntpwrrffts mpvyaiivan fcrswtfyll lisqpayfee vfgfeiskvg lvsalphlvm
+      481 tiivpiggqi adflrsrrim sttnvrklmn cggfgmeatl llvvgyshsk gvaisflvla
+      541 vgfsgfaisg fnvnhldiap ryasilmgis ngvgtlsgmv cpiivgamtk hktreewqyv
+      601 fliaslvhyg gvifygvfas gekqpwaepe emseekcgfv ghdqlagsde semedeaepp
+      661 gappapppsy gathstvqpp rppppvrdy
+//
+

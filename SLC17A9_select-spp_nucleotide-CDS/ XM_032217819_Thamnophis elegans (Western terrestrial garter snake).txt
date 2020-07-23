@@ -1,0 +1,94 @@
+
+LOCUS       XM_032217819            1725 bp    mRNA    linear   VRT 31-JAN-2020
+DEFINITION  PREDICTED: Thamnophis elegans solute carrier family 17 member 9
+            (SLC17A9), transcript variant X2, mRNA.
+ACCESSION   XM_032217819
+VERSION     XM_032217819.1
+DBLINK      BioProject: PRJNA602516
+KEYWORDS    RefSeq.
+SOURCE      Thamnophis elegans (Western terrestrial garter snake)
+  ORGANISM  Thamnophis elegans
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+            Toxicofera; Serpentes; Colubroidea; Colubridae; Natricinae;
+            Thamnophis.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_045545.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Thamnophis elegans Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.3
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1725
+                     /organism="Thamnophis elegans"
+                     /mol_type="mRNA"
+                     /isolate="rThaEle1"
+                     /db_xref="taxon:35005"
+                     /chromosome="5"
+                     /sex="female"
+                     /tissue_type="blood"
+                     /dev_stage="juvenile"
+                     /country="USA: Born in Anne Bronikowsk lab at ISU; MOM,
+                     2012; Eagle Lake; PAP"
+                     /lat_lon="42.02482 N 93.64411 W"
+                     /collection_date="01-Apr-2018"
+                     /collected_by="Anne Bronikowski"
+     gene            1..1725
+                     /gene="SLC17A9"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon. Supporting evidence
+                     includes similarity to: 1 Protein, and 100% coverage of
+                     the annotated genomic feature by RNAseq alignments,
+                     including 9 samples with support for all annotated
+                     introns"
+                     /db_xref="GeneID:116508961"
+     CDS             434..1663
+                     /gene="SLC17A9"
+                     /codon_start=1
+                     /product="solute carrier family 17 member 9 isoform X2"
+                     /protein_id="XP_032073710.1"
+                     /db_xref="GeneID:116508961"
+                     /translation="MLLLGTCLLYCARVLMPICVVTMSSRFDWDKKQSGIVLSSFFWG
+                     YCLTQVVGGHLSDRIGGEKVLLLSASAWGSITAITPLLIASSSAHLTLMTLTRFLMGL
+                     LQGVYFPALASLLSQKVQESERALTYSTVGTGSQFGTLVMGAAGSLLLDWYGWESVFY
+                     LTGLLTLLWVYCMCKFILPLKEIKVSLHELAKGLSLSSKPTKVSWRKIFRKPPVWAVI
+                     VAQLCAASTFFTLLSWLPTFFSETFPDSKGWIFNVIPWLVAIPISLFAGFLSDQCISQ
+                     GCKPITARKFMQVIGSGVSSLFALGIGYSTSFCQAVAFASASIGLQTFNHSGISVNIQ
+                     DLAPSCAGLLFGVANTGGALLGVICVYLAGHLIENTGSWVSVFNLVAVVNALGLCTFL
+                     IFGEAHRMDLDPAYIDL"
+ORIGIN      
+         1 atgctcctgc tgggaacctg cctgctttac tgcgccaggg tcctaatgcc catctgcgtg 
+        61 gtcaccatga gctctcgctt tgactgggac aagaaacaat ccggaattgt gttgagcagc 
+       121 ttcttttggg gttattgcct gacccaagtt gtcggaggcc acttgagtga ccggatagga 
+       181 ggggagaaag tccttctcct ctccgcctca gcctggggat ccatcaccgc catcacgccc 
+       241 ctgctcattg cctcaagctc cgcccacctg accctgatga ccctcacgcg cttcctgatg 
+       301 ggactgttgc aaggagttta ttttcccgcc ttggctagtc tgctttccca gaaagtacaa 
+       361 gagagtgaac gagcattgac ttacagcaca gttggaactg gctctcagtt tgggacattg 
+       421 gtgatggggg cagctggctc cctcctgctt gactggtatg gatgggaaag cgtcttctat 
+       481 cttacaggcc tgcttacctt gctctgggtg tactgcatgt gtaaattcat cttgcctcta 
+       541 aaggaaataa aagtctcact acacgagttg gcaaagggtc tctccttatc ctccaaacca 
+       601 accaaagtgt cttggagaaa aatattcaga aagcctcccg tttgggcggt gattgtggcg 
+       661 cagttgtgtg cggcgagcac cttcttcacc ctgctctcct ggctacccac tttcttcagc 
+       721 gaaacctttc ccgattcaaa gggctggatt tttaatgtca ttccttggct ggtggcaatt 
+       781 ccaatcagtt tgtttgctgg attcctctcc gatcaatgca tcagtcaagg atgcaaaccg 
+       841 atcactgctc gtaaatttat gcaggtcatc ggatctgggg tatccagtct tttcgcctta 
+       901 gggataggtt actccaccag cttttgccaa gcagtagcct tcgcctcagc cagtattgga 
+       961 cttcagactt tcaaccacag tggaatctca gtcaatattc aggatctggc tccttcgtgt 
+      1021 gcgggtttat tgttcggtgt ggcaaacaca ggtggcgctt tactgggtgt catttgtgtg 
+      1081 tacctagctg gacacctcat cgaaaacaca ggctcctggg tgtctgtttt caatctcgtg 
+      1141 gccgttgtga atgcccttgg cctttgcaca ttcctcatct ttggagaagc tcataggatg 
+      1201 gacctggatc cagcctacat cgacttataa 
+//
+

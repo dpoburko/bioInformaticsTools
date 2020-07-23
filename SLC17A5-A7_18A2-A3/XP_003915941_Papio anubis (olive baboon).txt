@@ -1,0 +1,73 @@
+
+LOCUS       XP_003915941             560 aa            linear   PRI 20-NOV-2019
+DEFINITION  vesicular glutamate transporter 1 [Papio anubis].
+ACCESSION   XP_003915941
+VERSION     XP_003915941.1
+DBLINK      BioProject: PRJNA576697
+DBSOURCE    REFSEQ: accession XM_003915892.2
+KEYWORDS    RefSeq.
+SOURCE      Papio anubis (olive baboon)
+  ORGANISM  Papio anubis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Papio.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_044995.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA and EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Papio anubis Annotation Release 104
+            Annotation Version          :: 104
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..560
+                     /organism="Papio anubis"
+                     /isolate="15944"
+                     /db_xref="taxon:9555"
+                     /chromosome="20"
+                     /sex="male"
+                     /tissue_type="whole blood"
+     Protein         1..560
+                     /product="vesicular glutamate transporter 1"
+                     /calculated_mol_wt=61483
+     Region          66..490
+                     /region_name="MFS_SLC17A6_7_8_VGluT"
+                     /note="Solute carrier family 17 members 6, 7, and 8 (also
+                     called Vesicular glutamate transporters) of the Major
+                     Facilitator Superfamily of transporters; cd17382"
+                     /db_xref="CDD:340940"
+     Site            order(76..77,80..81,84,131,183..184,186..188,191,211,
+                     214..215,218,311,314..315,318..320,323,351,355,413..414,
+                     418,422,438,441..442,445..446,449)
+                     /site_type="other"
+                     /note="putative chemical substrate binding pocket
+                     [chemical binding]"
+                     /db_xref="CDD:340940"
+     CDS             1..560
+                     /gene="SLC17A7"
+                     /coded_by="XM_003915892.2:173..1855"
+                     /db_xref="GeneID:101005716"
+ORIGIN      
+        1 mefrqeefrk lagralgklh rllekrqega etlelsadgr pvttqtrdpp vvdctcfglp
+       61 rryiiaimsg lgfcisfgir cnlgvaivsm vnnstthrgg hvvvqkaqfs wdpetvglih
+      121 gsffwgyivt qipggficqk faanrvfgfa ivatstlnml ipsaarvhyg cvifvrilqg
+      181 lvegvtypac hgiwskwapp lersrlatta fcgsyagavv amplagvlvq ysgwssvfyv
+      241 ygsfgifwyl fwllvsyesp alhpsiseee rkyiedaige saklmnpltk fstpwrrfft
+      301 smpvyaiiva nfcrswtfyl llisqpayfe evfgfeiskv glvsalphlv mtiivpiggq
+      361 iadflrsrri msttnvrklm ncggfgmeat lllvvgyshs kgvaisflvl avgfsgfais
+      421 gfnvnhldia pryasilmgi sngvgtlsgm vcpiivgamt khktreewqy vfliaslvhy
+      481 ggvifygvfa sgekqpwaep eemseekcgf vghdqlagsd dsemedeaep pgappappps
+      541 ygathstfqp prppppvrdy
+//
+

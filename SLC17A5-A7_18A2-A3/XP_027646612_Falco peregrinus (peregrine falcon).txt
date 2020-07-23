@@ -1,0 +1,60 @@
+
+LOCUS       XP_027646612             482 aa            linear   VRT 23-JAN-2019
+DEFINITION  sialin [Falco peregrinus].
+ACCESSION   XP_027646612
+VERSION     XP_027646612.1
+DBLINK      BioProject: PRJNA198010
+DBSOURCE    REFSEQ: accession XM_027790811.1
+KEYWORDS    RefSeq.
+SOURCE      Falco peregrinus (peregrine falcon)
+  ORGANISM  Falco peregrinus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archosauria; Dinosauria; Saurischia; Theropoda; Coelurosauria;
+            Aves; Neognathae; Falconiformes; Falconidae; Falco.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_004930273.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA and EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Falco peregrinus Annotation Release
+                                           102
+            Annotation Version          :: 102
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.1
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..482
+                     /organism="Falco peregrinus"
+                     /db_xref="taxon:8954"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /country="United Arab Emirates: Abu Dhabi Falcon Hospital"
+                     /collection_date="Oct-2010"
+     Protein         1..482
+                     /product="sialin"
+                     /calculated_mol_wt=52954
+     CDS             1..482
+                     /gene="SLC17A5"
+                     /coded_by="XM_027790811.1:458..1906"
+                     /db_xref="GeneID:101920551"
+ORIGIN      
+        1 mplkseltmq vgpkttsqvp accsarynla llaffgffll yalrvnlsva lvdmvepntt
+       61 laknttsnvc pehsstinvp rnttgekysw dadtqgwilg sffygyivtq ipggylaski
+      121 ggkllmgfgv fgtsvftllt plaadlgvgy liavralegl gegvtfpamh smwsswappl
+      181 erskllsisy agaqlgtvvs lplsglicyy mnwvyvfyif galgvlwfff wmwfisdtpe
+      241 thrniscaer eyilsslkdq lstlksvpwr pileslplwa ivvahfsynw tfytlltllp
+      301 tymkeilrfd aqengflsal pyfgcwlcii lsgqiadylr ekqnlstvcv rkcftligmi
+      361 gpavflvaag figcnyalav afvtisttlg gfctsgysin hldiapsyag illgitnsfa
+      421 tipgmvgpvi aknltrnntv gewqmvfyia asinlfgaif ftlfasgevq dwavsgyhlp
+      481 rn
+//
+

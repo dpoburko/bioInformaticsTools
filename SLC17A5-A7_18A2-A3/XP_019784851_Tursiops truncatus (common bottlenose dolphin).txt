@@ -1,0 +1,69 @@
+
+LOCUS       XP_019784851             511 aa            linear   MAM 27-APR-2020
+DEFINITION  sialin isoform X1 [Tursiops truncatus].
+ACCESSION   XP_019784851
+VERSION     XP_019784851.1
+DBLINK      BioProject: PRJNA625792
+DBSOURCE    REFSEQ: accession XM_019929292.2
+KEYWORDS    RefSeq.
+SOURCE      Tursiops truncatus (common bottlenose dolphin)
+  ORGANISM  Tursiops truncatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Artiodactyla; Whippomorpha;
+            Cetacea; Odontoceti; Delphinidae; Tursiops.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_047045.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Tursiops truncatus Annotation
+                                           Release 102
+            Annotation Version          :: 102
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.4
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..511
+                     /organism="Tursiops truncatus"
+                     /isolate="mTurTru1"
+                     /db_xref="taxon:9739"
+                     /chromosome="12"
+                     /sex="male"
+                     /tissue_type="spleen"
+                     /country="USA: Baltimore, Maryland"
+                     /lat_lon="39.2851 N 76.6083 W"
+                     /collection_date="11-Nov-2018"
+                     /collected_by="Leigh Clayton, Jill Arnold, Winston Timp,
+                     Norah Hilger"
+     Protein         1..511
+                     /product="sialin isoform X1"
+                     /calculated_mol_wt=55888
+     Region          45..502
+                     /region_name="UhpC"
+                     /note="Sugar phosphate permease [Carbohydrate transport
+                     and metabolism]; cl27298"
+                     /db_xref="CDD:332119"
+     CDS             1..511
+                     /gene="SLC17A5"
+                     /coded_by="XM_019929292.2:99..1634"
+                     /db_xref="GeneID:101336157"
+ORIGIN      
+        1 mkspvpdlap sdgeegedrt pllqraprae tgeqlrepgs sderrsqapv ccsarynlaf
+       61 laffgffvly slrvnlsval vdmvdsnttt adnrtaneca ehstpikvlh nqtgkkyrwd
+      121 aetqgwilgs ffygyiitqi pagyvasrsg gklllgfgvl gtsvftlftp laadfgvgal
+      181 ialraleglg egvtfpamha mwsswapple rskllsisya gaqlgtvvsl plsgivcfym
+      241 nwtyvfylfg ivgiiwfilw iwlvsdtpet hktispyeke yilsslrnql ssqksvpwvp
+      301 mlkslalwai vvahfsynwt fytlltllpt ymkevlrfni qengflsavp ylgcwlcmil
+      361 sgqaadnlra kwnfstlcvr rvfsligmig pavflvaagf igcdyslava fltisttlgg
+      421 fcssgfsinh ldiapsyagi llgitntfat ipgmigpiia rsltpentvg ewqtvfclaa
+      481 avnvfgaitf tlfskgeaqn wavrdhggpr n
+//
+

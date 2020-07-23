@@ -1,0 +1,60 @@
+
+LOCUS       XP_034287785             491 aa            linear   VRT 15-MAY-2020
+DEFINITION  sialin isoform X1 [Pantherophis guttatus].
+ACCESSION   XP_034287785
+VERSION     XP_034287785.1
+DBLINK      BioProject: PRJNA632598
+DBSOURCE    REFSEQ: accession XM_034431894.1
+KEYWORDS    RefSeq.
+SOURCE      Pantherophis guttatus
+  ORGANISM  Pantherophis guttatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+            Toxicofera; Serpentes; Colubroidea; Colubridae; Colubrinae;
+            Pantherophis.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_023010819.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Pantherophis guttatus Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.4
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..491
+                     /organism="Pantherophis guttatus"
+                     /isolate="EG266"
+                     /db_xref="taxon:94885"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /tissue_type="blood"
+     Protein         1..491
+                     /product="sialin isoform X1"
+                     /calculated_mol_wt=54077
+     CDS             1..491
+                     /gene="SLC17A5"
+                     /coded_by="XM_034431894.1:191..1666"
+                     /db_xref="GeneID:117674084"
+ORIGIN      
+        1 mqtpkaeeee edrtplllsd sqpspkevpl wcsarlslai waffgfflly alrvnlsval
+       61 vdmvepntsl nknitsnvcp ehsstpvapr nttgksypwd admqgwilgs ffygyiitqv
+      121 pggylarrfg aklllgfgil gtavftlftp laadlgagfl iavrvleglg egvtfpamha
+      181 mwsnwapple rskllsisya gaqlgtvvsl plsgvicfyv dwsyvfyifg tlgvlwflfw
+      241 icvvsdtpet hktispaeke yilsslsqql stqksvpwka mlksvplwai vvahfsynwt
+      301 fytlltllpt ymkeilrfdv qengflsalp yfgcwvciiv cgqfadylre kknmstvcvr
+      361 ktftaigmvg pavflmaagf igcnyevavv fltisttlgg fstsgysinh ldiapsyagi
+      421 llgitnsfgt ipgmvgplva kalthsntie ewrnvfyias alnlfgaiff alfssgevqn
+      481 walngyhihr n
+//
+

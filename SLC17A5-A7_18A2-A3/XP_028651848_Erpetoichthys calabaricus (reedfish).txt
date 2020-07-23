@@ -1,0 +1,68 @@
+
+LOCUS       XP_028651848             526 aa            linear   VRT 21-APR-2019
+DEFINITION  synaptic vesicular amine transporter [Erpetoichthys calabaricus].
+ACCESSION   XP_028651848
+VERSION     XP_028651848.1
+DBLINK      BioProject: PRJNA531901
+DBSOURCE    REFSEQ: accession XM_028796015.1
+KEYWORDS    RefSeq.
+SOURCE      Erpetoichthys calabaricus (reedfish)
+  ORGANISM  Erpetoichthys calabaricus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Polypteriformes; Polypteridae; Erpetoichthys.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_041395.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Erpetoichthys calabaricus Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..526
+                     /organism="Erpetoichthys calabaricus"
+                     /db_xref="taxon:27687"
+                     /chromosome="2"
+     Protein         1..526
+                     /product="synaptic vesicular amine transporter"
+                     /calculated_mol_wt=57088
+     Region          26..481
+                     /region_name="MFS_SLC18A1_2_VAT1_2"
+                     /note="Vesicular amine transporters 1 (VAT1) and 2 (VAT2),
+                     and similar transporters of the Major Facilitator
+                     Superfamily; cd17384"
+                     /db_xref="CDD:340942"
+     Site            order(37..38,41..42,45,156,206..207,209..211,214,235,
+                     238..239,242,311,314..315,318..320,323,351,355,408..409,
+                     413,417,432,435..436,439..440,443)
+                     /site_type="other"
+                     /note="putative chemical substrate binding pocket
+                     [chemical binding]"
+                     /db_xref="CDD:340942"
+     CDS             1..526
+                     /gene="slc18a2"
+                     /coded_by="XM_028796015.1:123..1703"
+                     /db_xref="GeneID:114647327"
+ORIGIN      
+        1 mgaldslref nilrwlreer qsrrlilliv fiallldnml ltvvvpiips ylytaeheas
+       61 ltkphterpd lgslsssdaf ysifsyydns tlvtsntsae ttqspasfps sttqtavmnt
+      121 tdadsdcpkk dkdlvnenvk vgllfaskat vqlitnpfig vltnrigyqi pmfagfcimf
+      181 vstimfacse syaflflars lqgigsscss vagmgmlasv ytddeergna mgialgglam
+      241 gvlvgppfgs imyefvgksa pflilaalvl vdgalqlivl qpskvqpesq kgtslfillr
+      301 dpyiliaags icfanmaiam lepalpiwmm etmcsrkwql gvafvpasis yligtnifgv
+      361 lahkmgrwlc allgmiivgv silcvpfats iyglivpnfg vgfaigmvds smmpimgylv
+      421 dlrhvsvygs vyaiadvafc mgyalgpttg gaiarsigfp wmmtiigiid ilfaplcffl
+      481 rsppakeekm ailmdhncst rtrmyttqdn sqpypmmede esesde
+//
+

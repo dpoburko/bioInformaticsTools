@@ -1,0 +1,60 @@
+
+LOCUS       XP_032316200             500 aa            linear   MAM 19-FEB-2020
+DEFINITION  sialin isoform X1 [Camelus ferus].
+ACCESSION   XP_032316200
+VERSION     XP_032316200.1
+DBLINK      BioProject: PRJNA605179
+DBSOURCE    REFSEQ: accession XM_032460309.1
+KEYWORDS    RefSeq.
+SOURCE      Camelus ferus (Wild Bactrian camel)
+  ORGANISM  Camelus ferus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Artiodactyla; Tylopoda;
+            Camelidae; Camelus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_045713.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Camelus ferus Annotation Release 102
+            Annotation Version          :: 102
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.3
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..500
+                     /organism="Camelus ferus"
+                     /isolate="YT-003-E"
+                     /db_xref="taxon:419612"
+                     /chromosome="18"
+                     /sex="male"
+                     /tissue_type="ear skin"
+                     /country="Mongolia"
+     Protein         1..500
+                     /product="sialin isoform X1"
+                     /calculated_mol_wt=54587
+     CDS             1..500
+                     /gene="SLC17A5"
+                     /coded_by="XM_032460309.1:125..1627"
+                     /db_xref="GeneID:102524116"
+ORIGIN      
+        1 mkspvadlap tdgeegsdrt pllqraprae aapvccsary nlaflafcgf fvlyalrvnl
+       61 svalvdmvds nstaadnrts secaehsapi kvlhnqtgkr yqwdaetqgw ilgsffygyi
+      121 itqipggyma srvggklllg fgilgtavft lftplaadlg vgalvalral eglgegvtfp
+      181 amhsmwsswa pplersklls isyagaqlgt vvslplsgii cfymnwtyvf yffgivgiiw
+      241 filwiwlvtd tpethktisp yeqeyilssl knqlssqksv pwipvlkslp lwaivvahfs
+      301 ynwtfytllt llptymkevl rfniqengvl savpyfgcwl cmilsgqaad nlrakwnfst
+      361 lcvrrlftli gmigpavflv aagfigcdys lavafltist tlggfcssgf sinhldiaps
+      421 yagvllgitn tfatvpgmvg piiarsltpe ntirewqtvf ciaaainvfg aifftlfakg
+      481 evqtwavsdh rghktegtnk
+//
+

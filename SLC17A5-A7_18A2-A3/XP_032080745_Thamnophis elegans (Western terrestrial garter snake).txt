@@ -1,0 +1,66 @@
+
+LOCUS       XP_032080745             520 aa            linear   VRT 31-JAN-2020
+DEFINITION  synaptic vesicular amine transporter [Thamnophis elegans].
+ACCESSION   XP_032080745
+VERSION     XP_032080745.1
+DBLINK      BioProject: PRJNA602516
+DBSOURCE    REFSEQ: accession XM_032224854.1
+KEYWORDS    RefSeq.
+SOURCE      Thamnophis elegans (Western terrestrial garter snake)
+  ORGANISM  Thamnophis elegans
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+            Toxicofera; Serpentes; Colubroidea; Colubridae; Natricinae;
+            Thamnophis.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_045550.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Thamnophis elegans Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.3
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..520
+                     /organism="Thamnophis elegans"
+                     /isolate="rThaEle1"
+                     /db_xref="taxon:35005"
+                     /chromosome="10"
+                     /sex="female"
+                     /tissue_type="blood"
+                     /dev_stage="juvenile"
+                     /country="USA: Born in Anne Bronikowsk lab at ISU; MOM,
+                     2012; Eagle Lake; PAP"
+                     /lat_lon="42.02482 N 93.64411 W"
+                     /collection_date="01-Apr-2018"
+                     /collected_by="Anne Bronikowski"
+     Protein         1..520
+                     /product="synaptic vesicular amine transporter"
+                     /calculated_mol_wt=56780
+     CDS             1..520
+                     /gene="SLC18A2"
+                     /coded_by="XM_032224854.1:19..1581"
+                     /db_xref="GeneID:116513679"
+ORIGIN      
+        1 mawhefgvln wlresrqsrk lillivfial lldnmlltvv vpiipsylys lrhpknvtdv
+       61 qttrpetpvn snrlqsifsy ydnstivtgn nsertrpedy yaqteqmvvn msmvtpsssd
+      121 cpkkdkelvn envevgllfa skatvqlltn pfigpmtnri gyqvpmfagf cimfistimf
+      181 afaesynllv iaralqgvgs scssvagmgm lasvytddee rgnamgialg glalgvlvgp
+      241 pfgsvlyefv gkaapflvla altlfdgaiq llilqpskiq pesqkgasll tllrdpyili
+      301 aagaicfanm aiamlepalp iwmmetmcss kwqlgvafip asisyligtn lfgslahkmg
+      361 rwfcaligmi ivglsilcvp fakniygliv pnfgvgfaig mvdsslmpim gylvdlrhvs
+      421 vygsvyaiad vafcmgfalg psvggviaks igfpwlmtii giidilfapl clflrsppak
+      481 eekmailmdq nchfktkmyt qnsiqpdpld deeeeyesdk
+//
+

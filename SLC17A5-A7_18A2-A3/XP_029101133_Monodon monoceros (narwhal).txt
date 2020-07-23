@@ -1,0 +1,79 @@
+
+LOCUS       XP_029101133             517 aa            linear   MAM 21-MAY-2019
+DEFINITION  synaptic vesicular amine transporter isoform X1 [Monodon
+            monoceros].
+ACCESSION   XP_029101133
+VERSION     XP_029101133.1
+DBLINK      BioProject: PRJNA542700
+DBSOURCE    REFSEQ: accession XM_029245300.1
+KEYWORDS    RefSeq.
+SOURCE      Monodon monoceros (narwhal)
+  ORGANISM  Monodon monoceros
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Cetartiodactyla; Cetacea;
+            Odontoceti; Monodontidae; Monodon.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_021703781.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Monodon monoceros Annotation Release
+                                           100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..517
+                     /organism="Monodon monoceros"
+                     /isolate="NGI"
+                     /db_xref="taxon:40151"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /tissue_type="liver"
+                     /dev_stage="Adolescent (Juvenile stage)"
+                     /ecotype="Baffin Bay Population"
+                     /country="Canada: Milne Inlet, Baffin Island, Nunavut"
+                     /lat_lon="72.3787 N 80.5310 W"
+                     /collection_date="08-Aug-2013"
+     Protein         1..517
+                     /product="synaptic vesicular amine transporter isoform X1"
+                     /calculated_mol_wt=55839
+     Region          126..474
+                     /region_name="MFS_SLC18A1_2_VAT1_2"
+                     /note="Vesicular amine transporters 1 (VAT1) and 2 (VAT2),
+                     and similar transporters of the Major Facilitator
+                     Superfamily; cd17384"
+                     /db_xref="CDD:340942"
+     Site            order(149,199..200,202..204,207,228,231..232,235,304,
+                     307..308,311..313,316,344,348,401..402,406,410,425,
+                     428..429,432..433,436)
+                     /site_type="other"
+                     /note="putative chemical substrate binding pocket
+                     [chemical binding]"
+                     /db_xref="CDD:340942"
+     CDS             1..517
+                     /gene="SLC18A2"
+                     /coded_by="XM_029245300.1:25..1578"
+                     /db_xref="GeneID:114908764"
+ORIGIN      
+        1 malselallr wlqesrhsrk lilfivflal lldnmlltvv vpiipsylys iehekdaiei
+       61 qtakpvlkas tfggfqnifs yydnstvvag nstgslqgal lheattqrtv tnrstapsdc
+      121 psedkdllne nvqvgllfas katvqlltnp figlltnrig ypipmftgfc imfistvmfa
+      181 fsrsyaflli arslqgigss cssvagmgml asvytddeer gnamgialgg lamgvlvgpp
+      241 fgsvlyefvg ktapflllaa lvlldgaiql fvlqpsrvqp esqkgtpltt llkdpyilia
+      301 agsicfanmg iamlepalpi wmmetmcshk wqlgvaflpa sisyligtni fgilahkmgr
+      361 wlcallgmii vgfsilcipl akniygliap nfgvgfaigm vdssmmpimg ylvdlrhvsv
+      421 ygsvyaiadv afcmgyaigp saggaiaksi gfpwlmtiig iidilfaplc fflrsppake
+      481 ekmailmdhn cpiktkmytq nniqsypige deesesd
+//
+

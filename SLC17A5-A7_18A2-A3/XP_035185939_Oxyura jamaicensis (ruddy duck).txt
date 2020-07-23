@@ -1,0 +1,67 @@
+
+LOCUS       XP_035185939             534 aa            linear   VRT 05-JUL-2020
+DEFINITION  vesicular acetylcholine transporter [Oxyura jamaicensis].
+ACCESSION   XP_035185939
+VERSION     XP_035185939.1
+DBLINK      BioProject: PRJNA641662
+DBSOURCE    REFSEQ: accession XM_035330048.1
+KEYWORDS    RefSeq; includes ab initio.
+SOURCE      Oxyura jamaicensis (ruddy duck)
+  ORGANISM  Oxyura jamaicensis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Galloanserae; Anseriformes;
+            Anatidae; Anatinae; Oxyura.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_048898.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Oxyura jamaicensis Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.4
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            ab initio :: 1% of CDS bases
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..534
+                     /organism="Oxyura jamaicensis"
+                     /isolate="SHBP4307"
+                     /db_xref="taxon:8884"
+                     /chromosome="6"
+                     /sex="female"
+                     /tissue_type="blood"
+                     /dev_stage="adult"
+                     /country="USA: Scotland Neck, NC"
+                     /breed="ruddy duck"
+     Protein         1..534
+                     /product="vesicular acetylcholine transporter"
+                     /calculated_mol_wt=56024
+     CDS             1..534
+                     /gene="SLC18A3"
+                     /coded_by="XM_035330048.1:1..1605"
+                     /db_xref="GeneID:118169086"
+ORIGIN      
+        1 maeaeagaag raraavarls eavgerrrrl gtamgearrq rrllllvvcv allldnmlym
+       61 vivpivpdyi aamrggggaa gpaapagane sggsggggnr sllparyppa tggnedvqig
+      121 vlfaskamlq llvnplsgtl idrvgyelpl laglavmfls tltfafaany atlfaarslq
+      181 glgsafadta gialiadrys eeparsralg talacisfgs laappfggvl yqfagkrvpf
+      241 lvlaavclld gvlllavepp cgagardnmp vgtpihrlmv dpyiavvaga lttcniplaf
+      301 leptianwmt esmgasewev gltwlpaffp hvlgvyvtvr laaayphlqw fygalgmaii
+      361 gassclvpac rnfgqvivpl cgicfgialv dtallptlaf lvdvrhvsvy gsvyaiadis
+      421 ysvayalgpi vagqivhtmg faqlnlgmgl anvlyapvll flknvcqmkp shsernille
+      481 egpkglydti kmeeckgmgk slrpvgqtee nvtdsyrrdl agvseedssd yeys
+//
+

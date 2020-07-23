@@ -1,0 +1,64 @@
+
+LOCUS       XP_012989659             492 aa            linear   VRT 11-MAY-2020
+DEFINITION  sialin [Esox lucius].
+ACCESSION   XP_012989659
+VERSION     XP_012989659.2
+DBLINK      BioProject: PRJNA629749
+DBSOURCE    REFSEQ: accession XM_013134205.3
+KEYWORDS    RefSeq.
+SOURCE      Esox lucius (northern pike)
+  ORGANISM  Esox lucius
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Esociformes; Esocidae; Esox.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_047574.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            On May 11, 2020 this sequence version replaced XP_012989659.1.
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Esox lucius Annotation Release 104
+            Annotation Version          :: 104
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.4
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..492
+                     /organism="Esox lucius"
+                     /isolate="fEsoLuc1"
+                     /db_xref="taxon:8010"
+                     /chromosome="6"
+                     /tissue_type="liver, spleen"
+                     /dev_stage="adult"
+                     /country="Czech Republic: Jihlava River, Danube basin"
+                     /lat_lon="49.218 N 16.717 E"
+                     /collection_date="29-Nov-2018"
+                     /collected_by="Martin Reichard"
+     Protein         1..492
+                     /product="sialin"
+                     /calculated_mol_wt=53826
+     CDS             1..492
+                     /gene="slc17a5"
+                     /coded_by="XM_013134205.3:249..1727"
+                     /db_xref="GeneID:105023254"
+ORIGIN      
+        1 mdryesetet deqdqpllin rqddeverap accssryals flscygffva yalrvnlsva
+       61 mvdmlnntgv sgntstsvcp ahfnpprpkh nhtasvydwd setqgwilgs ffygyiltqi
+      121 pggylarkyg akwllglgil gtvvftlltp vaadlgagyl iavrvlegig egvtfpamha
+      181 mwaswapple rsrlltiayt gaqlgtvval plsgqicfyl dwtwvfyifg ivgivwfilw
+      241 aflvsntpst hpriseqerl yilstlnkeh splgnhipwa siltslplwa ivvahfsynw
+      301 tfytlltllp tymsnvlgfs ikengalsal pyigcgllav lggqladylr ekrfyrtvvv
+      361 rkvfsligmi gpavfivavg htgcnyilav afltissslg gmvasgfnin hldiapsyag
+      421 illgitnsfa tipgmvgpvi araltknnti eewqsvfyis aginlfgaaf ytvfgrgvvq
+      481 pwavhnphsh gn
+//
+

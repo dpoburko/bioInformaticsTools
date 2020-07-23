@@ -1,0 +1,82 @@
+
+LOCUS       XP_005229814             518 aa            linear   VRT 23-JAN-2019
+DEFINITION  synaptic vesicular amine transporter isoform X1 [Falco peregrinus].
+ACCESSION   XP_005229814
+VERSION     XP_005229814.1
+DBLINK      BioProject: PRJNA198010
+DBSOURCE    REFSEQ: accession XM_005229757.3
+KEYWORDS    RefSeq.
+SOURCE      Falco peregrinus (peregrine falcon)
+  ORGANISM  Falco peregrinus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archosauria; Dinosauria; Saurischia; Theropoda; Coelurosauria;
+            Aves; Neognathae; Falconiformes; Falconidae; Falco.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_004929584.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Falco peregrinus Annotation Release
+                                           102
+            Annotation Version          :: 102
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.1
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..518
+                     /organism="Falco peregrinus"
+                     /db_xref="taxon:8954"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /country="United Arab Emirates: Abu Dhabi Falcon Hospital"
+                     /collection_date="Oct-2010"
+     Protein         1..518
+                     /product="synaptic vesicular amine transporter isoform X1"
+                     /calculated_mol_wt=56028
+     Region          133..440
+                     /region_name="MFS_1"
+                     /note="Major Facilitator Superfamily; pfam07690"
+                     /db_xref="CDD:284993"
+     Region          135..276
+                     /region_name="2_A_01_02"
+                     /note="Multidrug resistance protein; TIGR00880"
+                     /db_xref="CDD:273318"
+     Site            order(138,141..142,145,149..150,152..153,199..200,
+                     203..204,207..208,211,224..225,228..229,235,308,311..312,
+                     315..316,319,333,337,341,344,348,395,398..399,405,
+                     409..410,413,424..425,428..429,432..433,436)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     Region          297..>474
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     CDS             1..518
+                     /gene="SLC18A2"
+                     /coded_by="XM_005229757.3:91..1647"
+                     /db_xref="GeneID:101917491"
+ORIGIN      
+        1 mawgelsllr wlresrqsrk lillivfial lldnmlltvv vpiipsylys ikhakndtei
+       61 qttkpnvvst tmdnfqsifs yydnstmvtg nesdqtgpge lpraqteqmt vnvtpspadc
+      121 pkedkdllne nvqvgllfas katvqlitnp figpltnrig yqiplfagfc imfvstimfa
+      181 fsgsytllfi arslqgvgss cssvagmgml asvytddeer gnamgialgg lamgvlvgpp
+      241 fgsvmyefvg ksspflvlaa lalldgavql fvlqpsraqa esqkgtpllt llkdpyiiia
+      301 agsicfanma iamlepalpi wmmetmcskk wqlgvaflpa sisyligtnl fgilahkvgr
+      361 wlcallgmli vgisilcvpf akniygliap nfgvgfaigm vdssmmpimg ylvdlrhvsv
+      421 ygsvyaiadv afcmgfaigp saggaiakai gfpwlmtiig ivdilfaplc fflrsppake
+      481 ekmailmdhn cpvktkmytq nniqsypigd eeeyesde
+//
+

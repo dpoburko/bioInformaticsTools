@@ -1,0 +1,79 @@
+
+LOCUS       XP_029062537             560 aa            linear   MAM 21-MAY-2019
+DEFINITION  vesicular glutamate transporter 1 [Monodon monoceros].
+ACCESSION   XP_029062537
+VERSION     XP_029062537.1
+DBLINK      BioProject: PRJNA542700
+DBSOURCE    REFSEQ: accession XM_029206704.1
+KEYWORDS    RefSeq.
+SOURCE      Monodon monoceros (narwhal)
+  ORGANISM  Monodon monoceros
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Cetartiodactyla; Cetacea;
+            Odontoceti; Monodontidae; Monodon.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_021703766.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Monodon monoceros Annotation Release
+                                           100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..560
+                     /organism="Monodon monoceros"
+                     /isolate="NGI"
+                     /db_xref="taxon:40151"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /tissue_type="liver"
+                     /dev_stage="Adolescent (Juvenile stage)"
+                     /ecotype="Baffin Bay Population"
+                     /country="Canada: Milne Inlet, Baffin Island, Nunavut"
+                     /lat_lon="72.3787 N 80.5310 W"
+                     /collection_date="08-Aug-2013"
+     Protein         1..560
+                     /product="vesicular glutamate transporter 1"
+                     /calculated_mol_wt=61503
+     Region          66..490
+                     /region_name="MFS_SLC17A6_7_8_VGluT"
+                     /note="Solute carrier family 17 members 6, 7, and 8 (also
+                     called Vesicular glutamate transporters) of the Major
+                     Facilitator Superfamily of transporters; cd17382"
+                     /db_xref="CDD:340940"
+     Site            order(76..77,80..81,84,131,183..184,186..188,191,211,
+                     214..215,218,311,314..315,318..320,323,351,355,413..414,
+                     418,422,438,441..442,445..446,449)
+                     /site_type="other"
+                     /note="putative chemical substrate binding pocket
+                     [chemical binding]"
+                     /db_xref="CDD:340940"
+     CDS             1..560
+                     /gene="SLC17A7"
+                     /coded_by="XM_029206704.1:136..1818"
+                     /db_xref="GeneID:114886146"
+ORIGIN      
+        1 mefrqeefrk lagralgrlh rllekrqega etlelsadgr pvttqtrdpp vvdctcfglp
+       61 rryiiaimsg lgfcisfgir cnlgvaivsm vnnstthrgg hvvvqqaqft wdpetvglih
+      121 gsffwgyivt qipggficqk faanrvfgfa ivatstlnml ipsaarvhyg cvifvrilqg
+      181 lvegvtypac hgiwskwapp lersrlatta fcgsyagavv amplagvlvq ysgwssvfyv
+      241 ygsfgifwyl fwllvsyesp alhpsiseee rkyiedaige saklmnpvtk fntpwrrfft
+      301 smpvyaiiva nfcrswtfyl llisqpayfe evfgfeiskv glvsalphlv mtiivpiggq
+      361 iadflrsrri msttnvrklm ncggfgmeat lllvvgyshs kgvaisflvl avgfsgfais
+      421 gfnvnhldia pryasilmgi sngvgtlsgm vcpiivgamt khktreewqy vfliaslvhy
+      481 ggvifygvfa sgekqpwaep eemseekcgf vghdqlagsd esemedeaep pgappappps
+      541 ygathstvqp prppppvrdy
+//
+

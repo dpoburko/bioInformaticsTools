@@ -1,0 +1,55 @@
+
+LOCUS       XP_030054903             493 aa            linear   VRT 03-AUG-2019
+DEFINITION  sialin [Microcaecilia unicolor].
+ACCESSION   XP_030054903
+VERSION     XP_030054903.1
+DBLINK      BioProject: PRJNA556662
+DBSOURCE    REFSEQ: accession XM_030199043.1
+KEYWORDS    RefSeq.
+SOURCE      Microcaecilia unicolor
+  ORGANISM  Microcaecilia unicolor
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Gymnophiona; Siphonopidae; Microcaecilia.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_044033.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Microcaecilia unicolor Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..493
+                     /organism="Microcaecilia unicolor"
+                     /db_xref="taxon:1415580"
+                     /chromosome="3"
+     Protein         1..493
+                     /product="sialin"
+                     /calculated_mol_wt=53820
+     CDS             1..493
+                     /gene="SLC17A5"
+                     /coded_by="XM_030199043.1:123..1604"
+                     /db_xref="GeneID:115467237"
+ORIGIN      
+        1 mqseseeesd tspmlgssve rrelllptkv pkccsarynl aalalfgflm lyalrvnlsv
+       61 alvdmvksns smsenandsv cpahsttpmi phnttgkqyp wdadtqgwil gsffygyivt
+      121 qipggflasr iggklllgfg vlgtavftll tplaadlgvg yllavraleg lgegvtfpam
+      181 hamwsswapp lersrllsls yagaqlgtvv slpvsglicy ymdwsyvfyi fgalgivwfi
+      241 lwcwivsdtp ethrtispse kdyilsslrn qlsseksvpc gamiksmplw aiivahfsyn
+      301 wtfytlltll ptymkdilqf naqengvlsa lpyfgcwlcm iltgqladym rehlnistvv
+      361 vrktfnsigm igpalflvaa gytgcnyvla vtfltisttl ggfcmsgfgi nhldiapsya
+      421 gillgitntf atipgmvgpv iaksltrnnt veewqlvfyi aaaidvfgaf ffvvfgsgmv
+      481 qewaikgihs hri
+//
+

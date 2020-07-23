@@ -1,0 +1,65 @@
+
+LOCUS       XP_021405700             447 aa            linear   VRT 05-NOV-2019
+DEFINITION  vesicular glutamate transporter 1 [Lonchura striata domestica].
+ACCESSION   XP_021405700
+VERSION     XP_021405700.1
+DBLINK      BioProject: PRJNA391487
+DBSOURCE    REFSEQ: accession XM_021550025.1
+KEYWORDS    RefSeq; includes ab initio.
+SOURCE      Lonchura striata domestica (Bengalese finch)
+  ORGANISM  Lonchura striata domestica
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Passeriformes; Passeroidea;
+            Estrildidae; Estrildinae; Lonchura.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_021819339.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Lonchura striata domestica
+                                           Annotation Release 101
+            Annotation Version          :: 101
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            ab initio :: 10% of CDS bases
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..447
+                     /organism="Lonchura striata domestica"
+                     /isolate="Mets1"
+                     /sub_species="domestica"
+                     /db_xref="taxon:299123"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /tissue_type="blood"
+                     /dev_stage="adult"
+     Protein         1..447
+                     /product="vesicular glutamate transporter 1"
+                     /calculated_mol_wt=47731
+     CDS             1..447
+                     /gene="SLC17A7"
+                     /coded_by="XM_021550025.1:1..1344"
+                     /db_xref="GeneID:110481419"
+ORIGIN      
+        1 mlpsapcpvp hlflydtpti katpaacggi grgpphaqfn wdpetvgmih gsffwgyivt
+       61 qipggfiaqk faanrvfgla ivstsvlnml ipsaarthvg cviavrvmqg lvegvtypac
+      121 hgiwskwapp lersrlatta fcgsyagavv amplagvlvq ytgwssvfyv ygsfgvfwyl
+      181 fwvlvsyesp aqhptisaee rkyieesige sagsnpllla tpwrhfftsm pvyaiivanf
+      241 crswtfylll isqpayfeev fgfeiskvgl lsalphlvmt ivvpiggqia dllrsrglms
+      301 ttnvrkmmnc ggfgmeatll lvvgyshsra vaisflvlav gfsgfaisgg dsgtggfctr
+      361 eewqwvflia alvhyggvaf ygafasgepq pwaeppreea eplapagedd eeeeeeeggv
+      421 gppgppggpp asygatgttp apgtphe
+//
+

@@ -1,0 +1,88 @@
+
+LOCUS       XM_011528978            2504 bp    mRNA    linear   PRI 28-MAY-2020
+DEFINITION  PREDICTED: Homo sapiens solute carrier family 17 member 9
+            (SLC17A9), transcript variant X1, mRNA.
+ACCESSION   XM_011528978
+VERSION     XM_011528978.2
+DBLINK      BioProject: PRJNA168
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_000020.11) annotated using gene prediction method: Gnomon,
+            supported by mRNA and EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            On Jun 6, 2016 this sequence version replaced XM_011528978.1.
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Updated annotation
+            Annotation Name             :: Homo sapiens Updated Annotation
+                                           Release 109.20200522
+            Annotation Version          :: 109.20200522
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.4
+            Annotation Method           :: Best-placed RefSeq; propagated
+                                           RefSeq model
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..2504
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="20"
+     gene            1..2504
+                     /gene="SLC17A9"
+                     /gene_synonym="C20orf59; POROK8; VNUT"
+                     /note="solute carrier family 17 member 9; Derived by
+                     automated computational analysis using gene prediction
+                     method: Gnomon. Supporting evidence includes similarity
+                     to: 1 mRNA, 47 ESTs, 30 long SRA reads, 1 Protein, and
+                     100% coverage of the annotated genomic feature by RNAseq
+                     alignments, including 29 samples with support for all
+                     annotated introns"
+                     /db_xref="GeneID:63910"
+                     /db_xref="HGNC:HGNC:16192"
+                     /db_xref="MIM:612107"
+     CDS             457..1407
+                     /gene="SLC17A9"
+                     /gene_synonym="C20orf59; POROK8; VNUT"
+                     /codon_start=1
+                     /product="solute carrier family 17 member 9 isoform X1"
+                     /protein_id="XP_011527280.1"
+                     /db_xref="GeneID:63910"
+                     /db_xref="HGNC:HGNC:16192"
+                     /db_xref="MIM:612107"
+                     /translation="MTFSRILMGLLQGVYFPALTSLLSQKVRESERAFTYSIVGAGSQ
+                     FGTLLTGAVGSLLLEWYGWQSIFYFSGGLTLLWVWYVYRYLLSEKDLILALGVLAQSR
+                     PVSRHNRVPWRRLFRKPAVWAAVVSQLSAACSFFILLSWLPTFFEETFPDAKGWIFNV
+                     VPWLVAIPASLFSGFLSDHLINQGYRAITVRKLMQGMGLGLSSVFALCLGHTSSFCES
+                     VVFASASIGLQTFNHSGISVNIQDLAPSCAGFLFGVANTAGALAGVVGVCLGGYLMET
+                     TGSWTCLFNLVAIISNLGLCTFLVFGQAQRVDLSSTHEDL"
+ORIGIN      
+         1 atgaccttct cacgcatcct catgggcttg ctccaagggg tttacttccc tgccctgacc 
+        61 agcctgctgt cgcagaaggt gcgggagagt gagcgagcct tcacctacag catcgtgggc 
+       121 gccggctccc agtttgggac gctgctgacc ggggcggtgg gctccctgct cctggaatgg 
+       181 tacggctggc agagcatctt ctatttctcc ggcggcctca ccttgctttg ggtgtggtac 
+       241 gtgtacaggt acctgctgag tgaaaaagat ctcatcctgg ccttgggtgt cctggcccaa 
+       301 agccggccgg tgtccaggca caacagagtc ccctggagac ggctcttccg gaagcctgct 
+       361 gtctgggcag ccgtcgtctc ccagctctct gcagcctgct ccttcttcat cctcctctcc 
+       421 tggctgccca ccttcttcga ggagaccttc cccgacgcca agggctggat cttcaacgtg 
+       481 gttccttggt tggtggcgat tccggccagt ctattcagcg ggtttctctc tgatcatctc 
+       541 atcaatcagg gttacagagc catcacggtg cggaagctca tgcagggcat gggccttggc 
+       601 ctctccagcg tctttgctct gtgcctgggc cacacctcca gcttctgtga gtctgtggtc 
+       661 tttgcatcag cctccatcgg cctccagacc ttcaaccaca gtggcatttc tgttaacatc 
+       721 caggacttgg ccccgtcctg cgccggcttt ctgtttggtg tggccaacac agccggggcc 
+       781 ttggcaggtg tcgtgggtgt gtgtctaggc ggctacttga tggagaccac gggctcctgg 
+       841 acttgcctgt tcaaccttgt ggccatcatc agcaacctgg ggctgtgcac cttcctggtg 
+       901 tttggacagg ctcagagggt ggacctgagc tctacccatg aggacctcta g
+//
+

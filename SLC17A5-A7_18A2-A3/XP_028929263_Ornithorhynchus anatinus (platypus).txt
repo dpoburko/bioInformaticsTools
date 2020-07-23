@@ -1,0 +1,72 @@
+
+LOCUS       XP_028929263             579 aa            linear   MAM 29-APR-2019
+DEFINITION  vesicular glutamate transporter 1 [Ornithorhynchus anatinus].
+ACCESSION   XP_028929263
+VERSION     XP_028929263.1
+DBLINK      BioProject: PRJNA534073
+DBSOURCE    REFSEQ: accession XM_029073430.1
+KEYWORDS    RefSeq.
+SOURCE      Ornithorhynchus anatinus (platypus)
+  ORGANISM  Ornithorhynchus anatinus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Monotremata; Ornithorhynchidae; Ornithorhynchus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_041737.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Ornithorhynchus anatinus Annotation
+                                           Release 104
+            Annotation Version          :: 104
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..579
+                     /organism="Ornithorhynchus anatinus"
+                     /isolate="Pmale09"
+                     /db_xref="taxon:9258"
+                     /chromosome="10"
+                     /sex="male"
+                     /tissue_type="liver; muscle"
+     Protein         1..579
+                     /product="vesicular glutamate transporter 1"
+                     /calculated_mol_wt=63813
+     Region          66..490
+                     /region_name="MFS_SLC17A6_7_8_VGluT"
+                     /note="Solute carrier family 17 members 6, 7, and 8 (also
+                     called Vesicular glutamate transporters) of the Major
+                     Facilitator Superfamily of transporters; cd17382"
+                     /db_xref="CDD:340940"
+     Site            order(76..77,80..81,84,131,183..184,186..188,191,211,
+                     214..215,218,311,314..315,318..320,323,351,355,413..414,
+                     418,422,438,441..442,445..446,449)
+                     /site_type="other"
+                     /note="putative chemical substrate binding pocket
+                     [chemical binding]"
+                     /db_xref="CDD:340940"
+     CDS             1..579
+                     /gene="SLC17A7"
+                     /coded_by="XM_029073430.1:370..2109"
+                     /db_xref="GeneID:114814644"
+ORIGIN      
+        1 mefrkeefqk lagktlghlh rllekrqegs etlelteegr pvavserrrp vldctcfglp
+       61 rryiiaimsg lgfcisfgir cnlgvaivsm vnnstvrrgd kvliqkaqfg wdpetvglih
+      121 gsffwgyivt qipggficqk faanrvfgfa ivatstlnml ipsaarvhyg cvifvrilqg
+      181 lvegvtypac hgiwskwapp lersrlatta fcgsyagavv amplagvlvq ysgwssvfyv
+      241 ygsfgifwyl fwllvsyesp alhpsiseee rryieeaige sanlmnpvtk fntpwrkfft
+      301 smpvyaiiva nfcrswtfyl llisqpayfe evfgfeiskv glvsalphlv mtiivpiggq
+      361 iadflrtrri msttnvrkmm ncggfgmeat lllvvgyshs kgvaisflvl avgfsgfais
+      421 gfnvnhldia pryasilmgi sngvgtlsgm vcpiivgamt khktreewqy vfliaslvhy
+      481 ggvlfygifa sgekqpwaep eeqseekcgf ihqdqlgase ededeyeedg appaptgppa
+      541 rppaphgyga trstprapsn wvsfddpaps qplapgrdf
+//
+

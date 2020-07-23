@@ -1,0 +1,121 @@
+
+LOCUS       BC025312                2610 bp    mRNA    linear   PRI 19-MAR-2009
+DEFINITION  Homo sapiens solute carrier family 17, member 9, mRNA (cDNA clone
+            MGC:39296 IMAGE:4563089), complete cds.
+ACCESSION   BC025312
+VERSION     BC025312.1
+KEYWORDS    MGC.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 2610)
+  AUTHORS   Strausberg,R.L., Feingold,E.A., Grouse,L.H., Derge,J.G.,
+            Klausner,R.D., Collins,F.S., Wagner,L., Shenmen,C.M., Schuler,G.D.,
+            Altschul,S.F., Zeeberg,B., Buetow,K.H., Schaefer,C.F., Bhat,N.K.,
+            Hopkins,R.F., Jordan,H., Moore,T., Max,S.I., Wang,J., Hsieh,F.,
+            Diatchenko,L., Marusina,K., Farmer,A.A., Rubin,G.M., Hong,L.,
+            Stapleton,M., Soares,M.B., Bonaldo,M.F., Casavant,T.L.,
+            Scheetz,T.E., Brownstein,M.J., Usdin,T.B., Toshiyuki,S.,
+            Carninci,P., Prange,C., Raha,S.S., Loquellano,N.A., Peters,G.J.,
+            Abramson,R.D., Mullahy,S.J., Bosak,S.A., McEwan,P.J.,
+            McKernan,K.J., Malek,J.A., Gunaratne,P.H., Richards,S.,
+            Worley,K.C., Hale,S., Garcia,A.M., Gay,L.J., Hulyk,S.W.,
+            Villalon,D.K., Muzny,D.M., Sodergren,E.J., Lu,X., Gibbs,R.A.,
+            Fahey,J., Helton,E., Ketteman,M., Madan,A., Rodrigues,S.,
+            Sanchez,A., Whiting,M., Madan,A., Young,A.C., Shevchenko,Y.,
+            Bouffard,G.G., Blakesley,R.W., Touchman,J.W., Green,E.D.,
+            Dickson,M.C., Rodriguez,A.C., Grimwood,J., Schmutz,J., Myers,R.M.,
+            Butterfield,Y.S., Krzywinski,M.I., Skalska,U., Smailus,D.E.,
+            Schnerch,A., Schein,J.E., Jones,S.J. and Marra,M.A.
+  CONSRTM   Mammalian Gene Collection Program Team
+  TITLE     Generation and initial analysis of more than 15,000 full-length
+            human and mouse cDNA sequences
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 99 (26), 16899-16903 (2002)
+   PUBMED   12477932
+REFERENCE   2  (bases 1 to 2610)
+  CONSRTM   NIH MGC Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-MAR-2002) National Institutes of Health, Mammalian
+            Gene Collection (MGC), Bethesda, MD 20892-2590, USA
+  REMARK    NIH-MGC Project URL: http://mgc.nci.nih.gov
+COMMENT     Contact: MGC help desk
+            Email: cgapbs-r@mail.nih.gov
+            Tissue Procurement: DCTD/DTP
+            cDNA Library Preparation: Rubin Laboratory
+            cDNA Library Arrayed by: The I.M.A.G.E. Consortium (LLNL)
+            DNA Sequencing by: Genome Sequence Centre,
+            BC Cancer Agency, Vancouver, BC, Canada
+            info@bcgsc.bc.ca
+            Martin Hirst, Thomas Zeng, Ryan Morin, Michelle Moksa, Johnson
+            Pang, Diana Mah, Jing Wang, Kieth Fichter, Eric Chuah, Allen
+            Delaney, Rob Kirkpatrick, Agnes Baross, Sarah Barber, Mabel
+            Brown-John, Steve S. Chand, William Chow, Ryan Babakaiff, Dave
+            Wong, Corey Matsuo, Jaclyn Beland, Susan Gibson, Luis delRio, Ruth
+            Featherstone, Malachi Griffith, Obi Griffith, Ran Guin, Nancy Liao,
+            Kim MacDonald,  Mike R. Mayo, Josh Moran, Diana Palmquist, JR
+            Santos, Duane Smailus, Jeff Stott, Miranda Tsai, George Yang,
+            Jacquie Schein, Asim Siddiqui,Steven Jones, Rob Holt, Marco Marra.
+            
+            Clone distribution: MGC clone distribution information can be found
+            through the I.M.A.G.E. Consortium/LLNL at: http://image.llnl.gov
+            Series: IRAL Plate: 42 Row: d Column: 1
+            This clone was selected for full length sequencing because it
+            passed the following selection criteria: matched mRNA gi: 31542262
+            The stop codon of the CDS annotated on this record is located > 55
+            bases upstream of a splice junction, and therefore the mRNA is
+            predicted to be subject to nonsense-mediated mRNA decay (NMD).
+FEATURES             Location/Qualifiers
+     source          1..2610
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /clone="MGC:39296 IMAGE:4563089"
+                     /tissue_type="Kidney, renal cell adenocarcinoma"
+                     /clone_lib="NIH_MGC_14"
+                     /lab_host="DH10B-R"
+                     /note="Vector: pOTB7"
+     gene            1..2610
+                     /gene="SLC17A9"
+                     /db_xref="GeneID:63910"
+                     /db_xref="HGNC:HGNC:16192"
+                     /db_xref="MIM:612107"
+     CDS             205..1371
+                     /gene="SLC17A9"
+                     /codon_start=1
+                     /product="SLC17A9 protein"
+                     /protein_id="AAH25312.1"
+                     /db_xref="GeneID:63910"
+                     /db_xref="HGNC:HGNC:16192"
+                     /db_xref="MIM:612107"
+                     /translation="MTLTSRRQDSQEARPECQAWTGTLLLGTCLLYCARSSMPICTVS
+                     MSQDFGWNKKEAGIVLSSFFWGYCLTQVVGGHLGDRIGGEKVILLSASAWGSITAVTP
+                     LLAHLSSAHLAFMTFSRILMGLLQGVYFPALTSLLSQKVRESERAFTYSIVGAGSQFG
+                     TLLTGAVGSLLLEWYGWQSIFYFSGGLTLLWVWYVYRYLLSEKDLILALGVLAQSRPV
+                     SRHSRVPWRRLFRKPAVWAAVVSQLSAACSFFILLSWLPTFFEETFPDAKGWIFNVVP
+                     WLVAIPASLFSGFLSDHLINQGYRAITVRKLMQGMGLGLSSVFALCLGHTSSFCESVV
+                     FASASIGLQTFNHSGISVNIQDLAPSCAGFLFGVANTAGALAGVVGVCLGGYLM"
+ORIGIN      
+         1 atgaccctga caagcaggcg ccaggacagt caggaggcca ggcccgagtg ccaggcatgg 
+        61 acggggacgc tgctgctggg cacgtgcctt ctgtactgcg cccgctccag catgcccatc 
+       121 tgcaccgtct ccatgagcca ggacttcggc tggaacaaga aggaggccgg catcgtgctc 
+       181 agcagcttct tctggggcta ctgcctgaca caggttgtgg gcggccacct cggggatcgg 
+       241 attgggggtg agaaggtcat cctgctgtca gcctctgcct ggggctccat cacggccgtc 
+       301 accccactgc tcgcccacct gagcagtgcc cacctggcct tcatgacctt ctcacgcatc 
+       361 ctcatgggct tgctccaagg ggtttacttc cctgccctga ccagcctgct gtcgcagaag 
+       421 gtgcgggaga gtgagcgagc cttcacctac agcatcgtgg gcgccggctc ccagtttggg 
+       481 acgctgctga ccggggcggt gggctccctg ctcctggaat ggtacggctg gcagagcatc 
+       541 ttctatttct ccggcggcct caccttgctt tgggtgtggt acgtgtacag gtacctgctg 
+       601 agtgaaaaag atctcatcct ggccttgggt gtcctggccc aaagccggcc ggtgtccagg 
+       661 cacagcagag tcccctggag acggctcttc cggaagcctg ctgtctgggc agccgtcgtc 
+       721 tcccagctct ctgcagcctg ctccttcttc atcctcctct cctggctgcc caccttcttc 
+       781 gaggagacct tccccgacgc caagggctgg atcttcaacg tggttccttg gttggtggcg 
+       841 attccggcca gtctattcag cgggtttctc tctgatcatc tcatcaatca gggttacaga 
+       901 gccatcacgg tgcggaagct catgcagggc atgggccttg gcctctccag cgtctttgct 
+       961 ctgtgcctgg gccacacctc cagcttctgt gagtctgtgg tctttgcatc agcctccatc 
+      1021 ggcctccaga ccttcaacca cagtggcatt tctgttaaca tccaggactt ggccccgtcc 
+      1081 tgcgccggct ttctgtttgg tgtggccaac acagccgggg ccttggcagg tgtcgtgggt 
+      1141 gtgtgtctag gcggctactt gatgtag
+//
+

@@ -1,0 +1,68 @@
+
+LOCUS       XP_026870548             489 aa            linear   VRT 16-JUL-2020
+DEFINITION  sialin [Electrophorus electricus].
+ACCESSION   XP_026870548
+VERSION     XP_026870548.1
+DBLINK      BioProject: PRJNA645070
+DBSOURCE    REFSEQ: accession XM_027014747.2
+KEYWORDS    RefSeq.
+SOURCE      Electrophorus electricus (electric eel)
+  ORGANISM  Electrophorus electricus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Gymnotiformes; Gymnotoidei; Gymnotidae; Electrophorus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_049545.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Electrophorus electricus Annotation
+                                           Release 101
+            Annotation Version          :: 101
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.5
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..489
+                     /organism="Electrophorus electricus"
+                     /isolate="fEleEle1"
+                     /db_xref="taxon:8005"
+                     /chromosome="11"
+                     /tissue_type="liver"
+                     /dev_stage="juvenile"
+                     /country="Netherlands: Dejong Marinelife, Rotterdam"
+                     /lat_lon="51.9244201 N 4.4777325 E"
+                     /collection_date="29-Nov-2018"
+                     /collected_by="Nidal Karagic"
+     Protein         1..489
+                     /product="sialin"
+                     /calculated_mol_wt=53609
+     Region          27..489
+                     /region_name="UhpC"
+                     /note="Sugar phosphate permease [Carbohydrate transport
+                     and metabolism]; cl27298"
+                     /db_xref="CDD:332119"
+     CDS             1..489
+                     /gene="slc17a5"
+                     /coded_by="XM_027014747.2:39..1508"
+                     /db_xref="GeneID:113580294"
+ORIGIN      
+        1 mdhsasdset ddykqpllhr nededikrap alcssrysla ilscygffva yalrvnlsva
+       61 mvdmlnssss nnvnssvclr hnnpprprhn htasvydwds etqgwilgsf fygyiitqip
+      121 ggymarkyga kwllgfgilg tviftlltpv aadlgagyli avrvlegige gvtfpamham
+      181 waswappmer srlltisyag aqlgtvvalp lsgqicfyld wtyvfyifga vgilwfilws
+      241 llvsnsptsh rriseverty itaslknels pttdhipwts iltsvplwai vvahfsynwt
+      301 fytlltllpt ymndilgfsi kqngmlsalp ylgcwllsmg ggqladylre tclfstvavr
+      361 kafsiigmmg pavflvaagy tdcnytlavi fltissslgg fsasgfninh ldiapsyagi
+      421 llgitnsfat ipgmvgpvia rsltksntiv ewrtvffisa ginlfgaafy tlfgkgtvqp
+      481 wavqslhiq
+//
+

@@ -1,0 +1,65 @@
+
+LOCUS       XP_030912964             643 aa            linear   VRT 06-OCT-2019
+DEFINITION  sialin [Geospiza fortis].
+ACCESSION   XP_030912964
+VERSION     XP_030912964.1
+DBLINK      BioProject: PRJNA217051
+DBSOURCE    REFSEQ: accession XM_031057104.1
+KEYWORDS    RefSeq; includes ab initio.
+SOURCE      Geospiza fortis (medium ground-finch)
+  ORGANISM  Geospiza fortis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Passeriformes; Thraupidae;
+            Geospiza.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_005054328.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA and EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Geospiza fortis Annotation Release
+                                           102
+            Annotation Version          :: 102
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            ab initio :: 27% of CDS bases
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..643
+                     /organism="Geospiza fortis"
+                     /db_xref="taxon:48883"
+                     /chromosome="Unknown"
+                     /sex="female"
+     Protein         1..643
+                     /product="sialin"
+                     /calculated_mol_wt=71643
+     CDS             1..643
+                     /gene="SLC17A5"
+                     /coded_by="XM_031057104.1:1..1932"
+                     /db_xref="GeneID:102034675"
+ORIGIN      
+        1 mprepysleq elarecwtls egtigfslpe daalrwwwle kwtnfptete vhispseerl
+       61 islwqkwgee dgilllkkdl ydffrwakff gfftnvlyal dsyvwecmqf vcqavwgrts
+      121 rvprmypvfm alfpvlkrka aafpwiaear gqapfppthg grpfgggqta asqpprpsgi
+      181 paccsarynl allacfgffl vyalrvnlsv alvdmvepnt ssaknvtssv cpehsstvnv
+      241 prnttgekys wdaetqgwil gsffygyiit qipggylasr iggklllgfg ifgtsvftll
+      301 tplaanlgvg yliavraleg lgegvtfpam hsmwsswapp lerskllsis yagaqlgtvv
+      361 slplsglicy ymnwvyvfyi fgalgvlwwf fwmllvsdtp ethrsishae reyilsslkd
+      421 qlstqksvpw rpmlgslplw aivvahfsyn wtfytlltll ptymkeilrf daqengflsa
+      481 lpyfgcwlci ilsgqiadyl rekqnfstvc vrkcftligm igpalflvaa gfigcnyala
+      541 vafvtisttl ggfctsgysi nhldiapsya gillgitnsf atipgmvgpv iakslthnnt
+      601 veewqmvfyi aasinlfgai ffalfasgev qdwavsgyhl hrn
+//
+

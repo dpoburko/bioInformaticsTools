@@ -1,0 +1,88 @@
+
+LOCUS       OWK51186                 590 aa            linear   VRT 19-JUN-2017
+DEFINITION  Synaptic vesicular amine transporter [Lonchura striata domestica].
+ACCESSION   OWK51186
+VERSION     OWK51186.1
+DBLINK      BioProject: PRJNA369279
+            BioSample: SAMN06283872
+DBSOURCE    accession MUZQ01000459.1
+KEYWORDS    .
+SOURCE      Lonchura striata domestica (Bengalese finch)
+  ORGANISM  Lonchura striata domestica
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Passeriformes; Passeroidea;
+            Estrildidae; Estrildinae; Lonchura.
+REFERENCE   1  (residues 1 to 590)
+  AUTHORS   Colquitt,B.M., Mets,D.G. and Brainard,M.S.
+  TITLE     Draft genome assembly of the Bengalese finch, Lonchura striata
+            domestica, a model for motor skill variability and learning
+  JOURNAL   Gigascience 7 (3), 1-6 (2018)
+   PUBMED   29618046
+REFERENCE   2  (residues 1 to 590)
+  AUTHORS   Colquitt,B.M. and Brainard,M.S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-MAY-2017) Physiology, HHMI/UCSF, 675 Nelson Rising
+            Ln, San Francisco, CA 94158, USA
+COMMENT     ##Genome-Assembly-Data-START##
+            Assembly Date          :: JAN-2015
+            Assembly Method        :: ALLPATHS-LG v. JAN-2015
+            Assembly Name          :: LonStrDom1
+            Expected Final Version :: yes
+            Genome Coverage        :: 142.0x
+            Sequencing Technology  :: Illumina
+            ##Genome-Assembly-Data-END##
+            
+            ##Genome-Assembly-Data-START##
+            Assembly Date          :: JAN-2015
+            Assembly Method        :: ALLPATHS-LG v. JAN-2015
+            Assembly Name          :: LonStrDom1
+            Expected Final Version :: yes
+            Genome Coverage        :: 142.0x
+            Sequencing Technology  :: Illumina
+            ##Genome-Assembly-Data-END##
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..590
+                     /organism="Lonchura striata domestica"
+                     /isolate="white83orange57"
+                     /isolation_source="blood"
+                     /sub_species="domestica"
+                     /db_xref="taxon:299123"
+                     /country="USA: California, San Francisco"
+                     /lat_lon="37.46 N 122.23 W"
+                     /collection_date="Jun-2014"
+     Protein         1..590
+                     /product="Synaptic vesicular amine transporter"
+     Region          134..483
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     CDS             1..590
+                     /gene="SLC18A2"
+                     /locus_tag="RLOC_00012411"
+                     /coded_by="join(MUZQ01000459.1:369..489,
+                     MUZQ01000459.1:2264..2615,MUZQ01000459.1:9903..9961,
+                     MUZQ01000459.1:14463..14555,MUZQ01000459.1:14952..15041,
+                     MUZQ01000459.1:15251..15461,MUZQ01000459.1:18826..18944,
+                     MUZQ01000459.1:21357..21417,MUZQ01000459.1:21658..21709,
+                     MUZQ01000459.1:22124..22187,MUZQ01000459.1:23239..23358,
+                     MUZQ01000459.1:23892..24025,MUZQ01000459.1:24809..24825,
+                     MUZQ01000459.1:25705..25984)"
+ORIGIN      
+        1 mawgelgllr wlresrqsrk lillivfial lldnmlltvv vpiipsylys ieheknatei
+       61 qttkpnlpsa tmdsfqsifs yydnstmvtg nesdktqpge lhqsqteqmv vsvtaspsdc
+      121 pkddkellne nvrvgllfas katvqlmtnp figpltnrig yqiplfagfc imfvstirmg
+      181 llatvytdde ergnamgial gglamgvlvg ppfgsvmyef vgksspflvl aalalfdgaf
+      241 vlqsqkgtpl ltllkdpyii iaagtrpfss ffkpaidvip gllaclglsc fnsivifwfa
+      301 lhkdlrmycs tgnastalav nigqgnckvp vesqsqpgra kpfvlcspss isyligtnlf
+      361 gilahkigrw lcallgmliv gisilcvpfa kniygliapt fgvgfaigmv dssmmpimgy
+      421 lvdlrhvsvy gsvyaiadva fcmgfaigps aggaiakaig fpwlmtiigi vdiifaplcf
+      481 flrsppakee kmwhnsaskk ipthtdlrtp faltaisvgs apreergipe wcmqhqpqpq
+      541 ldakqkyshs vffqailmdh ncpvktkmyt qnniqsypig eeeeeyesde
+//
+

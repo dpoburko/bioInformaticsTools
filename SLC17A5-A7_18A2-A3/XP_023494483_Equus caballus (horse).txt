@@ -1,0 +1,75 @@
+
+LOCUS       XP_023494483             517 aa            linear   MAM 23-JAN-2018
+DEFINITION  synaptic vesicular amine transporter [Equus caballus].
+ACCESSION   XP_023494483
+VERSION     XP_023494483.1
+DBLINK      BioProject: PRJNA19129
+DBSOURCE    REFSEQ: accession XM_023638715.1
+KEYWORDS    RefSeq.
+SOURCE      Equus caballus (horse)
+  ORGANISM  Equus caballus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Perissodactyla; Equidae; Equus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_009144.3) annotated using gene prediction method: Gnomon,
+            supported by EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Equus caballus Annotation Release
+                                           103
+            Annotation Version          :: 103
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.0
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..517
+                     /organism="Equus caballus"
+                     /isolate="Twilight"
+                     /db_xref="taxon:9796"
+                     /chromosome="1"
+                     /sex="female"
+                     /breed="thoroughbred"
+     Protein         1..517
+                     /product="synaptic vesicular amine transporter"
+                     /calculated_mol_wt=55942
+     Region          133..440
+                     /region_name="MFS_1"
+                     /note="Major Facilitator Superfamily; pfam07690"
+                     /db_xref="CDD:311564"
+     Region          135..276
+                     /region_name="2_A_01_02"
+                     /note="Multidrug resistance protein; TIGR00880"
+                     /db_xref="CDD:273318"
+     Site            order(138,141..142,145,149..150,152..153,199..200,
+                     203..204,207..208,211,224..225,228..229,235,308,311..312,
+                     315..316,319,333,337,341,344,348,395,398..399,405,
+                     409..410,413,424..425,428..429,432..433,436)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..517
+                     /gene="SLC18A2"
+                     /coded_by="XM_023638715.1:160..1713"
+                     /db_xref="GeneID:100058805"
+                     /db_xref="VGNC:VGNC:23056"
+ORIGIN      
+        1 malselavlr wlqerrhsqk lilfivflal lldnmlltvv ipiipsylys ieheknttei
+       61 qtakpvltas tsgsfqsifs yydnstvvtg nttrdlqggl llktttqqmv tntstappdc
+      121 psedkdllne nvqvgllfas katvqlltnp fvglltnrig ypipmfagfc imfistimfa
+      181 fstsyaflli arslqgigss cssvagmgml asvytddeer gnamgialgg lamgvlvgpp
+      241 fgsvlyefvg ktapflvlat lvlfdgaiql fvlqpsrvqp esqkgtpltt llkdpyilia
+      301 agsicfanma iamlepalpi wmmetmcsrk wqlgiaflpa sisyligtni fgilahkmgr
+      361 wlcallgmii vgisilcipf akniygliap nfgvgfaigm vdssmmpimg ylvdlrhvsv
+      421 ygsvyaiadv afcmgyaigp saggaiakai gfpwlmtiig iidilfaplc fflrsppare
+      481 ekmailmdhn cpiktkmytq nniqsypigd deesesd
+//
+

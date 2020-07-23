@@ -1,0 +1,74 @@
+
+LOCUS       XP_028682740             517 aa            linear   PRI 26-APR-2019
+DEFINITION  synaptic vesicular amine transporter [Macaca mulatta].
+ACCESSION   XP_028682740
+VERSION     XP_028682740.1
+DBLINK      BioProject: PRJNA528504
+DBSOURCE    REFSEQ: accession XM_028826907.1
+KEYWORDS    RefSeq.
+SOURCE      Macaca mulatta (Rhesus monkey)
+  ORGANISM  Macaca mulatta
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Macaca.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_041762.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA and EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Macaca mulatta Annotation Release
+                                           103
+            Annotation Version          :: 103
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..517
+                     /organism="Macaca mulatta"
+                     /isolate="AG07107"
+                     /bio_material="Coriell:AG07107"
+                     /db_xref="taxon:9544"
+                     /chromosome="9"
+                     /sex="female"
+                     /tissue_type="fibroblast"
+     Protein         1..517
+                     /product="synaptic vesicular amine transporter"
+                     /calculated_mol_wt=55910
+     Region          126..474
+                     /region_name="MFS_SLC18A1_2_VAT1_2"
+                     /note="Vesicular amine transporters 1 (VAT1) and 2 (VAT2),
+                     and similar transporters of the Major Facilitator
+                     Superfamily; cd17384"
+                     /db_xref="CDD:340942"
+     Site            order(149,199..200,202..204,207,228,231..232,235,304,
+                     307..308,311..313,316,344,348,401..402,406,410,425,
+                     428..429,432..433,436)
+                     /site_type="other"
+                     /note="putative chemical substrate binding pocket
+                     [chemical binding]"
+                     /db_xref="CDD:340942"
+     CDS             1..517
+                     /gene="SLC18A2"
+                     /coded_by="XM_028826907.1:164..1717"
+                     /db_xref="GeneID:701133"
+ORIGIN      
+        1 malselalvr wlqesrrsrk lilfivflal lldnmlltvv vpiipsylys ikheknatei
+       61 qtarpvhtas ssdsfrsifs yydnstmvtg natrdlqegp lhqtttqhmv tnasavpsdc
+      121 psedkdllne nvqvgllfas katvqlitnp figlltnrig ypipifagfc imfvstimfa
+      181 fsssyaflli arslqgigss cssvagmgml asvytddeer gnvmgialgg lamgvlvgpp
+      241 fgsvlyefvg ktapflvlaa lvlldgaiql fvlqpsrvqp esqkgtpltt llkdpyilia
+      301 agsicfanmg iamlepalpi wmmetmcsrk wqlgvaflpa sisyligtni fgilahkmgr
+      361 wlcallgmii vgvsilcipf akniygliap nfgvgfaigm vdssmmpimg ylvdlrhvsv
+      421 ygsvyaiadv afcmgyaigp saggaiakai gfpwlmtiig iidilfaplc fflrsppake
+      481 ekmailmdhn cpiktkmytq nniqsypigd deesesd
+//
+

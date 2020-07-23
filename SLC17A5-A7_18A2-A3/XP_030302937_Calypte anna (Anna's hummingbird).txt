@@ -1,0 +1,59 @@
+
+LOCUS       XP_030302937             484 aa            linear   VRT 20-AUG-2019
+DEFINITION  sialin isoform X1 [Calypte anna].
+ACCESSION   XP_030302937
+VERSION     XP_030302937.1
+DBLINK      BioProject: PRJNA558503
+DBSOURCE    REFSEQ: accession XM_030447077.1
+KEYWORDS    RefSeq.
+SOURCE      Calypte anna (Anna's hummingbird)
+  ORGANISM  Calypte anna
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Apodiformes; Trochilidae; Calypte.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_044246.1) annotated using gene prediction method: Gnomon,
+            supported by EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Calypte anna Annotation Release 101
+            Annotation Version          :: 101
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..484
+                     /organism="Calypte anna"
+                     /isolate="BGI_N300"
+                     /db_xref="taxon:9244"
+                     /chromosome="3"
+                     /sex="female"
+                     /country="USA"
+     Protein         1..484
+                     /product="sialin isoform X1"
+                     /calculated_mol_wt=53101
+     CDS             1..484
+                     /gene="SLC17A5"
+                     /coded_by="XM_030447077.1:187..1641"
+                     /db_xref="GeneID:103525651"
+ORIGIN      
+        1 meteegedct pllkesqpgt vpaccsaryn lallacfgff llyalrvnls valvdmvepn
+       61 tslaknttsn vcpehsstrn vprnttgeky swdadtqgwi lgsffygyii tqipggylas
+      121 kiggklllgf gifgtsvftl ltplaanlgv gyliavrale glgegvtfpa mhslwsswap
+      181 plerskllsi syagaqlgtv vslplsglic yymswvyvfy ifgalgvlwf ffwmwlvsdt
+      241 pethrsisqa ereyilsslk dqlstqksvp wrpileslpl waivvahfsy nwtfytlltl
+      301 lptymkeilr fdaqengfls alpyfgcwlc iimsgqiadh lrekqnlstv cvrkcftlig
+      361 migpavflva agftgcnyal avafltistt lggfctsgys inhldiapsy agillgitns
+      421 fatipgmvgp viaknlthnn tveewqtvfy iaasinlfga iffalfasge vqdwavsahh
+      481 lhrn
+//
+

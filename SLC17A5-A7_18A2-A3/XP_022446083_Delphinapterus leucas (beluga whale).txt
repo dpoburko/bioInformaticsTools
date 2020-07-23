@@ -1,0 +1,65 @@
+
+LOCUS       XP_022446083             510 aa            linear   MAM 16-SEP-2019
+DEFINITION  sialin isoform X1 [Delphinapterus leucas].
+ACCESSION   XP_022446083
+VERSION     XP_022446083.1
+DBLINK      BioProject: PRJNA407951
+DBSOURCE    REFSEQ: accession XM_022590375.2
+KEYWORDS    RefSeq.
+SOURCE      Delphinapterus leucas (beluga whale)
+  ORGANISM  Delphinapterus leucas
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Cetartiodactyla; Cetacea;
+            Odontoceti; Monodontidae; Delphinapterus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_022097993.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Delphinapterus leucas Annotation
+                                           Release 101
+            Annotation Version          :: 101
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..510
+                     /organism="Delphinapterus leucas"
+                     /isolate="GAN/ISIS: 26980492/103006"
+                     /db_xref="taxon:9749"
+                     /chromosome="Unknown"
+                     /sex="female"
+                     /tissue_type="blood"
+                     /dev_stage="adult"
+     Protein         1..510
+                     /product="sialin isoform X1"
+                     /calculated_mol_wt=56040
+     Region          52..501
+                     /region_name="UhpC"
+                     /note="Sugar phosphate permease [Carbohydrate transport
+                     and metabolism]; cl27298"
+                     /db_xref="CDD:332119"
+     CDS             1..510
+                     /gene="SLC17A5"
+                     /coded_by="XM_022590375.2:137..1669"
+                     /db_xref="GeneID:111183235"
+ORIGIN      
+        1 mkspvpdlap sdgeegedrt pllqraprae tapvcrsary nlaflaffgf fvlyslrvnl
+       61 svalvdmvds ntttadnrta necaehstpi kvlhnqtgkk yrwdaetqgw ilgsffygyi
+      121 itqipagyva srsggklllg fgvlgtsvft lftplaadfg vgalialral eglgegvtfp
+      181 amhamwsswa pplersklls isyagaqlgt vvslplsgiv cfymnwtyvf ylfgivgiiw
+      241 filwiwlvsd tpethktisp yekeyilssl rnqlssqksv pwvpmlksla lwaivvahfs
+      301 ynwtfytllt llptymkevl rfniqengfl savpylgcwl cmilsgqaad nlrakwnfst
+      361 lcvrrvfsli gmigpavflv aagfigcdys lavafltist tlggfcssgf sinhldiaps
+      421 vqgfsdkkih nklnryagil lgitntfati pgmigpiiar sltpentvge wqtvfclaaa
+      481 vnvfgaifft lfskgevqnw avrdhgeprn
+//
+

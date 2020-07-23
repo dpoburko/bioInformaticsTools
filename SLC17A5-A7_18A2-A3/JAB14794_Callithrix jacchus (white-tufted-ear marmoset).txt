@@ -1,0 +1,84 @@
+
+LOCUS       JAB14794                 532 aa            linear   PRI 22-AUG-2013
+DEFINITION  vesicular acetylcholine transporter [Callithrix jacchus].
+ACCESSION   JAB14794
+VERSION     JAB14794.1
+DBLINK      BioProject: PRJNA203643
+            Sequence Read Archive: SRR866209
+DBSOURCE    accession GAMS01008342.1
+KEYWORDS    TSA; Transcriptome Shotgun Assembly.
+SOURCE      Callithrix jacchus (white-tufted-ear marmoset)
+  ORGANISM  Callithrix jacchus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Cebidae; Callitrichinae; Callithrix; Callithrix.
+REFERENCE   1  (residues 1 to 532)
+  AUTHORS   Maudhoo,M.D., Ren,D., Gradnigo,J.S., Gibbs,R.M., Lubker,A.C.,
+            Moriyama,E.N., French,J.A. and Norgren,R.B. Jr.
+  TITLE     De novo assembly of the common marmoset transcriptome from NextGen
+            mRNA sequences
+  JOURNAL   Gigascience 3, 14 (2014)
+   PUBMED   25243066
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (residues 1 to 532)
+  AUTHORS   Maudhoo,M.D., Ren,D., Grandnigo,J.S., Gibbs,R.M., Lubker,A.C.,
+            Moriyama,E.N., French,J.A. and Norgren,R.B. Jr.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-AUG-2013) Department of Genetics, Cell Biology &
+            Anatomy, University of Nebraska Medical Center, 985805 Nebraska
+            Medical Center, Omaha, NE 68198-5805, USA
+COMMENT     Paired-end, 101 bp sequencing was performed on the Illumina
+            platform. All reads were aligned with the human RefSeq mRNA
+            transcripts using BLAST. Any reads with an alignment length
+            difference with respect to the human reference sequence of 15 or
+            greater were removed prior to assembly. For a given pair of reads,
+            if one sequence was filtered, its pair was also filtered. The
+            assembler used was Velvet followed by Oases. Velveth was performed
+            as recommended and the kmer was set at 31. The output files from
+            velveth were passed to velvetg. After performing velvetg, the
+            working directory was passed to oases where the final assembly was
+            performed. Default parameters were used for velvetg and oases.
+            
+            ##Assembly-Data-START##
+            Assembly Method       :: Velvet 1.2.08; Oases 0.2.08
+            Sequencing Technology :: Illumina HiSeq
+            ##Assembly-Data-END##
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..532
+                     /organism="Callithrix jacchus"
+                     /isolation_source="2218"
+                     /db_xref="taxon:9483"
+                     /tissue_type="hippocampus"
+     Protein         1..532
+                     /product="vesicular acetylcholine transporter"
+     Region          124..458
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Site            order(128,131..132,135,139..140,142..143,189..190,
+                     193..194,197..198,201,214..215,218..219,225,299,302..303,
+                     306..307,310,327,331,335,338,342,391,394..395,398,
+                     402..403,406,420..421,424..425,428..429,432)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..532
+                     /gene="SLC18A3"
+                     /coded_by="GAMS01008342.1:378..1976"
+ORIGIN      
+        1 mepaapagqa rvaatklsea vgaalqeprr qrqlvlvivc vallldnmly mvivpivpdy
+       61 iahmrgggeg ptptpevwep tlplptptna sayaantsas ptaawpagta lrpryptese
+      121 dvkigvlfas kailqllvnp lsgpfidrms ydvplliglg vmfastvmfa faedyatlfa
+      181 arslqglgsa fadtsgiami adkypeeper sralgvalaf isfgslvapp fggilyefag
+      241 krvpflvlaa vslfdallll avakpfsaaa raranlpvgt pihrlmldpy iavvagaltt
+      301 cniplaflep tiatwmkhtm aasewemgmv wlpafvphvl gvyltvrlaa ryphlqwlyg
+      361 alglavigas sclvpachsf wplvislcgl cfgialvdta llptlaflvd vrhvsvygsv
+      421 yaiadisysv ayalgpivag hivhslgfeq lslgmglanl lyapvllllr nvglltrsrs
+      481 erdvlldepp qglydavrlr erpvsgqdge prsppgpfde ceddynycyt rs
+//
+

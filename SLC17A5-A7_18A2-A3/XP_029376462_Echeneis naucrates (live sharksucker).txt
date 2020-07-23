@@ -1,0 +1,56 @@
+
+LOCUS       XP_029376462             517 aa            linear   VRT 16-JUN-2019
+DEFINITION  synaptic vesicular amine transporter [Echeneis naucrates].
+ACCESSION   XP_029376462
+VERSION     XP_029376462.1
+DBLINK      BioProject: PRJNA548465
+DBSOURCE    REFSEQ: accession XM_029520602.1
+KEYWORDS    RefSeq.
+SOURCE      Echeneis naucrates (live sharksucker)
+  ORGANISM  Echeneis naucrates
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Carangaria; Carangiformes; Echeneidae; Echeneis.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_042525.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Echeneis naucrates Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..517
+                     /organism="Echeneis naucrates"
+                     /db_xref="taxon:173247"
+                     /chromosome="15"
+     Protein         1..517
+                     /product="synaptic vesicular amine transporter"
+                     /calculated_mol_wt=56105
+     CDS             1..517
+                     /gene="slc18a2"
+                     /coded_by="XM_029520602.1:1..1554"
+                     /db_xref="GeneID:115055124"
+ORIGIN      
+        1 mggldalrql hfiqwlreer qsrklilfiv fvallldnml ltvvvpiips ylynldeaad
+       61 malknntlsq qdsprafhsi vslydntlrv sgsndtarft dlvsttpaaa ellqnasycp
+      121 qstskllnen ikvgmlfask atvqlitnpf igpltnrigy qlpifvgfci mflstimfaf
+      181 sssytllfla rslqgvgssc ssvagmgmla svytndeerg haigialggl algvlvgppf
+      241 gsvmyefvgk tapflilafl amfdgalqlf vlqptkvepe sqkgtplltl mkdpyiliaa
+      301 gaicfgnmai ammeptlpiw mmetmcarkw qlgvaflpas isyligtnif gtlahkmgrw
+      361 lcaligmvvv gisvicvpfa gdiyglilpn fgvgfaigmv dssmmpimgy lvdlrhvsvy
+      421 gsvyaiadva fcmgfalgps iggsiaesig fpwlmtiigi vdiffaplcl flrnppghee
+      481 kiailmdsnc smktmsystq gtyyqgddmd peyddyd
+//
+

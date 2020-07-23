@@ -1,0 +1,66 @@
+
+LOCUS       XP_025280056             560 aa            linear   MAM 03-JUL-2018
+DEFINITION  vesicular glutamate transporter 1 [Canis lupus dingo].
+ACCESSION   XP_025280056
+VERSION     XP_025280056.1
+DBLINK      BioProject: PRJNA477859
+DBSOURCE    REFSEQ: accession XM_025424271.1
+KEYWORDS    RefSeq.
+SOURCE      Canis lupus dingo (dingo)
+  ORGANISM  Canis lupus dingo
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Carnivora; Caniformia; Canidae;
+            Canis.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_020269188.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Canis lupus dingo Annotation Release
+                                           100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.1
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..560
+                     /organism="Canis lupus dingo"
+                     /isolate="Sandy"
+                     /sub_species="dingo"
+                     /db_xref="taxon:286419"
+                     /chromosome="Unknown"
+                     /sex="female"
+                     /tissue_type="muscle"
+     Protein         1..560
+                     /product="vesicular glutamate transporter 1"
+                     /calculated_mol_wt=61502
+     Region          49..502
+                     /region_name="UhpC"
+                     /note="Sugar phosphate permease [Carbohydrate transport
+                     and metabolism]; cl27298"
+                     /db_xref="CDD:332119"
+     CDS             1..560
+                     /gene="SLC17A7"
+                     /coded_by="XM_025424271.1:168..1850"
+                     /db_xref="GeneID:112645151"
+ORIGIN      
+        1 mefrqeefrk lagralgrlh rllekrqega etlelsadgr pvttqtrdpp vvdctcfglp
+       61 rryiiaimsg lgfcisfgir cnlgvaivsm vnnstthrgg hvvvqkaqfn wdpetvglih
+      121 gsffwgyivt qipggficqk faanrvfgfa ivatstlnml ipsaarvhyg cvifvrilqg
+      181 lvegvtypac hgiwskwapp lersrlatta fcgsyagavv amplagvlvq ysgwssvfyv
+      241 ygsfgifwyl fwllvsyesp alhpsiseee rkyiedaige saklmnpvtk fntpwrrfft
+      301 smpvyaiiva nfcrswtfyl llisqpayfe evfgfeiskv glvsalphlv mtiivpiggq
+      361 iadflrsrri msttnvrklm ncggfgmeat lllvvgyshs kgvaisflvl avgfsgfais
+      421 gfnvnhldia pryasilmgi sngvgtlsgm vcpiivgamt khktreewqy vfliaslvhy
+      481 ggvifygvfa sgekqpwaep eemseekcgf vghdqlagsd esdmedeaep pgappappps
+      541 ygathstvqp prppppvrdy
+//
+

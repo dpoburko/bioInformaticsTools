@@ -1,0 +1,62 @@
+
+LOCUS       XP_030097180             528 aa            linear   VRT 08-AUG-2019
+DEFINITION  vesicular acetylcholine transporter [Serinus canaria].
+ACCESSION   XP_030097180
+VERSION     XP_030097180.1
+DBLINK      BioProject: PRJNA558035
+DBSOURCE    REFSEQ: accession XM_030241320.1
+KEYWORDS    RefSeq.
+SOURCE      Serinus canaria (Common canary)
+  ORGANISM  Serinus canaria
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Passeriformes; Passeroidea;
+            Fringillidae; Carduelinae; Serinus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_022044965.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Serinus canaria Annotation Release
+                                           102
+            Annotation Version          :: 102
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..528
+                     /organism="Serinus canaria"
+                     /isolate="sc_yellow_7_cibi"
+                     /db_xref="taxon:9135"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /tissue_type="heart"
+                     /dev_stage="adult"
+                     /ecotype="domestic yellow"
+     Protein         1..528
+                     /product="vesicular acetylcholine transporter"
+                     /calculated_mol_wt=55557
+     CDS             1..528
+                     /gene="SLC18A3"
+                     /coded_by="XM_030241320.1:1..1587"
+                     /db_xref="GeneID:103814217"
+ORIGIN      
+        1 mseaggagra raaverlsea vgerrrrlgt amgearrqrr lllmvvcval lldnmlymvi
+       61 vpiipdyiaa mrggggtagp sapaggngsg ggnrsllpar yppatgsned vqigvlfask
+      121 amlqllvnpl sgtlidrvgy eapllaglav lflstatfaf aenyatlfaa rslqglgsaf
+      181 adtagialia dryaeepars ralgtalaci sfgslaappf ggvlyefagk rvpflvlacv
+      241 clldglmllv lappggtgar anmpvgtpih rlmidpyiav vagalatcni plafleptia
+      301 nwmkdsmgas ewevgltwlp affphvlgvy vtvqlaaayp hlqwfygalg maiigasscl
+      361 vpacrnfgqv iiplcgicfg ialvdtallp tlaflvdvrh vsvygsvyai adisycvaya
+      421 lgpivagqiv htmgfaqlnl gmglanvlya pvllflknvc qmkpshsern illeegpkgl
+      481 ydtikmeerk gmgkslqpag emdengmgsy hrdlkgvsee dssdyeys
+//
+

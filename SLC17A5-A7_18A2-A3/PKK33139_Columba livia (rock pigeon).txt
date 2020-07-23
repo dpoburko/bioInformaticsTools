@@ -1,0 +1,105 @@
+
+LOCUS       PKK33139                 481 aa            linear   VRT 13-DEC-2017
+DEFINITION  solute carrier family 17 (acidic sugar transporter), member 5
+            [Columba livia].
+ACCESSION   PKK33139
+VERSION     PKK33139.1
+DBLINK      BioProject: PRJNA167554
+            BioSample: SAMN02981415
+DBSOURCE    accession AKCR02000002.1
+KEYWORDS    .
+SOURCE      Columba livia (rock pigeon)
+  ORGANISM  Columba livia
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Columbiformes; Columbidae;
+            Columba.
+REFERENCE   1  (residues 1 to 481)
+  AUTHORS   Shapiro,M.D., Kronenberg,Z., Li,C., Domyan,E.T., Pan,H.,
+            Campbell,M., Tan,H., Huff,C.D., Hu,H., Vickrey,A.I., Nielsen,S.C.,
+            Stringham,S.A., Hu,H., Willerslev,E., Gilbert,M.T., Yandell,M.,
+            Zhang,G. and Wang,J.
+  TITLE     Genomic diversity and evolution of the head crest in the rock
+            pigeon
+  JOURNAL   Science 339 (6123), 1063-1067 (2013)
+   PUBMED   23371554
+REFERENCE   2  (residues 1 to 481)
+  AUTHORS   Holt,C., Campbell,M., Edelman,N., Keays,D., Kapusta,A., Domyan,E.,
+            Suh,A., Carleton,J., Warren,W., Yandell,M., Gilbert,M.T. and
+            Shapiro,M.D.
+  TITLE     Improved genome assembly and annotation for the rock pigeon
+            (Columba livia)
+  JOURNAL   Unpublished
+REFERENCE   3  (residues 1 to 481)
+  AUTHORS   Zhang,G. and Li,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-JUN-2012) Bioinformatics, Beijing Genomics Institute,
+            Shenzhen, 2nd Office Building, Beishan Industrial Zone, Beishan
+            Road, Yantian District, ShenZhen, GuangDong 518083, China
+REFERENCE   4  (residues 1 to 481)
+  AUTHORS   Shapiro,M.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (31-AUG-2017) Human Genetics, University of Utah, 15 N.
+            2030 E. Bldg. #533, Salt Lake City, UT 84112, USA
+COMMENT     Submitter provided annotation based on NCBI Columba livia
+            Annotation Release 101
+            https://www.ncbi.nlm.nih.gov/genome/annotation_euk/Columba_livia/10
+            1/
+            
+            ##Genome-Assembly-Data-START##
+            Assembly Date          :: 25-AUG-2015
+            Assembly Method        :: SOAPdenovo v. 2.0; HiRise v. AUG-2015
+            Assembly Name          :: Cliv_2.1
+            Expected Final Version :: no
+            Genome Coverage        :: 60.0x
+            Sequencing Technology  :: Illumina
+            ##Genome-Assembly-Data-END##
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..481
+                     /organism="Columba livia"
+                     /db_xref="taxon:8932"
+                     /sex="male"
+                     /tissue_type="blood"
+                     /country="Denmark: Vordingborg"
+                     /collection_date="13-Jun-2010"
+                     /note="bred by Anders Christiansen, Hans Ove Christiansen,
+                     and certified by Danmarks Racedueforeninger;
+                     breed: Danish Tumbler"
+     Protein         1..481
+                     /product="solute carrier family 17 (acidic sugar
+                     transporter), member 5"
+     Region          18..472
+                     /region_name="UhpC"
+                     /note="Sugar phosphate permease [Carbohydrate transport
+                     and metabolism]; cl27298"
+                     /db_xref="CDD:332119"
+     CDS             1..481
+                     /gene="SLC17A5"
+                     /locus_tag="A306_00000961"
+                     /coded_by="join(AKCR02000002.1:51067082..51067133,
+                     AKCR02000002.1:51069454..51069650,
+                     AKCR02000002.1:51071091..51071324,
+                     AKCR02000002.1:51071818..51071905,
+                     AKCR02000002.1:51074764..51074850,
+                     AKCR02000002.1:51076120..51076238,
+                     AKCR02000002.1:51077117..51077275,
+                     AKCR02000002.1:51079696..51079828,
+                     AKCR02000002.1:51081426..51081573,
+                     AKCR02000002.1:51087174..51087264,
+                     AKCR02000002.1:51088634..51088771)"
+                     /inference="alignment:Exonerate:2.2.0:RefSeq:XP_005506800.
+                     1"
+                     /db_xref="GeneID:102084593"
+ORIGIN      
+        1 mplkseltvd gpkttnqvpa ccsarynlal laffgfflly alrvnlsval vdmvepnasl
+       61 aknttssvcp ehsstinvpr nttgekyswd adtqgwilgs ffygyiitqi pggylaskig
+      121 gklllgfgvf stsvftlltp laanlgvgyl iavraleglg egvtfpamhs mwsswapple
+      181 rskllsisya gaqlgtvvsl plsglicyym nwvyvfyifg algvlwfffw mwlvsdtpet
+      241 hrsishaere yilsslkdql stqksvpwrp mleslplwai vvahfsynwt fytlltllpt
+      301 ymkeilrfda qengflsalp yfgcwlciil sgqiadylre kqnfstvcvr kcftligmig
+      361 pavflvaagf igcnyalava fvtisttlgg fctsgysinh ldiapsyagi llgitnsfat
+      421 ipgmvgpvia knlthnntve ewqtvfyiaa sinlfgaiff alfasgevqd wavsgyhlhr
+      481 n
+//
+

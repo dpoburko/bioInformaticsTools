@@ -1,0 +1,83 @@
+
+LOCUS       XP_008142571             516 aa            linear   MAM 12-FEB-2019
+DEFINITION  synaptic vesicular amine transporter [Eptesicus fuscus].
+ACCESSION   XP_008142571
+VERSION     XP_008142571.1
+DBLINK      BioProject: PRJNA232522
+DBSOURCE    REFSEQ: accession XM_008144349.2
+KEYWORDS    RefSeq.
+SOURCE      Eptesicus fuscus (big brown bat)
+  ORGANISM  Eptesicus fuscus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Chiroptera; Microchiroptera;
+            Vespertilionidae; Eptesicus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_007370676.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Eptesicus fuscus Annotation Release
+                                           101
+            Annotation Version          :: 101
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.1
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..516
+                     /organism="Eptesicus fuscus"
+                     /isolate="BU_THK_EF1"
+                     /db_xref="taxon:29078"
+                     /chromosome="Unknown"
+                     /sex="female"
+                     /country="USA: Massachusetts"
+     Protein         1..516
+                     /product="synaptic vesicular amine transporter"
+                     /calculated_mol_wt=55546
+     Region          133..440
+                     /region_name="MFS_1"
+                     /note="Major Facilitator Superfamily; pfam07690"
+                     /db_xref="CDD:284993"
+     Region          135..276
+                     /region_name="2_A_01_02"
+                     /note="Multidrug resistance protein; TIGR00880"
+                     /db_xref="CDD:273318"
+     Site            order(138,141..142,145,149..150,152..153,199..200,
+                     203..204,207..208,211,224..225,228..229,235,308,311..312,
+                     315..316,319,333,337,341,344,348,395,398..399,405,
+                     409..410,413,424..425,428..429,432..433,436)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     Region          297..>474
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     CDS             1..516
+                     /gene="SLC18A2"
+                     /coded_by="XM_008144349.2:183..1733"
+                     /db_xref="GeneID:103288590"
+ORIGIN      
+        1 malsewalvr rlldgrhsrk lilfivflal lldnmlltvv vpiipsylys ieheknatev
+       61 ptarpeptas psdsfqsifs yydnstvatg natgdlrgrp lprattqhmv tngsagpsdc
+      121 psadkdllne nvqvgllfas katvqlltnp figlltnrig ypipmfvgfc imfistimfa
+      181 fsrsyallli arslqgigss cssvagmgml asvytddeer gnamgialgg lamgvlvgpp
+      241 fgsvlyefvg ktapflvlaa lvlldgaiql cvlqpsraqp esqkgtpltt llkdpyilia
+      301 agsicfanma iamlepalpi wmmetmcsrk wqlgvaflpa sisyligtni fgilahkigr
+      361 wlcallgmii vgisilwipf akniygliap nfgvgfaigm vdssmmpimg ylvdlrhvsv
+      421 ygsvyaiadv afcmgyaigp saggaiakai gfpwlmriig iinilfaplc fflrsppake
+      481 ekmailmdhn ctvktkmytq nnvqsyplgd eesesd
+//
+

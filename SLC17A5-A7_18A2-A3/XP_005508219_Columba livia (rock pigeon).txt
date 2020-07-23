@@ -1,0 +1,83 @@
+
+LOCUS       XP_005508219             536 aa            linear   VRT 24-MAY-2017
+DEFINITION  synaptic vesicular amine transporter [Columba livia].
+ACCESSION   XP_005508219
+VERSION     XP_005508219.2
+DBLINK      BioProject: PRJNA217047
+DBSOURCE    REFSEQ: accession XM_005508162.3
+KEYWORDS    RefSeq; includes ab initio.
+SOURCE      Columba livia (rock pigeon)
+  ORGANISM  Columba livia
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Columbiformes; Columbidae;
+            Columba.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_004973483.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            On Aug 13, 2015 this sequence version replaced XP_005508219.1.
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Columba livia Annotation Release 102
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 7.4
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            ab initio :: 2% of CDS bases
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..536
+                     /organism="Columba livia"
+                     /db_xref="taxon:8932"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /tissue_type="blood"
+                     /country="Denmark: Vordingborg"
+                     /collection_date="13-Jun-2010"
+                     /breed="Danish Tumbler"
+                     /note="bred by Anders Christiansen, Hans Ove Christiansen,
+                     and certified by Danmarks Racedueforeninger"
+     Protein         1..536
+                     /product="synaptic vesicular amine transporter"
+                     /calculated_mol_wt=58084
+     Region          150..457
+                     /region_name="MFS_1"
+                     /note="Major Facilitator Superfamily; pfam07690"
+                     /db_xref="CDD:311564"
+     Region          152..293
+                     /region_name="2_A_01_02"
+                     /note="Multidrug resistance protein; TIGR00880"
+                     /db_xref="CDD:273318"
+     Site            order(155,158..159,162,166..167,169..170,216..217,
+                     220..221,224..225,228,241..242,245..246,252,325,328..329,
+                     332..333,336,350,354,358,361,365,412,415..416,422,
+                     426..427,430,441..442,445..446,449..450,453)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..536
+                     /gene="SLC18A2"
+                     /coded_by="XM_005508162.3:1..1611"
+                     /db_xref="GeneID:102096441"
+ORIGIN      
+        1 mkcvlpqkhq pagggagaaw gelsplrwlr esrqsrrlil livfiallld nmlltvvvpi
+       61 ipsylysikh eknateiqtt kpnavsttmd nfqsifsyyd nstmvtgnes dktrprelhh
+      121 tqteqmivnv tpspsdcpke dkdllnenvq vgllfaskat vqlitnpfig pltnrigyqi
+      181 plfagfcimf vstimfafsg sytllfiars lqgvgsscss vagmgmlasv ytddeergna
+      241 mgialgglam gvlvgppfgs vmyefvgkss pflvlaalal ldgavqlfvl qpsraqaesq
+      301 kgtplltllk dpyiiiaags icfanmaiam lepalpiwmm etmcskkwql gvaflpasis
+      361 yligtnlfgi lahkmgrwlc allgmlivgi silcvpfakn iygliapnfg vgfaigmvds
+      421 smmpimgylv dlrhvsvygs vyaiadvafc mgfaigpsag gaiakaigfp wlmtiigivd
+      481 ilfaplcffl rsppakeekm ailmdhncpv ktkmytqnni qsypmgdeee eyesde
+//
+

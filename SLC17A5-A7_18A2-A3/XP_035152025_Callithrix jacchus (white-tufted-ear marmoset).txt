@@ -1,0 +1,62 @@
+
+LOCUS       XP_035152025             495 aa            linear   PRI 04-JUL-2020
+DEFINITION  sialin isoform X1 [Callithrix jacchus].
+ACCESSION   XP_035152025
+VERSION     XP_035152025.1
+DBLINK      BioProject: PRJNA635392
+DBSOURCE    REFSEQ: accession XM_035296134.1
+KEYWORDS    RefSeq.
+SOURCE      Callithrix jacchus (white-tufted-ear marmoset)
+  ORGANISM  Callithrix jacchus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Cebidae; Callitrichinae; Callithrix; Callithrix.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_048386.1) annotated using gene prediction method: Gnomon,
+            supported by EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Callithrix jacchus Annotation
+                                           Release 105
+            Annotation Version          :: 105
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.4
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..495
+                     /organism="Callithrix jacchus"
+                     /strain="cj1700"
+                     /db_xref="taxon:9483"
+                     /chromosome="4"
+                     /sex="female"
+                     /cell_line="cj1700"
+                     /tissue_type="skin"
+                     /collected_by="Wisconsin Primate Research Center"
+     Protein         1..495
+                     /product="sialin isoform X1"
+                     /calculated_mol_wt=54312
+     CDS             1..495
+                     /gene="SLC17A5"
+                     /coded_by="XM_035296134.1:24..1511"
+                     /db_xref="GeneID:100385070"
+ORIGIN      
+        1 mkspvrdlaq kdgeestdrt pllsgapqae aapvccsary nlailaffgf fivyalrvnl
+       61 svalvdmvds nttlednrts kacpehsspi kvhhnqtgkk yqwdaetqgw ilgsffygyi
+      121 itqipggyva skiggklllg fgilgtavlt lftpiaadlg vgplivlral eglgegvtfp
+      181 amhamwsswa pplersklls isyagaqlgt vislplsgii cyymnwtyvf yffgavgifw
+      241 fllwiwlvsd tpqthkrish yekeyilssl rnqlssqksv pwvpilkslp lwaivvahfs
+      301 ynwtfytllt llptymkeil rfnvqengll sslpylgswl cmilsgqaad nlrakwnfst
+      361 lcvrrmfsli gmigpavflv aagfigcdys laiafltist tlggfcssgf sinhldiaps
+      421 yagillgitn tfatvpgmvg pviaksltpe ntvgewqtvf yiaavinvfg aifftlfgkg
+      481 evqswalndh hghkh
+//
+

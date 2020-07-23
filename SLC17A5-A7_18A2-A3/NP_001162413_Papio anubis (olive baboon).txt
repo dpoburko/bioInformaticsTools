@@ -1,0 +1,52 @@
+
+LOCUS       NP_001162413             495 aa            linear   PRI 27-JUN-2020
+DEFINITION  sialin [Papio anubis].
+ACCESSION   NP_001162413
+VERSION     NP_001162413.1
+DBSOURCE    REFSEQ: accession NM_001168942.1
+KEYWORDS    RefSeq.
+SOURCE      Papio anubis (olive baboon)
+  ORGANISM  Papio anubis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Papio.
+COMMENT     INFERRED REFSEQ: This record is predicted by genome sequence
+            analysis and is not yet supported by experimental evidence. The
+            reference sequence was derived from DP000541.1.
+            
+            ##Evidence-Data-START##
+            RNAseq introns :: single sample supports all introns SAMN02045697,
+                              SAMN02045698 [ECO:0000348]
+            ##Evidence-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..495
+                     /organism="Papio anubis"
+                     /db_xref="taxon:9555"
+                     /chromosome="6"
+                     /map="6"
+     Protein         1..495
+                     /product="sialin"
+                     /note="solute carrier family 17 (anion/sugar transporter),
+                     member 5"
+                     /calculated_mol_wt=54504
+     Region          30..491
+                     /region_name="UhpC"
+                     /note="Sugar phosphate permease [Carbohydrate transport
+                     and metabolism]; cl27298"
+                     /db_xref="CDD:332119"
+     CDS             1..495
+                     /gene="SLC17A5"
+                     /coded_by="NM_001168942.1:1..1488"
+                     /db_xref="GeneID:100137408"
+ORIGIN      
+        1 mrspvrdlar ndgeestdrt pllpgtprae aapvccsary nlailaffgf fivyalrvnl
+       61 svalvdmvds nttlednrts kacpehsapi kvhhnqtgkk yqwdaetqgw ilgsffygyi
+      121 itqipggyva skiggklllg fgilgtavlt lftpiaadlg vgplivlral eglgegvtfp
+      181 amhamwsswa pplersklls isyagaqlgt vislplsgii cyymnwtyvf yffgtigifw
+      241 fllwiwlvsd tpqkhkrith cekeyilssl rnqlssqksv pwvpilkslp lwaivvahfs
+      301 ynwtfytllt llptymkeil rfniqengfl sslpylgswl cmilsgqaad nlrakwnfst
+      361 lcvrrifsli gmigpavflv aagfigcdys lavafltist tlggfcssgf sinhldiaps
+      421 yagillgitn tfatipgmig pviaksltpd ntvgewqtvf yiaaainvfg aifftlfakg
+      481 evqnwalddh hghrh
+//
+

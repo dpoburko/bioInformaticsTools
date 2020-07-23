@@ -1,0 +1,63 @@
+
+LOCUS       XP_030665183             557 aa            linear   PRI 17-SEP-2019
+DEFINITION  sialin isoform X1 [Nomascus leucogenys].
+ACCESSION   XP_030665183
+VERSION     XP_030665183.1
+DBLINK      BioProject: PRJNA564096
+DBSOURCE    REFSEQ: accession XM_030809323.1
+KEYWORDS    RefSeq.
+SOURCE      Nomascus leucogenys (northern white-cheeked gibbon)
+  ORGANISM  Nomascus leucogenys
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hylobatidae; Nomascus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_044383.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA and EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Nomascus leucogenys Annotation
+                                           Release 103
+            Annotation Version          :: 103
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..557
+                     /organism="Nomascus leucogenys"
+                     /isolate="Asia"
+                     /bio_material="CORIELL:NLL605"
+                     /db_xref="taxon:61853"
+                     /chromosome="3"
+                     /sex="female"
+                     /tissue_type="EB transformed lymphoblast cell line"
+                     /dev_stage="adult"
+     Protein         1..557
+                     /product="sialin isoform X1"
+                     /calculated_mol_wt=60768
+     CDS             1..557
+                     /gene="SLC17A5"
+                     /coded_by="XM_030809323.1:78..1751"
+                     /db_xref="GeneID:100592231"
+ORIGIN      
+        1 maagaesarp plggtaaldv aagrchrprp arssqlgpga sgcragahfs arwrvhllhv
+       61 gvmrspvrdl arndgeestd rtpllpgapr aeaapvccsa rynlailaff gffivyalrv
+      121 nlsvalvdmv dsnttlednr tskacpehsa pikvhhnqtg kkyqwdaetq gwilgsffyg
+      181 yiitqipggy iaskiggkll lgfgilgtav ltlftpiaad lgvgplivlr aleglgegvt
+      241 fpamhamwss wapplerskl lsisyagaql gtvislplsg iicyymnwty vfyffgtigi
+      301 fwfllwiwlv sdtpqkhkri shyekeyils slrnqlssqk svpwvpilks lplwaivvah
+      361 fsynwtfytl ltllptymke ilrfnvqeng flsslpylgs wlcmilsgqa adnlrakwnf
+      421 stlcvrrifs ligmigpavf lvaagfigcd yslavaflti sttlggfcss gfsinhldia
+      481 psyagillgi tntfatipgm vgpviakslt pdntvgewqt vfyiaaainv fgaifftlfa
+      541 kgevqnwaln dhhghrh
+//
+

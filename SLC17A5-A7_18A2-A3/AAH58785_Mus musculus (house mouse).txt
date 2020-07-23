@@ -1,0 +1,117 @@
+
+LOCUS       AAH58785                 469 aa            linear   ROD 24-FEB-2004
+DEFINITION  Slc17a5 protein [Mus musculus].
+ACCESSION   AAH58785
+VERSION     AAH58785.1
+DBSOURCE    accession BC058785.1
+KEYWORDS    MGC.
+SOURCE      Mus musculus (house mouse)
+  ORGANISM  Mus musculus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+            Muroidea; Muridae; Murinae; Mus; Mus.
+REFERENCE   1  (residues 1 to 469)
+  AUTHORS   Strausberg,R.L., Feingold,E.A., Grouse,L.H., Derge,J.G.,
+            Klausner,R.D., Collins,F.S., Wagner,L., Shenmen,C.M., Schuler,G.D.,
+            Altschul,S.F., Zeeberg,B., Buetow,K.H., Schaefer,C.F., Bhat,N.K.,
+            Hopkins,R.F., Jordan,H., Moore,T., Max,S.I., Wang,J., Hsieh,F.,
+            Diatchenko,L., Marusina,K., Farmer,A.A., Rubin,G.M., Hong,L.,
+            Stapleton,M., Soares,M.B., Bonaldo,M.F., Casavant,T.L.,
+            Scheetz,T.E., Brownstein,M.J., Usdin,T.B., Toshiyuki,S.,
+            Carninci,P., Prange,C., Raha,S.S., Loquellano,N.A., Peters,G.J.,
+            Abramson,R.D., Mullahy,S.J., Bosak,S.A., McEwan,P.J.,
+            McKernan,K.J., Malek,J.A., Gunaratne,P.H., Richards,S.,
+            Worley,K.C., Hale,S., Garcia,A.M., Gay,L.J., Hulyk,S.W.,
+            Villalon,D.K., Muzny,D.M., Sodergren,E.J., Lu,X., Gibbs,R.A.,
+            Fahey,J., Helton,E., Ketteman,M., Madan,A., Rodrigues,S.,
+            Sanchez,A., Whiting,M., Madan,A., Young,A.C., Shevchenko,Y.,
+            Bouffard,G.G., Blakesley,R.W., Touchman,J.W., Green,E.D.,
+            Dickson,M.C., Rodriguez,A.C., Grimwood,J., Schmutz,J., Myers,R.M.,
+            Butterfield,Y.S., Krzywinski,M.I., Skalska,U., Smailus,D.E.,
+            Schnerch,A., Schein,J.E., Jones,S.J. and Marra,M.A.
+  TITLE     Generation and initial analysis of more than 15,000 full-length
+            human and mouse cDNA sequences
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 99 (26), 16899-16903 (2002)
+   PUBMED   12477932
+REFERENCE   2  (residues 1 to 469)
+  AUTHORS   Strausberg,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-SEP-2003) National Institutes of Health, Mammalian
+            Gene Collection (MGC), Cancer Genomics Office, National Cancer
+            Institute, 31 Center Drive, Room 11A03, Bethesda, MD 20892-2590,
+            USA
+  REMARK    NIH-MGC Project URL: http://mgc.nci.nih.gov
+COMMENT     Contact: MGC help desk
+            Email: cgapbs-r@mail.nih.gov
+            Tissue Procurement: Susan L. Sullivan, PhD.
+            cDNA Library Preparation: ResGen, Invitrogen Corp
+            cDNA Library Arrayed by: The I.M.A.G.E. Consortium (LLNL)
+            DNA Sequencing by: National Institutes of Health Intramural
+            Sequencing Center (NISC),
+            Gaithersburg, Maryland;
+            Web site: http://www.nisc.nih.gov/
+            Contact: nisc_mgc@nhgri.nih.gov
+            Akhter,N., Ayele,K., Beckstrom-Sternberg,S.M., Benjamin,B.,
+            Blakesley,R.W., Bouffard,G.G., Breen,K., Brinkley,C., Brooks,S.,
+            Dietrich,N.L., Granite,S., Guan,X., Gupta,J., Haghighi,P.,
+            Hansen,N., Ho,S.-L., Karlins,E., Kwong,P., Laric,P., Legaspi,R.,
+            Maduro,Q.L., Masiello,C., Maskeri,B., Mastrian,S.D.,McCloskey,J.C.,
+            McDowell,J., Pearson,R., Stantripop,S., Thomas,P.J., Touchman,J.W.,
+            Tsurgeon,C., Vogt,J.L., Walker,M.A., Wetherby,K.D., Wiggins,L.,
+            Young,A., Zhang,L.-H. and Green,E.D.
+            
+            Clone distribution: MGC clone distribution information can be found
+            through the I.M.A.G.E. Consortium/LLNL at: http://image.llnl.gov
+            Series: IRAK Plate: 127 Row: h Column: 19
+            This clone was selected for full length sequencing because it
+            passed the following selection criteria: matched mRNA gi: 27370145.
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..469
+                     /organism="Mus musculus"
+                     /db_xref="taxon:10090"
+                     /clone="MGC:67681 IMAGE:6309785"
+                     /tissue_type="Olfactory epithelium, neonatal mouse,
+                     C57Bl/6"
+                     /clone_lib="NIH_MGC_129"
+                     /lab_host="DH10B"
+                     /note="Vector: pCMV-SPORT6"
+     Protein         1..469
+                     /product="Slc17a5 protein"
+     Region          30..465
+                     /region_name="2A0114euk"
+                     /note="Na(+)-dependent inorganic phosphate cotransporter;
+                     TIGR00894"
+                     /db_xref="CDD:129972"
+     Region          98..452
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     CDS             1..469
+                     /gene="Slc17a5"
+                     /gene_synonym="4732491M05"
+                     /gene_synonym="AST"
+                     /gene_synonym="ISSD"
+                     /gene_synonym="NSD"
+                     /gene_synonym="SD"
+                     /gene_synonym="SIALIN"
+                     /gene_synonym="SIASD"
+                     /gene_synonym="SLD"
+                     /coded_by="BC058785.1:49..1458"
+                     /db_xref="GeneID:235504"
+                     /db_xref="MGI:MGI:1924105"
+ORIGIN      
+        1 mrpllrgpag nddeessdst pllpgarqte aapvccsary nlailafcgf fvlyalrvnl
+       61 svalvdmvds nttltdnrts kecaehsapi kvhhnhtipg gyiasrvggk lllglgilgt
+      121 svftlftpla adlgvvtlvv lraleglgeg vtfpamhamw sswapplers klltisyaga
+      181 qlgtvislpl sgiicyymnw tyvfylfgiv givwfilwmw ivsdtpethk tishyekeyi
+      241 vsslknqlss qkvvpwgsil kslplwaivv ahfsynwsfy tlltllptym keilrfnvqe
+      301 ngflsalpyf gcwlcmilcg qaadylrvkw nfstisvrri fslvgmvgpa vflvaagfig
+      361 cdyslavafl tisttlggfa ssgfsinhld iapsyagill gitntfatip gmtgpiiaks
+      421 ltpdntirew qtvfciaaai nvfgaifftl fakgevqswa lsdhhghrn
+//
+

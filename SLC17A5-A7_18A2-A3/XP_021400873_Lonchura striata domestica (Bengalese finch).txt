@@ -1,0 +1,78 @@
+
+LOCUS       XP_021400873             519 aa            linear   VRT 05-NOV-2019
+DEFINITION  synaptic vesicular amine transporter [Lonchura striata domestica].
+ACCESSION   XP_021400873
+VERSION     XP_021400873.1
+DBLINK      BioProject: PRJNA391487
+DBSOURCE    REFSEQ: accession XM_021545198.1
+KEYWORDS    RefSeq.
+SOURCE      Lonchura striata domestica (Bengalese finch)
+  ORGANISM  Lonchura striata domestica
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Passeriformes; Passeroidea;
+            Estrildidae; Estrildinae; Lonchura.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_042572.1) annotated using gene prediction method: Gnomon,
+            supported by EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Lonchura striata domestica
+                                           Annotation Release 101
+            Annotation Version          :: 101
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..519
+                     /organism="Lonchura striata domestica"
+                     /isolate="Mets1"
+                     /sub_species="domestica"
+                     /db_xref="taxon:299123"
+                     /chromosome="6"
+                     /sex="male"
+                     /tissue_type="blood"
+                     /dev_stage="adult"
+     Protein         1..519
+                     /product="synaptic vesicular amine transporter"
+                     /calculated_mol_wt=56214
+     Region          134..440
+                     /region_name="MFS_1"
+                     /note="Major Facilitator Superfamily; pfam07690"
+                     /db_xref="CDD:311564"
+     Region          135..276
+                     /region_name="2_A_01_02"
+                     /note="Multidrug resistance protein; TIGR00880"
+                     /db_xref="CDD:273318"
+     Site            order(138,141..142,145,149..150,152..153,199..200,
+                     203..204,207..208,211,224..225,228..229,235,308,311..312,
+                     315..316,319,333,337,341,344,348,395,398..399,405,
+                     409..410,413,424..425,428..429,432..433,436)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..519
+                     /gene="SLC18A2"
+                     /coded_by="XM_021545198.1:70..1629"
+                     /db_xref="GeneID:110478521"
+ORIGIN      
+        1 mawgelgllr wlresrqsrk lillivfial lldnmlltvv vpiipsylys ieheknatei
+       61 qttkpnlpsa tmdsfqsifs yydnstmvtg nesdktqpge lhqsqteqmv vsvtaspsdc
+      121 pkddkellne nvrvgllfas katvqlmtnp figpltnrig yqiplfagfc imfvstimfa
+      181 fsgsyallfi arslqgvgss cssvagmgll atvytddeer gnamgialgg lamgvlvgpp
+      241 fgsvmyefvg ksspflvlaa lalfdgavql lvlqpsrtqa esqkgtpllt llkdpyiiia
+      301 agsicfanma iamlepalpi wmmetmcskk wqlgvaflpa sisyligtnl fgilahkigr
+      361 wlcallgmli vgisilcvpf akniygliap tfgvgfaigm vdssmmpimg ylvdlrhvsv
+      421 ygsvyaiadv afcmgfaigp saggaiakai gfpwlmtiig ivdiifaplc fflrsppake
+      481 ekmailmdhn cpvktkmytq nniqsypige eeeeyesde
+//
+

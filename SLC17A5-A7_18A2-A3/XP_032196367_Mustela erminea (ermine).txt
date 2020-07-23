@@ -1,0 +1,63 @@
+
+LOCUS       XP_032196367             495 aa            linear   MAM 03-FEB-2020
+DEFINITION  sialin isoform X1 [Mustela erminea].
+ACCESSION   XP_032196367
+VERSION     XP_032196367.1
+DBLINK      BioProject: PRJNA602914
+DBSOURCE    REFSEQ: accession XM_032340476.1
+KEYWORDS    RefSeq.
+SOURCE      Mustela erminea (ermine)
+  ORGANISM  Mustela erminea
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Carnivora; Caniformia;
+            Mustelidae; Mustelinae; Mustela.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_045617.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Mustela erminea Annotation Release
+                                           100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.3
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..495
+                     /organism="Mustela erminea"
+                     /isolate="mMusErm1"
+                     /db_xref="taxon:36723"
+                     /chromosome="4"
+                     /sex="male"
+                     /tissue_type="spleen (genome), liver, muscle, kidney"
+                     /dev_stage="adult"
+                     /country="New Zealand: Coromandel"
+                     /lat_lon="37.304717 S 175.755071 E"
+                     /collected_by="Andrew Veale, Tim Cruickshank"
+     Protein         1..495
+                     /product="sialin isoform X1"
+                     /calculated_mol_wt=54264
+     CDS             1..495
+                     /gene="SLC17A5"
+                     /coded_by="XM_032340476.1:122..1609"
+                     /db_xref="GeneID:116588848"
+ORIGIN      
+        1 mrspirglas sdgeegsdrt pllqstprve aapvccsary nlallaffgf fvlyalrvnl
+       61 svalvdmvds nttladnrts kecaehsapi kvhhnqtgkk yqwdaetqgw ilgsffygyi
+      121 itqipggyia skvggklllg fgilgtavft lftpiaadlg vgalialral eglgegvtfp
+      181 amhamwsswa pplersklls isyagaqlgt vislplsgii cfymnwtyvf ylfgivgivw
+      241 filwiffvse tpethktisr hekeyilssl knqlssqksv pwtsmlrslp lwaivvahfs
+      301 ynwtfytllt llptymkeil rfnvqengll salpyfgcwl cmilsgqaad nlrakwnfst
+      361 icvrrvfsli gmigpavflv aagfigcdys lavafltist tlggfcssgf sinhldiaps
+      421 yagillgitn tfatipgmag pviaksltpd ntirewqtvf yiaaainvfg aiffslfakg
+      481 evqnwalddr hghrn
+//
+

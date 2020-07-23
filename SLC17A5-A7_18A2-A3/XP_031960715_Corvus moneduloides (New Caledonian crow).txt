@@ -1,0 +1,65 @@
+
+LOCUS       XP_031960715             484 aa            linear   VRT 23-JAN-2020
+DEFINITION  sialin [Corvus moneduloides].
+ACCESSION   XP_031960715
+VERSION     XP_031960715.1
+DBLINK      BioProject: PRJNA599199
+DBSOURCE    REFSEQ: accession XM_032104824.1
+KEYWORDS    RefSeq.
+SOURCE      Corvus moneduloides (New Caledonian crow)
+  ORGANISM  Corvus moneduloides
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Passeriformes; Corvoidea;
+            Corvidae; Corvus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_045478.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA and EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Corvus moneduloides Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.3
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..484
+                     /organism="Corvus moneduloides"
+                     /isolate="bCorMon1"
+                     /db_xref="taxon:1196302"
+                     /chromosome="3"
+                     /sex="female"
+                     /tissue_type="blood"
+                     /country="New Caledonia: near Bourail"
+                     /lat_lon="21.599296 S 165.398128 E"
+                     /collection_date="17-Oct-2018"
+                     /collected_by="Matthew Steele"
+     Protein         1..484
+                     /product="sialin"
+                     /calculated_mol_wt=53149
+     CDS             1..484
+                     /gene="SLC17A5"
+                     /coded_by="XM_032104824.1:250..1704"
+                     /db_xref="GeneID:116442147"
+ORIGIN      
+        1 mepeegedrt pllkepqpht vpaccsaryn lallacfgff llyalrvnls valvdmvepn
+       61 tslaknvtsn vcpehssain vprnttgeky swdadtqgwi lgsffygyii tqipggylas
+      121 kiggklllgf gifgtsvftl ltplaanlgv gyliavrale glgegvtfpa mhsmwsswap
+      181 pmerskllsi syagaqlgtv vslplsglic yymnwvyvfy ifgalgvlww ffwmclvsdt
+      241 pethrsisha ereyilsslk dqlstqksvp wrpmlgslpl waivvahfsy nwtfytlltl
+      301 lptymkeilr fdaqengfls alpyfgcwlc iilsgqiady lrekqnfstv cvrkcftlig
+      361 migpavflva agfigcnyal avafvtistt lggfctsgys inhldiapsy agillgitns
+      421 fatipgmvgp viaknlthnn tvgewqmvfy iaasinlfga iffalfasge vqdwavsgyh
+      481 lhrn
+//
+

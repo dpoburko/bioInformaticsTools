@@ -1,0 +1,79 @@
+
+LOCUS       XP_028422714             522 aa            linear   VRT 01-APR-2019
+DEFINITION  probable vesicular acetylcholine transporter-A [Perca flavescens].
+ACCESSION   XP_028422714
+VERSION     XP_028422714.1
+DBLINK      BioProject: PRJNA529871
+DBSOURCE    REFSEQ: accession XM_028566913.1
+KEYWORDS    RefSeq.
+SOURCE      Perca flavescens (yellow perch)
+  ORGANISM  Perca flavescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Percoidei; Percidae;
+            Percinae; Perca.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_041351.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Perca flavescens Annotation Release
+                                           100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..522
+                     /organism="Perca flavescens"
+                     /isolate="YP-PL-M2"
+                     /db_xref="taxon:8167"
+                     /chromosome="21"
+                     /sex="male"
+                     /tissue_type="blood"
+                     /dev_stage="Adult"
+                     /country="USA: Wisconsin, Plum Lake"
+                     /collection_date="28-Apr-2017"
+                     /collected_by="Wes Larson, Wisconsin Cooperative Fishery
+                     Research Unit, University of Wisconsin-Stevens Point, 800
+                     Reserve Street Stevens Point, WI 54481"
+     Protein         1..522
+                     /product="probable vesicular acetylcholine transporter-A"
+                     /calculated_mol_wt=56351
+     Region          43..450
+                     /region_name="MFS_SLC18A3_VAChT"
+                     /note="Vesicular acetylcholine transporter (VAChT) and
+                     similar transporters of the Major Facilitator Superfamily;
+                     cd17383"
+                     /db_xref="CDD:340941"
+     Site            order(53..54,57..58,61,121,171..172,174..176,179,200,
+                     203..204,207,278,281..282,285..287,290,318,322,371..372,
+                     376,380,401,404..405,408..409,412)
+                     /site_type="other"
+                     /note="putative chemical substrate binding pocket
+                     [chemical binding]"
+                     /db_xref="CDD:340941"
+     CDS             1..522
+                     /gene="LOC114547639"
+                     /coded_by="XM_028566913.1:1..1569"
+                     /db_xref="GeneID:114547639"
+ORIGIN      
+        1 mdgeggssgl vksaavklse msertkqlgt aikdphqqrr iilvivcval lldnmlymvi
+       61 vpiipdylve lesqqaehvh vvmhpnssan stsqdksnkd nldvqigvlf askailqllv
+      121 nplsgtfidr vgydipllig lsvmfvstci favgenyatl fvarslqglg safadtsgia
+      181 miadkytees ersralgial afisfgslva ppfggflyef agkkvpfivl acicladgvl
+      241 vltvikpfsn rtrenmpvgt piyrlmvdpy iavvagaltv cniplaflep tianwmettm
+      301 hssqwemgit wlpaffphvl gvyitvklaa khphlqwfyg algmviigas sctvpacktf
+      361 gqliaplcgi cfgialvdta llptlaflvd vrhtsvygsv yaiadisysv ayamgpivag
+      421 qivhnlgfvq lnlgmglvnv lyapallllr nvcqmkpsys erdnlleeap qglydtikme
+      481 errakkkgys sagnclsvde ngfdtfkaqr slseessgpe nt
+//
+

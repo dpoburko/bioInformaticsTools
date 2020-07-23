@@ -1,0 +1,109 @@
+
+LOCUS       PNI29285                 493 aa            linear   PRI 19-JAN-2018
+DEFINITION  SLC17A7 isoform 2 [Pan troglodytes].
+ACCESSION   PNI29285
+VERSION     PNI29285.1
+DBLINK      BioProject: PRJNA369439
+            BioSample: SAMN06272697
+DBSOURCE    accession NBAG03000399.1
+KEYWORDS    .
+SOURCE      Pan troglodytes (chimpanzee)
+  ORGANISM  Pan troglodytes
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Pan.
+REFERENCE   1  (residues 1 to 493)
+  AUTHORS   Pollen,A., Hastie,A., Hormozdiari,F., Dougherty,M., Liu,R.,
+            Chaisson,M., Hoppe,E., Hill,C., Pang,A., Hillier,L., Baker,C.,
+            Armstrong,J., Shendure,J., Paten,B., Wilson,R., Chao,H.,
+            Schneider,V., Ventura,M., Kronenberg,Z., Murali,S., Gordon,D.,
+            Cantsilieris,S., Munson,K., Nelson,B., Raja,A., Underwood,J.,
+            Diekhans,M., Fiddes,I., Haussler,D. and Eichler,E.
+  TITLE     High-resolution comparative analysis of great ape genomes
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 493)
+  AUTHORS   Gordon,D., Kronenberg,Z., Murali,S.C., Nelson,B., Munson,K.,
+            Raja,A.N., Cantsilieris,S. and Eichler,E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-JUN-2017) Genome Sciences, University of Washington,
+            Foege Building, S413 3720 15th Avenue NE, Seattle, WA 98195, USA
+REFERENCE   3  (residues 1 to 493)
+  AUTHORS   Kronenberg,Z., Fiddes,I., Murali,S., Diekhans,M., Gordon,D.,
+            Cantsilieris,S., Nelson,B., Raja,A., Munson,K., Underwood,J.,
+            Haussler,D. and Eichler,E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-DEC-2017) Genome Sciences, University of Washington,
+            Foege Building, S413 3720 15th Avenue NE, Seattle, WA 98195, USA
+COMMENT     This is the whole-genome assembly of a male chimpanzee, Clint
+            (Yerkes pedigree number C0471). Genome assembly was done in stages,
+            incorporating data from multiple genomic platforms including
+            PacBio, Illumina, and BioNano optical maps, resulting in three
+            progressive versions:
+            V0 (GCA_002880755.1): The backbone of the assembly is made up of
+            contigs obtained by assembling the PacBio (P6-C4 chemistry) reads
+            using the Falcon assembler. These contigs are error-corrected using
+            the tool Quiver  and then further error-corrected using Pilon with
+            37-fold Illumina paired-end reads.
+            V1 (GCA_002880755.2): BioNano optical maps are used to place the
+            contigs into scaffolds, followed by chromosome-level scaffolding
+            using bicolor FISH.
+            V2 (GCA_002880755.3): The assembly is further error-corrected,
+            particularly in regions that have clustered 1-2 bp indels. This is
+            done by applying an Eichler-lab-created Freebayes-based indel
+            correction method.
+            
+            ##Genome-Assembly-Data-START##
+            Assembly Date          :: OCT-2017
+            Assembly Method        :: Falcon v. (git hash: 91e700c4) Nov 2015;
+                                      BioNano Access Hybrid Scaffolds
+            Polishing Method       :: Quiver v. 1.1.0; Pilon v. 1.17;
+                                      Eichler-lab-created Freebayes-based indel
+                                      correction
+            Assembly Name          :: Clint_PTRv2
+            Genome Representation  :: Full
+            Expected Final Version :: Yes
+            Genome Coverage        :: 124.0x
+            Sequencing Technology  :: PacBio; Illumina NextSeq 500; BioNano
+                                      Saphyr (two enzyme)
+            ##Genome-Assembly-Data-END##
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..493
+                     /organism="Pan troglodytes"
+                     /isolate="Yerkes chimp pedigree #C0471 (Clint)"
+                     /db_xref="taxon:9598"
+                     /sex="male"
+                     /tissue_type="blood"
+                     /dev_stage="full grown adult"
+     Protein         1..493
+                     /product="SLC17A7 isoform 2"
+     Region          13..435
+                     /region_name="UhpC"
+                     /note="Sugar phosphate permease [Carbohydrate transport
+                     and metabolism]; cl27298"
+                     /db_xref="CDD:332119"
+     CDS             1..493
+                     /locus_tag="CK820_G0042377"
+                     /coded_by="complement(join(NBAG03000399.1:3673717..3674010
+                     ,NBAG03000399.1:3674213..3674340,
+                     NBAG03000399.1:3674536..3674646,
+                     NBAG03000399.1:3675710..3675842,
+                     NBAG03000399.1:3676003..3676152,
+                     NBAG03000399.1:3676918..3677060,
+                     NBAG03000399.1:3677152..3677238,
+                     NBAG03000399.1:3677794..3677881,
+                     NBAG03000399.1:3677960..3678074,
+                     NBAG03000399.1:3678360..3678478,
+                     NBAG03000399.1:3679741..3679854))"
+ORIGIN      
+        1 msglgfcisf gircnlgvai vsmvnnstth rgghvvvqka qfswdpetvg lihgsffwgy
+       61 ivtqipggfi cqkfaanrvf gfaivatstl nmlipsaarv hygcvifvri lqglvegvty
+      121 pachgiwskw applersrla ttafcgsyag avvamplagv lvqysgwssv fyvygsfgif
+      181 wylfwllvsy espalhpsis eeerkyieda igegaklmnp ltkfstpwrr fftsmpvyai
+      241 ivanfcrswt fylllisqpa yfeevfgfei skvglvsalp hlvmtiivpi ggqiadflrs
+      301 rrimsttnvr klmncggfgm eatlllvvgy shskgvaisf lvlavgfsgf aisgfnvnhl
+      361 diapryasil mgisngvgtl sgmvcpiivg amtkhktree wqyvfliasl vhyggvifyg
+      421 vfasgekqpw aepeemseek cgfvghdqla gsddsemede aeppgappap ppsygathst
+      481 fqpprppppv rdy
+//
+

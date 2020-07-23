@@ -1,0 +1,57 @@
+
+LOCUS       XP_031820483             495 aa            linear   MAM 31-DEC-2019
+DEFINITION  sialin [Sarcophilus harrisii].
+ACCESSION   XP_031820483
+VERSION     XP_031820483.1
+DBLINK      BioProject: PRJNA596784
+DBSOURCE    REFSEQ: accession XM_031964623.1
+KEYWORDS    RefSeq.
+SOURCE      Sarcophilus harrisii (Tasmanian devil)
+  ORGANISM  Sarcophilus harrisii
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Metatheria; Dasyuromorphia; Dasyuridae; Sarcophilus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_045429.1) annotated using gene prediction method: Gnomon,
+            supported by EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Sarcophilus harrisii Annotation
+                                           Release 103
+            Annotation Version          :: 103
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.3
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..495
+                     /organism="Sarcophilus harrisii"
+                     /db_xref="taxon:9305"
+                     /chromosome="4"
+                     /cell_line="91H"
+     Protein         1..495
+                     /product="sialin"
+                     /calculated_mol_wt=54793
+     CDS             1..495
+                     /gene="SLC17A5"
+                     /coded_by="XM_031964623.1:109..1596"
+                     /db_xref="GeneID:100920643"
+ORIGIN      
+        1 mrspadylsd sesedalrrt pllqkppqgg pvpiccstry nlamiaffgf filyalrvnl
+       61 svalvdmvds nksmerntts egcpehsapi gnfhnrtgkk yhwdaetqgw ilgsffygyi
+      121 itqipggyva skmggklllg fgilgtsllt lltpiaadwg vgfliavral eglgegvtfp
+      181 amhamwsswa pplersklls isyagaqlgt vislplsgii cfymdwtyvf yffgalgilw
+      241 filwiwlvsd tpethktisv lekeyilcsl kdqltaqksv pwismlkslp lwsivvahfs
+      301 ynwtfytllt llptymkeil rfdaqengll salpyfgcwi cmllsgqaad ylrvtwkfst
+      361 vwvrrvfsli gmigpavflv aagfigcdyy laiafltist tlggfctsgf sinhldiaps
+      421 yagillgitn sfgtipgmig pviaksltpn ntveewqmvf yiaagidvfg alfftafsrg
+      481 evqdwalhgy hrhln
+//
+

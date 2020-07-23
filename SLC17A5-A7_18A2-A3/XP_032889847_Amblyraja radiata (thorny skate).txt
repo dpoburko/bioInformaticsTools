@@ -1,0 +1,62 @@
+
+LOCUS       XP_032889847             520 aa            linear   VRT 20-MAR-2020
+DEFINITION  synaptic vesicular amine transporter [Amblyraja radiata].
+ACCESSION   XP_032889847
+VERSION     XP_032889847.1
+DBLINK      BioProject: PRJNA610638
+DBSOURCE    REFSEQ: accession XM_033033956.1
+KEYWORDS    RefSeq.
+SOURCE      Amblyraja radiata (thorny skate)
+  ORGANISM  Amblyraja radiata
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Chondrichthyes;
+            Elasmobranchii; Batoidea; Rajiformes; Rajidae; Amblyraja.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_045970.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Amblyraja radiata Annotation Release
+                                           100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.3
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..520
+                     /organism="Amblyraja radiata"
+                     /isolate="CabotCenter1"
+                     /db_xref="taxon:386614"
+                     /chromosome="15"
+                     /sex="male"
+                     /tissue_type="testis, liver"
+                     /country="USA: Gulf of Main"
+                     /lat_lon="43.1336 N 68.3266 W"
+                     /collection_date="2017-09-18"
+                     /collected_by="Jeff Kneebone"
+     Protein         1..520
+                     /product="synaptic vesicular amine transporter"
+                     /calculated_mol_wt=56543
+     CDS             1..520
+                     /gene="slc18a2"
+                     /coded_by="XM_033033956.1:188..1750"
+                     /db_xref="GeneID:116981155"
+ORIGIN      
+        1 mgaleslref sflrwlregr qsrklilliv fialmldnml ltvvvpiips ylyalqhqsp
+       61 aenpvaspev isatrfqkiy syydnltmet gkdgerggne inatqpavvn sttapgsnss
+      121 clkhkdllne nvevgllfas katvqlvtnp figpltnrig yqlpmfagfi imfistimfa
+      181 fsktyvllfi aralqgvgss cssvagmgml asvytddeer gnamgialgg malgvlvgpp
+      241 fgsvmfefvg kttpflflas lalldgalql filqpskpqp esqkgsslft llrdpyilva
+      301 agaicfanmg iammepalpi wmmetmcspk wqlgvafvpa svsyligtyi fgilahkigr
+      361 wlcsllgmii vgisfifvpf akniyglivp nfgvgfaigm vdsslmpimg ylvdlrhvsv
+      421 ygnvyaiadv afcmgfalgp stggaiaeti gfpwlmaiig iidilyaplc fflrsppake
+      481 ekmailmnqn cpvktkmytt qdyfhkapmi ddeeesrsde
+//
+

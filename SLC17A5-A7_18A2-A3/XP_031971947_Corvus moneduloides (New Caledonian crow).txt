@@ -1,0 +1,65 @@
+
+LOCUS       XP_031971947             522 aa            linear   VRT 23-JAN-2020
+DEFINITION  synaptic vesicular amine transporter isoform X2 [Corvus
+            moneduloides].
+ACCESSION   XP_031971947
+VERSION     XP_031971947.1
+DBLINK      BioProject: PRJNA599199
+DBSOURCE    REFSEQ: accession XM_032116056.1
+KEYWORDS    RefSeq.
+SOURCE      Corvus moneduloides (New Caledonian crow)
+  ORGANISM  Corvus moneduloides
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Passeriformes; Corvoidea;
+            Corvidae; Corvus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_045483.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Corvus moneduloides Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.3
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..522
+                     /organism="Corvus moneduloides"
+                     /isolate="bCorMon1"
+                     /db_xref="taxon:1196302"
+                     /chromosome="8"
+                     /sex="female"
+                     /tissue_type="blood"
+                     /country="New Caledonia: near Bourail"
+                     /lat_lon="21.599296 S 165.398128 E"
+                     /collection_date="17-Oct-2018"
+                     /collected_by="Matthew Steele"
+     Protein         1..522
+                     /product="synaptic vesicular amine transporter isoform X2"
+                     /calculated_mol_wt=56639
+     CDS             1..522
+                     /gene="SLC18A2"
+                     /coded_by="XM_032116056.1:103..1671"
+                     /db_xref="GeneID:116447183"
+ORIGIN      
+        1 mawgelgllr wlresrqsrk lillivfial lldnmlltvv vpiipsylys ieheknatei
+       61 qtakpnlpsa tmdnfqsifs yydnstmetm vtgnesdktr pgelhqtqte qmvvsvtpsp
+      121 sdcpkddkel lnenvqvgll faskatvqll tnpfigpltn rigyqiplfa gfcimfvsti
+      181 mfafsgsyal lfiarslqgv gsscssvagm gllatvytdd eergnamgia lgglamgvlv
+      241 gppfgsimye fvgksspflv laalalfdga vqllvlqpsr tqaesqkgtp ilmllkdpyi
+      301 iiaagsicfa nmaiamlepa lpiwmmetmc skkwqlgvaf lpasisylig tnlfgilahk
+      361 igrwlcallg mlivgisilc vpfakniygl iaptfgvgfa igmvdssmmp imgylvdlrh
+      421 vsvygsvyai advafcmgfa igpsaggaia kaigfpwlmt iigivdilfa plcfflrspp
+      481 akeekmailm dhncpvktkm ytqnniqsyp igeeeeeyes de
+//
+

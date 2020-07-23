@@ -1,0 +1,84 @@
+
+LOCUS       XP_010639429             472 aa            linear   ROD 23-APR-2020
+DEFINITION  sialin isoform X1 [Fukomys damarensis].
+ACCESSION   XP_010639429
+VERSION     XP_010639429.1
+DBLINK      BioProject: PRJNA625221
+DBSOURCE    REFSEQ: accession XM_010641127.3
+KEYWORDS    RefSeq.
+SOURCE      Fukomys damarensis (Damara mole-rat)
+  ORGANISM  Fukomys damarensis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia;
+            Hystricomorpha; Bathyergidae; Fukomys.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_022900939.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Fukomys damarensis Annotation
+                                           Release 102
+            Annotation Version          :: 102
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.4
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..472
+                     /organism="Fukomys damarensis"
+                     /isolate="Sample0158"
+                     /db_xref="taxon:885580"
+                     /chromosome="Unknown"
+                     /sex="female"
+                     /tissue_type="blood from cranial vena cava"
+                     /country="USA: Houston Zoo, Houston, TX"
+                     /collection_date="05-Sep-2016"
+                     /collected_by="Joseph P. Flanagan, Kelcie Pletch,
+                     Christine Molter, Maryanne Tocidlowski, Lauren Howard,
+                     Judilee Marrow, Andrea Lee, Jess Jimerson, Katie Plaeger,
+                     Erin Neer"
+     Protein         1..472
+                     /product="sialin isoform X1"
+                     /calculated_mol_wt=51623
+     Region          12..468
+                     /region_name="2A0114euk"
+                     /note="Na(+)-dependent inorganic phosphate cotransporter;
+                     TIGR00894"
+                     /db_xref="CDD:129972"
+     Region          80..455
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Site            order(89,92..93,96,100..101,103..104,152..153,156..157,
+                     160..161,164,176..177,180..181,187,279,282..283,286..287,
+                     290,304,308,312,315,319,376,379..380,383,387..388,391,
+                     402..403,406..407,410..411,414)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..472
+                     /gene="Slc17a5"
+                     /coded_by="XM_010641127.3:52..1470"
+                     /db_xref="GeneID:104874157"
+ORIGIN      
+        1 masedilqap accsarynla ilsflgffvl yvlrvnlsva lvemvdsntt vadnrtskec
+       61 adhsslvkvp rnqtgkrypw daetqgwilg affygyiitq ipggyfaskv ggklllgygi
+      121 lgtslftllt plaadlgavs livlralegl gegvtfpamh amwsswappl erskllsisy
+      181 agaqlgtvis lplsgiicyy mnwtyvfyff gilgilwfil wtwrvsdtpe thktissyek
+      241 eyiasslksq lssrksvpwi pilkslplwa vvvahfsynw tfytlltllp tymkeilrfn
+      301 vqengflsal pyfgswlcmi lsgqaadslr akwncstlcv rrtftligmi gpavflvaag
+      361 figcdsslav afltisttlg glcssgfsin hldiapsyag vllgitntfa tipgmvgpvi
+      421 aksltphhti sewqtvfyia aainvfgaif ftlfakgdvq twavgdhhgh rn
+//
+

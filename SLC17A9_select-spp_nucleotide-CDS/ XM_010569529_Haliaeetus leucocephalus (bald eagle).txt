@@ -1,0 +1,90 @@
+
+LOCUS       XM_010569529            3725 bp    mRNA    linear   VRT 06-DEC-2014
+DEFINITION  PREDICTED: Haliaeetus leucocephalus solute carrier family 17
+            (vesicular nucleotide transporter), member 9 (SLC17A9), mRNA.
+ACCESSION   XM_010569529
+VERSION     XM_010569529.1
+DBLINK      BioProject: PRJNA269279
+KEYWORDS    RefSeq.
+SOURCE      Haliaeetus leucocephalus (bald eagle)
+  ORGANISM  Haliaeetus leucocephalus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Falconiformes; Accipitridae;
+            Accipitrinae; Haliaeetus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_010972709.1) annotated using gene prediction method: Gnomon,
+            supported by EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Haliaeetus leucocephalus Annotation
+                                           Release 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 6.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..3725
+                     /organism="Haliaeetus leucocephalus"
+                     /mol_type="mRNA"
+                     /isolate="CR32"
+                     /isolation_source="blood sample"
+                     /db_xref="taxon:52644"
+                     /chromosome="Unknown"
+                     /sex="male"
+     gene            1..3725
+                     /gene="SLC17A9"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon. Supporting evidence
+                     includes similarity to: 1 EST, 5 Proteins, and 100%
+                     coverage of the annotated genomic feature by RNAseq
+                     alignments"
+                     /db_xref="GeneID:104833032"
+     CDS             30..1391
+                     /gene="SLC17A9"
+                     /codon_start=1
+                     /product="solute carrier family 17 member 9"
+                     /protein_id="XP_010567831.1"
+                     /db_xref="GeneID:104833032"
+                     /translation="MAGGGENVPVCSAEHGARAGQHDGMRKDGGGDPYWSRPESRVWK
+                     VMLLLGTCLLYCARVTVPICAVALSARFDWDKKQSGIVLSSFFWGYCLTQIIGGHISD
+                     QIGGEKVLLLSASAWGFLTVLTPLLTHITSAHLVFMTSSRFLMGLLQGVYFPSLASLL
+                     SQKVRENERAFTYSTVGTGSQCGTLVIGGAGSLLLDWYGWESVFYFSGLLTLLWVYCT
+                     CKYLLNEKELIIPIDYLMRSLSISKQTKVPWKQLFKKAPIWAVIIAQLSTASTFFTLL
+                     SWLPTFFKETFPESKGWVFNVVPWLVAIPTSLFSGFLSDHLINQGYKTITIRKFMQVI
+                     GSGVSSVFALCLGQTSSFCKAIVFASASVGLQTFNHSGISVNVQDLAPSCAGLLFGVG
+                     NTGGALLGVICVYLAGYLIETTGSWISVFNLVAAVNSIGLCAFLVFGEAQRVDTDSAY
+                     VDL"
+ORIGIN      
+         1 atggccgggg ggggcgagaa tgtgccggtg tgcagcgccg agcacggggc ccgggcgggg 
+        61 cagcacgacg ggatgaggaa ggacggcggg ggggacccgt actggtccag gcccgagtcc 
+       121 cgcgtctgga aggtgatgtt gctgctgggg acgtgcctgc tgtactgcgc ccgtgtcacc 
+       181 gtgcccatct gcgccgtcgc cctcagcgcc cgcttcgact gggacaagaa gcagtcgggc 
+       241 atagtgctca gcagcttctt ctggggctac tgcttgacac agattatcgg aggacatatc 
+       301 agtgatcaaa taggaggtga gaaagtcctc ctcctctccg catcagcctg ggggttcctc 
+       361 acggtcctca cccctctgct cacccacatc acttctgccc atctcgtttt tatgacctcc 
+       421 tccaggttcc tcatggggtt gctgcaaggg gtgtatttcc catccctggc cagcctgctg 
+       481 tcccagaagg tccgggagaa tgagcgagcc ttcacctaca gcacagtggg gaccggctcc 
+       541 cagtgtggga cgctggtgat cggcggtgcg gggtctcttc tcctggactg gtacggctgg 
+       601 gagagcgttt tctatttctc cggtttgctc actttgctct gggtttactg cacctgcaag 
+       661 tacctcctga atgagaaaga actcatcatc cccatagact atttaatgag aagcctctcg 
+       721 atatccaagc agaccaaagt tccctggaag cagctgttta agaaggcgcc gatatgggct 
+       781 gtcatcatcg ctcagctttc tacggccagc acgtttttca ctctcctctc ctggctgccg 
+       841 acgttcttta aggagacttt ccccgagtca aagggttggg tgtttaatgt agtcccctgg 
+       901 ctggttgcaa ttcctacaag cttgttcagt ggatttctgt ctgatcattt aatcaaccag 
+       961 gggtacaaaa ccatcaccat tcgtaagttc atgcaggtca ttggctccgg cgtctcaagc 
+      1021 gtttttgctc tgtgcctggg ccagacctcc agtttttgca aagcgatagt gtttgcctct 
+      1081 gcctctgtcg gacttcagac ctttaaccac agtggcattt cagtaaacgt acaggatctg 
+      1141 gccccctcgt gtgccggctt gctgttcggt gttgggaata caggtggagc cctcctaggt 
+      1201 gtcatctgcg tgtacttggc tggctacttg attgaaacga ctggctcctg gatttctgtt 
+      1261 ttcaatctgg tggctgccgt taacagcatt ggcctctgtg cattcctcgt gtttggagag 
+      1321 gcccagaggg tggacacaga ctctgcatac gtggacctct ag
+//
+

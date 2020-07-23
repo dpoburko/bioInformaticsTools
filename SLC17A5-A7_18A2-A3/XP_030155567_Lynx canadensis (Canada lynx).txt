@@ -1,0 +1,64 @@
+
+LOCUS       XP_030155567             560 aa            linear   MAM 27-FEB-2020
+DEFINITION  vesicular glutamate transporter 1 [Lynx canadensis].
+ACCESSION   XP_030155567
+VERSION     XP_030155567.1
+DBLINK      BioProject: PRJNA558991
+DBSOURCE    REFSEQ: accession XM_030299707.1
+KEYWORDS    RefSeq.
+SOURCE      Lynx canadensis (Canada lynx)
+  ORGANISM  Lynx canadensis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Carnivora; Feliformia; Felidae;
+            Felinae; Lynx.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_044317.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Lynx canadensis Annotation Release
+                                           101
+            Annotation Version          :: 101
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.3
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..560
+                     /organism="Lynx canadensis"
+                     /isolate="LIC74"
+                     /db_xref="taxon:61383"
+                     /chromosome="E2"
+                     /sex="male"
+                     /tissue_type="muscle, distal limb"
+                     /country="USA: Aroostook County, Maine"
+                     /lat_lon="42.2466 N 71.6746 W"
+                     /collection_date="2017-12-05"
+                     /collected_by="Tanya Lama"
+     Protein         1..560
+                     /product="vesicular glutamate transporter 1"
+                     /calculated_mol_wt=61517
+     CDS             1..560
+                     /gene="SLC17A7"
+                     /coded_by="XM_030299707.1:32..1714"
+                     /db_xref="GeneID:115503473"
+ORIGIN      
+        1 mefrqeefrk lagralgrlh rllekrqega etlelsadgr pvttqtrdpp vvdctcfglp
+       61 rryiiaimsg lgfcisfgir cnlgvaivsm vnnstthrgg hvvvqkaqfn wdpetvglih
+      121 gsffwgyivt qipggficqk faanrvfgfa ivatstlnml ipsaarvhyg cvifvrilqg
+      181 lvegvtypac hgiwskwapp lersrlatta fcgsyagavv amplagvlvq ysgwssvfyv
+      241 ygsfgifwyl fwllvsyesp alhpsiseee rkyiedaige saklmnpvtk fntpwrrfft
+      301 smpvyaiiva nfcrswtfyl llisqpayfe evfgfeiskv glvsalphlv mtiivpiggq
+      361 iadflrsrri msttnvrklm ncggfgmeat lllvvgyshs kgvaisflvl avgfsgfais
+      421 gfnvnhldia pryasilmgi sngvgtlsgm vcpiivgamt khktreewqy vfliaslvhy
+      481 ggvifygvfa sgekqpwaep eemseekcgf vghdqlagsd esemedeaep pgappappps
+      541 ygathstvqp prppppvrdy
+//
+

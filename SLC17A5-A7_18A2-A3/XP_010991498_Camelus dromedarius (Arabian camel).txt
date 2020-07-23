@@ -1,0 +1,69 @@
+
+LOCUS       XP_010991498             560 aa            linear   MAM 23-OCT-2019
+DEFINITION  vesicular glutamate transporter 1 isoform X1 [Camelus dromedarius].
+ACCESSION   XP_010991498
+VERSION     XP_010991498.2
+DBLINK      BioProject: PRJNA565028
+DBSOURCE    REFSEQ: accession XM_010993196.2
+KEYWORDS    RefSeq.
+SOURCE      Camelus dromedarius (Arabian camel)
+  ORGANISM  Camelus dromedarius
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Cetartiodactyla; Tylopoda;
+            Camelidae; Camelus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_044519.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            On Oct 23, 2019 this sequence version replaced XP_010991498.1.
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Camelus dromedarius Annotation
+                                           Release 101
+            Annotation Version          :: 101
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..560
+                     /organism="Camelus dromedarius"
+                     /isolate="Drom800"
+                     /isolation_source="isolated from an animal called Varis"
+                     /db_xref="taxon:9838"
+                     /chromosome="9"
+                     /sex="female"
+                     /tissue_type="blood"
+                     /dev_stage="adult"
+                     /country="Austria: Eithental"
+                     /collection_date="13-Jan-2013"
+                     /collected_by="Pamela Burger"
+                     /breed="African"
+     Protein         1..560
+                     /product="vesicular glutamate transporter 1 isoform X1"
+                     /calculated_mol_wt=61483
+     CDS             1..560
+                     /gene="SLC17A7"
+                     /coded_by="XM_010993196.2:188..1870"
+                     /db_xref="GeneID:105100210"
+ORIGIN      
+        1 mefrqeefrk lagralgklh rllekrqeda etlelsadgr pvttqtrdpp vvdctcfglp
+       61 rryiiaimsg lgfcisfgir cnlgvaivsm vnnstthhgg hvvvqkaqfn wdpetvglih
+      121 gsffwgyivt qipggficqk faanrvfgfa ivatstlnml ipsaarvhyg cvifvrilqg
+      181 lvegvtypac hgiwskwapp lersrlatta fcgsyagavv amplagvlvq ysgwssvfyv
+      241 ygsfgifwyl fwllvsyesp alhpsiseee rkyiedaige saklmnpvtk fntpwrrfft
+      301 smpvyaiiva nfcrswtfyl llisqpayfe evfgfeiskv glvsalphlv mtiivpiggq
+      361 iadflrsrri msttnvrklm ncggfgmeat lllvvgyshs kgvaisflvl avgfsgfais
+      421 gfnvnhldia pryasilmgi sngvgtlsgm vcpiivgamt khktreewqy vfliaslvhy
+      481 ggvifygvfa sgekqpwaep eemseekcgf vghdqlagse esemedeaep pgappappps
+      541 ygathstvqp prppppvrgy
+//
+

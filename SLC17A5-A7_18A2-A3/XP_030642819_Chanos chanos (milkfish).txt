@@ -1,0 +1,55 @@
+
+LOCUS       XP_030642819             518 aa            linear   VRT 16-SEP-2019
+DEFINITION  synaptic vesicular amine transporter [Chanos chanos].
+ACCESSION   XP_030642819
+VERSION     XP_030642819.1
+DBLINK      BioProject: PRJNA564626
+DBSOURCE    REFSEQ: accession XM_030786959.1
+KEYWORDS    RefSeq.
+SOURCE      Chanos chanos (milkfish)
+  ORGANISM  Chanos chanos
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Gonorynchiformes; Chanidae; Chanos.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_044504.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Chanos chanos Annotation Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..518
+                     /organism="Chanos chanos"
+                     /db_xref="taxon:29144"
+                     /chromosome="10"
+     Protein         1..518
+                     /product="synaptic vesicular amine transporter"
+                     /calculated_mol_wt=55619
+     CDS             1..518
+                     /gene="slc18a2"
+                     /coded_by="XM_030786959.1:1..1557"
+                     /db_xref="GeneID:115822977"
+ORIGIN      
+        1 mgvldalrdf slltwlregr qsrrlilliv fiallldnml ltvvvpiips ylyavddeaa
+       61 staktnsvts ytpsgtfqti vslydnstkt tsggaelttv kplsqipfts taitphnttd
+      121 cpkgdeqlln envkvgllfa skatvqlltn pfigpltnri gyqipmfagf cimfvstimf
+      181 afsssyallf larslqgvgs scssvagmgm lasvytddee rgnaigialg glamgvlvgp
+      241 pfgsvmyefv gktapflila vlavldgalq lfvlqpskve pesqkgtpll tlmkdpyili
+      301 aagsicfanm aiamlepalp iwmmetmcpr kwqlgvafvp asvsyligtn mfavlahkmg
+      361 rwlcsligml lvgisilcvp lakniyglil pnfgvgfaig mvdssmmpim gylvdlrhvs
+      421 vygsvyaiad vafcmgfalg psaggaiars igfpwlmtii givdimfapl cfflrnppat
+      481 eekmailmdt ncsmktrsys tqgthyqmgd dmetesde
+//
+

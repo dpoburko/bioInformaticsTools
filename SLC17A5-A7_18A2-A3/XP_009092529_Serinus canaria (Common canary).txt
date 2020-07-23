@@ -1,0 +1,63 @@
+
+LOCUS       XP_009092529             484 aa            linear   VRT 08-AUG-2019
+DEFINITION  sialin [Serinus canaria].
+ACCESSION   XP_009092529
+VERSION     XP_009092529.1
+DBLINK      BioProject: PRJNA558035
+DBSOURCE    REFSEQ: accession XM_009094281.3
+KEYWORDS    RefSeq.
+SOURCE      Serinus canaria (Common canary)
+  ORGANISM  Serinus canaria
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Passeriformes; Passeroidea;
+            Fringillidae; Carduelinae; Serinus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_022044411.1) annotated using gene prediction method: Gnomon,
+            supported by EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Serinus canaria Annotation Release
+                                           102
+            Annotation Version          :: 102
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..484
+                     /organism="Serinus canaria"
+                     /isolate="sc_yellow_7_cibi"
+                     /db_xref="taxon:9135"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /tissue_type="heart"
+                     /dev_stage="adult"
+                     /ecotype="domestic yellow"
+     Protein         1..484
+                     /product="sialin"
+                     /calculated_mol_wt=53215
+     CDS             1..484
+                     /gene="SLC17A5"
+                     /coded_by="XM_009094281.3:203..1657"
+                     /db_xref="GeneID:103819732"
+ORIGIN      
+        1 mepeegedrt pllkepqpdt vpaccsaryn lallacfgff lvyalrvnls valvdmvepn
+       61 tssaknvtsn vcpehsstin vprnttgeky swdaetqgwi lgsffygyii tqipggylas
+      121 riggklllgf gifgtsvftl ltplaanlgv gyliavrale glgegvtfpa mhsmwsswap
+      181 plerskllsi syagaqlgtv vslplsglic yymnwvyvfy ifgalgvlww ffwmllvsdt
+      241 pethrsisqa ereyilsslk dqlstqksvp wrpmlgslpl waivvahfsy nwtfytlltl
+      301 lptymkeilr fdaqengfls alpyfgcwlc iilsgqiady lrekqnfstv cvrrcftlig
+      361 migpavflva agfigcnyal avafvtistt lggfctsgys inhldiapsy agillgitns
+      421 fatipgmvgp viakslthnn tveewqmvfy iaasinlfga iffalfasge vqdwavsgyh
+      481 lhrn
+//
+

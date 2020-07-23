@@ -1,0 +1,55 @@
+
+LOCUS       XP_033794054             493 aa            linear   VRT 28-APR-2020
+DEFINITION  sialin [Geotrypetes seraphini].
+ACCESSION   XP_033794054
+VERSION     XP_033794054.1
+DBLINK      BioProject: PRJNA627137
+DBSOURCE    REFSEQ: accession XM_033938163.1
+KEYWORDS    RefSeq.
+SOURCE      Geotrypetes seraphini
+  ORGANISM  Geotrypetes seraphini
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Gymnophiona; Geotrypetes.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_047086.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Geotrypetes seraphini Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.4
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..493
+                     /organism="Geotrypetes seraphini"
+                     /db_xref="taxon:260995"
+                     /chromosome="3"
+     Protein         1..493
+                     /product="sialin"
+                     /calculated_mol_wt=53980
+     CDS             1..493
+                     /gene="SLC17A5"
+                     /coded_by="XM_033938163.1:127..1608"
+                     /db_xref="GeneID:117357487"
+ORIGIN      
+        1 mqaeteeesd tspmlgsame rrellrptkv pvccsarynl avlalfgfli lyalrvnlsv
+       61 alvnmvkpns smsenasasv cpahstspqk phnitgkqys wdadtqgwil gsffygyiit
+      121 qipggflasr iggklllgfg vlgtaiftll tplaadlgvg yllavraleg lgegvtfpam
+      181 hamwsswapp mersrllsls yagaqlgtvv slplsglicy ymdwayvfyi fgalgivwfv
+      241 fwcwlvsdtp ethrtispse qdyilsslrn qltseksvpc galiksmplw aiivahfsyn
+      301 wtfytlltll ptymkdilqf daqengflsa lpyfgcwlcm iltgqladym rerfnistvv
+      361 vrktfnsigm igpavflvaa gytgcnyvla vtfltisttl ggfcmsgyni nhldiapsya
+      421 gillgitntf atipgmvgpv iakslthdnt veewqlvfyi aaaidlfgaf ffvvfgsgvv
+      481 qvwamkgfns hrl
+//
+

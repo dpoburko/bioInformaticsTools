@@ -1,0 +1,70 @@
+
+LOCUS       XP_026800068             490 aa            linear   VRT 13-MAY-2020
+DEFINITION  sialin [Pangasianodon hypophthalmus].
+ACCESSION   XP_026800068
+VERSION     XP_026800068.1
+DBLINK      BioProject: PRJNA630732
+DBSOURCE    REFSEQ: accession XM_026944267.2
+KEYWORDS    RefSeq.
+SOURCE      Pangasianodon hypophthalmus (striped catfish)
+  ORGANISM  Pangasianodon hypophthalmus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi; Siluriformes;
+            Pangasiidae; Pangasianodon.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_047597.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Pangasianodon hypophthalmus
+                                           Annotation Release 101
+            Annotation Version          :: 101
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.4
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..490
+                     /organism="Pangasianodon hypophthalmus"
+                     /strain="Indonesia"
+                     /db_xref="taxon:310915"
+                     /chromosome="3"
+                     /sex="male"
+                     /tissue_type="blood"
+                     /dev_stage="adult"
+                     /collection_date="Oct-2017"
+                     /collected_by="Remi Dugue, Institut de recherche pour le
+                     developpement, Institut des Sciences de l'Evolution de
+                     Montpellier, Universite de Montpellier, 34095 Montpellier
+                     cedex 5, France"
+     Protein         1..490
+                     /product="sialin"
+                     /calculated_mol_wt=53727
+     Region          27..483
+                     /region_name="UhpC"
+                     /note="Sugar phosphate permease [Carbohydrate transport
+                     and metabolism]; cl27298"
+                     /db_xref="CDD:332119"
+     CDS             1..490
+                     /gene="slc17a5"
+                     /coded_by="XM_026944267.2:61..1533"
+                     /db_xref="GeneID:113545109"
+ORIGIN      
+        1 mdriasdtet ddyeqpllhr krddgikrap vlcssrygla llscygffva yalrvnlsva
+       61 mvdmlrnsss stnasgsvcp rhtsptrprh nhtasvydwd setqgwilgs ffygyivtqi
+      121 pggymarkyg akwllgfgil gtviftlltp vaadlgagyl itvrvlegig egvtfpamha
+      181 mwaswapple rsrlltisya gaqlgtvval plsgqicfyl dwtyvfyifg aigllwfflw
+      241 aflvsnspdt hrriseieks yikaslkkel sptsayipwp siltsvplwa ivvahfsynw
+      301 tfytlltllp tymndilgfs ikengmlsal pylgcwllam gggqladylr etclfrtvtv
+      361 rkaftiagmv gpavflvaag ytdcnyilav vfltvsstlg gfsasgfnin hldiapsyag
+      421 illgitntfa tipgmvgpvi arsltksnti adwrtvffis aginlfgaaf ytlfgkgtvq
+      481 pwavqrvnte
+//
+

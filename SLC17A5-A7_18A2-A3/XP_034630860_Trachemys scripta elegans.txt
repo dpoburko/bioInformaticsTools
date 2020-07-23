@@ -1,0 +1,61 @@
+
+LOCUS       XP_034630860             527 aa            linear   VRT 31-MAY-2020
+DEFINITION  vesicular acetylcholine transporter [Trachemys scripta elegans].
+ACCESSION   XP_034630860
+VERSION     XP_034630860.1
+DBLINK      BioProject: PRJNA634151
+DBSOURCE    REFSEQ: accession XM_034774969.1
+KEYWORDS    RefSeq.
+SOURCE      Trachemys scripta elegans
+  ORGANISM  Trachemys scripta elegans
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Testudines; Cryptodira; Durocryptodira;
+            Testudinoidea; Emydidae; Trachemys.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_048304.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Trachemys scripta elegans Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.4
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..527
+                     /organism="Trachemys scripta elegans"
+                     /isolate="TJP31775"
+                     /isolation_source="river"
+                     /sub_species="elegans"
+                     /db_xref="taxon:31138"
+                     /chromosome="7"
+                     /country="USA"
+                     /collection_date="14-Feb-2018"
+     Protein         1..527
+                     /product="vesicular acetylcholine transporter"
+                     /calculated_mol_wt=56587
+     CDS             1..527
+                     /gene="SLC18A3"
+                     /coded_by="XM_034774969.1:733..2316"
+                     /db_xref="GeneID:117879726"
+ORIGIN      
+        1 mateggagla ksaveklsda mgektkqlgt amqdvhrqrr lilvivcval fldnmlymvi
+       61 vpimpsylam weaeipares nasganarga nasratsvlg pgyppenedi kigvlfaska
+      121 ilqllvnpls gtfidrvgyd iplligltvm flstiifala enyatlfaar slqglgsafa
+      181 dtsgiamiad kyteesersr algialafis fgslvappfg gilyqfagrr vpflvlasvc
+      241 lldglllltv ikpfgsrtre nmlvgtpihr lmidpyiavv agalttcnip lafleptiat
+      301 wmkknmgase wemgvtwlpa ffphvlgvyi tvklaakyph lqwfygalgm viigassctv
+      361 pacrnfgqli vplcgicfgi alvdtallpt laflvdlrhv svygsvyaia disysvayal
+      421 gpivasqivh slgfvqlnlg mglanvlyap vllflknvcq mkashserni lleegpkgly
+      481 dtikmqerkg kgktphpagg megnsvdsyh rdltgpseed ssdyeys
+//
+

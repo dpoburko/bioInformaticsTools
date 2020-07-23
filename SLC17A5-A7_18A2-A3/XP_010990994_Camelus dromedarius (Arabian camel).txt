@@ -1,0 +1,67 @@
+
+LOCUS       XP_010990994             500 aa            linear   MAM 23-OCT-2019
+DEFINITION  sialin isoform X1 [Camelus dromedarius].
+ACCESSION   XP_010990994
+VERSION     XP_010990994.2
+DBLINK      BioProject: PRJNA565028
+DBSOURCE    REFSEQ: accession XM_010992692.2
+KEYWORDS    RefSeq.
+SOURCE      Camelus dromedarius (Arabian camel)
+  ORGANISM  Camelus dromedarius
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Cetartiodactyla; Tylopoda;
+            Camelidae; Camelus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_022191460.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            On Oct 23, 2019 this sequence version replaced XP_010990994.1.
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Camelus dromedarius Annotation
+                                           Release 101
+            Annotation Version          :: 101
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..500
+                     /organism="Camelus dromedarius"
+                     /isolate="Drom800"
+                     /isolation_source="isolated from an animal called Varis"
+                     /db_xref="taxon:9838"
+                     /chromosome="Unknown"
+                     /sex="female"
+                     /tissue_type="blood"
+                     /dev_stage="adult"
+                     /country="Austria: Eithental"
+                     /collection_date="13-Jan-2013"
+                     /collected_by="Pamela Burger"
+                     /breed="African"
+     Protein         1..500
+                     /product="sialin isoform X1"
+                     /calculated_mol_wt=54571
+     CDS             1..500
+                     /gene="SLC17A5"
+                     /coded_by="XM_010992692.2:125..1627"
+                     /db_xref="GeneID:105099806"
+ORIGIN      
+        1 mkspvadlap tdgeegsdrt pllqraprae aapvccsary nlaflafcgf fvlyalrvnl
+       61 svalvdmvds nstaadnrts secaehsapi kvlhnqtgkr yqwdaetqgw ilgsffygyi
+      121 itqipggyma srvggklllg fgilgtavft lftplaadlg vgalvalral eglgegvtfp
+      181 amhsmwsswa pplersklls isyagaqlgt vvslplsgii cfymnwtyvf ylfgivgiiw
+      241 filwiwlvtd tpethktisp yeqeyilssl knqlssqksv pwipvlkslp lwaivvahfs
+      301 ynwtfytllt llptymkevl rfniqengvl savpyfgcwl cmilsgqaad nlrakwnfst
+      361 lcvrrlftli gmigpavflv aagfigcdys mavafltist tlggfcssgf sinhldiaps
+      421 yagvllgitn tfatvpgmvg piiarsltpe ntirewqtvf ciaaainvfg aifftlfakg
+      481 evqtwavsdh rghktegtnk
+//
+

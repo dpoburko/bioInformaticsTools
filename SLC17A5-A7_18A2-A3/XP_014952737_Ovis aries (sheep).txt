@@ -1,0 +1,82 @@
+
+LOCUS       XP_014952737             478 aa            linear   MAM 06-FEB-2019
+DEFINITION  sialin isoform X1 [Ovis aries].
+ACCESSION   XP_014952737
+VERSION     XP_014952737.1
+DBLINK      BioProject: PRJNA517172
+DBSOURCE    REFSEQ: accession XM_015097251.2
+KEYWORDS    RefSeq.
+SOURCE      Ovis aries (sheep)
+  ORGANISM  Ovis aries
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Cetartiodactyla; Ruminantia;
+            Pecora; Bovidae; Caprinae; Ovis.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_040259.1) annotated using gene prediction method: Gnomon,
+            supported by EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Ovis aries Annotation Release 103
+            Annotation Version          :: 103
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.1
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..478
+                     /organism="Ovis aries"
+                     /strain="OAR_USU_Benz2616"
+                     /db_xref="taxon:9940"
+                     /chromosome="8"
+                     /sex="female"
+                     /tissue_type="blood"
+                     /dev_stage="adult"
+                     /collection_date="2015-03-01"
+                     /breed="Rambouillet"
+     Protein         1..478
+                     /product="sialin isoform X1"
+                     /calculated_mol_wt=52552
+     Region          16..469
+                     /region_name="2A0114euk"
+                     /note="Na(+)-dependent inorganic phosphate cotransporter;
+                     TIGR00894"
+                     /db_xref="CDD:129972"
+     Region          82..461
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Site            order(95,98..99,102,106..107,109..110,158..159,162..163,
+                     166..167,170,182..183,186..187,193,285,288..289,292..293,
+                     296,310,314,318,321,325,382,385..386,389,393..394,397,
+                     408..409,412..413,416..417,420)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..478
+                     /gene="SLC17A5"
+                     /gene_synonym="SP55"
+                     /coded_by="XM_015097251.2:1124..2560"
+                     /db_xref="GeneID:443098"
+ORIGIN      
+        1 masnsnpase dgfqapvccs arynlaflsf fgffvlyslr vnlsvalvdm vdsnttakdn
+       61 rtsyecaehs apikvlhnqt gkkyrwdaet qgwilgsffy gyiitqipgg yvasrsggkl
+      121 llgfgifata iftlftplaa dfgvgalval raleglgegv typamhamws swapplersk
+      181 llsisyagaq lgtvvslpls gvicyymnwt yvfyffgivg iiwfilwicl vsdtpethkt
+      241 itpyekeyil sslknqlssq ksvpwipmlk slplwaivva hfsynwtfyt lltllptymk
+      301 evlrfniqen gflsavpylg cwlcmilsgq aadnlrarwn fstlwvrrvf sligmigpai
+      361 flvaagfigc dyslavaflt isttlggfcs sgfsinhldi apsyagillg itntfatipg
+      421 migpiiarsl tpentigewq tvfciaaain vfgaifftlf akgevqnwai sdhqghrn
+//
+

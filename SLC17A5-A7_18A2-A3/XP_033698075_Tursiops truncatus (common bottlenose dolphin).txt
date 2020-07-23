@@ -1,0 +1,66 @@
+
+LOCUS       XP_033698075             517 aa            linear   MAM 27-APR-2020
+DEFINITION  synaptic vesicular amine transporter isoform X1 [Tursiops
+            truncatus].
+ACCESSION   XP_033698075
+VERSION     XP_033698075.1
+DBLINK      BioProject: PRJNA625792
+DBSOURCE    REFSEQ: accession XM_033842184.1
+KEYWORDS    RefSeq.
+SOURCE      Tursiops truncatus (common bottlenose dolphin)
+  ORGANISM  Tursiops truncatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Artiodactyla; Whippomorpha;
+            Cetacea; Odontoceti; Delphinidae; Tursiops.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_047049.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Tursiops truncatus Annotation
+                                           Release 102
+            Annotation Version          :: 102
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.4
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..517
+                     /organism="Tursiops truncatus"
+                     /isolate="mTurTru1"
+                     /db_xref="taxon:9739"
+                     /chromosome="16"
+                     /sex="male"
+                     /tissue_type="spleen"
+                     /country="USA: Baltimore, Maryland"
+                     /lat_lon="39.2851 N 76.6083 W"
+                     /collection_date="11-Nov-2018"
+                     /collected_by="Leigh Clayton, Jill Arnold, Winston Timp,
+                     Norah Hilger"
+     Protein         1..517
+                     /product="synaptic vesicular amine transporter isoform X1"
+                     /calculated_mol_wt=55855
+     CDS             1..517
+                     /gene="SLC18A2"
+                     /coded_by="XM_033842184.1:532..2085"
+                     /db_xref="GeneID:101331879"
+ORIGIN      
+        1 malselallr wlqesrhsrk lilfivflal lldnmlltvv vpiipsylys iehekdaiei
+       61 qtakpvlkas tfgsfqnifs yydnstvvag nstgslqgal lheattqrtv tnrstapsdc
+      121 psedkdllne nvqvgllfas katvqlltnp figlltnrig ypipmftgfc imfistvmfa
+      181 fsrsyaflli arslqgigss cssvagmgml asvytddeer gnamgialgg lamgvlvgpp
+      241 fgsvlyefvg ktapflvlaa lvlldgaiql fvlqpsrvqp esqkgtpltt llkdpyilia
+      301 agsicfanmg iamlepalpi wmmetmcshk wqlgvaflpa sisyligtni fgilahkmgr
+      361 wlcallgmii vgfsilcipl akniygliap nfgvgfaigm vdssmmpimg ylvdlrhvsv
+      421 ygsvyaiadv afcmgyaigp saggaiaksi gfpwlmtiig iidilfaplc fflrsppake
+      481 ekmailmdhn cpiktkmytq nniqsypige deesesd
+//
+

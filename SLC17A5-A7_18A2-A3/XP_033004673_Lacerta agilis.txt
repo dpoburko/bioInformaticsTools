@@ -1,0 +1,65 @@
+
+LOCUS       XP_033004673             545 aa            linear   VRT 28-MAR-2020
+DEFINITION  vesicular acetylcholine transporter [Lacerta agilis].
+ACCESSION   XP_033004673
+VERSION     XP_033004673.1
+DBLINK      BioProject: PRJNA614516
+DBSOURCE    REFSEQ: accession XM_033148782.1
+KEYWORDS    RefSeq.
+SOURCE      Lacerta agilis
+  ORGANISM  Lacerta agilis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+            Laterata; Lacertibaenia; Lacertidae; Lacerta.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_046316.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Lacerta agilis Annotation Release
+                                           100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.4
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..545
+                     /organism="Lacerta agilis"
+                     /isolate="rLacAgi1"
+                     /db_xref="taxon:80427"
+                     /chromosome="5"
+                     /sex="female"
+                     /tissue_type="blood"
+                     /dev_stage="adult"
+                     /country="Sweden: Halland"
+                     /lat_lon="57.489552 N 11.936655 E"
+                     /collection_date="28-May-2018"
+                     /collected_by="Mette Lillie, Mats Olsson"
+     Protein         1..545
+                     /product="vesicular acetylcholine transporter"
+                     /calculated_mol_wt=58907
+     CDS             1..545
+                     /gene="SLC18A3"
+                     /coded_by="XM_033148782.1:117..1754"
+                     /db_xref="GeneID:117046644"
+ORIGIN      
+        1 megeasapsg prsaveklse avgqrtkals talqeanrqr rlllvivcva llldnmlymv
+       61 ivpivpdfva alnvaeerqq gaqqqqqqas apttaasnis ttggglgwsl nssrpmlrpr
+      121 ypadsddiri gvlfaskail qllvnplsgt fidrvgyaip lliglgvmfl stiifafaen
+      181 ygtlfaarsl qglgsafadt sgialiadky teesernral gialafisfg slvappfggi
+      241 lyyfagkrvp flvlafisll dglllllaik pfsdrsrdnm pvgtpiyklm idpyivvvag
+      301 alttcnipla fleptisnwm kktmdanewe mgltwlpafi phvlgvyitv kladkyphlq
+      361 wfygalglat igasscmvpa crnfwqltip lcgicfgial vdtallptla flvdvryvsv
+      421 ygsvyaiadi sysvayalgp ivageivhsf gfvqlnlgmg lanvlyapil lalknicqmk
+      481 pshsernill eegpkglydt ikmeerkgkg khlhpvggae ensvdsfhrd frgaseddss
+      541 dydyt
+//
+

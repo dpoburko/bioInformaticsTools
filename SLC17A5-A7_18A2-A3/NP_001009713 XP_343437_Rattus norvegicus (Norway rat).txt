@@ -1,0 +1,132 @@
+
+LOCUS       NP_001009713             495 aa            linear   ROD 19-APR-2019
+DEFINITION  sialin [Rattus norvegicus].
+ACCESSION   NP_001009713 XP_343437
+VERSION     NP_001009713.1
+DBSOURCE    REFSEQ: accession NM_001009713.2
+KEYWORDS    RefSeq.
+SOURCE      Rattus norvegicus (Norway rat)
+  ORGANISM  Rattus norvegicus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+            Muroidea; Muridae; Murinae; Rattus.
+REFERENCE   1  (residues 1 to 495)
+  AUTHORS   Morland C, Nordengen K, Larsson M, Prolo LM, Farzampour Z, Reimer
+            RJ and Gundersen V.
+  TITLE     Vesicular uptake and exocytosis of L-aspartate is independent of
+            sialin
+  JOURNAL   FASEB J. 27 (3), 1264-1274 (2013)
+   PUBMED   23221336
+  REMARK    GeneRIF: l-aspartate is exocytotically released from nerve
+            terminals after vesicular accumulation by a transporter other than
+            sialin.
+REFERENCE   2  (residues 1 to 495)
+  AUTHORS   Archambaud C, Nahori MA, Soubigou G, Becavin C, Laval L, Lechat P,
+            Smokvina T, Langella P, Lecuit M and Cossart P.
+  TITLE     Impact of lactobacilli on orally acquired listeriosis
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 109 (41), 16684-16689 (2012)
+   PUBMED   23012479
+REFERENCE   3  (residues 1 to 495)
+  AUTHORS   Courville P, Quick M and Reimer RJ.
+  TITLE     Structure-function studies of the SLC17 transporter sialin identify
+            crucial residues and substrate-induced conformational changes
+  JOURNAL   J. Biol. Chem. 285 (25), 19316-19323 (2010)
+   PUBMED   20424173
+  REMARK    GeneRIF: analysis of crucial residues and substrate-induced
+            conformational changes in SLC17 transporter sialin
+REFERENCE   4  (residues 1 to 495)
+  AUTHORS   Miyaji T, Echigo N, Hiasa M, Senoh S, Omote H and Moriyama Y.
+  TITLE     Identification of a vesicular aspartate transporter
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 105 (33), 11720-11724 (2008)
+   PUBMED   18695252
+  REMARK    GeneRIF: sialin possesses dual physiological functions and acts as
+            a vesicular aspartate/glutamate transporter
+REFERENCE   5  (residues 1 to 495)
+  AUTHORS   Schroder B, Wrocklage C, Pan C, Jager R, Kosters B, Schafer H,
+            Elsasser HP, Mann M and Hasilik A.
+  TITLE     Integral and associated lysosomal membrane proteins
+  JOURNAL   Traffic 8 (12), 1676-1686 (2007)
+   PUBMED   17897319
+REFERENCE   6  (residues 1 to 495)
+  AUTHORS   Wreden CC, Wlizla M and Reimer RJ.
+  TITLE     Varied mechanisms underlie the free sialic acid storage disorders
+  JOURNAL   J. Biol. Chem. 280 (2), 1408-1416 (2005)
+   PUBMED   15516337
+REFERENCE   7  (residues 1 to 495)
+  AUTHORS   Aula N, Kopra O, Jalanko A and Peltonen L.
+  TITLE     Sialin expression in the CNS implicates extralysosomal function in
+            neurons
+  JOURNAL   Neurobiol. Dis. 15 (2), 251-261 (2004)
+   PUBMED   15006695
+REFERENCE   8  (residues 1 to 495)
+  AUTHORS   Verheijen FW, Verbeek E, Aula N, Beerens CE, Havelaar AC, Joosse M,
+            Peltonen L, Aula P, Galjaard H, van der Spek PJ and Mancini GM.
+  TITLE     A new gene, encoding an anion transporter, is mutated in sialic
+            acid storage diseases
+  JOURNAL   Nat. Genet. 23 (4), 462-465 (1999)
+   PUBMED   10581036
+REFERENCE   9  (residues 1 to 495)
+  AUTHORS   Renlund,M., Tietze,F. and Gahl,W.A.
+  TITLE     Defective sialic acid egress from isolated fibroblast lysosomes of
+            patients with Salla disease
+  JOURNAL   Science 232 (4751), 759-762 (1986)
+   PUBMED   3961501
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. The reference sequence was derived from BC097482.1.
+            On Jan 13, 2005 this sequence version replaced XP_343437.1.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: BC097482.1, AY800277.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMN01906354 [ECO:0000348]
+            ##Evidence-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..495
+                     /organism="Rattus norvegicus"
+                     /db_xref="taxon:10116"
+                     /chromosome="8"
+                     /map="8q31"
+     Protein         1..495
+                     /product="sialin"
+                     /note="proton-coupled sialic acid transporter; solute
+                     carrier family 17 (anion/sugar transporter), member 5;
+                     solute carrier family 17 (acidic sugar transporter),
+                     member 5"
+                     /calculated_mol_wt=54192
+     Region          30..491
+                     /region_name="2A0114euk"
+                     /note="Na(+)-dependent inorganic phosphate cotransporter;
+                     TIGR00894"
+                     /db_xref="CDD:129972"
+     Region          99..478
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Site            order(112,115..116,119,123..124,126..127,175..176,
+                     179..180,183..184,187,199..200,203..204,210,302,305..306,
+                     309..310,313,327,331,335,338,342,399,402..403,406,
+                     410..411,414,425..426,429..430,433..434,437)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..495
+                     /gene="Slc17a5"
+                     /coded_by="NM_001009713.2:46..1533"
+                     /db_xref="GeneID:363103"
+                     /db_xref="RGD:1311388"
+ORIGIN      
+        1 mrpllrgpag nddeessdst pllpsarqie aapaccsary nlallafcgf fvlyalrvnl
+       61 svalvdmvds nstltdnrts kecaehsapv kvhhnhtgkk yqwdaetqgw ilgsffygyi
+      121 vtqipggyma sriggklllg lgilgtavft lftplaadlg vvalivlral eglgegvtfp
+      181 amhamwsswa pplerskllt isyagaqlgt vislplsgii cyymnwtyvf ylfglvgivw
+      241 filwmwivsd tpethktish yekeyivssl knqlssqkvv pwvsilkslp lwaivvahfs
+      301 ynwtfytllt llptymkeil rfnvqengfl salpyfgcwl cmivcgqaad ylrvkwnfst
+      361 isvrrifsli gmvgpavflv aagfigcdys lavafltist tlggfassgf sinhldiaps
+      421 yagillgitn tfatipgmig piiaksltpd ntikewqtvf ciaaainvfg aifftlfakg
+      481 evqnwalsdh hghgn
+//
+

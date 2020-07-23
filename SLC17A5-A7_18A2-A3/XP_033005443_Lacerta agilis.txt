@@ -1,0 +1,64 @@
+
+LOCUS       XP_033005443             521 aa            linear   VRT 28-MAR-2020
+DEFINITION  synaptic vesicular amine transporter [Lacerta agilis].
+ACCESSION   XP_033005443
+VERSION     XP_033005443.1
+DBLINK      BioProject: PRJNA614516
+DBSOURCE    REFSEQ: accession XM_033149552.1
+KEYWORDS    RefSeq.
+SOURCE      Lacerta agilis
+  ORGANISM  Lacerta agilis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+            Laterata; Lacertibaenia; Lacertidae; Lacerta.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_046316.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Lacerta agilis Annotation Release
+                                           100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.4
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..521
+                     /organism="Lacerta agilis"
+                     /isolate="rLacAgi1"
+                     /db_xref="taxon:80427"
+                     /chromosome="5"
+                     /sex="female"
+                     /tissue_type="blood"
+                     /dev_stage="adult"
+                     /country="Sweden: Halland"
+                     /lat_lon="57.489552 N 11.936655 E"
+                     /collection_date="28-May-2018"
+                     /collected_by="Mette Lillie, Mats Olsson"
+     Protein         1..521
+                     /product="synaptic vesicular amine transporter"
+                     /calculated_mol_wt=56678
+     CDS             1..521
+                     /gene="SLC18A2"
+                     /coded_by="XM_033149552.1:150..1715"
+                     /db_xref="GeneID:117046965"
+ORIGIN      
+        1 mawsefgvls wlresrqsrk lillivfial lldnmlltvv vpiipsylys ithqknatei
+       61 qtirpetstl slnsfqsifs yydnstmitg nhsegtrpgd fyharteqmv vnmtkaspss
+      121 dcpkedkdll nenvqvgllf askatvqllt npfigpmtnr igyqipmfag fcimfvstim
+      181 fafsesykll fiarslqgvg sscssvagmg mlasvytdde ergnamgial ggmamgvlvg
+      241 ppfgsvmyef vgktapflvl aalalldgai qllilqpsri qpesqkgasl ltllrdpyii
+      301 iaagsicfsn maiamlepal piwmmetmcs rkwqlgvafi pasvsyligt nifgvlahkm
+      361 grwlcaligm vivgisilcv plarniygli apnfgvgfai gmvdssmmpi mgylvdlrhv
+      421 svygsvyaia dvafcmgfal gpsaggaiak aigfpwlmti igiidilfap lclflrsppa
+      481 keekiailmd hnchyktkmy tqnniqshpi gdneeesesd e
+//
+

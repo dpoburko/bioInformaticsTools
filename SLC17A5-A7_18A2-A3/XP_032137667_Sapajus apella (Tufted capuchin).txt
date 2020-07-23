@@ -1,0 +1,61 @@
+
+LOCUS       XP_032137667             517 aa            linear   PRI 02-FEB-2020
+DEFINITION  synaptic vesicular amine transporter [Sapajus apella].
+ACCESSION   XP_032137667
+VERSION     XP_032137667.1
+DBLINK      BioProject: PRJNA599380
+DBSOURCE    REFSEQ: accession XM_032281776.1
+KEYWORDS    RefSeq.
+SOURCE      Sapajus apella (Tufted capuchin)
+  ORGANISM  Sapajus apella
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Cebidae; Cebinae; Sapajus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_022436953.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA and EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Sapajus apella Annotation Release
+                                           100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.3
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..517
+                     /organism="Sapajus apella"
+                     /isolate="SASKATOON/1434"
+                     /db_xref="taxon:9515"
+                     /chromosome="Unknown"
+                     /sex="female"
+                     /tissue_type="blood"
+                     /dev_stage="adult"
+     Protein         1..517
+                     /product="synaptic vesicular amine transporter"
+                     /calculated_mol_wt=56007
+     CDS             1..517
+                     /gene="SLC18A2"
+                     /coded_by="XM_032281776.1:202..1755"
+                     /db_xref="GeneID:116553992"
+ORIGIN      
+        1 malselalvr wlqesrrsrk lilfivflal lldnmlltvv vpiipsylys ikheknatei
+       61 qtarpvhtas nsdsfqsifs yydnstmvtg nttrdlqegq lhqtttqhmv tnrsavpsdc
+      121 psedkdllne nvqvgllfas katvqlltnp figlltnrig ypipifagfc imfvstimfa
+      181 fsssyalllv arslqgigss cssvagmgml asvytddeer gnvmgialgg lamgvlvgpp
+      241 fgsvlyefvg ktapflvlaa lvlldgaiql fvlqpsrvqp esqkgtpltt llkdpyilia
+      301 agsicfanmg iamlepalpi wmmetmcsrk wqlgvaflpa sisyligtni fgilahkmgr
+      361 wlcallgmii vgvsilcipf akniygliap nfgvgfaigm vdssmmpimg ylvdlrhvsv
+      421 ygsvyaiadv afcmgyaigp saggaiakai gfpwlmtiig iidilfaplc fflrsppake
+      481 ekmailmdhn cpiktkmytq nniqsypigd deesesd
+//
+

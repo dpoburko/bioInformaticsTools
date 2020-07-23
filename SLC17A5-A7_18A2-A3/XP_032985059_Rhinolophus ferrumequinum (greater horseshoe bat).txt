@@ -1,0 +1,67 @@
+
+LOCUS       XP_032985059             560 aa            linear   MAM 23-MAR-2020
+DEFINITION  vesicular glutamate transporter 1 isoform X1 [Rhinolophus
+            ferrumequinum].
+ACCESSION   XP_032985059
+VERSION     XP_032985059.1
+DBLINK      BioProject: PRJNA613604
+DBSOURCE    REFSEQ: accession XM_033129168.1
+KEYWORDS    RefSeq.
+SOURCE      Rhinolophus ferrumequinum (greater horseshoe bat)
+  ORGANISM  Rhinolophus ferrumequinum
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Chiroptera; Microchiroptera;
+            Rhinolophidae; Rhinolophinae; Rhinolophus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_046298.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Rhinolophus ferrumequinum Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.4
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..560
+                     /organism="Rhinolophus ferrumequinum"
+                     /isolate="MPI-CBG mRhiFer1"
+                     /db_xref="taxon:59479"
+                     /chromosome="15"
+                     /sex="male"
+                     /tissue_type="liver"
+                     /country="United Kingdom: Woodchester Mansion,
+                     Gloucestershire"
+                     /lat_lon="51.7108 N 2.2776 W"
+                     /collection_date="2016-05-31"
+                     /collected_by="Gareth Jones"
+     Protein         1..560
+                     /product="vesicular glutamate transporter 1 isoform X1"
+                     /calculated_mol_wt=61619
+     CDS             1..560
+                     /gene="SLC17A7"
+                     /coded_by="XM_033129168.1:136..1818"
+                     /db_xref="GeneID:117035294"
+ORIGIN      
+        1 mefrreefrk lagrtlgrlh rllekrqega etlelsadgr pvttqtrdpp vvdctcfglp
+       61 rryiiaimsg lgfcisfgir cnlgvaivsm vnnstthrgg hvvvqkaqfn wdpetvglih
+      121 gsffwgyivt qipggficqk faanrvfgfa ivatstlnml ipsaarvhyg cvifvrilqg
+      181 lvegvtypac hgiwskwapp lersrlatta fcgsyagavv amplagvlvq ysgwssvfyv
+      241 ygsfgifwyl fwllvsyesp alhpsiseee rkyieeaige saklmnpvtk fntpwrrfft
+      301 smpvyaiiva nfcrswtfyl llisqpayfe evfgfeiskv glvsalphlv mtiivpiggq
+      361 iadflrsrri msttnvrklm ncggfgmeat lllvvgyshs kgvaisflvl avgfsgfais
+      421 gfnvnhldia pryasilmgi sngvgtlsgm vcpiivgamt khktreewqy vfliaslvhy
+      481 ggvifygvfa sgekqpwaep eemseekcgf vshdqlagsd esemedeaep pgappappps
+      541 ygathstvqp prppppvrdy
+//
+

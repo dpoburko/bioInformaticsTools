@@ -1,0 +1,99 @@
+
+LOCUS       XM_028582083            1353 bp    mRNA    linear   VRT 01-APR-2019
+DEFINITION  PREDICTED: Perca flavescens solute carrier family 17 member 9-like
+            (LOC114558247), mRNA.
+ACCESSION   XM_028582083
+VERSION     XM_028582083.1
+DBLINK      BioProject: PRJNA529871
+KEYWORDS    RefSeq; includes ab initio.
+SOURCE      Perca flavescens (yellow perch)
+  ORGANISM  Perca flavescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Percoidei; Percidae;
+            Percinae; Perca.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_041337.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Perca flavescens Annotation Release
+                                           100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            ab initio :: 19% of CDS bases
+            ##RefSeq-Attributes-END##
+FEATURES             Location/Qualifiers
+     source          1..1353
+                     /organism="Perca flavescens"
+                     /mol_type="mRNA"
+                     /isolate="YP-PL-M2"
+                     /db_xref="taxon:8167"
+                     /chromosome="7"
+                     /sex="male"
+                     /tissue_type="blood"
+                     /dev_stage="Adult"
+                     /country="USA: Wisconsin, Plum Lake"
+                     /collection_date="28-Apr-2017"
+                     /collected_by="Wes Larson, Wisconsin Cooperative Fishery
+                     Research Unit, University of Wisconsin-Stevens Point, 800
+                     Reserve Street Stevens Point, WI 54481"
+     gene            1..1353
+                     /gene="LOC114558247"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon. Supporting evidence
+                     includes similarity to: 3 Proteins, and 10% coverage of
+                     the annotated genomic feature by RNAseq alignments"
+                     /db_xref="GeneID:114558247"
+     CDS             1..1353
+                     /gene="LOC114558247"
+                     /codon_start=1
+                     /product="solute carrier family 17 member 9-like"
+                     /protein_id="XP_028437884.1"
+                     /db_xref="GeneID:114558247"
+                     /translation="MADRPTSGDSWNYLKGSLLDVKVYTANEKESEDRNLWPSAIIRP
+                     LARKWTLMLFMGTCLLYCARMAMPICAVSLATSFHWSKIDSGLVLGGFFWGYCFTQIL
+                     GGHASDRMGGERVLFISAVSWALITAGTPLLAHLGSHTLAFLTMARFLMGLMQGVFFP
+                     SLASLCSQRVVEGERGFLMSTMNSGSHLGTLLAGGMGSLMLDSYGWESMFYTIGFLSG
+                     LWALIVWLCLLKGSDFPPKQMETSKDPQWSLSGTRWLSLLKKPPVWAMVFAHMCLSSS
+                     FYSLLSWLPTYFKESFPHATGWVYNVIPWLVAIVSALVGGYISDFLINQGYSVALVRK
+                     IMQFFAMGVSSIFIVLLSGAVTFPTAVICVSAAVGLSTFGSSGVSVNVQDLTPSCAGA
+                     IFGLVSVSVSGYLIEVTLSWAAMFSLITLINVTGLGIFLIFGDARRVDLEDYSQVIVI
+                     "
+ORIGIN      
+         1 atggctgaca gacccacatc aggagacagc tggaattact taaaaggttc tctactggat 
+        61 gttaaggttt acacagcaaa tgaaaaagag tctgaagacc ggaatctgtg gcccagtgcc 
+       121 atcatcagac cactggctcg aaaatggacc ctgatgctgt ttatgggcac ctgcctcctc 
+       181 tactgtgcca ggatggccat gccaatctgt gcagtgtcat tggcaacctc ttttcactgg 
+       241 agtaagatcg attctgggct ggttctgggt ggattcttct ggggttactg tttcacacag 
+       301 atccttggag gacatgccag tgacaggatg ggaggagagc gcgtcctgtt catctctgca 
+       361 gtctcgtggg ctctgatcac agctggtact cctcttctgg cccacttagg ctctcacacc 
+       421 ctcgccttct tgactatggc cagattcctt atgggactga tgcagggagt tttttttccg 
+       481 tctttggcca gcctttgctc acagcgtgta gtggaaggag agagagggtt tttaatgagc 
+       541 accatgaaca gcggttcaca tcttggaaca ctgctagcgg gtgggatggg ttccctgatg 
+       601 ctggactcgt acggctggga gagcatgttt tacactattg gtttcctgtc cggactctgg 
+       661 gcacttattg tttggctgtg tttactaaaa ggttcagatt tcccccctaa gcagatggaa 
+       721 acaagtaaag acccacaatg gagtttgtca ggaacacgct ggctgagtct tttaaagaag 
+       781 ccacctgtct gggccatggt gtttgctcac atgtgcttgt ccagctcttt ctacagtttg 
+       841 ctgtcatggt tgccgacata cttcaaagaa tcatttccac acgccacggg atgggtgtat 
+       901 aatgtaattc catggcttgt tgcaattgta tcagcacttg ttggaggata tatctcagat 
+       961 tttctcatca accaaggata tagtgtagcg ttagtgagaa agataatgca gttctttgcc 
+      1021 atgggtgtat cgagtatatt tattgtgctt ctgtctggag ctgtcacatt tcccactgct 
+      1081 gtgatttgcg tctctgctgc tgttggtcta tccaccttcg gcagcagtgg tgtgtcagtg 
+      1141 aatgtacagg atctcacccc atcatgtgct ggtgccatct ttggactggt gtcggtctct 
+      1201 gtatcaggtt acctgattga ggtcacgctg tcgtgggccg ccatgttctc cctcatcact 
+      1261 ttaataaacg tcacaggcct ggggattttc ctcatctttg gagatgctcg tcgtgttgac 
+      1321 ctggaagatt acagccaggt tattgtgatt tga
+//
+

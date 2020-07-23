@@ -1,0 +1,80 @@
+
+LOCUS       XP_015144407             637 aa            linear   VRT 17-MAY-2018
+DEFINITION  synaptic vesicular amine transporter isoform X1 [Gallus gallus].
+ACCESSION   XP_015144407
+VERSION     XP_015144407.2
+DBLINK      BioProject: PRJNA10808
+DBSOURCE    REFSEQ: accession XM_015288921.2
+KEYWORDS    RefSeq.
+SOURCE      Gallus gallus (chicken)
+  ORGANISM  Gallus gallus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Galloanserae; Galliformes;
+            Phasianidae; Phasianinae; Gallus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_006093.5) annotated using gene prediction method: Gnomon,
+            supported by mRNA and EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            On May 17, 2018 this sequence version replaced XP_015144407.1.
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Gallus gallus Annotation Release 104
+            Annotation Version          :: 104
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.0
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..637
+                     /organism="Gallus gallus"
+                     /isolate="RJF #256"
+                     /db_xref="taxon:9031"
+                     /chromosome="6"
+                     /sex="female"
+                     /breed="Red Jungle Fowl"
+     Protein         1..637
+                     /product="synaptic vesicular amine transporter isoform X1"
+                     /calculated_mol_wt=67884
+     Region          252..593
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Site            order(257,260..261,264,268..269,271..272,318..319,
+                     322..323,326..327,330,343..344,347..348,354,427,430..431,
+                     434..435,438,452,456,460,463,467,514,517..518,524,
+                     528..529,532,543..544,547..548,551..552,555)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..637
+                     /gene="SLC18A2"
+                     /coded_by="XM_015288921.2:16..1929"
+                     /db_xref="GeneID:423921"
+                     /db_xref="CGNC:52082"
+ORIGIN      
+        1 mqsswekgmt eapnaanplc gcqqhhpdlg tllgsawsaa faphlpvwah laghselalg
+       61 pgrgrqfvss sfssfpllll cpdsilllll lfllllllll plsapgsvrd vsgravaraa
+      121 aprtrrapqh gvgraqpala aggpavqkah pahrlhrpaa gqhashrgri kheknatevq
+      181 takpnaismt mdsvqsifsy ydnsmilign esdkaapgel qhtqtepmtv nataappdcp
+      241 kedkdllnen vqvgllfask atvqlitnpf igpltnrigy qiplfagfci mfvstimfaf
+      301 sgsytllfia rslqgvgssc ssvagmgmla svytddeerg namgialggl amgvlvgppf
+      361 gsimyefvgk sspflvlaal alfdgavqll vlqpsraqae sqkgtplltl mkdpyiiiaa
+      421 gsicfanmai amlepalpiw mmetmcskkw qlgvaflpas isyligtnlf gilahkmgrw
+      481 lcallgmliv gisilcvpfa kniygliapn fgvgfaigmv dssmmpimgy lvdlrhvsvy
+      541 gsvyaiadva fcmgfaigps aggaiakaig fpwlmtiigi vdilfaplcf flrsppakee
+      601 kmailmdhnc pvktkmytqn niqsypigde eeyesde
+//
+

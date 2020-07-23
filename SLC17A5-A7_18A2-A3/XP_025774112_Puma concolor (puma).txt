@@ -1,0 +1,70 @@
+
+LOCUS       XP_025774112             470 aa            linear   MAM 26-JUL-2018
+DEFINITION  synaptic vesicular amine transporter [Puma concolor].
+ACCESSION   XP_025774112
+VERSION     XP_025774112.1
+DBLINK      BioProject: PRJNA481988
+DBSOURCE    REFSEQ: accession XM_025918327.1
+KEYWORDS    RefSeq; includes ab initio.
+SOURCE      Puma concolor (puma)
+  ORGANISM  Puma concolor
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Carnivora; Feliformia; Felidae;
+            Felinae; Puma.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_020339214.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Puma concolor Annotation Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.1
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            ab initio :: 8% of CDS bases
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..470
+                     /organism="Puma concolor"
+                     /isolate="SC36_Marlon"
+                     /db_xref="taxon:9696"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /tissue_type="blood"
+                     /dev_stage="adult"
+     Protein         1..470
+                     /product="synaptic vesicular amine transporter"
+                     /calculated_mol_wt=50690
+     Region          <160..427
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     CDS             1..470
+                     /gene="SLC18A2"
+                     /coded_by="XM_025918327.1:1..1413"
+                     /db_xref="GeneID:112854777"
+ORIGIN      
+        1 maiypgleyk agsclrnfyi frvgrkiads hsvpiipsyl ysinheknas evqtakpvlt
+       61 astsgrfqni fsyydnttmv tgnstgelqr gpppaastqh tvtntsaaps dcpsenkdll
+      121 nenvqvgllf askatiqllt npfiglltns cvhthkeerm gmlasvytdd eergnamgia
+      181 lgglamgvlv gppfgsvlye fvgktapflv laalvlldga iqlfvlqpsr vqpesqkgtp
+      241 lttllkdpyi liaagsicfa nmgiamlepa lpiwmmetmc srkwqlgiaf lpasisyllg
+      301 tnifgmlahk mgrwlcallg miivgisilc ipfakniygl iapnfgvgfa igmvdssmmp
+      361 imgylvdlrh vsvygsvyai advafcmgya igpsaggaia kaigfpwlmt iigiidilfa
+      421 plcfflrspp akeekmailm dhncpiktkm ytqnniqsyp igedeesesd
+//
+

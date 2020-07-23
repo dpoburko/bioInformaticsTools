@@ -1,0 +1,73 @@
+
+LOCUS       XP_028585954             521 aa            linear   VRT 21-APR-2019
+DEFINITION  synaptic vesicular amine transporter isoform X1 [Podarcis muralis].
+ACCESSION   XP_028585954
+VERSION     XP_028585954.1
+DBLINK      BioProject: PRJNA529705
+DBSOURCE    REFSEQ: accession XM_028730121.1
+KEYWORDS    RefSeq.
+SOURCE      Podarcis muralis (Common wall lizard)
+  ORGANISM  Podarcis muralis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+            Laterata; Lacertibaenia; Lacertidae; Podarcis.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_041316.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Podarcis muralis Annotation Release
+                                           100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..521
+                     /organism="Podarcis muralis"
+                     /db_xref="taxon:64176"
+                     /chromosome="5"
+                     /sex="male"
+                     /tissue_type="muscle"
+                     /dev_stage="adult"
+                     /ecotype="yellow"
+     Protein         1..521
+                     /product="synaptic vesicular amine transporter isoform X1"
+                     /calculated_mol_wt=56775
+     Region          22..476
+                     /region_name="MFS_SLC18A1_2_VAT1_2"
+                     /note="Vesicular amine transporters 1 (VAT1) and 2 (VAT2),
+                     and similar transporters of the Major Facilitator
+                     Superfamily; cd17384"
+                     /db_xref="CDD:340942"
+     Site            order(33..34,37..38,41,151,201..202,204..206,209,230,
+                     233..234,237,306,309..310,313..315,318,346,350,403..404,
+                     408,412,427,430..431,434..435,438)
+                     /site_type="other"
+                     /note="putative chemical substrate binding pocket
+                     [chemical binding]"
+                     /db_xref="CDD:340942"
+     CDS             1..521
+                     /gene="SLC18A2"
+                     /coded_by="XM_028730121.1:171..1736"
+                     /db_xref="GeneID:114597448"
+ORIGIN      
+        1 mawrefgvls wlresrqsrk lillivfial lldnmlltvv vpiipsylys ithqknatei
+       61 qtirpetstl slnsfqsifs yydnstmitg nhsegtrpgd fyharteqmv vnmtkaspps
+      121 dcpkedkdll nenvqvgllf askatvqllt npfigpmtnr igyqipmfag fcimfvstim
+      181 fafsesykll fiarslqgvg sscssvagmg mlasvytdde ergnamgial ggmamgvlvg
+      241 ppfgsvmyef vgktapflvl aalalldgai qllilqpsri qpesqkgasl ltllrdpyii
+      301 iaagsicfsn maiamlepal piwmmetmcs rkwqlgvafi pasvsyligt nifgvlahkm
+      361 grwlcaligm vivgisilcv plarniygli apnfgvgfai gmvdssmmpi mgylvdlrhv
+      421 svygsvyaia dvafcmgfal gpsaggaiak aigfpwlmti igiidilfap lclflrsppa
+      481 keekmailmd hnchyktkmy tqnniqshpi gdneeesesd e
+//
+

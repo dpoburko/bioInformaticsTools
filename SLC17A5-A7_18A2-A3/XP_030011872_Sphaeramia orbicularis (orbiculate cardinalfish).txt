@@ -1,0 +1,57 @@
+
+LOCUS       XP_030011872             511 aa            linear   VRT 02-AUG-2019
+DEFINITION  synaptic vesicular amine transporter [Sphaeramia orbicularis].
+ACCESSION   XP_030011872
+VERSION     XP_030011872.1
+DBLINK      BioProject: PRJNA556027
+DBSOURCE    REFSEQ: accession XM_030156012.1
+KEYWORDS    RefSeq.
+SOURCE      Sphaeramia orbicularis (orbiculate cardinalfish)
+  ORGANISM  Sphaeramia orbicularis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Gobiaria; Kurtiformes; Apogonoidei; Apogonidae;
+            Apogoninae; Sphaeramia.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_043971.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Sphaeramia orbicularis Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..511
+                     /organism="Sphaeramia orbicularis"
+                     /db_xref="taxon:375764"
+                     /chromosome="15"
+     Protein         1..511
+                     /product="synaptic vesicular amine transporter"
+                     /calculated_mol_wt=54841
+     CDS             1..511
+                     /gene="slc18a2"
+                     /coded_by="XM_030156012.1:125..1660"
+                     /db_xref="GeneID:115434206"
+ORIGIN      
+        1 msrvevlrqw lqedrqsrkl ilfivfvall ldnmlmtvvv piipsylynl desskvvnts
+       61 tsqsnapaaf ssivslydnt vrssgynata rspdptppal sptptppanl secprssstl
+      121 vnenikvgml faskaavqvi tnpfigpltn rigyqipifa gfcimfmsti mfafsssytl
+      181 lflarslqgv gsacssvagm gmlasvytdd aerghaigia lgglamgvlv gppfgsvlye
+      241 fvgktapfli laflalfdga lqlfvlkptk vepesqkgtp lltllkdpyi liaagaicfg
+      301 nmgiammept lpiwmmetmc arkwqlgiaf lpasisylig tnifgklahk mgrwlcalig
+      361 mvmvgvsvvc vpfassingl ivpnfgvgfa igmvdssmmp imgylvdlrh vsvygsvyai
+      421 advafcmgfa lgpsiggsia etigfawlmt iigivdicfa plclflrnpp gqeekiailm
+      481 dsncsmktrs ystqgtyyqg ddvdpdyddy d
+//
+

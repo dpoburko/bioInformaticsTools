@@ -1,0 +1,61 @@
+
+LOCUS       XP_032877611             477 aa            linear   VRT 20-MAR-2020
+DEFINITION  sialin [Amblyraja radiata].
+ACCESSION   XP_032877611
+VERSION     XP_032877611.1
+DBLINK      BioProject: PRJNA610638
+DBSOURCE    REFSEQ: accession XM_033021720.1
+KEYWORDS    RefSeq.
+SOURCE      Amblyraja radiata (thorny skate)
+  ORGANISM  Amblyraja radiata
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Chondrichthyes;
+            Elasmobranchii; Batoidea; Rajiformes; Rajidae; Amblyraja.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_045960.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Amblyraja radiata Annotation Release
+                                           100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.3
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..477
+                     /organism="Amblyraja radiata"
+                     /isolate="CabotCenter1"
+                     /db_xref="taxon:386614"
+                     /chromosome="5"
+                     /sex="male"
+                     /tissue_type="testis, liver"
+                     /country="USA: Gulf of Main"
+                     /lat_lon="43.1336 N 68.3266 W"
+                     /collection_date="2017-09-18"
+                     /collected_by="Jeff Kneebone"
+     Protein         1..477
+                     /product="sialin"
+                     /calculated_mol_wt=52616
+     CDS             1..477
+                     /gene="slc17a5"
+                     /coded_by="XM_033021720.1:53..1486"
+                     /db_xref="GeneID:116973538"
+ORIGIN      
+        1 meesgeedeq pllsgerrqv saccsarysl ailafcgffm vyalrvnlsv alvemvddng
+       61 tlpkngsvea cpphsnvthq nyekkgkvyn wdsnvqgwil saffygyivt qipggylagk
+      121 fggklllgfg ilctsvltll tppaaelgyn ciivlriieg lgegvtfpam hamwaewapp
+      181 lerstlvsls yagaqlgtvv slplsgiisy yldwsyvfyi fgalgviwcl lwfwlasdsp
+      241 kthktisnae qdyiiyslrg qcsskenvpw lsiwkslplw aiivphfcyn wtfytlltll
+      301 ptymeeilqf dikengflsa lpylfcwivm isagliadyl ikkqnwttsa vrkiftligm
+      361 igpaiflvat gyigcnytaa vlfvtissal ggfsmsgfni nhldiapsya gillgitntf
+      421 atipgmvgpv iakvltynht laewrtvfyi aacidvfgal ffvifgkgti qswatdh
+//
+

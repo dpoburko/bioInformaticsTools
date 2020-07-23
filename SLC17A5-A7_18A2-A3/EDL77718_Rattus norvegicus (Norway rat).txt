@@ -1,0 +1,78 @@
+
+LOCUS       EDL77718                 285 aa            linear   ROD 26-JUL-2016
+DEFINITION  solute carrier family 17 (anion/sugar transporter), member 5
+            [Rattus norvegicus].
+ACCESSION   EDL77718
+VERSION     EDL77718.1
+DBLINK      BioProject: PRJNA13999
+            BioSample: SAMN03000701
+DBSOURCE    accession CH473954.2
+KEYWORDS    .
+SOURCE      Rattus norvegicus (Norway rat)
+  ORGANISM  Rattus norvegicus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+            Muroidea; Muridae; Murinae; Rattus.
+REFERENCE   1  (residues 1 to 285)
+  AUTHORS   Florea,L., Di Francesco,V., Miller,J., Turner,R., Yao,A.,
+            Harris,M., Walenz,B., Mobarry,C., Merkulov,G.V., Charlab,R.,
+            Dew,I., Deng,Z., Istrail,S., Li,P. and Sutton,G.
+  TITLE     Gene and alternative splicing annotation with AIR
+  JOURNAL   Genome Res. 15 (1), 54-66 (2005)
+   PUBMED   15632090
+REFERENCE   2  (residues 1 to 285)
+  AUTHORS   Mural,R.J., Li,P.W., Adams,M.D., Amanatides,P.G., Baden-Tillson,H.,
+            Barnstead,M., Chin,S.H., Dew,I., Evans,C.A., Ferriera,S.,
+            Flanigan,M., Fosler,C., Glodek,A., Gu,Z., Holt,R.A., Jennings,D.,
+            Kraft,C.L., Lu,F., Nguyen,T., Nusskern,D.R., Pfannkoch,C.M.,
+            Sitter,C., Sutton,G.G., Venter,J.C., Wang,Z., Woodage,T.,
+            Zheng,X.H. and Zhong,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-JUL-2005) Celera Genomics, 45 W. Gude Dr., Rockville,
+            MD 20850, USA
+REFERENCE   3  (residues 1 to 285)
+  AUTHORS   Mural,R.J., Li,P.W., Adams,M.D., Amanatides,P.G., Baden-Tillson,H.,
+            Barnstead,M., Chin,S.H., Dew,I., Evans,C.A., Ferriera,S.,
+            Flanigan,M., Fosler,C., Glodek,A., Gu,Z., Holt,R.A., Jennings,D.,
+            Kraft,C.L., Lu,F., Nguyen,T., Nusskern,D.R., Pfannkoch,C.M.,
+            Sitter,C., Sutton,G.G., Venter,J.C., Wang,Z., Woodage,T.,
+            Zheng,X.H. and Zhong,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (02-SEP-2005) Celera Genomics, 45 W. Gude Dr., Rockville,
+            MD 20850, USA
+COMMENT     Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..285
+                     /organism="Rattus norvegicus"
+                     /strain="BN; Sprague-Dawley"
+                     /db_xref="taxon:10116"
+                     /chromosome="8"
+     Protein         1..285
+                     /product="solute carrier family 17 (anion/sugar
+                     transporter), member 5"
+     Region          <80..268
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     CDS             1..285
+                     /gene="Slc17a5"
+                     /locus_tag="rCG_25749"
+                     /coded_by="complement(join(CH473954.2:4496765..4496902,
+                     CH473954.2:4497918..4498008,CH473954.2:4504409..4504556,
+                     CH473954.2:4507548..4507680,CH473954.2:4510915..4511073,
+                     CH473954.2:4512282..4512400,CH473954.2:4518315..4518384))"
+                     /note="gene_id=rCG25749.0 transcript_id=rCT25749.0
+                     protein_id=rCP12353.0"
+                     /db_xref="GeneID:363103"
+ORIGIN      
+        1 mhamwsswap plerskllti syaglvgivw filwmwivsd tpethktish yekeyivssl
+       61 knqlssqkvv pwvsilkslp lwaivvahfs ynwtfytllt llptymkeil rfnvqengfl
+      121 salpyfgcwl cmivcgqaad ylrvkwnfst isvrrifsli gmvgpavflv aagfigcdys
+      181 lavafltist tlggfassgf sinhldiaps yagillgitn tfatipgmig piiaksltpd
+      241 ntikewqtvf ciaaainvfg aifftlfakg evqnwalsdh hghgn
+//
+

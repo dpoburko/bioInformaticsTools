@@ -1,0 +1,71 @@
+
+LOCUS       XP_018621694             524 aa            linear   VRT 22-MAY-2019
+DEFINITION  synaptic vesicular amine transporter [Scleropages formosus].
+ACCESSION   XP_018621694
+VERSION     XP_018621694.2
+DBLINK      BioProject: PRJNA540586
+DBSOURCE    REFSEQ: accession XM_018766178.2
+KEYWORDS    RefSeq.
+SOURCE      Scleropages formosus (Asian bonytongue)
+  ORGANISM  Scleropages formosus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Osteoglossocephala;
+            Osteoglossomorpha; Osteoglossiformes; Osteoglossidae; Scleropages.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_041813.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            On May 22, 2019 this sequence version replaced XP_018621694.1.
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Scleropages formosus Annotation
+                                           Release 101
+            Annotation Version          :: 101
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..524
+                     /organism="Scleropages formosus"
+                     /db_xref="taxon:113540"
+                     /chromosome="8"
+     Protein         1..524
+                     /product="synaptic vesicular amine transporter"
+                     /calculated_mol_wt=57247
+     Region          27..480
+                     /region_name="MFS_SLC18A1_2_VAT1_2"
+                     /note="Vesicular amine transporters 1 (VAT1) and 2 (VAT2),
+                     and similar transporters of the Major Facilitator
+                     Superfamily; cd17384"
+                     /db_xref="CDD:340942"
+     Site            order(38..39,42..43,46,155,205..206,208..210,213,234,
+                     237..238,241,310,313..314,317..319,322,350,354,407..408,
+                     412,416,431,434..435,438..439,442)
+                     /site_type="other"
+                     /note="putative chemical substrate binding pocket
+                     [chemical binding]"
+                     /db_xref="CDD:340942"
+     CDS             1..524
+                     /gene="slc18a2"
+                     /coded_by="XM_018766178.2:234..1808"
+                     /db_xref="GeneID:108942709"
+ORIGIN      
+        1 mgaaldklrd fsplrwlree rqsrrlilli vfiallldnm lltvvvpiip sylymtaeed
+       61 vavrnqtpsp yqstsnfqti lslydnstrv iesiaqlttr mptqkpmvqe afstsitptn
+      121 atdlncpked dkllnenvkv gllfaskatv qlitnpfigp ltnrigyqip lfagfcimfv
+      181 stimfafsks ytllflarsl qgvgsscssv agmgmlasvy tndeergnai gialgglamg
+      241 vlvgppfgsv myefvgratp flvlavlaml dgalqlfvlq pskvapesqk gtplvtlmrd
+      301 pyiliaagsi cfanmgiamm epalpiwmmq tmcsrkwqlg maflpasvsy ligtnifavl
+      361 ahkmgrwlcs ligmllvgvs ilcvpfaksi yglivpnfgv gfaigmvdss mmpimgylvd
+      421 lrhvsvygsv yaiadvafcm gfalgpsvgg aiarsigfpw lmtiigvvdi lfapfcfflr
+      481 nppakeekma ilmdhdcpmk trmyttqdtq hyqmgdemet esde
+//
+

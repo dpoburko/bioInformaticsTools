@@ -1,0 +1,78 @@
+
+LOCUS       XP_009203797             478 aa            linear   PRI 20-NOV-2019
+DEFINITION  sialin isoform X1 [Papio anubis].
+ACCESSION   XP_009203797
+VERSION     XP_009203797.1
+DBLINK      BioProject: PRJNA576697
+DBSOURCE    REFSEQ: accession XM_009205533.4
+KEYWORDS    RefSeq.
+SOURCE      Papio anubis (olive baboon)
+  ORGANISM  Papio anubis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Papio.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_044981.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA and EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Papio anubis Annotation Release 104
+            Annotation Version          :: 104
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..478
+                     /organism="Papio anubis"
+                     /isolate="15944"
+                     /db_xref="taxon:9555"
+                     /chromosome="6"
+                     /sex="male"
+                     /tissue_type="whole blood"
+     Protein         1..478
+                     /product="sialin isoform X1"
+                     /calculated_mol_wt=52649
+     Region          16..474
+                     /region_name="2A0114euk"
+                     /note="Na(+)-dependent inorganic phosphate cotransporter;
+                     TIGR00894"
+                     /db_xref="CDD:129972"
+     Region          82..461
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Site            order(95,98..99,102,106..107,109..110,158..159,162..163,
+                     166..167,170,182..183,186..187,193,285,288..289,292..293,
+                     296,310,314,318,321,325,382,385..386,389,393..394,397,
+                     408..409,412..413,416..417,420)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..478
+                     /gene="SLC17A5"
+                     /coded_by="XM_009205533.4:189..1625"
+                     /db_xref="GeneID:100137408"
+ORIGIN      
+        1 masdsnpafe dtlrapvccs arynlailaf fgffivyalr vnlsvalvdm vdsnttledn
+       61 rtskacpehs apikvhhnqt gkkyqwdaet qgwilgsffy gyiitqipgg yvaskiggkl
+      121 llgfgilgta vltlftpiaa dlgvgplivl raleglgegv tfpamhamws swapplersk
+      181 llsisyagaq lgtvislpls giicyymnwt yvfyffgtig ifwfllwiwl vsdtpqkhkr
+      241 ithcekeyil sslrnqlssq ksvpwvpilk slplwaivva hfsynwtfyt lltllptymk
+      301 eilrfniqen gflsslpylg swlcmilsgq aadnlrakwn fstlcvrrif sligmigpav
+      361 flvaagfigc dyslavaflt isttlggfcs sgfsinhldi apsyagillg itntfatipg
+      421 migpviaksl tpdntvgewq tvfyiaaain vfgaifftlf akgevqnwal ddhhghrh
+//
+

@@ -1,0 +1,60 @@
+
+LOCUS       XP_033469796             490 aa            linear   VRT 20-APR-2020
+DEFINITION  sialin [Epinephelus lanceolatus].
+ACCESSION   XP_033469796
+VERSION     XP_033469796.1
+DBLINK      BioProject: PRJNA625542
+DBSOURCE    REFSEQ: accession XM_033613905.1
+KEYWORDS    RefSeq.
+SOURCE      Epinephelus lanceolatus (giant grouper)
+  ORGANISM  Epinephelus lanceolatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Serranoidei; Serranidae;
+            Epinephelinae; Epinephelini; Epinephelus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_047012.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Epinephelus lanceolatus Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.4
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..490
+                     /organism="Epinephelus lanceolatus"
+                     /isolate="Andai001"
+                     /db_xref="taxon:310571"
+                     /chromosome="22"
+                     /sex="female"
+                     /tissue_type="blood and muscle"
+     Protein         1..490
+                     /product="sialin"
+                     /calculated_mol_wt=53333
+     CDS             1..490
+                     /gene="slc17a5"
+                     /coded_by="XM_033613905.1:117..1589"
+                     /db_xref="GeneID:117248684"
+ORIGIN      
+        1 merygsdteg ddtpllhrgh ddkaqkapac cssryglall ssfgffvvys lrvnlsvamv
+       61 dmvnnthqss anhssvcpgh tdparpkhnr tasvynwdse tqgwilgsff ygyiltqvpg
+      121 gylagrygpk wlmglgilgt viftlltpaa adlgasylia vrvlegigeg vtfpamytmw
+      181 aawapplers rlltisyiga qlgtvislpl sgeicfyldw tyvfyvfgav glvwfvlwaf
+      241 lvfdspnthp risererlyi tnslknelst sagnipwrai vtsrpllaiv vahfsynwtf
+      301 ytlltllpty mndilgfsiq qngmlsalpy igcavmavls gqladylret llyptvtvrk
+      361 sfsivgmigp avflvaagyt gcnytlavtf ltissalggv sasgfninhl diapsyagil
+      421 lgitntfati pgmvgpvias altqhktiee wqmvfyiaaa inlfgavfyt vfgrgtvqtw
+      481 avhtsyshgd
+//
+

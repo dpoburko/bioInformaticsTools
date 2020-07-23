@@ -1,0 +1,106 @@
+
+LOCUS       KXJ27699                 462 aa            linear   INV 23-FEB-2016
+DEFINITION  Sialin [Exaiptasia diaphana].
+ACCESSION   KXJ27699
+VERSION     KXJ27699.1
+DBLINK      BioProject: PRJNA261862
+            BioSample: SAMN03839803
+DBSOURCE    accession LJWW01000018.1
+KEYWORDS    .
+SOURCE      Exaiptasia diaphana
+  ORGANISM  Exaiptasia diaphana
+            Eukaryota; Metazoa; Cnidaria; Anthozoa; Hexacorallia; Actiniaria;
+            Aiptasiidae; Exaiptasia.
+REFERENCE   1  (residues 1 to 462)
+  AUTHORS   Baumgarten,S., Simakov,O., Esherick,L.Y., Liew,Y.J., Lehnert,E.M.,
+            Michell,C.T., Li,Y., Hambleton,E.A., Guse,A., Oates,M.E., Gough,J.,
+            Weis,V.M., Aranda,M., Pringle,J.R. and Voolstra,C.R.
+  TITLE     The genome of Aiptasia, a sea anemone model for coral symbiosis
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 112 (38), 11893-11898 (2015)
+   PUBMED   26324906
+REFERENCE   2  (residues 1 to 462)
+  AUTHORS   Baumgarten,S., Simakov,O., Esherick,L.Y., Liew,Y.J., Lehnert,E.M.,
+            Michell,C.T., Li,Y., Hambleton,E.A., Guse,A., Oates,M.E., Gough,J.,
+            Weis,V.M., Aranda,M., Pringle,J.R. and Voolstra,C.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-SEP-2015) Red Sea Research Center, King Abdullah
+            University of Science and Technology, PO Box 1569, Thuwal
+            23955-6900, Saudi Arabia
+REFERENCE   3  (residues 1 to 462)
+  AUTHORS   Baumgarten,S., Simakov,O., Esherick,L.Y., Liew,Y.J., Lehnert,E.M.,
+            Michell,C.T., Li,Y., Hambleton,E.A., Guse,A., Oates,M.E., Gough,J.,
+            Weis,V.M., Aranda,M., Pringle,J.R. and Voolstra,C.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-FEB-2016) Red Sea Research Center, King Abdullah
+            University of Science and Technology, PO Box 1569, Thuwal
+            23955-6900, Saudi Arabia
+  REMARK    Amino acid sequence updated by submitter
+COMMENT     Annotation was added to the contigs in Feburary 2016.
+            
+            ##Genome-Assembly-Data-START##
+            Assembly Date         :: 2014
+            Assembly Method       :: AllPaths v. r44837
+            Assembly Name         :: Aiptasia genome 1.1
+            Genome Coverage       :: 60.0x
+            Sequencing Technology :: Illumina HiSeq; Illumina MiSeq
+            ##Genome-Assembly-Data-END##
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..462
+                     /organism="Exaiptasia diaphana"
+                     /isolate="CC7"
+                     /isolation_source="whole animal"
+                     /db_xref="taxon:2652724"
+                     /country="Saudi Arabia: KAUST"
+                     /collection_date="Mar-2014"
+     Protein         1..462
+                     /product="Sialin"
+     Region          37..418
+                     /region_name="2A0114"
+                     /note="D-galactonate transporter; TIGR00893"
+                     /db_xref="CDD:273326"
+     Region          69..421
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Site            order(69..70,72..73,90,93..94,97,101..102,104..105,
+                     153..154,157..158,161..162,165,177..178,181..182,188,272,
+                     275..276,279..280,283,297,301,305,308,312,368,371..372,
+                     377,381..382,385,396..397,400..401,404..405,408)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..462
+                     /gene="SLC17A5"
+                     /locus_tag="AC249_AIPGENE16935"
+                     /coded_by="join(LJWW01000018.1:231829..232053,
+                     LJWW01000018.1:232261..232294,
+                     LJWW01000018.1:232558..232757,
+                     LJWW01000018.1:232833..232920,
+                     LJWW01000018.1:233045..233140,
+                     LJWW01000018.1:233542..233636,
+                     LJWW01000018.1:233973..234122,
+                     LJWW01000018.1:234199..234331,
+                     LJWW01000018.1:234916..235160,
+                     LJWW01000018.1:237077..237171,
+                     LJWW01000018.1:237507..237534)"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method Augustus and PASA. Gene and product
+                     name derived from sequence similarity of the CDS product
+                     to UniProtKB accession Q9NRA2."
+                     /db_xref="PFAM:PF07690"
+ORIGIN      
+        1 mdsipnpvan nsvekdsrvk ssklmscrys msvmgcigla iayairvnls valvamvnst
+       61 estmqdskti aasqkskeft wteetqgvil ssffygyivt qlpggwmask fggkhvfgvg
+      121 illsviftll tpwaaeqsva alvavrvieg vgqgvtfpai nvllsswspp dersmmltvt
+      181 ytgsslgtii aqtsxgalca stflggwpsv fyitvyekpa lhpriseyek nyiisslgas
+      241 qdnlvkkhkv pwlaiakslp vhalnityic sgwafytfit elpsyykevl glkilvdgvv
+      301 ssipfitstv ynfivawfad wlirrricsv gevrklatvg glvipaflli assyvgkedk
+      361 vlpivlisls ltfqvmlnvg sslnqldisp rfagillgig nafatlsgia splvtgwltn
+      421 nkcmrnqlct qeyqnmknit lylhlvlprt twlrnikshg wq
+//
+

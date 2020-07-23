@@ -1,0 +1,56 @@
+
+LOCUS       XP_032849970             456 aa            linear   VRT 20-MAR-2020
+DEFINITION  vesicular acetylcholine transporter [Tyto alba alba].
+ACCESSION   XP_032849970
+VERSION     XP_032849970.1
+DBLINK      BioProject: PRJNA613072
+DBSOURCE    REFSEQ: accession XM_032994079.1
+KEYWORDS    RefSeq.
+SOURCE      Tyto alba alba
+  ORGANISM  Tyto alba alba
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Strigiformes; Tytonidae; Tyto.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_022670203.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA and EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Tyto alba Annotation Release 101
+            Annotation Version          :: 101
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.3
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..456
+                     /organism="Tyto alba alba"
+                     /sub_species="alba"
+                     /db_xref="taxon:507980"
+                     /chromosome="Unknown"
+     Protein         1..456
+                     /product="vesicular acetylcholine transporter"
+                     /calculated_mol_wt=47827
+     CDS             1..456
+                     /gene="SLC18A3"
+                     /coded_by="XM_032994079.1:207..1577"
+                     /db_xref="GeneID:116961878"
+ORIGIN      
+        1 mrrggaspgp spaggnedgg gnrascaryp paaggnedvq igvlfaskam lqllvnplsg
+       61 tlidrvgyea pllaglavmf lstatfafae nyatlfaars lqglgsafad tagialiadr
+      121 yaeeparsra lgtalacisf gslaappfgg vlyefagkrv pflvlacvcl ldgllllala
+      181 ppcatgaran mpvgtpihrl mvdpyiavva galatcnipl afleptianw mkesmgasew
+      241 evgltwlpaf fphvlgvyvt vrlaaayphl qwfygalgma iigassclvp acrnfgqviv
+      301 plcgicfgia lvdtallptl aflvdvrhvs vygsvyaiad isysvayalg pivagqivht
+      361 mgfaqlnlgm glanvlyapv llflknvcqm kpshsetnil leegpkglyd tikmeerkgm
+      421 gkslrpaget eengvdsyrr dltgvseeds sdyeys
+//
+

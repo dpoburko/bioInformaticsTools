@@ -1,0 +1,63 @@
+
+LOCUS       XP_030676912             560 aa            linear   PRI 17-SEP-2019
+DEFINITION  vesicular glutamate transporter 1 [Nomascus leucogenys].
+ACCESSION   XP_030676912
+VERSION     XP_030676912.1
+DBLINK      BioProject: PRJNA564096
+DBSOURCE    REFSEQ: accession XM_030821052.1
+KEYWORDS    RefSeq.
+SOURCE      Nomascus leucogenys (northern white-cheeked gibbon)
+  ORGANISM  Nomascus leucogenys
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hylobatidae; Nomascus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_044390.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA and EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Nomascus leucogenys Annotation
+                                           Release 103
+            Annotation Version          :: 103
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..560
+                     /organism="Nomascus leucogenys"
+                     /isolate="Asia"
+                     /bio_material="CORIELL:NLL605"
+                     /db_xref="taxon:61853"
+                     /chromosome="10"
+                     /sex="female"
+                     /tissue_type="EB transformed lymphoblast cell line"
+                     /dev_stage="adult"
+     Protein         1..560
+                     /product="vesicular glutamate transporter 1"
+                     /calculated_mol_wt=61483
+     CDS             1..560
+                     /gene="SLC17A7"
+                     /coded_by="XM_030821052.1:223..1905"
+                     /db_xref="GeneID:100599485"
+ORIGIN      
+        1 mefrqeefrk lagralgklh rllekrqega etlelsadgr pvttqtrdpp vvdctcfglp
+       61 rryiiaimsg lgfcisfgir cnlgvaivsm vnnstthrgg hvvvqkaqfs wdpetvglih
+      121 gsffwgyivt qipggficqk faanrvfgfa ivatstlnml ipsaarvhyg cvifvrilqg
+      181 lvegvtypac hgiwskwapp lersrlatta fcgsyagavv amplagvlvq ysgwssvfyv
+      241 ygsfgifwyl fwllvsyesp alhpsiseee rkyiedaige saklmnpltk fstpwrrfft
+      301 smpvyaiiva nfcrswtfyl llisqpayfe evfgfeiskv glvsalphlv mtiivpiggq
+      361 iadflrsrri msttnvrklm ncggfgmeat lllvvgyshs kgvaisflvl avgfsgfais
+      421 gfnvnhldia pryasilmgi sngvgtlsgm vcpiivgamt khktreewqy vfliaslvhy
+      481 ggvifygvfa sgekqpwaep eemseekcgf vghdqlagsd dsemedeaep pgappappps
+      541 ygathstfqp prppppvrdy
+//
+

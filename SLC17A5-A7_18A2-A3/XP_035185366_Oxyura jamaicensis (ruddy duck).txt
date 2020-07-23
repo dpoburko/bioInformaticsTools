@@ -1,0 +1,64 @@
+
+LOCUS       XP_035185366             521 aa            linear   VRT 05-JUL-2020
+DEFINITION  synaptic vesicular amine transporter isoform X1 [Oxyura
+            jamaicensis].
+ACCESSION   XP_035185366
+VERSION     XP_035185366.1
+DBLINK      BioProject: PRJNA641662
+DBSOURCE    REFSEQ: accession XM_035329475.1
+KEYWORDS    RefSeq.
+SOURCE      Oxyura jamaicensis (ruddy duck)
+  ORGANISM  Oxyura jamaicensis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Galloanserae; Anseriformes;
+            Anatidae; Anatinae; Oxyura.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_048898.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Oxyura jamaicensis Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.4
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..521
+                     /organism="Oxyura jamaicensis"
+                     /isolate="SHBP4307"
+                     /db_xref="taxon:8884"
+                     /chromosome="6"
+                     /sex="female"
+                     /tissue_type="blood"
+                     /dev_stage="adult"
+                     /country="USA: Scotland Neck, NC"
+                     /breed="ruddy duck"
+     Protein         1..521
+                     /product="synaptic vesicular amine transporter isoform X1"
+                     /calculated_mol_wt=56288
+     CDS             1..521
+                     /gene="SLC18A2"
+                     /coded_by="XM_035329475.1:99..1664"
+                     /db_xref="GeneID:118168831"
+ORIGIN      
+        1 margeasllr wlregrssrr lillivfial lldnmlltvv vpiipsylys ikheknasev
+       61 qttkpnvvsa tmdnfqsifs yydnltmvtg nesaqlgpre lphtpteqmt vnvtvtapps
+      121 dcpkedkdll nenvqvgllf askatvqlit npfigpltnr igyqiplfag fcimfvstim
+      181 fafsgsytll fiarslqgvg sscssvagmg mlasvytdde ergnamgial gglamgvlvg
+      241 ppfgsvmyef vgksspflvl aalalldgav qlfvlqpsra qaesqkgtpl ltllkdpyii
+      301 iaagsicfan maiamlepal piwmmetmcs kkwqlgiafl pasisyligt nlfgilahkm
+      361 grwlcallgm livgvsilcv pfakniygli apnfgvgfai gmvdssmmpi mgylvdlrhv
+      421 svygsvyaia dvafcmgfai gpsaggaiak aigfpwlmti igivdilfap lcfflrsppa
+      481 keekmailmd hncpvktkmy tqnniqaypi gdeeeeyesd e
+//
+

@@ -1,0 +1,78 @@
+
+LOCUS       XP_014943654             514 aa            linear   MAM 13-NOV-2018
+DEFINITION  vesicular acetylcholine transporter [Acinonyx jubatus].
+ACCESSION   XP_014943654
+VERSION     XP_014943654.2
+DBLINK      BioProject: PRJNA504297
+DBSOURCE    REFSEQ: accession XM_015088168.2
+KEYWORDS    RefSeq.
+SOURCE      Acinonyx jubatus (cheetah)
+  ORGANISM  Acinonyx jubatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Carnivora; Feliformia; Felidae;
+            Acinonychinae; Acinonyx.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_020834741.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            On Nov 13, 2018 this sequence version replaced XP_014943654.1.
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Acinonyx jubatus Annotation Release
+                                           101
+            Annotation Version          :: 101
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.1
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..514
+                     /organism="Acinonyx jubatus"
+                     /isolate="Rico"
+                     /db_xref="taxon:32536"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /tissue_type="blood"
+                     /country="USA: National Zoological Park's Front Royal,
+                     Virginia"
+     Protein         1..514
+                     /product="vesicular acetylcholine transporter"
+                     /calculated_mol_wt=54781
+     Region          36..430
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Site            order(50,53..55,57..58,110,113..114,117,121..122,124..125,
+                     171..172,175..176,179..180,183,196..197,200..201,207,284,
+                     287..288,291..292,295,309,313,317,320,324,373,376..377,
+                     380,384..385,388,402..403,406..407,410..411,414)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..514
+                     /gene="SLC18A3"
+                     /coded_by="XM_015088168.2:383..1927"
+                     /db_xref="GeneID:106989677"
+ORIGIN      
+        1 mepaapagqa raaasklsea mgavlqdprr qrrlvlvivc valfldnmly mvivpivpdy
+       61 iahmhkagrp ttspkvhtlq aptpasgsdn mgntsespte sedvkigvlf askailqllv
+      121 nplsgpfidr msydvpllig lgvlfastvl fafaedyaml faarslqglg safadtsgia
+      181 miadkypeep ersralgval afisfgslva ppfggflygf agkpvpflvl aavslldall
+      241 llvvakpfsa vtraranlpv gtpihrlmld pyiavvagal ttcniplafl eptiatwmeh
+      301 tmaasewqtg mawlpafvph vlgvyltvrl aaryphlqwl ygalglavig asscvvpacr
+      361 sfaplvislc glcfgialvd tallptlafl vdvrhvsvyg svyaiadisy svayalgpiv
+      421 aghivhslgf vqlslgmgla nllyapvlll lrnvgllrrs rserdvllde ppqglydavr
+      481 lrerpvadpd gaprspsgpf decedvynny yths
+//
+

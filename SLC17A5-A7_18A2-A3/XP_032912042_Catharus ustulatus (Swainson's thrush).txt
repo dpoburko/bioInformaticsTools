@@ -1,0 +1,65 @@
+
+LOCUS       XP_032912042             484 aa            linear   VRT 22-MAR-2020
+DEFINITION  sialin isoform X1 [Catharus ustulatus].
+ACCESSION   XP_032912042
+VERSION     XP_032912042.1
+DBLINK      BioProject: PRJNA613294
+DBSOURCE    REFSEQ: accession XM_033056151.1
+KEYWORDS    RefSeq.
+SOURCE      Catharus ustulatus (Swainson's thrush)
+  ORGANISM  Catharus ustulatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Passeriformes; Turdidae; Catharus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_046223.1) annotated using gene prediction method: Gnomon,
+            supported by EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Catharus ustulatus Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.4
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..484
+                     /organism="Catharus ustulatus"
+                     /isolate="bCatUst1"
+                     /db_xref="taxon:91951"
+                     /chromosome="3"
+                     /sex="female"
+                     /tissue_type="blood"
+                     /dev_stage="adult"
+                     /country="Canada: Kamloops"
+                     /lat_lon="50.67613 N 120.33787 W"
+                     /collection_date="15-Jul-2018"
+                     /collected_by="Kira Delmore"
+     Protein         1..484
+                     /product="sialin isoform X1"
+                     /calculated_mol_wt=53261
+     CDS             1..484
+                     /gene="SLC17A5"
+                     /coded_by="XM_033056151.1:163..1617"
+                     /db_xref="GeneID:116994445"
+ORIGIN      
+        1 mepeegedrt pllkepqpdt vpaccsaryn lallacfgff llyalrvnls valvdmvepn
+       61 tslaknttsn vcpehsstin vprnttgqky swdadtqgwi lgsffygyii tqipggylas
+      121 kiggklllgf gifgtslftl ltplaanlgv gyliavrale glgegvtfpa mhsmwsswap
+      181 plerskllsi syagaqlgtv vslplsglic yymnwvyvfy ifgalgvlww ffwmflvsdt
+      241 pethksisra ereyilsslk dqlstqksvp wrpmleslpl waivvahfsy nwtfytlltl
+      301 lptymkeilr fdaqengfls alpyfgcwlc iilsgqiady lrekqnfstv cvrkcftlig
+      361 migpavflva agfigcnyal avafvtistt lggfctsgys inhldiapsy agillgitns
+      421 fatipgmvgp viaknlthnn tvgewqmvfy iaasinlfga iffalfasge vqdwavsgyh
+      481 lhrn
+//
+

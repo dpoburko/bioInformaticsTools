@@ -1,0 +1,82 @@
+
+LOCUS       OWK57704                 391 aa            linear   VRT 19-JUN-2017
+DEFINITION  Sialin [Lonchura striata domestica].
+ACCESSION   OWK57704
+VERSION     OWK57704.1
+DBLINK      BioProject: PRJNA369279
+            BioSample: SAMN06283872
+DBSOURCE    accession MUZQ01000119.1
+KEYWORDS    .
+SOURCE      Lonchura striata domestica (Bengalese finch)
+  ORGANISM  Lonchura striata domestica
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Passeriformes; Passeroidea;
+            Estrildidae; Estrildinae; Lonchura.
+REFERENCE   1  (residues 1 to 391)
+  AUTHORS   Colquitt,B.M., Mets,D.G. and Brainard,M.S.
+  TITLE     Draft genome assembly of the Bengalese finch, Lonchura striata
+            domestica, a model for motor skill variability and learning
+  JOURNAL   Gigascience 7 (3), 1-6 (2018)
+   PUBMED   29618046
+REFERENCE   2  (residues 1 to 391)
+  AUTHORS   Colquitt,B.M. and Brainard,M.S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-MAY-2017) Physiology, HHMI/UCSF, 675 Nelson Rising
+            Ln, San Francisco, CA 94158, USA
+COMMENT     ##Genome-Assembly-Data-START##
+            Assembly Date          :: JAN-2015
+            Assembly Method        :: ALLPATHS-LG v. JAN-2015
+            Assembly Name          :: LonStrDom1
+            Expected Final Version :: yes
+            Genome Coverage        :: 142.0x
+            Sequencing Technology  :: Illumina
+            ##Genome-Assembly-Data-END##
+            
+            ##Genome-Assembly-Data-START##
+            Assembly Date          :: JAN-2015
+            Assembly Method        :: ALLPATHS-LG v. JAN-2015
+            Assembly Name          :: LonStrDom1
+            Expected Final Version :: yes
+            Genome Coverage        :: 142.0x
+            Sequencing Technology  :: Illumina
+            ##Genome-Assembly-Data-END##
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..391
+                     /organism="Lonchura striata domestica"
+                     /isolate="white83orange57"
+                     /isolation_source="blood"
+                     /sub_species="domestica"
+                     /db_xref="taxon:299123"
+                     /country="USA: California, San Francisco"
+                     /lat_lon="37.46 N 122.23 W"
+                     /collection_date="Jun-2014"
+     Protein         1..391
+                     /product="Sialin"
+     Region          18..388
+                     /region_name="UhpC"
+                     /note="Sugar phosphate permease [Carbohydrate transport
+                     and metabolism]; cl27298"
+                     /db_xref="CDD:332119"
+     CDS             1..391
+                     /gene="SLC17A5"
+                     /locus_tag="RLOC_00010467"
+                     /coded_by="join(MUZQ01000119.1:1481751..1481811,
+                     MUZQ01000119.1:1484984..1485180,
+                     MUZQ01000119.1:1486606..1486858,
+                     MUZQ01000119.1:1492300..1492571,
+                     MUZQ01000119.1:1494784..1494916,
+                     MUZQ01000119.1:1496848..1496995,
+                     MUZQ01000119.1:1501585..1501675,
+                     MUZQ01000119.1:1502726..1502746)"
+ORIGIN      
+        1 mepeegedrt pllkepqpdt vpaccsaryn lavlacfgff llyalrvnls valvnmvepd
+       61 tssaknvtsn vcpehssttn vsrnttgqky swdadtqgwi lgsffygyii tqipggylas
+      121 riggklllgf gifstsvftl ltplaanlgv gyliavrale glgevilfpl scimsidlvs
+      181 ikstvfskcs sqhpdfllfl fslspacqls tqksvpwrpm lgslplwaiv vahfsynwtf
+      241 ytlltllpty mkeilrfdaq engflsalpy fgcwlciils gqiadylrek qnfstvcvrk
+      301 cftligmigp avflvaagfi gcnyalavsf vtisttlggf ctsgysinhl diapsyagil
+      361 lgitnsfati pgmvgpviak nlthnritle i
+//
+

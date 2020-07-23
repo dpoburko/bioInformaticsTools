@@ -1,0 +1,89 @@
+
+LOCUS       XM_007911125            2489 bp    mRNA    linear   VRT 09-MAY-2014
+DEFINITION  PREDICTED: Callorhinchus milii solute carrier family 17 (vesicular
+            nucleotide transporter), member 9 (slc17a9), mRNA.
+ACCESSION   XM_007911125
+VERSION     XM_007911125.1
+DBLINK      BioProject: PRJNA236996
+KEYWORDS    RefSeq.
+SOURCE      Callorhinchus milii (elephant shark)
+  ORGANISM  Callorhinchus milii
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Chondrichthyes;
+            Holocephali; Chimaeriformes; Callorhinchidae; Callorhinchus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_006890059.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Callorhinchus milii Annotation
+                                           Release 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 6.0
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..2489
+                     /organism="Callorhinchus milii"
+                     /mol_type="mRNA"
+                     /isolate="IMCB2004"
+                     /db_xref="taxon:7868"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /tissue_type="testis"
+                     /country="Australia: Tasmania; Hobart"
+     gene            1..2489
+                     /gene="slc17a9"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon. Supporting evidence
+                     includes similarity to: 10 Proteins, and 100% coverage of
+                     the annotated genomic feature by RNAseq alignments,
+                     including 7 samples with support for all annotated
+                     introns"
+                     /db_xref="GeneID:103190371"
+     CDS             105..1469
+                     /gene="slc17a9"
+                     /codon_start=1
+                     /product="solute carrier family 17 member 9"
+                     /protein_id="XP_007909316.1"
+                     /db_xref="GeneID:103190371"
+                     /translation="MAFSLNPNAAHHINQSEVVLFNHSESPRPSAAKTTCDSDSTYWS
+                     RLEAKIWIVVLLMGTCLLYCARVTMPICISAMAEQFKWDKKQSGIVLGSFFWGYTLTQ
+                     IAGGYISDRLGGDKVLLLSAFAWGTVTILTPLLAYCSSTPIFILTLSRFFMGLLQGVH
+                     FPSLASLFSCKVRQSERAFTSSTVCTGTQFGTLIIGGAGSVLLDRCGWQSVFYFSGLP
+                     TILWVYCMWEYLIKGQGHEISLESLSNRLTNSQGNEVPWIKLFKKPSVWAVIVAHVCM
+                     ASTFFCILSWIPTFFHDSYPDSKGWIFNVVPWVVSIPLSLMGGLLSDHLINLGFNTAK
+                     VRKLMQMVAMGMSSIFIKLLCYSSSYYRSLLFVSAAVGLQTFSHSGSSVNVQDLAPSC
+                     AGSLFGVMNTGGALAGVVLVYFAGYLIETTGSWPFVFNLVSIINMFGLSVYMIFGQAT
+                     RVDI"
+ORIGIN      
+         1 atggcttttt ccctgaaccc aaatgctgct catcacatca accagagcga agtggtcctg 
+        61 tttaaccatt ccgagtcacc aagaccttcg gccgccaaga cgacttgcga ctccgacagt 
+       121 acgtattggt caaggttaga agcgaagata tggattgttg ttttgttgat gggtacatgc 
+       181 ctgctatact gtgccagagt gaccatgcct atctgtatat ctgcgatggc agaacagttt 
+       241 aagtgggaca agaagcagtc aggcattgta cttggaagct ttttctgggg ctacaccttg 
+       301 acccaaattg caggaggtta catcagtgac agattgggag gagataaagt actactgctt 
+       361 tcagcctttg cctggggaac tgtaaccatc ttaactccac tcctagcata ttgcagctct 
+       421 acaccaatat tcattctaac cttatccaga ttctttatgg ggttactgca gggtgttcat 
+       481 ttcccttccc tggcaagtct attctcctgt aaggtgcggc aaagtgagcg agcgtttacg 
+       541 tcaagtacag tgtgcacagg cactcagttt ggaacactga taatcggtgg agcaggctcg 
+       601 gtgttgctcg acagatgtgg ttggcagagt gtcttctact tttctggcct tcctaccata 
+       661 ctgtgggtct actgcatgtg ggaatatcta atcaaaggac aaggtcatga gatatcgttg 
+       721 gaaagtttga gcaatcgtct tacgaattca cagggcaacg aggtgccatg gataaagctg 
+       781 tttaaaaaac catctgtctg ggctgtcatt gtagctcacg tttgcatggc cagcactttc 
+       841 ttctgcattt tgtcgtggat cccaaccttc ttccatgatt catatcccga ctctaagggc 
+       901 tggattttca atgtagtgcc atgggtcgtg tcaatcccat tatccttgat gggtggcttg 
+       961 ctgtccgatc atctgatcaa tcttgggttc aacactgcta aagtgcgtaa attaatgcag 
+      1021 atggttgcaa tgggaatgtc cagtatcttt atcaaattat tgtgttactc atccagctat 
+      1081 taccgatcct tactgtttgt atctgccgct gtaggacttc agacgtttag ccacagcggg 
+      1141 tcttctgtga atgtccagga cttagcaccc tcgtgtgctg gatcactgtt tggtgttatg 
+      1201 aacactggtg gagccttagc aggagttgtc ttggtatact tcgcaggata tctgatagaa 
+      1261 accacaggat cttggccttt tgtttttaac ctggtcagca taattaacat gtttgggctt 
+      1321 tccgtctaca tgatctttgg tcaggccaca cgagtggaca tttaa
+//
+

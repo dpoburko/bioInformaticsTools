@@ -1,0 +1,68 @@
+
+LOCUS       XP_007116561             495 aa            linear   MAM 21-MAR-2019
+DEFINITION  sialin [Physeter catodon].
+ACCESSION   XP_007116561
+VERSION     XP_007116561.2
+DBLINK      BioProject: PRJNA434122
+DBSOURCE    REFSEQ: accession XM_007116499.3
+KEYWORDS    RefSeq.
+SOURCE      Physeter catodon (sperm whale)
+  ORGANISM  Physeter catodon
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Cetartiodactyla; Cetacea;
+            Odontoceti; Physeteridae; Physeter.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_041223.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            On Feb 23, 2018 this sequence version replaced XP_007116561.1.
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Physeter catodon Annotation Release
+                                           102
+            Annotation Version          :: 102
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..495
+                     /organism="Physeter catodon"
+                     /isolate="SW-GA"
+                     /db_xref="taxon:9755"
+                     /chromosome="10"
+                     /sex="female"
+                     /tissue_type="muscle"
+                     /dev_stage="adult"
+     Protein         1..495
+                     /product="sialin"
+                     /calculated_mol_wt=54125
+     Region          24..486
+                     /region_name="UhpC"
+                     /note="Sugar phosphate permease [Carbohydrate transport
+                     and metabolism]; cl27298"
+                     /db_xref="CDD:332119"
+     CDS             1..495
+                     /gene="SLC17A5"
+                     /coded_by="XM_007116499.3:103..1590"
+                     /db_xref="GeneID:102986289"
+ORIGIN      
+        1 mkspvpdlap sdgeegedrt pllqraprae tapvccsary nlaflaffgf fvlyslrvnl
+       61 svalvdmvds nttaadnrta necaehpapi kvlhnqtgkk yrwdaatqgw ilgsffygyi
+      121 vmqipagyaa srsggklllg fgilgtavft lftplaadfg vgalvalral eglgegvtfp
+      181 amhamwsswa pplersklls isyagaqfgt vvslplsgii cfymnwtyvf ylfgivgiiw
+      241 filwiwlvsd tpethktisp yekeyilssl rnqlssqksv pwipmlksla lwaivvahfs
+      301 ynwtfytllt llptymtevl kfniqengfl savpylgcwl cmilsgqaad nlrakwnfst
+      361 lcvrrvfsli gmigpavflv aagfigcdys lavafltist tlggfgssgf sinhldiaps
+      421 yagillgitn tfatipgmig piiarsltpe ntigewqtvf ciaaainvfg aifftlfakg
+      481 evqnwavrdh rghrn
+//
+

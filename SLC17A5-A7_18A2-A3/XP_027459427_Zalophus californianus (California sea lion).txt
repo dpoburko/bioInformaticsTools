@@ -1,0 +1,57 @@
+
+LOCUS       XP_027459427             495 aa            linear   MAM 27-DEC-2018
+DEFINITION  sialin isoform X1 [Zalophus californianus].
+ACCESSION   XP_027459427
+VERSION     XP_027459427.1
+DBLINK      BioProject: PRJNA511654
+DBSOURCE    REFSEQ: accession XM_027603626.1
+KEYWORDS    RefSeq.
+SOURCE      Zalophus californianus (California sea lion)
+  ORGANISM  Zalophus californianus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Carnivora; Caniformia;
+            Otariidae; Zalophus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_020874467.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA and EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Zalophus californianus Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.1
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..495
+                     /organism="Zalophus californianus"
+                     /db_xref="taxon:9704"
+                     /chromosome="Unknown"
+     Protein         1..495
+                     /product="sialin isoform X1"
+                     /calculated_mol_wt=53982
+     CDS             1..495
+                     /gene="SLC17A5"
+                     /coded_by="XM_027603626.1:85..1572"
+                     /db_xref="GeneID:113927638"
+ORIGIN      
+        1 mrspirglas sdgeegsart pllqstprve aapaccsary nlavlaffgf fvlyalrvnl
+       61 svalvdmvds nttladnrts kecaehsapi kvlhnqtgkr yqwdaetqgw ilgsffygyi
+      121 itqipggyia skvggklllg fgilgtaift lftpiaadfg vgalivlral eglgegvtfp
+      181 amhamwsswa pplersklls isyagaqlgt vislplsgii cfymdwtyvf ylfgivgiiw
+      241 filwiflvse tpethktish hekeyilssl knqlssqksv pwipmlkslp lgaivvahfs
+      301 ynwtfytllt llptymkeil rfnvqengll salpyfgcwl cmilsgqaad nlrakwnyst
+      361 icvrrvfsli gmigpavflv aagfigcdys lavafltist tlggfcssgf sinhldiaps
+      421 yagillgitn tfatipgmvg pviaksltan ntirewqtvf ciaaainvsg aiffslfakg
+      481 evqnwalddr hghrn
+//
+

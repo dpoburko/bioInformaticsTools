@@ -1,0 +1,73 @@
+
+LOCUS       XP_022267763             518 aa            linear   MAM 05-SEP-2017
+DEFINITION  synaptic vesicular amine transporter [Canis lupus familiaris].
+ACCESSION   XP_022267763
+VERSION     XP_022267763.1
+DBLINK      BioProject: PRJNA12384
+DBSOURCE    REFSEQ: accession XM_022412055.1
+KEYWORDS    RefSeq.
+SOURCE      Canis lupus familiaris (dog)
+  ORGANISM  Canis lupus familiaris
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Carnivora; Caniformia; Canidae;
+            Canis.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_006610.3) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Canis lupus familiaris Annotation
+                                           Release 105
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 7.4
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..518
+                     /organism="Canis lupus familiaris"
+                     /sub_species="familiaris"
+                     /db_xref="taxon:9615"
+                     /chromosome="28"
+                     /sex="female"
+                     /breed="boxer"
+     Protein         1..518
+                     /product="synaptic vesicular amine transporter"
+                     /calculated_mol_wt=55696
+     Region          134..441
+                     /region_name="MFS_1"
+                     /note="Major Facilitator Superfamily; pfam07690"
+                     /db_xref="CDD:311564"
+     Region          136..277
+                     /region_name="2_A_01_02"
+                     /note="Multidrug resistance protein; TIGR00880"
+                     /db_xref="CDD:273318"
+     Site            order(139,142..143,146,150..151,153..154,200..201,
+                     204..205,208..209,212,225..226,229..230,236,309,312..313,
+                     316..317,320,334,338,342,345,349,396,399..400,406,
+                     410..411,414,425..426,429..430,433..434,437)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..518
+                     /gene="SLC18A2"
+                     /coded_by="XM_022412055.1:83..1639"
+                     /db_xref="GeneID:486908"
+ORIGIN      
+        1 malsapallr wllesrhsrk lilfivflal lldnmlltvv vpiipsylys inheknatei
+       61 qtpkpvltts tsdsfqsifs yydnstvvlg tsspkgppeg llqlattqhp vtntsaappd
+      121 cpredkalln envqvgllfa skatiqlltn pfiglltnri gypipmfagf cimfvstimf
+      181 afsssyafll iarslqgigs scssvagmgm lasvytddee rgnamgialg glamgvlvgp
+      241 pfgsvlyefv gktapflvla alvlldgaiq lcvlqpsrvq pesqkgtplt tllkdpyili
+      301 aagsicfanm giamlepalp iwmmetmcsr kwqlgiaflp asisyligtn ifgmlahkmg
+      361 rwlcallgmi ivgisilcip fakniyglia pnfgvgfaig mvdssmmpim gylvdlrhvs
+      421 vygsvyaiad vafcmgyaig psaggaiaka igfpwlmtii giidilfapl cfflrsppak
+      481 eekmailmdh ncpiktkmyt qnniqsypig ddeesesd
+//
+

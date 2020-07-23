@@ -1,0 +1,66 @@
+
+LOCUS       XP_032087416             538 aa            linear   VRT 31-JAN-2020
+DEFINITION  vesicular acetylcholine transporter [Thamnophis elegans].
+ACCESSION   XP_032087416
+VERSION     XP_032087416.1
+DBLINK      BioProject: PRJNA602516
+DBSOURCE    REFSEQ: accession XM_032231525.1
+KEYWORDS    RefSeq.
+SOURCE      Thamnophis elegans (Western terrestrial garter snake)
+  ORGANISM  Thamnophis elegans
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+            Toxicofera; Serpentes; Colubroidea; Colubridae; Natricinae;
+            Thamnophis.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_045555.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Thamnophis elegans Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.3
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..538
+                     /organism="Thamnophis elegans"
+                     /isolate="rThaEle1"
+                     /db_xref="taxon:35005"
+                     /chromosome="15"
+                     /sex="female"
+                     /tissue_type="blood"
+                     /dev_stage="juvenile"
+                     /country="USA: Born in Anne Bronikowsk lab at ISU; MOM,
+                     2012; Eagle Lake; PAP"
+                     /lat_lon="42.02482 N 93.64411 W"
+                     /collection_date="01-Apr-2018"
+                     /collected_by="Anne Bronikowski"
+     Protein         1..538
+                     /product="vesicular acetylcholine transporter"
+                     /calculated_mol_wt=58104
+     CDS             1..538
+                     /gene="SLC18A3"
+                     /coded_by="XM_032231525.1:1..1617"
+                     /db_xref="GeneID:116518248"
+ORIGIN      
+        1 mqeeagdsvg arraveklse avglrakalg salqeahrqr rlllaivcva llldnmlymv
+       61 ivpiipdyla tmdggggagk vptagqslev nssgtgggwa gnasrtsglf ppplradnqd
+      121 ikigvlfask ailqllvnpl tgtfidrvgy vlplligllv mflstlifaf aenyatlfva
+      181 rsmqglgsaf adtsgialia dkyteesern ralgvalafi sfgslvappf ggilyrfark
+      241 qapflvlasi slldallllv aikpfanrtr enmpvgtpih rlmidpyiav vagalttcni
+      301 plafleptia swmnrtmntn ewemglawlp affphvlgvf itikladkyp hlqwfygalg
+      361 mviigasscv vpacrnftql mlplcgicfg ialvdtallp tlaflvdvry vsvygsvyai
+      421 adisysvaya lgpivageiv hsfgftqlsl gmglanvlys pvllalknic hmkpshsern
+      481 illdeepkgl ydtikmeerk akgrnfhpvg dfeensvdpy qrdfkgafed dssdydyt
+//
+

@@ -1,0 +1,64 @@
+
+LOCUS       XP_032507410             495 aa            linear   MAM 27-FEB-2020
+DEFINITION  sialin isoform X1 [Phocoena sinus].
+ACCESSION   XP_032507410
+VERSION     XP_032507410.1
+DBLINK      BioProject: PRJNA606521
+DBSOURCE    REFSEQ: accession XM_032651519.1
+KEYWORDS    RefSeq.
+SOURCE      Phocoena sinus (vaquita)
+  ORGANISM  Phocoena sinus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Cetartiodactyla; Cetacea;
+            Odontoceti; Phocoenidae; Phocoena.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_045774.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Phocoena sinus Annotation Release
+                                           100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.3
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..495
+                     /organism="Phocoena sinus"
+                     /isolate="mPhoSin1"
+                     /db_xref="taxon:42100"
+                     /chromosome="12"
+                     /sex="female"
+                     /tissue_type="Cultured fibroblasts (kidney)"
+                     /country="Mexico: San Felipe, Baja California"
+                     /lat_lon="31.103595 N 114.679383 W"
+                     /collection_date="04-Nov-2017"
+                     /collected_by="Frances Gulland"
+     Protein         1..495
+                     /product="sialin isoform X1"
+                     /calculated_mol_wt=54244
+     CDS             1..495
+                     /gene="SLC17A5"
+                     /coded_by="XM_032651519.1:738..2225"
+                     /db_xref="GeneID:116763593"
+ORIGIN      
+        1 mkspvpdlap sdgeegedrt pllqraprae tapvcrsary nlaflaffgf fvlyslrvnl
+       61 svalvdmvds nttaadnrta necaehstpi kvlhnqtgkk yrwdaetqgw ilgsffygyi
+      121 itqipagyva srsggklllg fgvlgtsvft lftplaadfg vgaiialral eglgegvtfp
+      181 amhamwsswa pplersklls isyagaqlgt vvslplsgiv cfymnwtyvf ylfgivgiiw
+      241 filwiwlvsd tpethktisp yekeyilssl rnqlssqksv pwvpmlksla lwaivvahfs
+      301 ynwtfytllt llptymkevl rfniqengfl savpylgcwl cmilsgqaad nlrakwnfst
+      361 lcvrrvfsli gmigpavflv aagfigcdys lavafltist tlggfcssgf sinhldiaps
+      421 yagillgitn tfatipgmig piiarsltpe ntvgewqtvf claaavnvfg aifftlfskg
+      481 evqnwavrdh geprn
+//
+

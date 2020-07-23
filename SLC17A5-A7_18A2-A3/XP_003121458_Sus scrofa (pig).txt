@@ -1,0 +1,80 @@
+
+LOCUS       XP_003121458             495 aa            linear   MAM 13-MAY-2017
+DEFINITION  sialin isoform X3 [Sus scrofa].
+ACCESSION   XP_003121458
+VERSION     XP_003121458.2
+DBLINK      BioProject: PRJNA28993
+DBSOURCE    REFSEQ: accession XM_003121410.4
+KEYWORDS    RefSeq.
+SOURCE      Sus scrofa (pig)
+  ORGANISM  Sus scrofa
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Cetartiodactyla; Suina; Suidae;
+            Sus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_010443.5) annotated using gene prediction method: Gnomon,
+            supported by EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            On Jun 8, 2011 this sequence version replaced XP_003121458.1.
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Sus scrofa Annotation Release 106
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 7.4
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..495
+                     /organism="Sus scrofa"
+                     /isolate="TJ Tabasco"
+                     /db_xref="taxon:9823"
+                     /chromosome="1"
+                     /sex="female"
+                     /breed="Duroc"
+     Protein         1..495
+                     /product="sialin isoform X3"
+                     /calculated_mol_wt=54107
+     Region          30..491
+                     /region_name="2A0114euk"
+                     /note="Na(+)-dependent inorganic phosphate cotransporter;
+                     TIGR00894"
+                     /db_xref="CDD:129972"
+     Region          99..477
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Site            order(112,115..116,119,123..124,126..127,175..176,
+                     179..180,183..184,187,199..200,203..204,210,302,305..306,
+                     309..310,313,327,331,335,338,342,399,402..403,406,
+                     410..411,414,425..426,429..430,433..434,437)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..495
+                     /gene="SLC17A5"
+                     /coded_by="XM_003121410.4:138..1625"
+                     /db_xref="GeneID:100516051"
+ORIGIN      
+        1 mkspvpdttp sdceegsdct pllqhaprae tapvccsary nlaflaffgf fvlyslrvnl
+       61 svalvdmvds nttaaenrts secaehsapi kvlhnqtgkk yqwnaetqgw ilgsffygyi
+      121 itqipggyia srsggklllg fgilgtsvft lltplaadfg vgalialral eglgegvtfp
+      181 amhamwsswa pplersklls isyagaqlgt vvslplsgii cfylnwtyvf ylfglvgiiw
+      241 filwtwlvsd tpdthrtisp yekeyilssl rnqlssqksv pwipmlkslp lwaivvahfs
+      301 ynwtfytllt llptymkevl rfniqengfl savpyfgcwv cmilsgqaad nlrakwnfst
+      361 lcvrrvfsli gmfgpavflv aagfigcdys lavafltist tlggfcssgf sishldiaps
+      421 yagillgitn tfatipgmig pviarsltpe ntirewqtvf ciaaalnvfg aifftlfgkg
+      481 evqgwavsdh hghkn
+//
+

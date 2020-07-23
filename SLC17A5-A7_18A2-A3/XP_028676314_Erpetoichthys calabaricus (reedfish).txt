@@ -1,0 +1,68 @@
+
+LOCUS       XP_028676314             490 aa            linear   VRT 21-APR-2019
+DEFINITION  sialin [Erpetoichthys calabaricus].
+ACCESSION   XP_028676314
+VERSION     XP_028676314.1
+DBLINK      BioProject: PRJNA531901
+DBSOURCE    REFSEQ: accession XM_028820481.1
+KEYWORDS    RefSeq.
+SOURCE      Erpetoichthys calabaricus (reedfish)
+  ORGANISM  Erpetoichthys calabaricus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Polypteriformes; Polypteridae; Erpetoichthys.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_041408.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Erpetoichthys calabaricus Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..490
+                     /organism="Erpetoichthys calabaricus"
+                     /db_xref="taxon:27687"
+                     /chromosome="15"
+     Protein         1..490
+                     /product="sialin"
+                     /calculated_mol_wt=53535
+     Region          38..473
+                     /region_name="MFS_SLC17A5"
+                     /note="Solute carrier family 17 member 5 (also called
+                     sialin) of the Major Facilitator Superfamily of
+                     transporters; cd17381"
+                     /db_xref="CDD:340939"
+     Site            order(49..50,53..54,57,117,169..170,172..174,177,197,
+                     200..201,204,293,296..297,300..302,305,333,337,396..397,
+                     401,405,421,424..425,428..429,432)
+                     /site_type="other"
+                     /note="putative chemical substrate binding pocket
+                     [chemical binding]"
+                     /db_xref="CDD:340939"
+     CDS             1..490
+                     /gene="slc17a5"
+                     /coded_by="XM_028820481.1:95..1567"
+                     /db_xref="GeneID:114665837"
+ORIGIN      
+        1 mysgsdsdtd dneypllrgk pflkvtkapa ccsaryslav lsfcgffmay alrvnlsvam
+       61 vemvktiinn ssashmcpgh assfviqhnt tapvydwdad tqgwilgsff ygylftqipg
+      121 gylarkfggk wflgigilgt avftlltpla ahlgagylia vrvlegigeg vtfpamhtmw
+      181 sswapplers kllsisyaga qlgtvvalpv sglicfyldw tfvfyifgal gilwflfwai
+      241 lvsdtpenhr rmsllekeyi tsslknempc ltktipwgsi lksvplwaiv mahfsynwsf
+      301 ytlltllpty mksilgfniq qngflsalpy lgcwllmllg gqladylret wmvrtvivrk
+      361 sfsiigmvgp avflvaagyt gcnytmavaf ltissslggf smsgfninhl diapayagil
+      421 lgitntfati pgmvgpiiak altpsntvee wqivfyisaa invfgavvfs ifgkgvvqtw
+      481 avadfhshgn
+//
+

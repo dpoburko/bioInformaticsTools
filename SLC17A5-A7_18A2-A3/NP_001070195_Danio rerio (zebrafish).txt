@@ -1,0 +1,81 @@
+
+LOCUS       NP_001070195             488 aa            linear   VRT 01-MAY-2019
+DEFINITION  sialin [Danio rerio].
+ACCESSION   NP_001070195
+VERSION     NP_001070195.1
+DBSOURCE    REFSEQ: accession NM_001076727.1
+KEYWORDS    RefSeq.
+SOURCE      Danio rerio (zebrafish)
+  ORGANISM  Danio rerio
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Danio.
+REFERENCE   1  (residues 1 to 488)
+  AUTHORS   Elkon R, Milon B, Morrison L, Shah M, Vijayakumar S, Racherla M,
+            Leitch CC, Silipino L, Hadi S, Weiss-Gayet M, Barras E, Schmid CD,
+            Ait-Lounis A, Barnes A, Song Y, Eisenman DJ, Eliyahu E, Frolenkov
+            GI, Strome SE, Durand B, Zaghloul NA, Jones SM, Reith W and
+            Hertzano R.
+  TITLE     RFX transcription factors are essential for hearing in mice
+  JOURNAL   Nat Commun 6, 8549 (2015)
+   PUBMED   26469318
+  REMARK    Publication Status: Online-Only
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. The reference sequence was derived from BC124240.1.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: BC124240.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMEA2168446, SAMEA2168447
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..488
+                     /organism="Danio rerio"
+                     /db_xref="taxon:7955"
+                     /chromosome="13"
+                     /map="13"
+     Protein         1..488
+                     /product="sialin"
+                     /note="solute carrier family 17 (anion/sugar transporter),
+                     member 5; solute carrier family 17 (acidic sugar
+                     transporter), member 5"
+                     /calculated_mol_wt=53493
+     Region          27..488
+                     /region_name="2A0114euk"
+                     /note="Na(+)-dependent inorganic phosphate cotransporter;
+                     TIGR00894"
+                     /db_xref="CDD:129972"
+     Region          92..472
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Site            order(106,109..110,113,117..118,120..121,169..170,
+                     173..174,177..178,181,193..194,197..198,204,297,300..301,
+                     304..305,308,322,326,330,333,337,394,397..398,401,
+                     405..406,409,420..421,424..425,428..429,432)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..488
+                     /gene="slc17a5"
+                     /gene_synonym="sb:cb809; zgc:153077"
+                     /coded_by="NM_001076727.1:28..1494"
+                     /db_xref="GeneID:767760"
+                     /db_xref="ZFIN:ZDB-GENE-060929-1158"
+ORIGIN      
+        1 melsasdses edhaqpllrr kdtediqkap acgssrygla flscygffva yalrvnlsva
+       61 mvdmlknssk antsssicpp hnipvpkhnh tamvydwnse tqgwilgsff ygyiitqipg
+      121 gylarkygak wllglgilct viftlltpla adlgagylia vrvlegigeg vtypamhamw
+      181 aswapplers rlltisytga qlgtvvalpl sgqicfyldw tyvfyifgav gllwfflwic
+      241 fvsnspsshk riteaektyi msslknelsp tqdyipwtsi fksmplwaiv vahfsynwtf
+      301 ytlltllpty mndvlgfsiq qngmlsalpy lgcwllallg gqladllrer flfrtvivrk
+      361 aftvvgmagp avflvaagyt gcnyilavaf ltissslggi sasgfninhl diapsyagil
+      421 lgitnsfati pgmvgpviar sltksntipe wqivfyisaa inifgavfft ifgkgtvqpw
+      481 avqtihiq
+//
+

@@ -1,0 +1,68 @@
+
+LOCUS       XP_020337341             492 aa            linear   VRT 09-DEC-2019
+DEFINITION  sialin [Oncorhynchus kisutch].
+ACCESSION   XP_020337341
+VERSION     XP_020337341.1
+DBLINK      BioProject: PRJNA378663
+DBSOURCE    REFSEQ: accession XM_020481752.2
+KEYWORDS    RefSeq.
+SOURCE      Oncorhynchus kisutch (coho salmon)
+  ORGANISM  Oncorhynchus kisutch
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_034177.2) annotated using gene prediction method: Gnomon,
+            supported by EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Oncorhynchus kisutch Annotation
+                                           Release 101
+            Annotation Version          :: 101
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.3
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..492
+                     /organism="Oncorhynchus kisutch"
+                     /isolate="150728-3"
+                     /db_xref="taxon:8019"
+                     /sex="female"
+                     /tissue_type="muscle"
+                     /dev_stage="juvenile"
+                     /country="Canada: Vancouver"
+                     /linkage_group="LG4"
+                     /note="double haploid"
+     Protein         1..492
+                     /product="sialin"
+                     /calculated_mol_wt=53588
+     Region          27..483
+                     /region_name="UhpC"
+                     /note="Sugar phosphate permease [Carbohydrate transport
+                     and metabolism]; cl27298"
+                     /db_xref="CDD:332119"
+     CDS             1..492
+                     /gene="slc17a5"
+                     /coded_by="XM_020481752.2:148..1626"
+                     /db_xref="GeneID:109889923"
+ORIGIN      
+        1 mdryisdtet ddqeqpllls rqddkverap accssrygls llscygffva yalrvnlsva
+       61 mvdmlnntda sgntsksvcp ahpsparpiy nhtasvydwd setqgwilgs ffygyiltqi
+      121 pggylarkyg akwllglgil gtvvftlltp vaadlgagyl iavrvlegig egvtfpamha
+      181 mwafwappme rsrlltiayt gaqlgtvval plsaqicfyl dwtwvfyifg ivgivwfilw
+      241 allvsntpst hpriteqerl yitsslnkel tlsgdhipwg siltsmplwa ivvahfsynw
+      301 tfytlltllp tymsdvlgfs ikengalsal pyigcgllav lggqladylr encfyrtvvv
+      361 rkafslvgmi gpavfivaag ytgcnyilav aflsissslg givasgfnin hldiapsyag
+      421 illgitnsfa tipgmvgpvi araltknnti eewqtvfyis aginlfgavf ytvfgqgvvq
+      481 pwavhnphsh gn
+//
+

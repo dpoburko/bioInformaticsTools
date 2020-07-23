@@ -1,0 +1,76 @@
+
+LOCUS       XP_029079864             429 aa            linear   MAM 21-MAY-2019
+DEFINITION  sialin isoform X2 [Monodon monoceros].
+ACCESSION   XP_029079864
+VERSION     XP_029079864.1
+DBLINK      BioProject: PRJNA542700
+DBSOURCE    REFSEQ: accession XM_029224031.1
+KEYWORDS    RefSeq.
+SOURCE      Monodon monoceros (narwhal)
+  ORGANISM  Monodon monoceros
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Cetartiodactyla; Cetacea;
+            Odontoceti; Monodontidae; Monodon.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_021703771.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Monodon monoceros Annotation Release
+                                           100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..429
+                     /organism="Monodon monoceros"
+                     /isolate="NGI"
+                     /db_xref="taxon:40151"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /tissue_type="liver"
+                     /dev_stage="Adolescent (Juvenile stage)"
+                     /ecotype="Baffin Bay Population"
+                     /country="Canada: Milne Inlet, Baffin Island, Nunavut"
+                     /lat_lon="72.3787 N 80.5310 W"
+                     /collection_date="08-Aug-2013"
+     Protein         1..429
+                     /product="sialin isoform X2"
+                     /calculated_mol_wt=47006
+     Region          1..411
+                     /region_name="MFS_SLC17A5"
+                     /note="Solute carrier family 17 member 5 (also called
+                     sialin) of the Major Facilitator Superfamily of
+                     transporters; cd17381"
+                     /db_xref="CDD:340939"
+     Site            order(57,109..110,112..114,117,137,140..141,144,232,
+                     235..236,239..241,244,272,276,335..336,340,344,360,
+                     363..364,367..368,371)
+                     /site_type="other"
+                     /note="putative chemical substrate binding pocket
+                     [chemical binding]"
+                     /db_xref="CDD:340939"
+     CDS             1..429
+                     /gene="SLC17A5"
+                     /coded_by="XM_029224031.1:680..1969"
+                     /db_xref="GeneID:114896135"
+ORIGIN      
+        1 mvdsntttad nrtanecaeh stpikvlhnq tgkkyrwdae tqgwilgsff ygyiitqipa
+       61 gyvasrsggk lllgfgvlgt svftlftpla adfgvgalia lraleglgeg vtfpamhamw
+      121 sswapplers kllsisyaga qlgtvvslpl sgivcfymnw tyvfylfgiv giiwfilwiw
+      181 lvsdtpethk tispyekeyi lsslrnqlss qksvpwvpml kslalwaivv ahfsynwtfy
+      241 tlltllptym kevlrfniqe ngflsavpyl gcwlcmilsg qaadnlrakw nfstlcvrrv
+      301 fsligmigpa vflvaagfig cdyslavafl tisttlggfc ssgfsinhld iapsyagill
+      361 gitntfatip gmigpiiars ltpentvgew qtvfclaaav nvfgaifftl fskgevqnwa
+      421 vrdhgeprn
+//
+

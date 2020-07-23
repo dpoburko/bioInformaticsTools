@@ -1,0 +1,61 @@
+
+LOCUS       XP_031735090             507 aa            linear   VRT 16-DEC-2019
+DEFINITION  sialin isoform X1 [Anarrhichthys ocellatus].
+ACCESSION   XP_031735090
+VERSION     XP_031735090.1
+DBLINK      BioProject: PRJNA595352
+DBSOURCE    REFSEQ: accession XM_031879230.1
+KEYWORDS    RefSeq.
+SOURCE      Anarrhichthys ocellatus (wolf-eel)
+  ORGANISM  Anarrhichthys ocellatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Cottioidei; Zoarcales;
+            Anarhichadidae; Anarrhichthys.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_022280266.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Anarrhichthys ocellatus Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.3
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..507
+                     /organism="Anarrhichthys ocellatus"
+                     /isolate="YVR2014"
+                     /db_xref="taxon:433405"
+                     /chromosome="Unknown"
+                     /sex="female"
+                     /tissue_type="blood"
+                     /dev_stage="adult"
+     Protein         1..507
+                     /product="sialin isoform X1"
+                     /calculated_mol_wt=54876
+     CDS             1..507
+                     /gene="slc17a5"
+                     /coded_by="XM_031879230.1:74..1597"
+                     /db_xref="GeneID:116401038"
+ORIGIN      
+        1 mernggsdte gddtpllhrg hedkvtrapa ccssryglal lsslgffvvy slrvnlsvam
+       61 vdmlnntrhs stnhsgsvcp ahanparpkh nhtasvynwd setqgwilgs ffygyiltqi
+      121 pggylagryg pkwlmgfgil gtvvftlltp vaadlgasyv iavrvlegig egvtfpsmyt
+      181 mwaawapple rsrlltisyi gaqlgtvvsl plsgeicfyl dwtyvfyifg avglvwfflw
+      241 sflafdspnt hpriseqerl yitgslknei mpvaglpppp svaclstsag hipwraivss
+      301 rplwaivvah fsynwtfytl ltllptymnd vlgfsiqqng llsalpyvgc avfavvsgql
+      361 adylretcly rtvtvrkcfs vvgmlgpavf lvavgytgcn ytlavtflti ssalggvsas
+      421 gfninhldia psyagillgi tntfatipgm vgpviatalt kqntidewqs vfyiaaainv
+      481 fgaafytlfg rgtvqpwavh asyshgd
+//
+

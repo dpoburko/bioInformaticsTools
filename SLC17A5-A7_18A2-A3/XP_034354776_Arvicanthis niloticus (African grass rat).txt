@@ -1,0 +1,67 @@
+
+LOCUS       XP_034354776             529 aa            linear   ROD 16-MAY-2020
+DEFINITION  vesicular acetylcholine transporter [Arvicanthis niloticus].
+ACCESSION   XP_034354776
+VERSION     XP_034354776.1
+DBLINK      BioProject: PRJNA632612
+DBSOURCE    REFSEQ: accession XM_034498885.1
+KEYWORDS    RefSeq.
+SOURCE      Arvicanthis niloticus (African grass rat)
+  ORGANISM  Arvicanthis niloticus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+            Muroidea; Muridae; Murinae; Arvicanthis.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_047660.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Arvicanthis niloticus Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.4
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..529
+                     /organism="Arvicanthis niloticus"
+                     /isolate="mArvNil1"
+                     /specimen_voucher="T564M"
+                     /db_xref="taxon:61156"
+                     /chromosome="3"
+                     /sex="male"
+                     /tissue_type="Spleen (genome), brain & testis
+                     (transcriptome)"
+                     /dev_stage="adult"
+                     /country="USA: Santa Barbara"
+                     /lat_lon="34.41938 N 119.69905 W"
+                     /collection_date="06-Mar-2019"
+                     /collected_by="Huishi Toh"
+     Protein         1..529
+                     /product="vesicular acetylcholine transporter"
+                     /calculated_mol_wt=56348
+     CDS             1..529
+                     /gene="Slc18a3"
+                     /coded_by="XM_034498885.1:436..2025"
+                     /db_xref="GeneID:117706057"
+ORIGIN      
+        1 meptaptgqa raaatklsea vgaalqepqr qrrlvlvivc vallldnmly mvivpivpdy
+       61 iahmrggses ptlvsevwep tlppptlana saylantsas ptagsarsil rpryptesed
+      121 vkigvlfask ailqllvnpl sgpfidrmsy dvplliglgv mfastvmfaf aedyatlfaa
+      181 rslqglgsaf adtsgiamia dkypeepers ralgvalafi sfgslvappf ggilyefagk
+      241 rvpflvlaav slfdalllla vakpfsaaar aranlpvgtp ihrlmldpyi avvagalttc
+      301 niplaflept iatwmkhtma asewemgmvw lpafvphvlg vyltvrlaar yphlqwlyga
+      361 lglavigvss cvvpacrsfa plvvslcglc fgialvdtal lptlaflvdv rhvsvygsvy
+      421 aiadisysva yalgpivagh ivhslgfeql slgmglanll yapvllllrn vglltrsrse
+      481 rdvlldeppq glydavrlre vqgkngsepg sppgpfdgce ddynyysrs
+//
+

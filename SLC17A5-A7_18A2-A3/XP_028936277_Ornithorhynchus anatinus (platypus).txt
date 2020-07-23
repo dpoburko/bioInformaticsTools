@@ -1,0 +1,71 @@
+
+LOCUS       XP_028936277             517 aa            linear   MAM 29-APR-2019
+DEFINITION  synaptic vesicular amine transporter [Ornithorhynchus anatinus].
+ACCESSION   XP_028936277
+VERSION     XP_028936277.1
+DBLINK      BioProject: PRJNA534073
+DBSOURCE    REFSEQ: accession XM_029080444.1
+KEYWORDS    RefSeq.
+SOURCE      Ornithorhynchus anatinus (platypus)
+  ORGANISM  Ornithorhynchus anatinus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Monotremata; Ornithorhynchidae; Ornithorhynchus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_041743.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Ornithorhynchus anatinus Annotation
+                                           Release 104
+            Annotation Version          :: 104
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..517
+                     /organism="Ornithorhynchus anatinus"
+                     /isolate="Pmale09"
+                     /db_xref="taxon:9258"
+                     /chromosome="16"
+                     /sex="male"
+                     /tissue_type="liver; muscle"
+     Protein         1..517
+                     /product="synaptic vesicular amine transporter"
+                     /calculated_mol_wt=55982
+     Region          22..474
+                     /region_name="MFS_SLC18A1_2_VAT1_2"
+                     /note="Vesicular amine transporters 1 (VAT1) and 2 (VAT2),
+                     and similar transporters of the Major Facilitator
+                     Superfamily; cd17384"
+                     /db_xref="CDD:340942"
+     Site            order(33..34,37..38,41,149,199..200,202..204,207,228,
+                     231..232,235,304,307..308,311..313,316,344,348,401..402,
+                     406,410,425,428..429,432..433,436)
+                     /site_type="other"
+                     /note="putative chemical substrate binding pocket
+                     [chemical binding]"
+                     /db_xref="CDD:340942"
+     CDS             1..517
+                     /gene="SLC18A2"
+                     /coded_by="XM_029080444.1:65..1618"
+                     /db_xref="GeneID:100081376"
+ORIGIN      
+        1 mapsefavlr wlresrqsrk lillivfial lldnmlltvv vpiipsylyt ieheknatei
+       61 qtikpevdsp stprfqsifs yydnstmtie natrglprgd lyrattqqmv vnatstpsdc
+      121 pkedkdllne nvqvgllfas katvqlltnp figaltnrig yqipmfagfc imfvstimfa
+      181 fsgsytllfi arslqgigss cssvagmgml asiytddeer gnamgialgg lalgvlvgpp
+      241 fgsvmyefvg ktapflvlaa lalldgavql filqpsrvqp esqkgtslvt llkdpyilia
+      301 agsicfsnma iailepalpi wmmetmcprk wqlgvaflpa sisyligtnt fgvlahkmgr
+      361 wlcaligmmv vgisilcvpf akniygliap nfgvgfaigm vdssmmpimg ylvdlrhvsv
+      421 ygsvyaiadv afcmgfaigp saggaiakai gfswlmtiig vidilfaplc fflrsppake
+      481 ekmailmdhn csiktkmytq nsiqsypaae edsesde
+//
+

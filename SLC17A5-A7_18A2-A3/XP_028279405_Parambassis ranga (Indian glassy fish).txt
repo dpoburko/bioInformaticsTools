@@ -1,0 +1,69 @@
+
+LOCUS       XP_028279405             516 aa            linear   VRT 14-MAR-2019
+DEFINITION  probable vesicular acetylcholine transporter-A [Parambassis ranga].
+ACCESSION   XP_028279405
+VERSION     XP_028279405.1
+DBLINK      BioProject: PRJNA526690
+DBSOURCE    REFSEQ: accession XM_028423604.1
+KEYWORDS    RefSeq.
+SOURCE      Parambassis ranga (Indian glassy fish)
+  ORGANISM  Parambassis ranga
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Ambassidae; Parambassis.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_041035.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Parambassis ranga Annotation Release
+                                           100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..516
+                     /organism="Parambassis ranga"
+                     /db_xref="taxon:210632"
+                     /chromosome="15"
+     Protein         1..516
+                     /product="probable vesicular acetylcholine transporter-A"
+                     /calculated_mol_wt=56177
+     Region          44..449
+                     /region_name="MFS_SLC18A3_VAChT"
+                     /note="Vesicular acetylcholine transporter (VAChT) and
+                     similar transporters of the Major Facilitator Superfamily;
+                     cd17383"
+                     /db_xref="CDD:340941"
+     Site            order(54..55,58..59,62,120,170..171,173..175,178,199,
+                     202..203,206,277,280..281,284..286,289,317,321,370..371,
+                     375,379,400,403..404,407..408,411)
+                     /site_type="other"
+                     /note="putative chemical substrate binding pocket
+                     [chemical binding]"
+                     /db_xref="CDD:340941"
+     CDS             1..516
+                     /gene="LOC114447382"
+                     /coded_by="XM_028423604.1:477..2027"
+                     /db_xref="GeneID:114447382"
+ORIGIN      
+        1 meqpegqapn maqsaaskls qigertkqlg naiqdperqk riilvivcia lfldnmlymv
+       61 ivpiipdyle glqkaadhaq aaavhtnstn stthkvekgn fdlqigvlfa skailqllvn
+      121 plsgtfidrv gydiplfigl nvmflstlif afadnyatlf larsmqglgs afadtsgiam
+      181 iadkyseeke rskalgiala fisfgslvap pfggvlyefa gkrvpflila cicltdgilc
+      241 lcvlkpfsnk erenmpvgtp iyklmldpyi avvagaltic niplaflept ianwmeenmh
+      301 ssqweigmtw fpaffphvlg vyltvklaak yphlqwfyga igmvfigass ctvpacknfg
+      361 qlmiplcgic fgiafvdtal lptlgflvdv rhvsvygsvy aiadisycva yalgpvvagq
+      421 ivhdlgfvql nlgmglanvl yapallllkn vtqmkpsfse rnmlledgpt glydtikmeq
+      481 rekkrkglct tidengietf aqrsyseees sggeya
+//
+

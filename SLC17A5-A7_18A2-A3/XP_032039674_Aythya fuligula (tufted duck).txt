@@ -1,0 +1,66 @@
+
+LOCUS       XP_032039674             485 aa            linear   VRT 30-JAN-2020
+DEFINITION  sialin [Aythya fuligula].
+ACCESSION   XP_032039674
+VERSION     XP_032039674.1
+DBLINK      BioProject: PRJNA602521
+DBSOURCE    REFSEQ: accession XM_032183783.1
+KEYWORDS    RefSeq.
+SOURCE      Aythya fuligula (tufted duck)
+  ORGANISM  Aythya fuligula
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Galloanserae; Anseriformes;
+            Anatidae; Aythyinae; Aythya.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_045561.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Aythya fuligula Annotation Release
+                                           100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.3
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..485
+                     /organism="Aythya fuligula"
+                     /isolate="bAytFul2"
+                     /db_xref="taxon:219594"
+                     /chromosome="3"
+                     /sex="female"
+                     /tissue_type="lung (powdered)"
+                     /dev_stage="adult"
+                     /country="Sweden"
+                     /lat_lon="59.8509 N 17.6300 E"
+                     /collection_date="28-Aug-2017"
+                     /collected_by="Patrik Ellstrom, Mahmoud Naguib, Josef
+                     Jarhult"
+     Protein         1..485
+                     /product="sialin"
+                     /calculated_mol_wt=53247
+     CDS             1..485
+                     /gene="SLC17A5"
+                     /coded_by="XM_032183783.1:55..1512"
+                     /db_xref="GeneID:116487150"
+ORIGIN      
+        1 mepeegedrt pllkeprldg avpaccsary nlallaffgf fllyalrvnl svalvdmvep
+       61 ntslakntts nvcpehssti ntprnttgkk yswdadtqgw ilgsffygyi itqipggyla
+      121 skiggklllg fgvfgtsaft lltplaadlg vgyliavral eglgegvtfp amhsmwsswa
+      181 pplersklls isyagaqlgt vvslplsgli cyymnwvyvf yifgalgvlw fffwmwlvsd
+      241 tpdthksish aereyilssl kdqlstqksv pwrpmleslp lwaivvahfs ynwtfytllt
+      301 llptymkeil rfdaqengfl salpyfgcwl ciilsgqiad ylrekqkfst vcvrkcftli
+      361 gmigpavflv aagfigcnya lavafvtist tlggfctsgy sinhldiaps yagillgitn
+      421 sfatipgmvg pviakslthn ntvgewqtvf yiaasinlfg aiffalfasg evqdwavsgy
+      481 hlhrn
+//
+

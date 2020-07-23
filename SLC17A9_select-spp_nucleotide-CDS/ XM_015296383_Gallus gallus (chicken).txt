@@ -1,0 +1,104 @@
+
+LOCUS       XM_015296383            6891 bp    mRNA    linear   VRT 17-MAY-2018
+DEFINITION  PREDICTED: Gallus gallus solute carrier family 17 member 9
+            (SLC17A9), transcript variant X3, mRNA.
+ACCESSION   XM_015296383
+VERSION     XM_015296383.2
+DBLINK      BioProject: PRJNA10808
+KEYWORDS    RefSeq.
+SOURCE      Gallus gallus (chicken)
+  ORGANISM  Gallus gallus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Galloanserae; Galliformes;
+            Phasianidae; Phasianinae; Gallus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_006107.5) annotated using gene prediction method: Gnomon,
+            supported by mRNA and EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            On May 17, 2018 this sequence version replaced XM_015296383.1.
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Gallus gallus Annotation Release 104
+            Annotation Version          :: 104
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.0
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..6891
+                     /organism="Gallus gallus"
+                     /mol_type="mRNA"
+                     /isolate="RJF #256"
+                     /db_xref="taxon:9031"
+                     /chromosome="20"
+                     /sex="female"
+                     /breed="Red Jungle Fowl"
+     gene            1..6891
+                     /gene="SLC17A9"
+                     /gene_synonym="C20orf59; POROK8; VNUT"
+                     /note="solute carrier family 17 member 9; Derived by
+                     automated computational analysis using gene prediction
+                     method: Gnomon. Supporting evidence includes similarity
+                     to: 31 mRNAs, 46 ESTs, 12 long SRA reads, and 100%
+                     coverage of the annotated genomic feature by RNAseq
+                     alignments, including 46 samples with support for all
+                     annotated introns"
+                     /db_xref="CGNC:4260"
+                     /db_xref="GeneID:419236"
+     CDS             3845..5467
+                     /gene="SLC17A9"
+                     /gene_synonym="C20orf59; POROK8; VNUT"
+                     /codon_start=1
+                     /product="solute carrier family 17 member 9 isoform X3"
+                     /protein_id="XP_015151869.1"
+                     /db_xref="GeneID:419236"
+                     /db_xref="CGNC:4260"
+                     /translation="MLKGEDGHAKAKSFQLFLLSHHCVAGEGLIIYWRKRKKIKRGKK
+                     KKKERKKPTVQRPSLRERDGDAKAPLRAARRPSAFRGHREFGAAPGLDAEPGPRPSPA
+                     LCGRPQHRGGRRDFPERPGGEALTRGCGSAGGGSRRPARCEPAGPEGAARMAAGGGRN
+                     APVCGGERGSRAPQHDGMWKDGGGEQYWSRIGGEKVLLLSASAWGFLTFITPLLTQIT
+                     SAHLVFMTCSRFLMGLLQGVYFPSLASLLSQRVRESERAFTYSTVGTGSQFGTLVIGA
+                     AGSLLLDWYGWESVFYFSGLLTLLWVYCTCKYLLVEKDLVIPIDYLRRGISISKQSKV
+                     PWKQLFKKAPIWAVIVAQLCTASTFFTLLSWLPTFFKETFPESKGWVFNVVPWLVAIP
+                     TSLFSGFLSDHLINQGYKTITVRKFMQVIGSGVSSVFALCLGQTSSFCKAIVFASASV
+                     GLQTFNHSGISVNVQDLAPSCAGLLFGVGNTGGALLGVVCVYLAGYLMETTGSWISVF
+                     NLVAVVNSVGLCVFLVFGEAQRVDTDSAYIDL"
+ORIGIN      
+         1 atgttgaagg gagaggatgg gcatgcaaaa gcgaaatcgt ttcagttatt tctgttaagc 
+        61 caccactgtg ttgccggtga gggcttaatt atttactgga gaaagaggaa aaaaataaaa 
+       121 agaggaaaaa aaaaaaaaaa agaaagaaag aaaccaacag tacaaagacc aagtttgagg 
+       181 gaaagggatg gagacgccaa agctccgctc cgcgctgccc gccggccgag cgccttccgc 
+       241 gggcaccgcg agttcggagc tgccccgggg ctggatgcgg agccgggacc ccgcccgtcc 
+       301 ccagcgctct gcgggcggcc ccagcaccgt ggcggccggc gggacttccc ggaacggccc 
+       361 ggcggggagg cgctgacacg tggctgcggc tcggcagggg gagggagccg gcggccggcg 
+       421 cgatgtgagc cggcggggcc ggaaggcgct gcccgcatgg ccgcgggagg cggcaggaat 
+       481 gcgccggtgt gcggaggaga gcgcggctcc cgggccccgc aacacgacgg catgtggaag 
+       541 gatggaggcg gggagcagta ctggtccaga atagggggtg agaaggtcct cctcctctcg 
+       601 gcatcagcat ggggcttcct gacgttcatc accccactgc tcacccagat cacgtcggca 
+       661 cacctcgtct tcatgacctg ctccaggttc ctcatggggc tgctgcaagg ggtctacttc 
+       721 ccatccctgg ccagcctgct gtcccagagg gtccgggaga gcgagcgagc cttcacatac 
+       781 agcacagtgg ggactggctc acagtttggg acgctggtga tcggagctgc aggatctctg 
+       841 ctgctggact ggtatggctg ggagagcgtt ttctacttct ctggtttgct cactttgctc 
+       901 tgggtttact gcacctgcaa gtacctgctg gtggagaaag atctcgtcat ccccatagac 
+       961 tatttaagga gaggcatctc aatctcaaag cagagcaaag tgccctggaa gcagctgttt 
+      1021 aagaaggcgc cgatctgggc tgtcatcgtc gcgcagctgt gcacagccag cacgtttttc 
+      1081 actctcctct cctggctgcc gactttcttt aaggaaacgt tccccgagtc caagggctgg 
+      1141 gtgttcaatg tagttccctg gctggttgca attccaacaa gcttgttcag tggatttctg 
+      1201 tccgatcatt taattaatca ggggtacaaa accatcaccg ttcgtaagtt catgcaggtc 
+      1261 attggctctg gagtctcaag cgtgtttgcc ctgtgcctgg gccagacgtc cagtttttgc 
+      1321 aaggctatag tgttcgcctc agcctccgtt gggcttcaga cctttaacca cagtggcatt 
+      1381 tcagtgaacg tgcaagacct ggccccgtcc tgtgctggct tgctgtttgg tgttggaaat 
+      1441 acaggcggag ctctgctagg tgtggtttgt gtgtacctgg ctggatatct gatggaaacg 
+      1501 acgggctcct ggatttctgt tttcaacctg gtggctgttg tcaacagtgt tggtctctgt 
+      1561 gtgttcctgg tgtttggaga ggcccagagg gtggacacgg actctgccta catcgacctg 
+      1621 tag
+//
+

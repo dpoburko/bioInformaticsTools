@@ -1,0 +1,61 @@
+
+LOCUS       XP_032408964             493 aa            linear   VRT 24-FEB-2020
+DEFINITION  sialin [Xiphophorus hellerii].
+ACCESSION   XP_032408964
+VERSION     XP_032408964.1
+DBLINK      BioProject: PRJNA604828
+DBSOURCE    REFSEQ: accession XM_032553073.1
+KEYWORDS    RefSeq.
+SOURCE      Xiphophorus hellerii (green swordtail)
+  ORGANISM  Xiphophorus hellerii
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Atherinomorphae; Cyprinodontiformes;
+            Poeciliidae; Poeciliinae; Xiphophorus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_045693.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Xiphophorus hellerii Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.3
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..493
+                     /organism="Xiphophorus hellerii"
+                     /strain="12219"
+                     /db_xref="taxon:8084"
+                     /chromosome="22"
+                     /sex="male"
+                     /tissue_type="muscle"
+                     /dev_stage="adult"
+     Protein         1..493
+                     /product="sialin"
+                     /calculated_mol_wt=53808
+     CDS             1..493
+                     /gene="slc17a5"
+                     /coded_by="XM_032553073.1:94..1575"
+                     /db_xref="GeneID:116713106"
+ORIGIN      
+        1 merydsdtek deqqrpllhr rqddkvqrap accssrygla llssygffvv yslrvnlsva
+       61 mvdmlnnthq sssnhsgsvc tphgnpvppk hnqsagvynw dsatqgwilg sffygyiltq
+      121 ipggylagrc gakwlmgfgv lgtalftllt plaadlgasy liavrvlegv gegvtfpamy
+      181 tmwaswappl ersrlltisy igaqlgtvva lplsgeicfy mgwpyvfylf gavglvwfvl
+      241 waflvfdspn shpriseqer lyitnslkne lstssghipw raivtsmplm aivvahfsyn
+      301 wtfytlltll ptymndilgf siqqngflsa lpylgcalma vlsgqvadyl retclyptvi
+      361 vrksfsligm igpavflvaa gytgcnytla vtfltissal ggvsasgfni nhldiapsya
+      421 gillgitntf atipgmvgpv iaralthsnt ieewqtvfyi aaainvfgal fytvfgrgtv
+      481 qpwaihttys hgd
+//
+

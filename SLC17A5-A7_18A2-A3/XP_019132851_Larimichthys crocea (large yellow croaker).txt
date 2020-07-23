@@ -1,0 +1,61 @@
+
+LOCUS       XP_019132851             525 aa            linear   VRT 05-DEC-2018
+DEFINITION  synaptic vesicular amine transporter isoform X2 [Larimichthys
+            crocea].
+ACCESSION   XP_019132851
+VERSION     XP_019132851.1
+DBLINK      BioProject: PRJNA354443
+DBSOURCE    REFSEQ: accession XM_019277306.2
+KEYWORDS    RefSeq.
+SOURCE      Larimichthys crocea (large yellow croaker)
+  ORGANISM  Larimichthys crocea
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Sciaenidae; Larimichthys.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_040011.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Larimichthys crocea Annotation
+                                           Release 102
+            Annotation Version          :: 102
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.1
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..525
+                     /organism="Larimichthys crocea"
+                     /isolate="SSNF"
+                     /db_xref="taxon:215358"
+                     /chromosome="I"
+                     /tissue_type="blood"
+                     /country="China: Southeast region"
+                     /collection_date="Aug-2011"
+     Protein         1..525
+                     /product="synaptic vesicular amine transporter isoform X2"
+                     /calculated_mol_wt=56559
+     CDS             1..525
+                     /gene="slc18a2"
+                     /coded_by="XM_019277306.2:163..1740"
+                     /db_xref="GeneID:104929391"
+ORIGIN      
+        1 mgrldafrqf nllkwlreer qsrklilfiv fvallldnml ltvvvpiips ylynldesta
+       61 tvlknktlpq pgppgafhsi vslydntvrs lgsnittrst dlvstapaat elpqnssdcp
+      121 qstskllnen vkvgilfask atvqlitnpf igpltnrigy qlpifagfci mfistimfaf
+      181 sssytllfla rslqgvgssc ssvagmgmla svytddeerg haigialggl amgvlvgppf
+      241 gsvmydfvgk tapflilafl alfdgalqli vlqptkvepe sqkgtplltl mkdpyiliaa
+      301 gaicfgnmai ammeptlpiw mmetmcakkw qlgvaflpas isyligtnif gtlahkmgrw
+      361 lcaligitvv gisvicvpfa tniyglilpn fgvgfaigkc aklntvlvll lnvsdlfclc
+      421 cvtgmvdssm mpimgylvdl rhvsvygsvy aiadvafcmg falgpsiggs iaesigfpwv
+      481 mtiigivdif faplclflrn ppgqeekigf tqqckccshh wtsmd
+//
+

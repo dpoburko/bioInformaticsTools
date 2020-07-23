@@ -1,0 +1,62 @@
+
+LOCUS       XP_026165653             492 aa            linear   VRT 10-APR-2020
+DEFINITION  sialin isoform X1 [Mastacembelus armatus].
+ACCESSION   XP_026165653
+VERSION     XP_026165653.1
+DBLINK      BioProject: PRJNA489256
+DBSOURCE    REFSEQ: accession XM_026309868.2
+KEYWORDS    RefSeq.
+SOURCE      Mastacembelus armatus (zig-zag eel)
+  ORGANISM  Mastacembelus armatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Anabantaria; Synbranchiformes; Mastacembelidae;
+            Mastacembelus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_046647.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Mastacembelus armatus Annotation
+                                           Release 101
+            Annotation Version          :: 101
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.4
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..492
+                     /organism="Mastacembelus armatus"
+                     /db_xref="taxon:205130"
+                     /chromosome="15"
+     Protein         1..492
+                     /product="sialin isoform X1"
+                     /calculated_mol_wt=53846
+     Region          29..483
+                     /region_name="UhpC"
+                     /note="Sugar phosphate permease [Carbohydrate transport
+                     and metabolism]; cl27298"
+                     /db_xref="CDD:332119"
+     CDS             1..492
+                     /gene="slc17a5"
+                     /coded_by="XM_026309868.2:152..1630"
+                     /db_xref="GeneID:113132061"
+ORIGIN      
+        1 mpygsdterd eqetpllhrg hedkvqrapa ccssrytlal lssygffvvy slrvnlsvam
+       61 vdmlnsthqs sinhsgsvcp astnpprprp nhkasvydwd setqgwilga ffygyiltqi
+      121 pggylagrlg pkwllgfgil gtvvftlftp vaadlgasyl iavraiegvg egvtfpamyt
+      181 mwaswapple rsrlltisyi gaqlgtvial pvsglicfyl dwtyvfyifg vvglvwfvlw
+      241 aflvfdspnt hpriseqerl yitnslknel ststrcipwr aivtsiplwa ivvahfsynw
+      301 tfytlltllp tymnnilgfs iqqngmlsal pymgcavfaf lsgqvadylr etrhyptvtv
+      361 rkaftivgmv gpavflvavg ytgcnyilav afltvsstlg gvsasgfnin hldiapsyag
+      421 illgitntfa tipgmvgpvi ardltaqnti eqwqvvfyia aainlfgalf yslfgqgtvq
+      481 pwavqascsh gd
+//
+

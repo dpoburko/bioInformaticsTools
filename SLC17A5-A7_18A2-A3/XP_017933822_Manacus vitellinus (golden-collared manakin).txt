@@ -1,0 +1,62 @@
+
+LOCUS       XP_017933822             484 aa            linear   VRT 29-JUL-2019
+DEFINITION  sialin isoform X1 [Manacus vitellinus].
+ACCESSION   XP_017933822
+VERSION     XP_017933822.2
+DBLINK      BioProject: PRJNA341382
+DBSOURCE    REFSEQ: accession XM_018078333.2
+KEYWORDS    RefSeq.
+SOURCE      Manacus vitellinus (golden-collared manakin)
+  ORGANISM  Manacus vitellinus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Passeriformes; Pipridae; Manacus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_021940604.1) annotated using gene prediction method: Gnomon,
+            supported by EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            On Jul 19, 2019 this sequence version replaced XP_017933822.1.
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Manacus vitellinus Annotation
+                                           Release 103
+            Annotation Version          :: 103
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..484
+                     /organism="Manacus vitellinus"
+                     /isolate="BGI_N305"
+                     /db_xref="taxon:328815"
+                     /chromosome="Unknown"
+                     /sex="female"
+                     /country="Panama"
+     Protein         1..484
+                     /product="sialin isoform X1"
+                     /calculated_mol_wt=53159
+     CDS             1..484
+                     /gene="SLC17A5"
+                     /coded_by="XM_018078333.2:83..1537"
+                     /db_xref="GeneID:103754482"
+ORIGIN      
+        1 mepeegedrt pllkesqpgt vpaccsaryn lallacfgff llyalrvnls valvdmvepn
+       61 tslaknatsn vcpehsstin vprnttgeky swdadtqgwi lgsffygyii tqipggylas
+      121 riggklllgf gifgtsiftl ltplaanlgv gyliavrale glgegvtfpa mhsmwsswap
+      181 plerskllsi syagaqlgtv vslplsglic yymnwvyvfy ifgalgvlww ffwmclvsdt
+      241 pethrsisha ereyilsslk dqlstqksvp wrpmlkslpl waivvahfsy nwtfytlltl
+      301 lptymkeilr fdaqengfls alpyfgcwlc iilsgqiady lrekqnfstv cvrkcftlig
+      361 migpalflva agfigcnyal avafvtistt lggfctsgys inhldiapsy agillgitns
+      421 fatipgmvgp viaknlthnn tvgewqtvfy iaasinlfga iffalfasge vqdwavsgyr
+      481 lhrn
+//
+

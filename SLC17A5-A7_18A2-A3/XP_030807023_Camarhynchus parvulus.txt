@@ -1,0 +1,57 @@
+
+LOCUS       XP_030807023             519 aa            linear   VRT 26-SEP-2019
+DEFINITION  synaptic vesicular amine transporter [Camarhynchus parvulus].
+ACCESSION   XP_030807023
+VERSION     XP_030807023.1
+DBLINK      BioProject: PRJNA566393
+DBSOURCE    REFSEQ: accession XM_030951163.1
+KEYWORDS    RefSeq.
+SOURCE      Camarhynchus parvulus
+  ORGANISM  Camarhynchus parvulus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Passeriformes; Thraupidae;
+            Camarhynchus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_044576.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Camarhynchus parvulus Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..519
+                     /organism="Camarhynchus parvulus"
+                     /db_xref="taxon:87175"
+                     /chromosome="6"
+     Protein         1..519
+                     /product="synaptic vesicular amine transporter"
+                     /calculated_mol_wt=56318
+     CDS             1..519
+                     /gene="SLC18A2"
+                     /coded_by="XM_030951163.1:9..1568"
+                     /db_xref="GeneID:115905081"
+ORIGIN      
+        1 mawgelgllr wlresrqsrk lillivfial lldnmlltvv vpiipsylys iehqknatei
+       61 qtakpnlpsa tmdnfqsifs yydnstmltg nesdktepae lhqtqtepmv vrvtpspsdc
+      121 pkddkellne nvrvgllfas katvqlmtnp figpltnrig yqiplfagfc imfvstimfa
+      181 fsgsyallfi arslqgvgss cssvagmgll atvytddeer gnamgialgg lamgvlvgpp
+      241 fgsvmyefvg ksspflvlaa lalfdgavql lvlqpsrtqa esqkgtpllt llkdpyiiia
+      301 agsicfanma iamlepalpi wmmetmcskk wqlgvaflpa sisyligtnl fgilahkigr
+      361 wlcallgmli vgisilcvpf akniygliap tfgvgfaigm vdssmmpimg ylvdlrhvsv
+      421 ygsvyaiadv afcmgfaigp saggaiakai gfpwlmtiig ivdiifaplc fflrsppake
+      481 ekmailmdhn cpvktkmytq nniqsypige eeeeyesde
+//
+

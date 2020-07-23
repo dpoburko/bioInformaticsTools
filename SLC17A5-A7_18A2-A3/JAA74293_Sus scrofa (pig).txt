@@ -1,0 +1,93 @@
+
+LOCUS       JAA74293                 495 aa            linear   MAM 01-MAR-2013
+DEFINITION  solute carrier family 17 (anion/sugar transporter), member 5 [Sus
+            scrofa].
+ACCESSION   JAA74293
+VERSION     JAA74293.1
+DBLINK      BioProject: PRJNA80971
+            Sequence Read Archive: SRR513212, SRR513214, SRR513216, SRR513219,
+            SRR513229, SRR513230, SRR513231, SRR513232, SRR513233, SRR513234,
+            SRR513235, SRR513236, SRR513250, SRR513251, SRR513252, SRR513253,
+            SRR513254, SRR513255, SRR513256, SRR513257, SRR513258, SRR513259,
+            SRR513260, SRR513261, SRR513262, SRR513279, SRR513280, SRR513281,
+            SRR513282, SRR513283, SRR513284, SRR513285, SRR513286, SRR513287,
+            SRR513288, SRR513289, SRR513290, SRR513291, SRR513292, SRR513293,
+            SRR513294, SRR513328, SRR513329, SRR513330, SRR513331, SRR513332,
+            SRR513333, SRR513334, SRR513335, SRR513336, SRR513348, SRR513349,
+            SRR513350, SRR513351, SRR513352, SRR513353, SRR513354, SRR513879,
+            SRR513882, SRR513883, SRR513886, SRR513895, SRR513896, SRR513899,
+            SRR513900, SRR513902, SRR516752, SRR516753, SRR516754, SRR516755,
+            SRR516756, SRR516757, SRR516758, SRR516759, SRR516760, SRR516761,
+            SRR516762, SRR516763, SRR516764, SRR516765, SRR516766
+DBSOURCE    accession GACC01000291.1
+KEYWORDS    TSA; Transcriptome Shotgun Assembly.
+SOURCE      Sus scrofa (pig)
+  ORGANISM  Sus scrofa
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Cetartiodactyla; Suina; Suidae;
+            Sus.
+REFERENCE   1  (residues 1 to 495)
+  AUTHORS   Dawson,H.D. and Chen,C.T.
+  TITLE     Global Gene Expression Profiling of Alveolar Macrophages by Deep
+            Sequencing
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 495)
+  AUTHORS   Dawson,H.D. and Chen,C.T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-OCT-2012) ARS, BHNRC, USDA, 10300 Baltimore Ave.,
+            Beltsville, MD 20705, USA
+REFERENCE   3  (residues 1 to 495)
+  AUTHORS   Dawson,H.D. and Chen,C.T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-FEB-2013) ARS, BHNRC, USDA, 10300 Baltimore Ave.,
+            Beltsville, MD 20705, USA
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: CLCBiobench v. 5.0
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..495
+                     /organism="Sus scrofa"
+                     /isolation_source="control group"
+                     /db_xref="taxon:9823"
+                     /cell_type="alveolar macrophages"
+                     /note="breed: Yorkshire-Poland China"
+     Protein         1..495
+                     /product="solute carrier family 17 (anion/sugar
+                     transporter), member 5"
+     Region          30..491
+                     /region_name="2A0114euk"
+                     /note="Na(+)-dependent inorganic phosphate cotransporter;
+                     TIGR00894"
+                     /db_xref="CDD:129972"
+     Region          99..477
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Site            order(112,115..116,119,123..124,126..127,175..176,
+                     179..180,183..184,187,199..200,203..204,210,302,305..306,
+                     309..310,313,327,331,335,338,342,399,402..403,406,
+                     410..411,414,425..426,429..430,433..434,437)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..495
+                     /gene="SLC17A5"
+                     /coded_by="GACC01000291.1:89..1576"
+ORIGIN      
+        1 mkspvpdttp sdceegsdct pllqhaprae tapvccsary nlaflaffgf fvlyslrvnl
+       61 svalvdmvds nttaaenrts secaehsapi kvlhnqtgkk yqwnaetqgw ilgsffygyi
+      121 itqipggyia srsggklllg fgilgtsvft lltplaadfg vgalialral eglgegvtfp
+      181 amhamwsswa pplersklls isyagaqlgt vvslplsgii cfylnwtyvf ylfglvgiiw
+      241 filwtwlvsd tpdthrtisp yekeyilssl rnqlssqksv pwipmlkslp lwaivvahfs
+      301 ynwtfytllt llptymkevl rfniqengfl savpyfgcwv cmilsgqaad nlrakwnfst
+      361 lcvrrvfsli gmfgpavflv aagfigcdys lavafltist tlggfcssgf sishldiaps
+      421 yagillgitn tfatipgmig pviarsltpe ntirewqtvf ciaaalnvfg aifftlfgkg
+      481 evqgwavsdh hghkn
+//
+

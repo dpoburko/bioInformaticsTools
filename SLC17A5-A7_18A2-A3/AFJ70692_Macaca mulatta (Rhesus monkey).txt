@@ -1,0 +1,74 @@
+
+LOCUS       AFJ70692                 560 aa            linear   PRI 04-NOV-2014
+DEFINITION  vesicular glutamate transporter 1 [Macaca mulatta].
+ACCESSION   AFJ70692
+VERSION     AFJ70692.1
+DBLINK      BioProject: PRJNA77627
+            Sequence Read Archive: SRR353358
+DBSOURCE    accession JV600304.1
+KEYWORDS    TSA; Transcriptome Shotgun Assembly.
+SOURCE      Macaca mulatta (Rhesus monkey)
+  ORGANISM  Macaca mulatta
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Macaca.
+REFERENCE   1  (residues 1 to 560)
+  AUTHORS   Zimin,A.V., Cornish,A.S., Maudhoo,M.D., Gibbs,R.M., Zhang,X.,
+            Pandey,S., Meehan,D.T., Wipfler,K., Bosinger,S.E., Johnson,Z.P.,
+            Tharp,G.K., Marcais,G., Roberts,M., Ferguson,B., Fox,H.S.,
+            Treangen,T., Salzberg,S.L., Yorke,J.A. and Norgren,R.B. Jr.
+  TITLE     A new rhesus macaque assembly and annotation for next-generation
+            sequencing analyses
+  JOURNAL   Biol. Direct 9 (1), 20 (2014)
+   PUBMED   25319552
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (residues 1 to 560)
+  AUTHORS   Pandey,S., Maudhoo,M.D., Guda,C., Ferguson,B., Fox,H. and
+            Norgren,R.B.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-APR-2012) Genetics, Cell Biology and Anatomy,
+            University of Nebraska Medical Center, 985805 Nebraska Medical
+            Center, Omaha, NE 68198-5805, USA
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Velvet v.1.1.05; Oases v.0.1.22
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..560
+                     /organism="Macaca mulatta"
+                     /isolation_source="BF22215"
+                     /db_xref="taxon:9544"
+                     /tissue_type="brain"
+                     /country="India"
+     Protein         1..560
+                     /product="vesicular glutamate transporter 1"
+     Region          66..490
+                     /region_name="MFS_SLC17A6_7_8_VGluT"
+                     /note="Solute carrier family 17 members 6, 7, and 8 (also
+                     called Vesicular glutamate transporters) of the Major
+                     Facilitator Superfamily of transporters; cd17382"
+                     /db_xref="CDD:340940"
+     Site            order(76..77,80..81,84,131,183..184,186..188,191,211,
+                     214..215,218,311,314..315,318..320,323,351,355,413..414,
+                     418,422,438,441..442,445..446,449)
+                     /site_type="other"
+                     /note="putative chemical substrate binding pocket
+                     [chemical binding]"
+                     /db_xref="CDD:340940"
+     CDS             1..560
+                     /gene="SLC17A7"
+                     /coded_by="JV600304.1:76..1758"
+ORIGIN      
+        1 mefrqeefrk lagralgklh rllekrqega etlelsadgr pvttqtrdpp vvdctcfglp
+       61 rryiiaimsg lgfcisfgir cnlgvaivsm vnnstthrgg hvvvqkaqfs wdpetvglih
+      121 gsffwgyivt qipggficqk faanrvfgfa ivatstlnml ipsaarvhyg cvifvrilqg
+      181 lvegvtypac hgiwskwapp lersrlatta fcgsyagavv amplagvlvq ysgwssvfyv
+      241 ygsfgifwyl fwllvsyesp alhpsiseee rkyiedaige saklmnpltk fstpwrrfft
+      301 smpvyaiiva nfcrswtfyl llisqpayfe evfgfeiskv glvsalphlv mtiivpiggq
+      361 iadflrsrri msttnvrklm ncggfgmeat lllvvgyshs kgvaisflvl avgfsgfais
+      421 gfnvnhldia pryasilmgi sngvgtlsgm vcpiivgamt khktreewqy vfliaslvhy
+      481 ggvifygvfa sgekqpwaep eemseekcgf vghdqlagsd dsemedeaep pgappappps
+      541 ygathstfqp prppppvrdy
+//
+

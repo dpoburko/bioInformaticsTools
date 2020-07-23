@@ -1,0 +1,61 @@
+
+LOCUS       XP_032619973             488 aa            linear   VRT 13-MAR-2020
+DEFINITION  sialin isoform X1 [Chelonoidis abingdonii].
+ACCESSION   XP_032619973
+VERSION     XP_032619973.1
+DBLINK      BioProject: PRJNA611832
+DBSOURCE    REFSEQ: accession XM_032764082.1
+KEYWORDS    RefSeq.
+SOURCE      Chelonoidis abingdonii (Abingdon island giant tortoise)
+  ORGANISM  Chelonoidis abingdonii
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Testudines; Cryptodira; Durocryptodira;
+            Testudinoidea; Testudinidae; Chelonoidis.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_022647606.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Chelonoidis abingdonii Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.3
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..488
+                     /organism="Chelonoidis abingdonii"
+                     /isolate="Lonesome George"
+                     /db_xref="taxon:106734"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /tissue_type="blood"
+                     /dev_stage="adult"
+                     /country="Ecuador: Galapagos Islands"
+     Protein         1..488
+                     /product="sialin isoform X1"
+                     /calculated_mol_wt=53430
+     CDS             1..488
+                     /gene="SLC17A5"
+                     /coded_by="XM_032764082.1:57..1523"
+                     /db_xref="GeneID:116815596"
+ORIGIN      
+        1 mrapaepedg adrtpllges qpgtvptccs arynlallaf fgffllyalr vnlsvalvdm
+       61 iepntslakn ttskvcpehs salnvprntt gkkyswdadt qgwilgsffy gyiitqipgg
+      121 yfarkiggkl llgfgilgta vftlftplaa dlgvgyliav raleglgegv tfpamhamws
+      181 swapplersk llsisyagaq lgtvvslpls glicyyvnwi yvfyifgalg vfwflfwiwl
+      241 vsdtpethrr isptereyil sslknqlstq ksvpwepmlk slplwaivva hfsynwtfyt
+      301 lltllptymk eilrfdaqen gflsalpyfg cwlfiimsgq iadylrekqn lstvcvrktf
+      361 tligmigpav flvaagfigc dytlavaflt istalggfct sgfginhldi apsfagillg
+      421 itnsfatipg mvgpviaksl thhntvgewq tvfyiaasin lfgaiffalf gsgevqdwav
+      481 ngrhlhgn
+//
+

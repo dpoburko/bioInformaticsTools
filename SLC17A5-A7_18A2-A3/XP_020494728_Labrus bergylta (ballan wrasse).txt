@@ -1,0 +1,63 @@
+
+LOCUS       XP_020494728             493 aa            linear   VRT 23-MAY-2019
+DEFINITION  sialin [Labrus bergylta].
+ACCESSION   XP_020494728
+VERSION     XP_020494728.1
+DBLINK      BioProject: PRJNA379987
+DBSOURCE    REFSEQ: accession XM_020639072.2
+KEYWORDS    RefSeq.
+SOURCE      Labrus bergylta (ballan wrasse)
+  ORGANISM  Labrus bergylta
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Labriformes; Labridae; Labrus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_018114538.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Labrus bergylta Annotation Release
+                                           101
+            Annotation Version          :: 101
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..493
+                     /organism="Labrus bergylta"
+                     /db_xref="taxon:56723"
+                     /chromosome="Unknown"
+                     /sex="female"
+                     /tissue_lib="Muscle"
+     Protein         1..493
+                     /product="sialin"
+                     /calculated_mol_wt=53836
+     Region          30..484
+                     /region_name="UhpC"
+                     /note="Sugar phosphate permease [Carbohydrate transport
+                     and metabolism]; cl27298"
+                     /db_xref="CDD:332119"
+     CDS             1..493
+                     /gene="slc17a5"
+                     /coded_by="XM_020639072.2:128..1609"
+                     /db_xref="GeneID:109987830"
+ORIGIN      
+        1 mleygsdteg deqetpllqr sqedkvqrap accssrycla llsslgffvv yslrvnlsva
+       61 mvdmlntthq sstnhsfsvc pahasptrpk hnhtarvydw dsetqgwilg sffygyiltq
+      121 ipggylagrl gpkwlmgfgi lgtavftllt pvaadlgagy lialrvlegv gegvtfpamy
+      181 tmwaawappl ersrlltisy igaqlgtvia lplsgeicfy ldwtyvfyvf gaigvvwfvf
+      241 waflvfdtpn thpriserek nyitaslkne lstsqgvipw kaivtsrplw aivvahfsyn
+      301 wtfytlltll ptymndilgf siqqngilsa lpymgcavfa vlsgqladyl retllyrtvv
+      361 vrksftlvgm igpalflvav gytgcnytla vtfltlssal ggvsasgfni nhldiapsya
+      421 gillgitntf atipgmvgpv iaraltkhnt ieewqavfyi aaainllgas vytvfgrgtv
+      481 qpwavhssns hgd
+//
+

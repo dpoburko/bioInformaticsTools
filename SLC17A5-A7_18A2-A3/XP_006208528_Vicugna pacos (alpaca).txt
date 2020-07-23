@@ -1,0 +1,61 @@
+
+LOCUS       XP_006208528             493 aa            linear   MAM 22-NOV-2019
+DEFINITION  vesicular glutamate transporter 1 [Vicugna pacos].
+ACCESSION   XP_006208528
+VERSION     XP_006208528.1
+DBLINK      BioProject: PRJNA221631
+DBSOURCE    REFSEQ: accession XM_006208466.1
+KEYWORDS    RefSeq.
+SOURCE      Vicugna pacos (alpaca)
+  ORGANISM  Vicugna pacos
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Cetartiodactyla; Tylopoda;
+            Camelidae; Vicugna.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_021964174.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Vicugna pacos Annotation Release 102
+            Annotation Version          :: 102
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..493
+                     /organism="Vicugna pacos"
+                     /isolate="Carlotta (AHFN-0088)"
+                     /db_xref="taxon:30538"
+                     /chromosome="11"
+                     /map="unlocalized"
+                     /sex="female"
+                     /tissue_type="blood"
+                     /dev_stage="adult"
+     Protein         1..493
+                     /product="vesicular glutamate transporter 1"
+                     /calculated_mol_wt=53745
+     CDS             1..493
+                     /gene="SLC17A7"
+                     /coded_by="XM_006208466.1:154..1635"
+                     /db_xref="GeneID:102539356"
+ORIGIN      
+        1 msglgfcisf gircnlgvai vsmvnnstth hgghvvvqka qfnwdpetvg lihgsffwgy
+       61 ivtqipggfi cqkfaanrvf gfaivatstl nmlipsaarv hygcvifvri lqglvegvty
+      121 pachgiwskw applersrla ttafcgsyag avvamplagv lvqysgwssv fyvygsfgif
+      181 wylfwllvsy espalhpsis eeerkyieda igesaklmnp vtkfntpwrr fftsmpvyai
+      241 ivanfcrswt fylllisqpa yfeevfgfei skvglvsalp hlvmtiivpi ggqiadflrs
+      301 rrimsttnvr klmncggfgm eatlllvvgy shskgvaisf lvlavgfsgf aisgfnvnhl
+      361 diapryasil mgisngvgtl sgmvcpiivg amtkhktree wqyvfliasl vhyggvifyg
+      421 vfasgekqpw aepeemseek cgfvghdqla gsdesemede aeppgappap ppsygathst
+      481 vqpprppppv rgy
+//
+

@@ -1,0 +1,80 @@
+
+LOCUS       XP_024594885             528 aa            linear   MAM 18-APR-2018
+DEFINITION  vesicular acetylcholine transporter [Neophocaena asiaeorientalis
+            asiaeorientalis].
+ACCESSION   XP_024594885
+VERSION     XP_024594885.1
+DBLINK      BioProject: PRJNA449518
+DBSOURCE    REFSEQ: accession XM_024739117.1
+KEYWORDS    RefSeq.
+SOURCE      Neophocaena asiaeorientalis asiaeorientalis (Yangtze finless
+            porpoise)
+  ORGANISM  Neophocaena asiaeorientalis asiaeorientalis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Cetartiodactyla; Cetacea;
+            Odontoceti; Phocoenidae; Neophocaena.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_020172627.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Neophocaena asiaeorientalis
+                                           asiaeorientalis Annotation Release
+                                           100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.0
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..528
+                     /organism="Neophocaena asiaeorientalis asiaeorientalis"
+                     /sub_species="asiaeorientalis"
+                     /db_xref="taxon:1706337"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /tissue_type="meat"
+                     /dev_stage="adult"
+                     /country="China: Nanjing"
+                     /breed="wild"
+     Protein         1..528
+                     /product="vesicular acetylcholine transporter"
+                     /calculated_mol_wt=56354
+     Region          121..455
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Site            order(125,128..129,132,136..137,139..140,186..187,
+                     190..191,194..195,198,211..212,215..216,222,299,302..303,
+                     306..307,310,324,328,332,335,339,388,391..392,395,
+                     399..400,403,417..418,421..422,425..426,429)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..528
+                     /gene="SLC18A3"
+                     /coded_by="XM_024739117.1:1..1587"
+                     /db_xref="GeneID:112395756"
+ORIGIN      
+        1 mepeapagqa paaasklsea vgaalqdprr qrrlvlvivc valfldnmly mvivpivpyy
+       61 vhsasekptl tskvcvttlp pptpanasad tvntsessta ampatstaqp qyptdnedvk
+      121 igvlfaskai lqllvnplsg tfidrmsydl pllmglgvlf astvmfafae dyatlfaars
+      181 lqglgsafad tsgiamiadk ypeepersra lglalafisf gslvappfgg flhkfvgkta
+      241 pflvlamvsl ldallllvva kpfsaaarar anlpvgtpih rlmldpyiav vagalttcni
+      301 plafleptia twmehtmaas ewdagiawlp afvphvlgvy ltvrlaaryp hlqwlygafg
+      361 lavigasscl vpacrsfapl vvslcglcfg ialvdtallp tlaflvdvrh vsvygsvyai
+      421 adisycvaya lgpivaghiv hslgfeqlsl vmglanllya pvllllrnvg rlkrsrserd
+      481 vlldeppqgl ydavrlrerp lsdregaprs ppgpfdaced dydyytrs
+//
+

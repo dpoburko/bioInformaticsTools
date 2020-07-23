@@ -1,0 +1,66 @@
+
+LOCUS       XP_032537321             484 aa            linear   VRT 29-FEB-2020
+DEFINITION  sialin isoform X1 [Chiroxiphia lanceolata].
+ACCESSION   XP_032537321
+VERSION     XP_032537321.1
+DBLINK      BioProject: PRJNA603801
+DBSOURCE    REFSEQ: accession XM_032681430.1
+KEYWORDS    RefSeq.
+SOURCE      Chiroxiphia lanceolata (lance-tailed manakin)
+  ORGANISM  Chiroxiphia lanceolata
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Passeriformes; Pipridae;
+            Chiroxiphia.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_045639.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA and EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Chiroxiphia lanceolata Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.3
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..484
+                     /organism="Chiroxiphia lanceolata"
+                     /isolate="bChiLan1"
+                     /db_xref="taxon:296741"
+                     /chromosome="3"
+                     /sex="female"
+                     /tissue_type="isolated red blood cells"
+                     /dev_stage="adult"
+                     /country="Panama: Isla Boca Btava"
+                     /lat_lon="8.2166658 N 82.2666656 W"
+                     /collection_date="14-Apr-2017"
+                     /collected_by="Emily DuVal"
+     Protein         1..484
+                     /product="sialin isoform X1"
+                     /calculated_mol_wt=53117
+     CDS             1..484
+                     /gene="SLC17A5"
+                     /coded_by="XM_032681430.1:116..1570"
+                     /db_xref="GeneID:116783689"
+ORIGIN      
+        1 mepeegedrt pllkesqpgt vpaccsaryn lallacfgff llyalrvnls valvdmvepn
+       61 tslaknatsn vcpehsstin vprnttgeky swdadtqgwi lgsffygyii tqipggylas
+      121 kiggklllgf gifgtsvftl ltplaanlgv gyliavrale glgegvtfpa mhsmwsswap
+      181 plerskllsi syagaqlgtv vslplsglic yymnwvyvfy ifgalgvlww ffwmclvsdt
+      241 pethrsisha ereyilsslk dqlstqksvp wrpmlkslpl waivvahfsy nwtfytlltl
+      301 lptymkeilr fdaqengfls alpyfgcwlc iilsgqiady lrekqnfstv cvrkcftlig
+      361 migpalflva agfigcnyal avafvtistt lggfctsgys inhldiapsy agillgitns
+      421 fatipgmvgp viaknlthnn tvgewqtvfy iaasinlfga iffalfasge vqdwavsgyr
+      481 lhrn
+//
+

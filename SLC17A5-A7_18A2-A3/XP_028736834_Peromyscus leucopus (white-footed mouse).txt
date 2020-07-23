@@ -1,0 +1,73 @@
+
+LOCUS       XP_028736834             523 aa            linear   ROD 22-APR-2019
+DEFINITION  synaptic vesicular amine transporter [Peromyscus leucopus].
+ACCESSION   XP_028736834
+VERSION     XP_028736834.1
+DBLINK      BioProject: PRJNA533285
+DBSOURCE    REFSEQ: accession XM_028881001.1
+KEYWORDS    RefSeq.
+SOURCE      Peromyscus leucopus (white-footed mouse)
+  ORGANISM  Peromyscus leucopus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+            Muroidea; Cricetidae; Neotominae; Peromyscus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_021630322.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Peromyscus leucopus Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..523
+                     /organism="Peromyscus leucopus"
+                     /db_xref="taxon:10041"
+                     /chromosome="Unknown"
+                     /sex="female"
+                     /tissue_type="mixed organs"
+                     /dev_stage="adult"
+                     /breed="LL Stock"
+     Protein         1..523
+                     /product="synaptic vesicular amine transporter"
+                     /calculated_mol_wt=56289
+     Region          132..480
+                     /region_name="MFS_SLC18A1_2_VAT1_2"
+                     /note="Vesicular amine transporters 1 (VAT1) and 2 (VAT2),
+                     and similar transporters of the Major Facilitator
+                     Superfamily; cd17384"
+                     /db_xref="CDD:340942"
+     Site            order(155,205..206,208..210,213,234,237..238,241,310,
+                     313..314,317..319,322,350,354,407..408,412,416,431,
+                     434..435,438..439,442)
+                     /site_type="other"
+                     /note="putative chemical substrate binding pocket
+                     [chemical binding]"
+                     /db_xref="CDD:340942"
+     CDS             1..523
+                     /gene="Slc18a2"
+                     /coded_by="XM_028881001.1:98..1669"
+                     /db_xref="GeneID:114701064"
+ORIGIN      
+        1 malsdlallr wlrdsrhsrk lilfivflal lldnmlltvv vpiipsylys ikheknttei
+       61 qttkpaltas tsgsfqgifs yydnstipit gnvtgnatgg lpgeqpnkat ttqhmvtnts
+      121 ivpsdcpsed kdllnenvqv gllfaskatv qlltnpfigl ltnrigypip mfagfcimfi
+      181 stvmfafsss yaflliarsl qgigsscssv agmgmlasvy tddeergnam gialgglamg
+      241 vlvgppfgsv lyefvgktvp flvlaalvll dgaiqlfvlq psrvqpesqk gtplttllkd
+      301 pyiliaagsi cfanmgiaml epalpiwmme tmcsrkwqlg iiflpasisy ligtnifgil
+      361 ahkmgrwlca llgmiivgfs ilcipfakni ygliapnfgv gfaigmvdss mmpimgylvd
+      421 lrhvsvygsv yaiadvafcm gyaigpsagg aiakaigfpw lmtiigiidi vfaplcfflr
+      481 sppakeekma ilmdhncpik tkmytqnnvq sypigddees esd
+//
+

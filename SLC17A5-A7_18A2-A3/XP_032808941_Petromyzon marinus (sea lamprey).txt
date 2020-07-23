@@ -1,0 +1,64 @@
+
+LOCUS       XP_032808941             515 aa            linear   VRT 20-MAR-2020
+DEFINITION  sialin [Petromyzon marinus].
+ACCESSION   XP_032808941
+VERSION     XP_032808941.1
+DBLINK      BioProject: PRJNA611764
+DBSOURCE    REFSEQ: accession XM_032953050.1
+KEYWORDS    RefSeq.
+SOURCE      Petromyzon marinus (sea lamprey)
+  ORGANISM  Petromyzon marinus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Cyclostomata;
+            Hyperoartia; Petromyzontiformes; Petromyzontidae; Petromyzon.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_046080.1) annotated using gene prediction method: Gnomon,
+            supported by EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Petromyzon marinus Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.3
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..515
+                     /organism="Petromyzon marinus"
+                     /isolate="kPetMar1"
+                     /db_xref="taxon:7757"
+                     /chromosome="12"
+                     /sex="male"
+                     /tissue_type="sperm"
+                     /dev_stage="adult"
+                     /country="USA: Great Lakes Fisheries Commission"
+                     /lat_lon="42.2821 N 83.74847 W"
+                     /collection_date="12-Jun-2018"
+                     /collected_by="Jeremiah Smith"
+     Protein         1..515
+                     /product="sialin"
+                     /calculated_mol_wt=55864
+     CDS             1..515
+                     /gene="SLC17A5"
+                     /coded_by="XM_032953050.1:82..1629"
+                     /db_xref="GeneID:116941708"
+ORIGIN      
+        1 msqnevsdge eeaedateet arssrsdtqp llprsnvsap gapmccsary nlavlsflgf
+       61 fmvyalrvnl svalvamvnh ttdgnvtaas pwhagdvdcp ghvvdngtda gpgrgpkynw
+      121 dvktqgwils affygyiitq vpggylagry ggkmlfgigv acttlltlat ppaasfgvpw
+      181 vivvrviegf gegatfptmh amwahwappl ersrlvticy agaqfgtvvs lplsgllidt
+      241 lgwpsvfyif gglgvawcvl wfllawdtpd shphiseqek ryikdslrhm ehgeghrrvp
+      301 wgsmalsprl waiivahfcy nwafytlltc lpmymndvlh fnikknglls alpylgcwma
+      361 mmlggqvadr irmrhllsvt atrkvfttlg llgpavflva tgfvgcnytl avafltlsss
+      421 mgglsmsgfn inhldiapqy agillgitnt fatipgflgp lvvgyltpeh slpewqtvfn
+      481 iaasvdafga lvylvlgsge lqdwakdlpi htraq
+//
+

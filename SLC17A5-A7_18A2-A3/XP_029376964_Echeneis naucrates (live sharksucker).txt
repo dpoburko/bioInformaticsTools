@@ -1,0 +1,56 @@
+
+LOCUS       XP_029376964             488 aa            linear   VRT 16-JUN-2019
+DEFINITION  sialin [Echeneis naucrates].
+ACCESSION   XP_029376964
+VERSION     XP_029376964.1
+DBLINK      BioProject: PRJNA548465
+DBSOURCE    REFSEQ: accession XM_029521104.1
+KEYWORDS    RefSeq.
+SOURCE      Echeneis naucrates (live sharksucker)
+  ORGANISM  Echeneis naucrates
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Carangaria; Carangiformes; Echeneidae; Echeneis.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_042525.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Echeneis naucrates Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..488
+                     /organism="Echeneis naucrates"
+                     /db_xref="taxon:173247"
+                     /chromosome="15"
+     Protein         1..488
+                     /product="sialin"
+                     /calculated_mol_wt=53795
+     CDS             1..488
+                     /gene="slc17a5"
+                     /coded_by="XM_029521104.1:251..1717"
+                     /db_xref="GeneID:115055362"
+ORIGIN      
+        1 meryesdteg deqetpllhr ghedkvqrap accsfrygla flscygffvv yslrvnlsva
+       61 mvdmlnnthh ssgnhsgslc pshshpprpk rnhtasvydw dsetqgwilg sffygyiltq
+      121 ipggylagrf gpkwlmgfgi lgtviftllt pvaadlgpsy liavrvmegi gegvtfpamh
+      181 tmwavwappl ersrlltisy tgaqigtvis lplsgeicfy ldwtyvfyif gafgilwfil
+      241 wtfmvydspn thpwiserer vfittslkne lctsgnnipw raivtsrplw aivvahfsyn
+      301 wtfytlltll ptymndilgf siqqngmlsa lpylgcavla vlsgqvadyl rercqystvk
+      361 vrkaftivgm mgpavflvaa gytgcnytla vtfltlsssl ggvsasgfni nhldiapsya
+      421 gillgitntf atipgmvgpv iataltkqnt ieewqtvfyi aaainlfgal vytlcgrgtv
+      481 qpwavhts
+//
+

@@ -1,0 +1,58 @@
+
+LOCUS       XP_027443713             517 aa            linear   MAM 27-DEC-2018
+DEFINITION  synaptic vesicular amine transporter isoform X1 [Zalophus
+            californianus].
+ACCESSION   XP_027443713
+VERSION     XP_027443713.1
+DBLINK      BioProject: PRJNA511654
+DBSOURCE    REFSEQ: accession XM_027587912.1
+KEYWORDS    RefSeq.
+SOURCE      Zalophus californianus (California sea lion)
+  ORGANISM  Zalophus californianus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Carnivora; Caniformia;
+            Otariidae; Zalophus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_020874462.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA and EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Zalophus californianus Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.1
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..517
+                     /organism="Zalophus californianus"
+                     /db_xref="taxon:9704"
+                     /chromosome="Unknown"
+     Protein         1..517
+                     /product="synaptic vesicular amine transporter isoform X1"
+                     /calculated_mol_wt=55765
+     CDS             1..517
+                     /gene="SLC18A2"
+                     /coded_by="XM_027587912.1:120..1673"
+                     /db_xref="GeneID:113918955"
+ORIGIN      
+        1 malselallr wllesrhsrk lilfivflal lldnmlltvv vpiipsylys inheknttei
+       61 qtarpgltas tsdsfqsifs yydnatmvtg nstqalhrgl lqpattqrav tntstvpsdc
+      121 psedkdllne nvqvgllfas katvqlltnp figmltnrig ypipmfagfc imfvstimfa
+      181 fsssyaflli arslqgigss cssvagmgml asvyaddeer gnamgialgg lamgvlvgpp
+      241 fgsvlyefvg ktapflvlaa lvlldgaiql fvlqpsrvqp esqkgtpltt llkdpyilia
+      301 agsicfanmg iamlepalpi wmmetmcsrk wqlgiaflpa sisyligtni fgmlahkmgr
+      361 wlcallgmii vgisilcipf akniygliap nfgvgfaigm vdssmmpimg ylvdlrhvsv
+      421 ygsvyaiadv afcmgyaigp saggaiakai gfpwlmtiig iidilfaplc fflrsppake
+      481 ekmailmdhn cpiktkmytq nniqsypvgd deesesd
+//
+

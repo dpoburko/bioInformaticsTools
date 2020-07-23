@@ -1,0 +1,69 @@
+
+LOCUS       XP_028278889             518 aa            linear   VRT 14-MAR-2019
+DEFINITION  synaptic vesicular amine transporter [Parambassis ranga].
+ACCESSION   XP_028278889
+VERSION     XP_028278889.1
+DBLINK      BioProject: PRJNA526690
+DBSOURCE    REFSEQ: accession XM_028423088.1
+KEYWORDS    RefSeq.
+SOURCE      Parambassis ranga (Indian glassy fish)
+  ORGANISM  Parambassis ranga
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Ambassidae; Parambassis.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_041035.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Parambassis ranga Annotation Release
+                                           100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..518
+                     /organism="Parambassis ranga"
+                     /db_xref="taxon:210632"
+                     /chromosome="15"
+     Protein         1..518
+                     /product="synaptic vesicular amine transporter"
+                     /calculated_mol_wt=56115
+     Region          26..474
+                     /region_name="MFS_SLC18A1_2_VAT1_2"
+                     /note="Vesicular amine transporters 1 (VAT1) and 2 (VAT2),
+                     and similar transporters of the Major Facilitator
+                     Superfamily; cd17384"
+                     /db_xref="CDD:340942"
+     Site            order(37..38,41..42,45,149,199..200,202..204,207,228,
+                     231..232,235,304,307..308,311..313,316,344,348,401..402,
+                     406,410,425,428..429,432..433,436)
+                     /site_type="other"
+                     /note="putative chemical substrate binding pocket
+                     [chemical binding]"
+                     /db_xref="CDD:340942"
+     CDS             1..518
+                     /gene="slc18a2"
+                     /coded_by="XM_028423088.1:232..1788"
+                     /db_xref="GeneID:114447069"
+ORIGIN      
+        1 mgrldalref hlikwlreer qsrklilfiv fvallldnml ltvvvpiips ylynmeetvd
+       61 tgsrnntisq qdpsgsfhsi vslydntvrl snsnttikat dlssptptaa aelarnssnc
+      121 pqstktllse nvkvgmlfas katvqlitnp figpltnrig yqppifagfc imfistimfa
+      181 fsssytllfl arslqgvgss cssvagmgml asvytddeer ghaigialgg lamgvlvgpp
+      241 fgsvmydfvg ktapflilaf lamfdgalql lvlqptkvtp esqkgtpllt lmkdpyilia
+      301 agaicfgnma iamleptlpi wmmetmcark wqlgvaflpa sisyligtyi fgtlahkmgr
+      361 wlcaligmvv vgisvicvpl ardiyglivp nfgvgfaigm vdssmmpimg ylvdlrhvsv
+      421 ygsvyaiadv afcmgfalgp siggsiaasi gfpwlmtiig vvdiffaplc lflrnppgqe
+      481 ekiailmdtn csmktrsyst qgtyyqgedm dpeyddyd
+//
+

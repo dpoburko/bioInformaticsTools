@@ -1,0 +1,61 @@
+
+LOCUS       XP_034965497             494 aa            linear   VRT 24-JUN-2020
+DEFINITION  sialin isoform X1 [Zootoca vivipara].
+ACCESSION   XP_034965497
+VERSION     XP_034965497.1
+DBLINK      BioProject: PRJNA638687
+DBSOURCE    REFSEQ: accession XM_035109606.1
+KEYWORDS    RefSeq.
+SOURCE      Zootoca vivipara (common lizard)
+  ORGANISM  Zootoca vivipara
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+            Laterata; Lacertibaenia; Lacertidae; Zootoca.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_048607.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Zootoca vivipara Annotation Release
+                                           100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.4
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..494
+                     /organism="Zootoca vivipara"
+                     /isolate="ELT05324"
+                     /db_xref="taxon:8524"
+                     /sex="female"
+                     /tissue_type="whole"
+                     /dev_stage="adult"
+                     /country="United Kingdom: Isle of Cumbrae, Scotland"
+                     /linkage_group="LG3"
+     Protein         1..494
+                     /product="sialin isoform X1"
+                     /calculated_mol_wt=54399
+     CDS             1..494
+                     /gene="SLC17A5"
+                     /coded_by="XM_035109606.1:84..1568"
+                     /db_xref="GeneID:118082328"
+ORIGIN      
+        1 mqtpepeete eeeedrtpll lreaqpigka apiccsarls laiwaflgff llyalrvnls
+       61 valvdmvesn asltkntssn vcedhsstpv vprnttgkky pwdantqgwi lgsffygyiv
+      121 tqvpggylar qfggkkllgf gilgtsiftl ftplaadlgv gyliavrale glgegvtfpa
+      181 mhamwscwap plerskllsi syagaqlgtv vslplsglic fymnwiyvfy ifgalgvlwf
+      241 ifwmlivsdt pethkrisha ekeyilsslt dqlstqksip weailtslpl waivvahfsy
+      301 nwtfytlltl lptymkeilr fdvqengfls alpyfgcwic iilsgqfady lrekhnmptv
+      361 cvrktftlig migpavflva agfigcdyem avafvtistt lggfstsgys inhldiapsy
+      421 agillgitns fgtipgmvgp vvakelthsn tvgewqtvfy iaaginlfga iffalfssge
+      481 vqdwalngyh mhrn
+//
+

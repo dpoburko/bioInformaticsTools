@@ -1,0 +1,65 @@
+
+LOCUS       XP_032999139             545 aa            linear   VRT 28-MAR-2020
+DEFINITION  sialin isoform X1 [Lacerta agilis].
+ACCESSION   XP_032999139
+VERSION     XP_032999139.1
+DBLINK      BioProject: PRJNA614516
+DBSOURCE    REFSEQ: accession XM_033143248.1
+KEYWORDS    RefSeq.
+SOURCE      Lacerta agilis
+  ORGANISM  Lacerta agilis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+            Laterata; Lacertibaenia; Lacertidae; Lacerta.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_046314.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Lacerta agilis Annotation Release
+                                           100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.4
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..545
+                     /organism="Lacerta agilis"
+                     /isolate="rLacAgi1"
+                     /db_xref="taxon:80427"
+                     /chromosome="3"
+                     /sex="female"
+                     /tissue_type="blood"
+                     /dev_stage="adult"
+                     /country="Sweden: Halland"
+                     /lat_lon="57.489552 N 11.936655 E"
+                     /collection_date="28-May-2018"
+                     /collected_by="Mette Lillie, Mats Olsson"
+     Protein         1..545
+                     /product="sialin isoform X1"
+                     /calculated_mol_wt=59745
+     CDS             1..545
+                     /gene="SLC17A5"
+                     /coded_by="XM_033143248.1:13..1650"
+                     /db_xref="GeneID:117043518"
+ORIGIN      
+        1 mvaaalppgs ksracclpkl fwqltlvgss rqtgwvhlgs pgfafafalk wsmqtpepee
+       61 aeeeedrtpl llreaqptdk aapiccsarl slaiwaflgf filyalrvnl svalvdmves
+      121 nasltrntss nvckehsstp vvprnttgkk yawdantqgw ilgsffygyi itqvpggyla
+      181 rqfggkkllg fgilgtaift lftplaadlg vgyliavral eglgegvtfp amhamwscwa
+      241 pplersklls isyagaqlgt vvslplsgli cfymnwiyvf yifgalgvlw fifwmlivsd
+      301 tpethkrish aekeyilssl tdqlstqksi pwgailtslp lwaivvahfs ynwtfytllt
+      361 llptymkeil rfdvqengfl salpyfgcwi ciilsgqfad ylrekqnmpt vcvrrtftli
+      421 gmigpavflv aagfigcdye mavafvtist tlggfstsgy sinhldiaps yagillgitn
+      481 sfgtipgmvg plvakglths ntvgewqtvf yiaaainlfg aiffaifssg evqdwalngy
+      541 hlhrn
+//
+

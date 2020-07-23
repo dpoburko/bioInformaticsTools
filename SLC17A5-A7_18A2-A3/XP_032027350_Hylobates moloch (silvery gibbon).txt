@@ -1,0 +1,62 @@
+
+LOCUS       XP_032027350             532 aa            linear   PRI 13-MAR-2020
+DEFINITION  vesicular acetylcholine transporter [Hylobates moloch].
+ACCESSION   XP_032027350
+VERSION     XP_032027350.1
+DBLINK      BioProject: PRJNA600985
+DBSOURCE    REFSEQ: accession XM_032171459.1
+KEYWORDS    RefSeq.
+SOURCE      Hylobates moloch (silvery gibbon)
+  ORGANISM  Hylobates moloch
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hylobatidae; Hylobates.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_022611645.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Hylobates moloch Annotation Release
+                                           101
+            Annotation Version          :: 101
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.3
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..532
+                     /organism="Hylobates moloch"
+                     /isolate="HMO894"
+                     /isolation_source="EBV transformed lymphoblastoid cell
+                     line"
+                     /db_xref="taxon:81572"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /note="Lionel"
+     Protein         1..532
+                     /product="vesicular acetylcholine transporter"
+                     /calculated_mol_wt=56859
+     CDS             1..532
+                     /gene="SLC18A3"
+                     /coded_by="XM_032171459.1:435..2033"
+                     /db_xref="GeneID:116479324"
+ORIGIN      
+        1 mepaepagqa raaatklset vgaalqeprr qrrlvlvivc vallldnmly mvivpivpdy
+       61 iahmrgggeg ptrtpevwep tlplptaana sayaantsas ptapwpagsa lrpryptese
+      121 dvkigvlfas kailqllvnp lsgpfidrms ydvplliglg vmfastvmfa faedyatlfa
+      181 arslqglgsa fadtsgiami adkypeeper sralgvalaf isfgslvapp fggilyefag
+      241 krvpflvlaa vslfdallll avakpfsaaa raranlpvgt pihrlmldpy iavvagaltt
+      301 cniplaflep tiatwmkhtm aasewemgma wlpafvphvl gvyltvrlaa ryphlqwlyg
+      361 alglavigas scivpacrsf aplvvslcgl cfgialvdta llptlaflvd vrhvsvygsv
+      421 yaiadisysv ayalgpivag hivhslgfeq lslgmglanl lyapvllllr nvglltrsrs
+      481 erdvlldepp qglydavrlr erpvsgqdge prsppgpfde ceddynyyyt rs
+//
+

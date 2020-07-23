@@ -1,0 +1,61 @@
+
+LOCUS       XP_026350009             517 aa            linear   MAM 30-SEP-2018
+DEFINITION  synaptic vesicular amine transporter [Ursus arctos horribilis].
+ACCESSION   XP_026350009
+VERSION     XP_026350009.1
+DBLINK      BioProject: PRJNA493656
+DBSOURCE    REFSEQ: accession XM_026494224.1
+KEYWORDS    RefSeq.
+SOURCE      Ursus arctos horribilis
+  ORGANISM  Ursus arctos horribilis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Carnivora; Caniformia; Ursidae;
+            Ursus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_020656126.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Ursus arctos horribilis Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.1
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..517
+                     /organism="Ursus arctos horribilis"
+                     /isolate="GAN/ISIS:MIG12-29695490/34125"
+                     /sub_species="horribilis"
+                     /db_xref="taxon:116960"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /tissue_type="blood"
+                     /dev_stage="adult"
+     Protein         1..517
+                     /product="synaptic vesicular amine transporter"
+                     /calculated_mol_wt=55545
+     CDS             1..517
+                     /gene="SLC18A2"
+                     /coded_by="XM_026494224.1:1..1554"
+                     /db_xref="GeneID:113251976"
+ORIGIN      
+        1 malselallr wllesrhsrk lilfivflal lldnmlltvv vpiipsylys lnheknttem
+       61 qtakpvltas tsgsfqnifs yydnttivtg nstgelhggl pqpattqhtv tnasaapsgc
+      121 psedkdllne nvqvgllfas katiqlltnp figmltnrig ypipmfagfc imfvstimfa
+      181 fsssyaflli arslqgigss cssvagmgml asvytddeer gnamgialgg lamgvlvgpp
+      241 fgsvlyefvg ktapflvlaa lvlldgaiql fvlqpsrvqp esqkgtpltt llkdpyilia
+      301 agsicfanmg iamlepalpi wmmetmcsrk wqlgiaflpa sisyligtni fgmlahkmgr
+      361 wlcallgmii vgisilcipf akniygliap nfgvgfaigm vdssmmpimg ylvdlrhvsv
+      421 ygsvyaiadv afcmgyaigp saggaiakav gfpwlmtiig iidivfaplc fflrsppake
+      481 ekmailmdhn cpiktkmytq nniqsypigd deesesd
+//
+

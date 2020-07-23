@@ -1,0 +1,61 @@
+
+LOCUS       XP_030703496             528 aa            linear   MAM 19-SEP-2019
+DEFINITION  vesicular acetylcholine transporter [Globicephala melas].
+ACCESSION   XP_030703496
+VERSION     XP_030703496.1
+DBLINK      BioProject: PRJNA563901
+DBSOURCE    REFSEQ: accession XM_030847636.1
+KEYWORDS    RefSeq.
+SOURCE      Globicephala melas (long-finned pilot whale)
+  ORGANISM  Globicephala melas
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Cetartiodactyla; Cetacea;
+            Odontoceti; Delphinidae; Globicephala.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_022135027.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Globicephala melas Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..528
+                     /organism="Globicephala melas"
+                     /isolate="X-22926-18"
+                     /db_xref="taxon:9731"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /tissue_type="brain"
+                     /dev_stage="adult"
+                     /country="Canada: North Lake, Prince Edward Island"
+     Protein         1..528
+                     /product="vesicular acetylcholine transporter"
+                     /calculated_mol_wt=56375
+     CDS             1..528
+                     /gene="SLC18A3"
+                     /coded_by="XM_030847636.1:1..1587"
+                     /db_xref="GeneID:115847615"
+ORIGIN      
+        1 mepeapagqa paaasklsea vgaalqdprr qrrlvlvivc vallldnmly mvivpivpyy
+       61 vhsasekptl tskvcvttlp pptpanasad tvntsessta amparstaqp qyptdnedvk
+      121 igvlfaskai lqllvnplsg tfidrmsydl pllmglgvlf astvmfafae dyatlfaars
+      181 lqglgsafad tsgiamiadk ypeepersra lglalafisf gslvappfgg flhkfvgkta
+      241 pflvlamvsl ldallllvva kpfsaaarar anlpvgtpih rlmldpyiav vagalttcni
+      301 plafleptia twmehtmaas ewdagiawlp afvphvlgvy ltvrlaaryp hlqwlygafg
+      361 lavigasscl vpacrsfapl vvslcglcfg ialvdtallp tlaflvdvrh vsvygsvyai
+      421 adisycvaya lgpivaghiv hslgfeqlsl vmglanllya pvllllrnvg rlkrsrserd
+      481 vlldeppqgl ydavrlrerp lsdregaprs ppgpfdaced dydyytrs
+//
+

@@ -1,0 +1,64 @@
+
+LOCUS       XP_025770116             266 aa            linear   MAM 26-JUL-2018
+DEFINITION  vesicular glutamate transporter 1 [Puma concolor].
+ACCESSION   XP_025770116
+VERSION     XP_025770116.1
+DBLINK      BioProject: PRJNA481988
+DBSOURCE    REFSEQ: accession XM_025914331.1
+KEYWORDS    RefSeq; includes ab initio.
+SOURCE      Puma concolor (puma)
+  ORGANISM  Puma concolor
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Carnivora; Feliformia; Felidae;
+            Felinae; Puma.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_020338385.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Puma concolor Annotation Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.1
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            ab initio :: 21% of CDS bases
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..266
+                     /organism="Puma concolor"
+                     /isolate="SC36_Marlon"
+                     /db_xref="taxon:9696"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /tissue_type="blood"
+                     /dev_stage="adult"
+     Protein         1..266
+                     /product="vesicular glutamate transporter 1"
+                     /calculated_mol_wt=29551
+     Region          79..>255
+                     /region_name="UhpC"
+                     /note="Sugar phosphate permease [Carbohydrate transport
+                     and metabolism]; cl27298"
+                     /db_xref="CDD:332119"
+     CDS             1..266
+                     /gene="SLC17A7"
+                     /coded_by="XM_025914331.1:1..801"
+                     /db_xref="GeneID:112850801"
+ORIGIN      
+        1 mefrqeefrk lagralgrlh rgmqerqepr cllsenqald gamagarers epvitlcqaa
+       61 platsgprpd ptqsprkqfk aqfnwdpetv glihgsffwg yivtqipggf icqkfaanrv
+      121 fgfaivatst lnmlipsaar vhygcvifvr ilqglvegvt ypachgiwsk wapplersrl
+      181 attafcgsya gavvamplag vlvqysgwss vfyvygsfgi fwylfwllvs yespalhpsi
+      241 seeerkyied aigesaklmk klkifl
+//
+

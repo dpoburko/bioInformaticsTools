@@ -1,0 +1,55 @@
+
+LOCUS       XP_030627244             494 aa            linear   VRT 16-SEP-2019
+DEFINITION  sialin [Chanos chanos].
+ACCESSION   XP_030627244
+VERSION     XP_030627244.1
+DBLINK      BioProject: PRJNA564626
+DBSOURCE    REFSEQ: accession XM_030771384.1
+KEYWORDS    RefSeq.
+SOURCE      Chanos chanos (milkfish)
+  ORGANISM  Chanos chanos
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Gonorynchiformes; Chanidae; Chanos.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_044498.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Chanos chanos Annotation Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..494
+                     /organism="Chanos chanos"
+                     /db_xref="taxon:29144"
+                     /chromosome="4"
+     Protein         1..494
+                     /product="sialin"
+                     /calculated_mol_wt=54365
+     CDS             1..494
+                     /gene="slc17a5"
+                     /coded_by="XM_030771384.1:39..1523"
+                     /db_xref="GeneID:115809644"
+ORIGIN      
+        1 mlkrmdhsns dtetedyqqp llhrkddhnv qrapaccssr yglallscyg ffvayalrvn
+       61 lsvamvdmln sstsgnasps vcprhsspvr pthnhtasvy nwdhetqgwi lgsffygyil
+      121 tqipggylar kygakwllgl gilgtviftl ltpvaadlgp gyliavrvle gigegvtypa
+      181 mhamwaswap plersrllti sytgaqlgtv valplsgqic fyldwtyvfy ifgavgllwf
+      241 vlwvflvsns psshsrisdr erlyitsslk nelsptvdyi pwksiltslp lwaivvahfs
+      301 ynwtfytllt llptymnsil gfsiqqngml salpylgcwl iallggqlad ylretclyrt
+      361 vlvrkaftla gmigpavflv aagytdcdyi lavvfltiss slgglsssgf ninhldiaps
+      421 yagillgitn sfatipgmvg pviakaltks ntieewrivf yisaainlfg aifftlfgrg
+      481 gvqpwavqer vhiq
+//
+

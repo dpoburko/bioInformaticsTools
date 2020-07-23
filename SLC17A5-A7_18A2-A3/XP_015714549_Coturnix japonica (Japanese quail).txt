@@ -1,0 +1,82 @@
+
+LOCUS       XP_015714549             484 aa            linear   VRT 18-FEB-2020
+DEFINITION  sialin isoform X1 [Coturnix japonica].
+ACCESSION   XP_015714549
+VERSION     XP_015714549.1
+DBLINK      BioProject: PRJNA314147
+DBSOURCE    REFSEQ: accession XM_015859063.2
+KEYWORDS    RefSeq.
+SOURCE      Coturnix japonica (Japanese quail)
+  ORGANISM  Coturnix japonica
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Galloanserae; Galliformes;
+            Phasianidae; Perdicinae; Coturnix.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_029518.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA and EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Coturnix japonica Annotation Release
+                                           101
+            Annotation Version          :: 101
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.3
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..484
+                     /organism="Coturnix japonica"
+                     /isolate="7356"
+                     /db_xref="taxon:93934"
+                     /chromosome="3"
+                     /sex="male"
+                     /tissue_type="blood"
+                     /country="France: Tours, INRA PEAT"
+     Protein         1..484
+                     /product="sialin isoform X1"
+                     /calculated_mol_wt=53599
+     Region          25..475
+                     /region_name="2A0114euk"
+                     /note="Na(+)-dependent inorganic phosphate cotransporter;
+                     TIGR00894"
+                     /db_xref="CDD:129972"
+     Region          92..467
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Site            order(101,104..105,108,112..113,115..116,164..165,
+                     168..169,172..173,176,188..189,192..193,199,291,294..295,
+                     298..299,302,316,320,324,327,331,388,391..392,395,
+                     399..400,403,414..415,418..419,422..423,426)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..484
+                     /gene="SLC17A5"
+                     /coded_by="XM_015859063.2:185..1639"
+                     /db_xref="GeneID:107312040"
+ORIGIN      
+        1 mepeeredrt pllkesqlga vraccsaryn lallaffgff llyalrvnls valvdmvepn
+       61 aslaknttfh vcpehsstin vprnttgkky pwdadtqgwi lgsffygyii tqipggylas
+      121 kiggklllgf gifgtsvftl ltplaadlgv gyliavrvle glgegvtfpa mhsmwsswap
+      181 plerskllsi syagaqmgtv vslplsglic yymnwvyvfy lfgtlgvlwf ffwmwlvsnk
+      241 pethkrisha ereyilsslk dqlstqksvp wrpiltsipv waivvahfsy nwtfytlltl
+      301 lptymkeilr fnaeengfls alpyfgcwlc iilsgqiadh lretqsfstv yvrkcftlig
+      361 migpamflva agfigcnyel avafvtistt lggfctsgys inhldiapsy agillgitns
+      421 fatipgmvgp viakvlthnn tvgewqtvfy iaasinvfga iffalfasge vqdwavssyh
+      481 fhrn
+//
+

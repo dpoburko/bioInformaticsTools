@@ -1,0 +1,76 @@
+
+LOCUS       XP_026919016             517 aa            linear   MAM 13-NOV-2018
+DEFINITION  synaptic vesicular amine transporter [Acinonyx jubatus].
+ACCESSION   XP_026919016
+VERSION     XP_026919016.1
+DBLINK      BioProject: PRJNA504297
+DBSOURCE    REFSEQ: accession XM_027063215.1
+KEYWORDS    RefSeq.
+SOURCE      Acinonyx jubatus (cheetah)
+  ORGANISM  Acinonyx jubatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Carnivora; Feliformia; Felidae;
+            Acinonychinae; Acinonyx.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_020834741.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Acinonyx jubatus Annotation Release
+                                           101
+            Annotation Version          :: 101
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.1
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..517
+                     /organism="Acinonyx jubatus"
+                     /isolate="Rico"
+                     /db_xref="taxon:32536"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /tissue_type="blood"
+                     /country="USA: National Zoological Park's Front Royal,
+                     Virginia"
+     Protein         1..517
+                     /product="synaptic vesicular amine transporter"
+                     /calculated_mol_wt=55670
+     Site            order(121,138,141..142,145,149..150,152..153,199..200,
+                     203..204,207..208,211,224..225,228..229,235,308,311..312,
+                     315..316,319,333,337,341,344,348,395,398..399,405,
+                     409..410,413,424..425,428..429,432..433,436)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     Region          133..440
+                     /region_name="MFS_1"
+                     /note="Major Facilitator Superfamily; pfam07690"
+                     /db_xref="CDD:311564"
+     Region          135..276
+                     /region_name="2_A_01_02"
+                     /note="Multidrug resistance protein; TIGR00880"
+                     /db_xref="CDD:273318"
+     CDS             1..517
+                     /gene="SLC18A2"
+                     /coded_by="XM_027063215.1:802..2355"
+                     /db_xref="GeneID:106974109"
+ORIGIN      
+        1 malselallr rllesrhsrk lilfivflal lldnmlltvv vpiipsylys inheknasev
+       61 qtakpvltas tsgrfqnifs yydnttmvtg nstgelqrgp ppaastqhtv tntstapsdc
+      121 psenkdllne nvqvgllfas katiqlltnp figlltnrig ypipmfagfc imfvstimfa
+      181 fsssyaflli arslqgigss cssvagmgml asvytddeer gnamgialgg lamgvlvgpp
+      241 fgsvlyefvg ktapflvlaa lvlldgaiql fvlqpsrvqp esqkgtpltt llkdpyilia
+      301 agsicfanmg iamlepalpi wmmetmcsrk wqlgiaflpa sisyllgtni fgmlahkmgr
+      361 wlcallgmii vgisilcipf akniygliap nfgvgfaigm vdssmmpimg ylvdlrhvsv
+      421 ygsvyaiadv afcmgyaigp saggaiakai gfpwlmtiig iidilfaplc fflrsppake
+      481 ekmailmdhn cpiktkmytq nniqsypige deesesd
+//
+

@@ -1,0 +1,75 @@
+
+LOCUS       XP_013838900             528 aa            linear   MAM 13-MAY-2017
+DEFINITION  vesicular acetylcholine transporter [Sus scrofa].
+ACCESSION   XP_013838900
+VERSION     XP_013838900.2
+DBLINK      BioProject: PRJNA28993
+DBSOURCE    REFSEQ: accession XM_013983446.2
+KEYWORDS    RefSeq.
+SOURCE      Sus scrofa (pig)
+  ORGANISM  Sus scrofa
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Cetartiodactyla; Suina; Suidae;
+            Sus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_010456.5) annotated using gene prediction method: Gnomon,
+            supported by EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            On May 13, 2017 this sequence version replaced XP_013838900.1.
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Sus scrofa Annotation Release 106
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 7.4
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..528
+                     /organism="Sus scrofa"
+                     /isolate="TJ Tabasco"
+                     /db_xref="taxon:9823"
+                     /chromosome="14"
+                     /sex="female"
+                     /breed="Duroc"
+     Protein         1..528
+                     /product="vesicular acetylcholine transporter"
+                     /calculated_mol_wt=55902
+     Region          121..455
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Site            order(125,128..129,132,136..137,139..140,186..187,
+                     190..191,194..195,198,211..212,215..216,222,299,302..303,
+                     306..307,310,324,328,332,335,339,388,391..392,395,
+                     399..400,403,417..418,421..422,425..426,429)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..528
+                     /gene="SLC18A3"
+                     /coded_by="XM_013983446.2:311..1897"
+                     /db_xref="GeneID:100157804"
+ORIGIN      
+        1 meavapagqa paaasklsev vgaalqdprr qrrlvlvivc valfldnmly mvivpivpyy
+       61 isaanenptp tskvnapill pttpanasan mantsessta atpagstvkp hypedsedvk
+      121 igalfaskai lqllvnplsg tfidrmsydl pllmglgvlf astvmfafae dyatlfaars
+      181 lqglgsafad tsgiamiadk ypeepersra lglalafisf gslvappfgg flhkfagkpa
+      241 pflvlatvsl ldallllava kpfsaaarar anlpvgtpih rlmldpyiav vagalttcni
+      301 plafleptia twmkhtmaas eletgmawlp afvphllgvy ltvrlaaryp hlqwlygafg
+      361 lavigasscl vpacrsfapl vvslcglcfg ialvdtallp tlaflvdvrh vsvygsvyai
+      421 adisysvaya lgpivaghiv hslgftqlsl gmglanllya pvllllrnvg llkrsrserd
+      481 vlldeppqgl ydavrlrerp vsdrdgapgs ppgpfdeced dydyyars
+//
+

@@ -1,0 +1,62 @@
+
+LOCUS       XP_008832336             532 aa            linear   ROD 24-JUN-2019
+DEFINITION  vesicular acetylcholine transporter [Nannospalax galili].
+ACCESSION   XP_008832336
+VERSION     XP_008832336.1
+DBLINK      BioProject: PRJNA254049
+DBSOURCE    REFSEQ: accession XM_008834114.1
+KEYWORDS    RefSeq.
+SOURCE      Nannospalax galili (Upper Galilee mountains blind mole rat)
+  ORGANISM  Nannospalax galili
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia;
+            Sciurognathi; Muroidea; Spalacidae; Spalacinae; Nannospalax.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_008339436.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Nannospalax galili Annotation
+                                           Release 102
+            Annotation Version          :: 102
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..532
+                     /organism="Nannospalax galili"
+                     /isolate="Female #2095"
+                     /db_xref="taxon:1026970"
+                     /chromosome="Unknown"
+                     /sex="female"
+                     /tissue_type="brain"
+                     /country="Israel: Animal Facility of the Institute of
+                     Evolution, University of Haifa"
+     Protein         1..532
+                     /product="vesicular acetylcholine transporter"
+                     /calculated_mol_wt=56673
+     CDS             1..532
+                     /gene="Slc18a3"
+                     /coded_by="XM_008834114.1:376..1974"
+                     /db_xref="GeneID:103735014"
+ORIGIN      
+        1 mepsaptdqa raaatklsqa vgaalqepqr qrrlvlvivc vallldnmly mvivpivpdy
+       61 iahmrggseg ptlasevwep tlppptlans saywantsvs ptaagsarsi lrpryptese
+      121 dvkigvlfas kailqllvnp lsgpfidrms ydvplliglg vmfastvmfa faedyatlfa
+      181 arslqglgsa fadtsgiami adkypeeper sralgvalaf isfgslvapp fggilyefag
+      241 krvpflvlaa vslfdallll avakpfsaaa raranlpvgt pihrlmldpy iavvagaltt
+      301 cniplaflep tiatwmkhtm aasewemgmv wlpafvphvl gvyltvrlaa ryphlqwlyg
+      361 avglavigas scivpacrsf aplvvslcgl cfgialvdta llptlaflvd vrhvsvygsv
+      421 yaiadisysv ayalgpivag hivhslgfeq lslgmglanl lyapvllllr nvglltrsrs
+      481 erdvlldepp qglydavrlr ersvqgtdgg epcsppgpfg gfeddnyyyt cs
+//
+

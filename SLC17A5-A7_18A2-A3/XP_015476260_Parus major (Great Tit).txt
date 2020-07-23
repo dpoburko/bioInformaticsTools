@@ -1,0 +1,80 @@
+
+LOCUS       XP_015476260             501 aa            linear   VRT 17-APR-2020
+DEFINITION  sialin isoform X1 [Parus major].
+ACCESSION   XP_015476260
+VERSION     XP_015476260.1
+DBLINK      BioProject: PRJNA312399
+DBSOURCE    REFSEQ: accession XM_015620774.3
+KEYWORDS    RefSeq.
+SOURCE      Parus major (Great Tit)
+  ORGANISM  Parus major
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Passeriformes; Paridae; Parus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_031770.1) annotated using gene prediction method: Gnomon,
+            supported by EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Parus major Annotation Release 102
+            Annotation Version          :: 102
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.4
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..501
+                     /organism="Parus major"
+                     /isolate="Abel"
+                     /db_xref="taxon:9157"
+                     /chromosome="3"
+                     /sex="male"
+                     /tissue_type="blood"
+                     /dev_stage="4 year old"
+     Protein         1..501
+                     /product="sialin isoform X1"
+                     /calculated_mol_wt=54846
+     Region          38..492
+                     /region_name="2A0114euk"
+                     /note="Na(+)-dependent inorganic phosphate cotransporter;
+                     TIGR00894"
+                     /db_xref="CDD:129972"
+     Region          105..484
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Site            order(118,121..122,125,129..130,132..133,181..182,
+                     185..186,189..190,193,205..206,209..210,216,308,311..312,
+                     315..316,319,333,337,341,344,348,405,408..409,412,
+                     416..417,420,431..432,435..436,439..440,443)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..501
+                     /gene="SLC17A5"
+                     /coded_by="XM_015620774.3:200..1705"
+                     /db_xref="GeneID:107201486"
+ORIGIN      
+        1 mepeegedrt pllkepqpht getsgscscv aasrchgvpa ccsarynlav lacfgfflly
+       61 alrvnlsval vdmvepntsl aknvtsnvcp ehsstmnvpr nttgekyswd adtqgwilgs
+      121 ffygyiitqi pggylaskig gklllgfgif gtsvftlltp laanlgvgyl iavraleglg
+      181 egvtfpamhs mwsswapple rskllsisya gaqlgtvvsl plsglicyym nwvyvfyifg
+      241 algvlwwffw mflvsdtpen hrsishaere yilsslkdql stqksvpwrp mlaslplwai
+      301 vvahfsynwt fytlltllpt ymkeilrfda qengflsalp yfgcwlciil sgqiadylre
+      361 kqnfstvcvr kcftligmig pavflvaagf igcnytlava fvtisttlgg fctsgysinh
+      421 ldiapsyagi llgitnsfat ipgmvgpvia knlthnntvg ewqmvfyiag sinlfgaiff
+      481 alfasgevqd wavsgyhlhr n
+//
+

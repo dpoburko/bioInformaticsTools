@@ -1,0 +1,93 @@
+
+LOCUS       XM_013144626            1997 bp    mRNA    linear   ROD 19-JAN-2018
+DEFINITION  PREDICTED: Cavia porcellus solute carrier family 17 member 9
+            (Slc17a9), transcript variant X1, mRNA.
+ACCESSION   XM_013144626
+VERSION     XM_013144626.2
+DBLINK      BioProject: PRJNA73553
+KEYWORDS    RefSeq.
+SOURCE      Cavia porcellus (domestic guinea pig)
+  ORGANISM  Cavia porcellus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia;
+            Hystricomorpha; Caviidae; Cavia.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NT_176300.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            On Jan 19, 2018 this sequence version replaced XM_013144626.1.
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Cavia porcellus Annotation Release
+                                           103
+            Annotation Version          :: 103
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.0
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1997
+                     /organism="Cavia porcellus"
+                     /mol_type="mRNA"
+                     /strain="inbred line 2N"
+                     /specimen_voucher="Broad Sequencing.Sample 289.1, Broad
+                     Institute, Cambridge, MA"
+                     /db_xref="taxon:10141"
+                     /chromosome="Unknown"
+                     /sex="female"
+     gene            1..1997
+                     /gene="Slc17a9"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon. Supporting evidence
+                     includes similarity to: 100% coverage of the annotated
+                     genomic feature by RNAseq alignments, including 4 samples
+                     with support for all annotated introns"
+                     /db_xref="GeneID:100733930"
+     CDS             66..1484
+                     /gene="Slc17a9"
+                     /codon_start=1
+                     /product="solute carrier family 17 member 9 isoform X1"
+                     /protein_id="XP_013000080.1"
+                     /db_xref="GeneID:100733930"
+                     /translation="MQPSTDQAHRDAAEDAQWSRPECQVWTGTLLLGTCLLYCVRVSM
+                     PVCTVAMSQDFGWNKKEAGVVLSSFFWGYCLTQVVGGHLGDRIGGERVILLSASAWGF
+                     LTVTTPVLAHLSSAHLASMAFLRVLTGLLQGVYFPALTSLLSQRVPESERAFTYSTVG
+                     AGSQCGTLLTGAVGSLLLDWGGWQSVFYFSGGLTLLWVCYVHRYLLKGKDRSLALGVL
+                     MQGLPLARPSKVPWRQLFRKPSVWAVICSQLSSACSFFILLSWLPTFFKETFPHSKGW
+                     VFNVVPWLAAIPASLFGGFLSDHLISRGPAHPRQETPILSLKPGPCPASSPPAPVAVQ
+                     VAAFLGTLSGANGNHPGSVSLLRLQSHHCAEVHAALSPTVNGPWPVKLLRTVSGSHVQ
+                     LSQGYGLRISFHWPPDLQPQVKALAPCTCVAGCPRLWWTTAQGPLSGPVSSHSAQPIW
+                     VSSWCNPALHTKSSQGRAGAGC"
+ORIGIN      
+         1 atgcagccat ccacagacca ggcccaccgg gacgccgctg aggatgccca gtggtccagg 
+        61 cctgagtgcc aggtgtggac ggggaccctg ctgctgggca cctgcctgct gtactgtgtg 
+       121 cgagtttcca tgcccgtgtg cacggttgcc atgagccaag attttggctg gaacaagaag 
+       181 gaggctggcg tcgtgctcag cagcttcttc tggggctact gcctgacaca ggtggtggga 
+       241 ggccacctcg gggaccgcat cggcggtgag agggtcatcc tgctgtcggc ctccgcctgg 
+       301 ggcttcctca ctgtcaccac cccggtgctc gctcacctca gcagcgccca tctggcctcc 
+       361 atggccttct tgcgtgttct caccggtctg ctccaaggcg tgtacttccc ggccctgacc 
+       421 agcctgctgt cacagcgtgt gcccgagagc gagcgggcct tcacctacag cactgtgggg 
+       481 gccggctctc agtgtgggac gctgctgaca ggcgccgtgg gctccttgct cctggactgg 
+       541 ggcggctggc agagcgtctt ctacttctcg ggcggcctca ccttgctctg ggtgtgttat 
+       601 gtgcacaggt acctgctgaa aggaaaagac cgaagcctgg ccctgggtgt cctgatgcaa 
+       661 ggcctgcccc tggccaggcc ctccaaggtg ccctggagac agctcttccg gaagccttct 
+       721 gtctgggcgg tcatctgctc tcagctgtct tcggcgtgtt ccttcttcat cctcctgtcg 
+       781 tggctgccca ccttcttcaa ggagaccttc ccccactcca agggctgggt cttcaatgtg 
+       841 gtaccctggc tggctgcgat tcccgccagt ctattcggcg ggttcctttc tgaccatctt 
+       901 atcagtcggg ggccagctca cccacggcaa gagacaccca tcttgagcct caagcctggg 
+       961 ccctgtcctg cttcctcccc gcctgcccct gtggctgtgc aggtggcagc cttcctgggg 
+      1021 acactgtcag gggctaatgg gaaccaccct ggctctgtct ccctgctcag gttacagagc 
+      1081 catcactgtg cggaagttca tgcagccctc tcccccacag tcaatgggcc ttggcctgtc 
+      1141 aagcttcttc gcactgtgtc tgggtcacac gtccagcttt ctcaaggcta tggtcttcgc 
+      1201 atcagcttcc attggcctcc agaccttcaa ccacaggtaa aggcccttgc cccatgcact 
+      1261 tgtgttgccg ggtgccccag gctttggtgg accacggccc aggggccctt gagtggtcct 
+      1321 gtgagcagtc actcagccca gccaatctgg gtatccagct ggtgcaaccc agccctgcat 
+      1381 accaagagct cccaagggag ggcaggagcg gggtgctga
+//
+

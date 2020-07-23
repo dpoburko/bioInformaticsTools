@@ -1,0 +1,66 @@
+
+LOCUS       XP_020015471             585 aa            linear   ROD 15-FEB-2017
+DEFINITION  vesicular glutamate transporter 1 isoform X1 [Castor canadensis].
+ACCESSION   XP_020015471
+VERSION     XP_020015471.1
+DBLINK      BioProject: PRJNA371604
+DBSOURCE    REFSEQ: accession XM_020159882.1
+KEYWORDS    RefSeq.
+SOURCE      Castor canadensis (American beaver)
+  ORGANISM  Castor canadensis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia;
+            Castorimorpha; Castoridae; Castor.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_017870172.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Castor canadensis Annotation Release
+                                           100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 7.3
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..585
+                     /organism="Castor canadensis"
+                     /isolate="Ward"
+                     /db_xref="taxon:51338"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /tissue_type="Leukocyte"
+                     /dev_stage="adult"
+     Protein         1..585
+                     /product="vesicular glutamate transporter 1 isoform X1"
+                     /calculated_mol_wt=64125
+     Region          67..527
+                     /region_name="UhpC"
+                     /note="Sugar phosphate permease [Carbohydrate transport
+                     and metabolism]; cl27298"
+                     /db_xref="CDD:332119"
+     CDS             1..585
+                     /gene="Slc17a7"
+                     /coded_by="XM_020159882.1:1..1758"
+                     /db_xref="GeneID:109683847"
+ORIGIN      
+        1 mefrqeefrk lagralgrlh rllekrqegt etlelsadgr pmttqtrdpp vvdctcfglp
+       61 rryiiaimsg lgfcisfgir cnlgvaivsm vnnstthrgg hvvvqtlsss lhkqatpthg
+      121 pwdiqggdte kaqfswdpet vglihgsffw gyivtqipgg ficqkfaanr vfgfaivats
+      181 slnmlipsaa rvhygcvifv rilqglvegv typachgiws kwapplersr lattafcgsy
+      241 agavvampla gvlvqysgws svfyvygsfg ifwylfwllv syespalhps iseeerkyie
+      301 daigesaklm npvtkfntpw rrfftsmpvy aiivanfcrs wtfylllisq payfeevfgf
+      361 eiskvglvsa lphlvmtiiv piggqiadfl rsrrimsttn vrklmncggf gmeatlllvv
+      421 gyshskgvai sflvlavgfs gfaisgfnvn hldiapryas ilmgisngvg tlsgmvcpii
+      481 vgamtkhktr eewqyvflia slvhyggvif ygvfasgekq pwaepeemse ekcgfvghdq
+      541 lagsdeseme deaeppgapp apppsygath stvqpprppp pvrgy
+//
+

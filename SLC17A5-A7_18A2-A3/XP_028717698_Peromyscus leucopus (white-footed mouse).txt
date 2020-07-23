@@ -1,0 +1,75 @@
+
+LOCUS       XP_028717698             560 aa            linear   ROD 22-APR-2019
+DEFINITION  vesicular glutamate transporter 1 isoform X1 [Peromyscus leucopus].
+ACCESSION   XP_028717698
+VERSION     XP_028717698.1
+DBLINK      BioProject: PRJNA533285
+DBSOURCE    REFSEQ: accession XM_028861865.1
+KEYWORDS    RefSeq.
+SOURCE      Peromyscus leucopus (white-footed mouse)
+  ORGANISM  Peromyscus leucopus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+            Muroidea; Cricetidae; Neotominae; Peromyscus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_021630990.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Peromyscus leucopus Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..560
+                     /organism="Peromyscus leucopus"
+                     /db_xref="taxon:10041"
+                     /chromosome="Unknown"
+                     /sex="female"
+                     /tissue_type="mixed organs"
+                     /dev_stage="adult"
+                     /breed="LL Stock"
+     Protein         1..560
+                     /product="vesicular glutamate transporter 1 isoform X1"
+                     /calculated_mol_wt=61507
+     Region          66..490
+                     /region_name="MFS_SLC17A6_7_8_VGluT"
+                     /note="Solute carrier family 17 members 6, 7, and 8 (also
+                     called Vesicular glutamate transporters) of the Major
+                     Facilitator Superfamily of transporters; cd17382"
+                     /db_xref="CDD:340940"
+     Site            order(76..77,80..81,84,131,183..184,186..188,191,211,
+                     214..215,218,311,314..315,318..320,323,351,355,413..414,
+                     418,422,438,441..442,445..446,449)
+                     /site_type="other"
+                     /note="putative chemical substrate binding pocket
+                     [chemical binding]"
+                     /db_xref="CDD:340940"
+     CDS             1..560
+                     /gene="Slc17a7"
+                     /coded_by="XM_028861865.1:170..1852"
+                     /db_xref="GeneID:114687164"
+ORIGIN      
+        1 mefrqeefrk lagralgrlh rllekrqega etlelsadgr pvtthtrdpp vldctcfglp
+       61 rryiiaimsg lgfcisfgir cnlgvaivsm vnnstthrgg hvvvqkaqfn wdpetvglih
+      121 gsffwgyivt qipggficqk faanrvfgfa ivatstlnml ipsaarvhyg avifvrilqg
+      181 lvegvtypac hgiwskwapp lersrlatta fcgsyagavv amplagvlvq ysgwssvfyv
+      241 ygsfgifwyl fwllvsyesp amhpsiseee rkyiedaige saklmnpvtk fntpwrrfft
+      301 smpvyaiiva nfcrswtfyl llisqpayfe evfgfeiskv glvsalphlv mtiivpiggq
+      361 iadflrsrri msttnvrklm ncggfgmeat lllvvgyshs kgvaisflvl avgfsgfais
+      421 gfnvnhldia pryasilmgi sngvgtlsgm vcpiivgamt khktreewqy vfliaslvhy
+      481 ggvifygvfa sgekqpwaep eemseekcgf vghdqlagsd eseledeaep pgappappps
+      541 ygathstvqp prppppvrdy
+//
+

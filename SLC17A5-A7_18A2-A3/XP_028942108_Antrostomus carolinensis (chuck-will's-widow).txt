@@ -1,0 +1,78 @@
+
+LOCUS       XP_028942108             504 aa            linear   VRT 02-MAY-2019
+DEFINITION  sialin [Antrostomus carolinensis].
+ACCESSION   XP_028942108
+VERSION     XP_028942108.1
+DBLINK      BioProject: PRJNA265383
+DBSOURCE    REFSEQ: accession XM_029086275.1
+KEYWORDS    RefSeq; includes ab initio.
+SOURCE      Antrostomus carolinensis (chuck-will's-widow)
+  ORGANISM  Antrostomus carolinensis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Caprimulgimorphae;
+            Caprimulgiformes; Caprimulgidae; Antrostomus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_010331363.1) annotated using gene prediction method: Gnomon,
+            supported by EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Antrostomus carolinensis Annotation
+                                           Release 101
+            Annotation Version          :: 101
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            ab initio :: 4% of CDS bases
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..504
+                     /organism="Antrostomus carolinensis"
+                     /isolate="BGI_N321"
+                     /db_xref="taxon:279965"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /country="USA"
+     Protein         1..504
+                     /product="sialin"
+                     /calculated_mol_wt=55484
+     Region          63..487
+                     /region_name="MFS_SLC17A5"
+                     /note="Solute carrier family 17 member 5 (also called
+                     sialin) of the Major Facilitator Superfamily of
+                     transporters; cd17381"
+                     /db_xref="CDD:340939"
+     Site            order(63,66..67,70,132,184..185,187..189,192,212,215..216,
+                     219,307,310..311,314..316,319,347,351,410..411,415,419,
+                     435,438..439,442..443,446)
+                     /site_type="other"
+                     /note="putative chemical substrate binding pocket
+                     [chemical binding]"
+                     /db_xref="CDD:340939"
+     CDS             1..504
+                     /gene="SLC17A5"
+                     /coded_by="XM_029086275.1:1..1515"
+                     /db_xref="GeneID:104529022"
+ORIGIN      
+        1 mkdprlpvki ressqetycs ssttvssqge klhpltickf ipaccsaryn lallaffgff
+       61 llyalrvnls valvdmvepn tslpknvtsn vcpehsstin aprnttgeky swdadtqgwi
+      121 lgsffygyii tqipggylas kiggkllmgf gifgtsvftl ltplaadlgv gyfiavrale
+      181 glgegvtfpa mhsmwsswap plerskllsi syagaqlgtv vslplsglic yymnwvyvfy
+      241 ifgalgvlwf ffwmwlvsdt pethrsisha ereyilsslk dqlstqksvp wrpileslpl
+      301 waivvahfsy nwtfytlltl lptymkeilr fdaqengfls alpyfgcwlc iilsgqiady
+      361 lrekqnlstv cvrkcftlig migpavflva agfigcnyal avafvtistt lggfctsgys
+      421 inhldiapsy agillgitns fatipgmvgp viaknlthnn tvgewqtvfy iaasinlfga
+      481 iffalfasge vqdwavsgyh lhrn
+//
+

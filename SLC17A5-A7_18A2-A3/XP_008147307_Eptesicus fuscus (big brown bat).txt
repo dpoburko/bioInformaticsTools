@@ -1,0 +1,79 @@
+
+LOCUS       XP_008147307             532 aa            linear   MAM 12-FEB-2019
+DEFINITION  vesicular acetylcholine transporter [Eptesicus fuscus].
+ACCESSION   XP_008147307
+VERSION     XP_008147307.1
+DBLINK      BioProject: PRJNA232522
+DBSOURCE    REFSEQ: accession XM_008149085.2
+KEYWORDS    RefSeq.
+SOURCE      Eptesicus fuscus (big brown bat)
+  ORGANISM  Eptesicus fuscus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Chiroptera; Microchiroptera;
+            Vespertilionidae; Eptesicus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_007370702.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Eptesicus fuscus Annotation Release
+                                           101
+            Annotation Version          :: 101
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.1
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..532
+                     /organism="Eptesicus fuscus"
+                     /isolate="BU_THK_EF1"
+                     /db_xref="taxon:29078"
+                     /chromosome="Unknown"
+                     /sex="female"
+                     /country="USA: Massachusetts"
+     Protein         1..532
+                     /product="vesicular acetylcholine transporter"
+                     /calculated_mol_wt=56614
+     Region          124..458
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Region          124..436
+                     /region_name="MFS_1"
+                     /note="Major Facilitator Superfamily; pfam07690"
+                     /db_xref="CDD:284993"
+     Site            order(128,131..132,135,139..140,142..143,189..190,
+                     193..194,197..198,201,214..215,218..219,225,299,302..303,
+                     306..307,310,327,331,335,338,342,391,394..395,398,
+                     402..403,406,420..421,424..425,428..429,432)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..532
+                     /gene="SLC18A3"
+                     /coded_by="XM_008149085.2:334..1932"
+                     /db_xref="GeneID:103292827"
+ORIGIN      
+        1 mepadparea aaklsevvgs alreprrqrr lllvivcval fldnmlymvi vpivpdyiah
+       61 mrggsesptp tpevevwvpt lppptpanas asttanssea ptaaqpagsa lrpryptese
+      121 dvkigvlfas kailqllvnp lsgpfidrms ydvplliglg vmfastvlfa faedyatlfa
+      181 arslqglgsa fadtsgiami adkypeeper sralgvalaf isfgslvapp fggilyefag
+      241 krvpflvlaa vslfdailll vvakpfsaaa raranlpvgt pihhlmldpy iavvagaltt
+      301 cniplaflep tiatwmkhtm aasewemgmv wlpafvphvl gvyltvrlaa ryphlqwlyg
+      361 alglavigas scavpvcrsf aplvvslcgl cfgialvdta llptlaflvd vrhvsvygsv
+      421 yaiadisysv ayalgpivag hivhslgfgq lslgmglanl lyapvllllr rvglmtrsrs
+      481 erevlldepp qglydavrlr ecpvsdpdsa prsppgpfae cegdyadyct rs
+//
+

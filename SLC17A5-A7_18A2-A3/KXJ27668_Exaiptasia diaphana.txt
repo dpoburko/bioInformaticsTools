@@ -1,0 +1,91 @@
+
+LOCUS       KXJ27668                 540 aa            linear   INV 23-FEB-2016
+DEFINITION  Sialin [Exaiptasia diaphana].
+ACCESSION   KXJ27668
+VERSION     KXJ27668.1
+DBLINK      BioProject: PRJNA261862
+            BioSample: SAMN03839803
+DBSOURCE    accession LJWW01000018.1
+KEYWORDS    .
+SOURCE      Exaiptasia diaphana
+  ORGANISM  Exaiptasia diaphana
+            Eukaryota; Metazoa; Cnidaria; Anthozoa; Hexacorallia; Actiniaria;
+            Aiptasiidae; Exaiptasia.
+REFERENCE   1  (residues 1 to 540)
+  AUTHORS   Baumgarten,S., Simakov,O., Esherick,L.Y., Liew,Y.J., Lehnert,E.M.,
+            Michell,C.T., Li,Y., Hambleton,E.A., Guse,A., Oates,M.E., Gough,J.,
+            Weis,V.M., Aranda,M., Pringle,J.R. and Voolstra,C.R.
+  TITLE     The genome of Aiptasia, a sea anemone model for coral symbiosis
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 112 (38), 11893-11898 (2015)
+   PUBMED   26324906
+REFERENCE   2  (residues 1 to 540)
+  AUTHORS   Baumgarten,S., Simakov,O., Esherick,L.Y., Liew,Y.J., Lehnert,E.M.,
+            Michell,C.T., Li,Y., Hambleton,E.A., Guse,A., Oates,M.E., Gough,J.,
+            Weis,V.M., Aranda,M., Pringle,J.R. and Voolstra,C.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-SEP-2015) Red Sea Research Center, King Abdullah
+            University of Science and Technology, PO Box 1569, Thuwal
+            23955-6900, Saudi Arabia
+REFERENCE   3  (residues 1 to 540)
+  AUTHORS   Baumgarten,S., Simakov,O., Esherick,L.Y., Liew,Y.J., Lehnert,E.M.,
+            Michell,C.T., Li,Y., Hambleton,E.A., Guse,A., Oates,M.E., Gough,J.,
+            Weis,V.M., Aranda,M., Pringle,J.R. and Voolstra,C.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-FEB-2016) Red Sea Research Center, King Abdullah
+            University of Science and Technology, PO Box 1569, Thuwal
+            23955-6900, Saudi Arabia
+  REMARK    Amino acid sequence updated by submitter
+COMMENT     Annotation was added to the contigs in Feburary 2016.
+            
+            ##Genome-Assembly-Data-START##
+            Assembly Date         :: 2014
+            Assembly Method       :: AllPaths v. r44837
+            Assembly Name         :: Aiptasia genome 1.1
+            Genome Coverage       :: 60.0x
+            Sequencing Technology :: Illumina HiSeq; Illumina MiSeq
+            ##Genome-Assembly-Data-END##
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..540
+                     /organism="Exaiptasia diaphana"
+                     /isolate="CC7"
+                     /isolation_source="whole animal"
+                     /db_xref="taxon:2652724"
+                     /country="Saudi Arabia: KAUST"
+                     /collection_date="Mar-2014"
+     Protein         1..540
+                     /product="Sialin"
+     Region          53..511
+                     /region_name="UhpC"
+                     /note="Sugar phosphate permease [Carbohydrate transport
+                     and metabolism]; cl27298"
+                     /db_xref="CDD:332119"
+     CDS             1..540
+                     /gene="SLC17A5"
+                     /locus_tag="AC249_AIPGENE16892"
+                     /coded_by="join(LJWW01000018.1:98996..99313,
+                     LJWW01000018.1:99551..99584,LJWW01000018.1:99928..100127,
+                     LJWW01000018.1:100283..100370,
+                     LJWW01000018.1:100439..100537,
+                     LJWW01000018.1:100741..100877,
+                     LJWW01000018.1:101096..101245,
+                     LJWW01000018.1:101315..101447,
+                     LJWW01000018.1:101754..101998,
+                     LJWW01000018.1:102278..102496)"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method Augustus and PASA. Gene and product
+                     name derived from sequence similarity of the CDS product
+                     to UniProtKB accession Q9MZD1."
+                     /db_xref="PFAM:PF07690"
+ORIGIN      
+        1 mdndgvddet ckllsgvadp srstststny tkdpiglvsr ifccrnvlvl lqflgfvtvy
+       61 gmranlsval vamvnqtyae qtsghrjiep ecrvkhrntt qddhnedgpf kwdpvvqgyi
+      121 lsaffygyia tqvpggwlst kfggkkvlay gifftacftg ltpiaartna afliavrvla
+      181 glsegvtypa attmwsrwas plerstyivl cfxggdfgai salplsgwls sltfiddgwp
+      241 lafyvfgalg liwfivwmav vhespavhpr ispwekqhii tgignsqdki nkkyptpwqs
+      301 ifssipvwam fiasfsygws wyvfltclps ffkevldfni kqngvltalp fiasciskns
+      361 ialfsdwlqk tfgfsttfvr kxfgitgill saslllpvgy lqcsqtflcv alltlscgal
+      421 giytttgsti aldlsprfag vvmavinfgt nvpgvltpmv vgqltnhkpt rqqwkkafyi
+      481 tcginlfgvl vllifgsake qpwnfpnkee rdsdeerlgk avrgrqeifp kdkqftsrqc
+//
+

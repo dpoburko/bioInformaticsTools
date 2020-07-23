@@ -1,0 +1,85 @@
+
+LOCUS       XP_015722949             517 aa            linear   VRT 18-FEB-2020
+DEFINITION  synaptic vesicular amine transporter [Coturnix japonica].
+ACCESSION   XP_015722949
+VERSION     XP_015722949.1
+DBLINK      BioProject: PRJNA314147
+DBSOURCE    REFSEQ: accession XM_015867463.2
+KEYWORDS    RefSeq.
+SOURCE      Coturnix japonica (Japanese quail)
+  ORGANISM  Coturnix japonica
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Galloanserae; Galliformes;
+            Phasianidae; Perdicinae; Coturnix.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_029521.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA and EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Coturnix japonica Annotation Release
+                                           101
+            Annotation Version          :: 101
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.3
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..517
+                     /organism="Coturnix japonica"
+                     /isolate="7356"
+                     /db_xref="taxon:93934"
+                     /chromosome="6"
+                     /sex="male"
+                     /tissue_type="blood"
+                     /country="France: Tours, INRA PEAT"
+     Protein         1..517
+                     /product="synaptic vesicular amine transporter"
+                     /calculated_mol_wt=55959
+     Region          132..439
+                     /region_name="MFS_1"
+                     /note="Major Facilitator Superfamily; pfam07690"
+                     /db_xref="CDD:284993"
+     Region          134..275
+                     /region_name="2_A_01_02"
+                     /note="Multidrug resistance protein; TIGR00880"
+                     /db_xref="CDD:273318"
+     Site            order(137,140..141,144,148..149,151..152,198..199,
+                     202..203,206..207,210,223..224,227..228,234,307,310..311,
+                     314..315,318,332,336,340,343,347,394,397..398,404,
+                     408..409,412,423..424,427..428,431..432,435)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     Region          296..>473
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     CDS             1..517
+                     /gene="SLC18A2"
+                     /coded_by="XM_015867463.2:1..1554"
+                     /db_xref="GeneID:107316210"
+ORIGIN      
+        1 mawgefslrw lregrqsrkl illivfiall ldnmlltvvv piipsylysi kheknatevq
+       61 takpnvvsmt kdnfqsifsy ydnsiiftgn esdkaapgel qhtqtapmiv nvtaappdcp
+      121 kedkdllnen vqvgllfask atvqlitnpf igpltnrigy qiplfagfci mfvstimfaf
+      181 sgsyallfva rslqgvgssc ssvagmgmla svytddeerg namgialggl amgvlvgppf
+      241 gsimyefvgk sspflvlaal alfdgavqlf vlqpsraqae sqkgtplltl mkdpyiiiaa
+      301 gsicfanmai amlepalpiw mmetmcskkw qlgvaflpas isyligtnlf gilahkmgrw
+      361 lcallgmliv gisilcvpfa kniygliapn fgvgfaigmv dssmmpimgy lvdlrhvsvy
+      421 gsvyaiadva fcmgfaigps aggaiakaig fpwlmtiigi vdilfaplcf flrsppakee
+      481 kmailmdhnc pvktkmytqn niqsypigee eeyesde
+//
+

@@ -1,0 +1,57 @@
+
+LOCUS       XP_030011194             491 aa            linear   VRT 02-AUG-2019
+DEFINITION  sialin [Sphaeramia orbicularis].
+ACCESSION   XP_030011194
+VERSION     XP_030011194.1
+DBLINK      BioProject: PRJNA556027
+DBSOURCE    REFSEQ: accession XM_030155334.1
+KEYWORDS    RefSeq.
+SOURCE      Sphaeramia orbicularis (orbiculate cardinalfish)
+  ORGANISM  Sphaeramia orbicularis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Gobiaria; Kurtiformes; Apogonoidei; Apogonidae;
+            Apogoninae; Sphaeramia.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_043971.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Sphaeramia orbicularis Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..491
+                     /organism="Sphaeramia orbicularis"
+                     /db_xref="taxon:375764"
+                     /chromosome="15"
+     Protein         1..491
+                     /product="sialin"
+                     /calculated_mol_wt=53654
+     CDS             1..491
+                     /gene="slc17a5"
+                     /coded_by="XM_030155334.1:132..1607"
+                     /db_xref="GeneID:115433809"
+ORIGIN      
+        1 merygtdteg deqdtpllhr gtdrvqrapv ccssryglal lssygffvvy slrvnlsvam
+       61 vdmlnnthhs sinhsssvcp ahasptrpqh nhtasvynwd setqgwilgs ffygyiltqi
+      121 pggylagryg pkwlmgfgil gtvvftlltp vaadlgasyl iavrvfegig egvtfpamyt
+      181 mwaawapple rsrlltisyi gaqlgtvial pvsgeicfyl dwtyvfyifg afglvwfvlw
+      241 alfvfnspnt hprisererl yitsslknel ststhipwgs ivtsiplwai vvahfsynwt
+      301 fytlltllpt ymndilgfsi qqngmlsalp yigcavlavl sgqiadylre scqcptvrvr
+      361 kvaslvgmig pavflvaagy tgcnytmavt fltissslgg vsasgfninh ldiapsyagi
+      421 llgitntfat ipgmvgpvia raltknntie ewqivfyiaa tinllgasfy tllgqgkvqp
+      481 wavhtsyshg d
+//
+

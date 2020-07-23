@@ -1,0 +1,63 @@
+
+LOCUS       XP_035388776             515 aa            linear   VRT 16-JUL-2020
+DEFINITION  synaptic vesicular amine transporter [Electrophorus electricus].
+ACCESSION   XP_035388776
+VERSION     XP_035388776.1
+DBLINK      BioProject: PRJNA645070
+DBSOURCE    REFSEQ: accession XM_035532883.1
+KEYWORDS    RefSeq.
+SOURCE      Electrophorus electricus (electric eel)
+  ORGANISM  Electrophorus electricus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Gymnotiformes; Gymnotoidei; Gymnotidae; Electrophorus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_049547.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Electrophorus electricus Annotation
+                                           Release 101
+            Annotation Version          :: 101
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.5
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..515
+                     /organism="Electrophorus electricus"
+                     /isolate="fEleEle1"
+                     /db_xref="taxon:8005"
+                     /chromosome="13"
+                     /tissue_type="liver"
+                     /dev_stage="juvenile"
+                     /country="Netherlands: Dejong Marinelife, Rotterdam"
+                     /lat_lon="51.9244201 N 4.4777325 E"
+                     /collection_date="29-Nov-2018"
+                     /collected_by="Nidal Karagic"
+     Protein         1..515
+                     /product="synaptic vesicular amine transporter"
+                     /calculated_mol_wt=55257
+     CDS             1..515
+                     /gene="slc18a2"
+                     /coded_by="XM_035532883.1:217..1764"
+                     /db_xref="GeneID:113586455"
+ORIGIN      
+        1 mgffealrdf slltwlreer qsrrliliiv fiallldnml ltvvvpiips ylysvddsvp
+       61 evvtpptssa spsgtfraiv slydnstrlt nlsprdsarg vtpiptltpa vtsnasdcpk
+      121 adqqllnenv kvgllfaska tvqlitnpfi gpltnrigyq ipmfagfcim flstlmfafs
+      181 asyallflar slqgvgsscs svagmgmlas vytddeergn aigialggla mgvlvgppfg
+      241 svmyefvgkt apflvlavla vldgalqlfv lqpskvapes qkgtplmtlm kdpyiliaag
+      301 sicfanmaia mlepalpiwm metmcarkwq lgvaflpasi syligtnifa vlanrigrwl
+      361 csligmllvg vsiicvpfak diyglilpnf gvgfaigmvd ssmmpimgyl vdlrhvsvyg
+      421 svyaiadvaf clgfafgpsa ggavarsigf pwlmtiigvv dilfaplcyf lrsppaneek
+      481 mailmdsncs mrtrsystqg ssyqmgddmd ldspe
+//
+

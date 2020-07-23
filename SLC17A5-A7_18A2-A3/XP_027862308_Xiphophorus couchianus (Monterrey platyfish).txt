@@ -1,0 +1,76 @@
+
+LOCUS       XP_027862308             517 aa            linear   VRT 11-FEB-2019
+DEFINITION  synaptic vesicular amine transporter [Xiphophorus couchianus].
+ACCESSION   XP_027862308
+VERSION     XP_027862308.1
+DBLINK      BioProject: PRJNA516883
+DBSOURCE    REFSEQ: accession XM_028006507.1
+KEYWORDS    RefSeq.
+SOURCE      Xiphophorus couchianus (Monterrey platyfish)
+  ORGANISM  Xiphophorus couchianus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Atherinomorphae; Cyprinodontiformes;
+            Poeciliidae; Poeciliinae; Xiphophorus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_040249.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Xiphophorus couchianus Annotation
+                                           Release 101
+            Annotation Version          :: 101
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.1
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..517
+                     /organism="Xiphophorus couchianus"
+                     /isolation_source="77th inbred generation (sibling line
+                     bred)"
+                     /specimen_voucher="Xc77(B)"
+                     /db_xref="taxon:32473"
+                     /chromosome="22"
+                     /sex="female"
+                     /country="Mexico: Nuevo Leon, Huasteca Canyon"
+                     /collection_date="1961"
+     Protein         1..517
+                     /product="synaptic vesicular amine transporter"
+                     /calculated_mol_wt=55982
+     Region          26..473
+                     /region_name="MFS_SLC18A1_2_VAT1_2"
+                     /note="Vesicular amine transporters 1 (VAT1) and 2 (VAT2),
+                     and similar transporters of the Major Facilitator
+                     Superfamily; cd17384"
+                     /db_xref="CDD:340942"
+     Site            order(37..38,41..42,45,148,198..199,201..203,206,227,
+                     230..231,234,303,306..307,310..312,315,343,347,400..401,
+                     405,409,424,427..428,431..432,435)
+                     /site_type="other"
+                     /note="putative chemical substrate binding pocket
+                     [chemical binding]"
+                     /db_xref="CDD:340942"
+     CDS             1..517
+                     /gene="slc18a2"
+                     /coded_by="XM_028006507.1:118..1671"
+                     /db_xref="GeneID:114137716"
+ORIGIN      
+        1 mggldalrqf tlikwlreer qsrklilfiv fvallldnml ltvvvpiips ylynldesad
+       61 veirnsslsp qapsgsfhtv vslydnsvrl sgsnstvsaa dparptpaha plprnssdcp
+      121 rstsrllnen vkvgmlfask atvqlltnpf igpltnrigy qlpifagfci mflstimfaf
+      181 sssytllfla rslqgvgssc ssvagmgmla svytddeerg haigialggl algvlvgppf
+      241 gsvmydfvgk tapflvlafl alfdgalqlf vlqptkvepe sqkgtplftl mkdpyiliaa
+      301 gaicfgnmai ammeptlpiw mmetmctrrw qlgiaflpas isyligtnif gslahkmgrw
+      361 lcaligmvvv gfsvicvpfa rdiyglilpn fgvgfaigmv dssmmpimgy lvdlrhvsvy
+      421 gsvyaiadva fcmgfalgps iggsiaesig fpwlmtiigv vdiffaplcl flknppgqee
+      481 kiailmdtnc smktrsyttq gtyyqgddmd peyddyd
+//
+

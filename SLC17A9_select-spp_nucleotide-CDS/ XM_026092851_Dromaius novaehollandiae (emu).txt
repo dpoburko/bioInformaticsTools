@@ -1,0 +1,95 @@
+
+LOCUS       XM_026092851            2617 bp    mRNA    linear   VRT 09-AUG-2018
+DEFINITION  PREDICTED: Dromaius novaehollandiae solute carrier family 17 member
+            9 (SLC17A9), mRNA.
+ACCESSION   XM_026092851
+VERSION     XM_026092851.1
+DBLINK      BioProject: PRJNA484763
+KEYWORDS    RefSeq.
+SOURCE      Dromaius novaehollandiae (emu)
+  ORGANISM  Dromaius novaehollandiae
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Palaeognathae; Casuariiformes; Dromaiidae;
+            Dromaius.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_020451684.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA and EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Dromaius novaehollandiae Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.1
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..2617
+                     /organism="Dromaius novaehollandiae"
+                     /mol_type="mRNA"
+                     /isolate="6597"
+                     /specimen_voucher="MCZ:Cryo:6597"
+                     /db_xref="taxon:8790"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /tissue_type="muscle"
+                     /dev_stage="adult"
+                     /collected_by="Dan Janes"
+     gene            1..2617
+                     /gene="SLC17A9"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon. Supporting evidence
+                     includes similarity to: 2 mRNAs, 2 ESTs, 7 Proteins, and
+                     98% coverage of the annotated genomic feature by RNAseq
+                     alignments, including 1 sample with support for all
+                     annotated introns"
+                     /db_xref="GeneID:112979002"
+     CDS             1..1365
+                     /gene="SLC17A9"
+                     /codon_start=1
+                     /product="solute carrier family 17 member 9"
+                     /protein_id="XP_025948636.1"
+                     /db_xref="GeneID:112979002"
+                     /translation="MAAGGGRKVPPCSAEHGPRPAQPPGVRRDGGAEPYWSRPESRVW
+                     TVMLLLGTCLLYCARVAVPICAVALSSRFDWDKKQSGVVLSSFFWGYCLTQVIGGHIS
+                     DRIGGEKVLLLSASAWGFLTVITPLLTHVSSAHLVFMTCSRFLMGLLQGVYFPALASL
+                     LSQKVRESERAFTYSTVGTGSQFGTLVIGGAGSLLLDWYGWESVFYFSGLLTLLWVYC
+                     TCKYLLNEKELIIPLDYLTRGLSVSKQTKVPWKQLFRKAPIWAVIIAQLSTASTFFTL
+                     LSWLPTFFKETFPESKGWVFNVVPWLVAIPTSLFSGFLSDHLINQGYKTITIRKFMQV
+                     IGSGVSSIFALCLGQTSSFCKAIVFASASVGLQTFNHSGISVNVQDLAPSCAGLLFGV
+                     GNTGGALLGVVCVYLAGYLIETTGSWASVFNLVAVVNSVGLCTFLIFGEAQRVDTDSA
+                     YIDL"
+ORIGIN      
+         1 atggccgcgg gcggcggcag gaaggtgccg ccgtgcagcg ccgagcacgg cccgcgcccc 
+        61 gcgcagcccc cgggcgtgcg gagggacggc ggcgccgagc cctactggtc caggcccgag 
+       121 tcccgcgtgt ggacggtgat gctgctgctg ggcacgtgcc tgctgtactg cgcccgcgtc 
+       181 gccgtgccca tctgcgccgt cgccctcagc agccgcttcg actgggacaa gaagcagtcc 
+       241 ggcgtcgtgc tgagcagctt cttctggggt tactgcctga cgcaggttat cggcggacac 
+       301 atcagcgacc gaataggagg cgaaaaagtc cttctcctct cggcgtcagc ctggggcttc 
+       361 ctcacggtca tcaccccgct gctcacccac gtcagctctg cccacctggt cttcatgacc 
+       421 tgctccaggt tcctcatggg gctgctgcaa ggggtgtatt tccccgcgct ggccagcctc 
+       481 ctttcgcaga aggtgcggga gagcgagcgc gccttcacgt acagcacggt ggggaccggc 
+       541 tcgcagttcg gcacgcttgt gatcggyggc gcggggtctc tcctcctcga ctggtacggc 
+       601 tgggaaagcg ttttctactt ctccggcttg ctcaccttgc tctgggttta ctgcacrtgc 
+       661 aagtacctcc tgaacgagaa agagctcatc atccccytgg attatctaac gagaggcctc 
+       721 tccgtatcca agcagaccaa agtgccctgg aagcagctgt tcagaaaggc rccgatctgg 
+       781 gctgtcatca tcgctcagct ttccacggcc agcacgtttt tcaccctcct ctcctggctg 
+       841 ccgactttct tcaaggaaac ttttcccgag tcgaagggct gggtgttcaa tgtagtcccg 
+       901 tggctggttg caattccaac gagcttattc agtggatttc tgtctgatca tttaatcaac 
+       961 caggggtata aaaccatcac cattcgtaag ttcatgcagg tcatcggctc aggtgtttcg 
+      1021 agcatttttg ctttgtgcct gggtcagaca tccagttttt gcaaagctat agtgtttgcc 
+      1081 tcggcctctg ttggacttca gacctttaac cacagtggta tctcagtaaa cgtacaagat 
+      1141 ctggccccct cgtgcgctgg cttgctcttc ggcgttggaa ataccggtgg agccctgctc 
+      1201 ggtgttgttt gcgtgtacct ggctggctac ctgatcgaaa ctaccggctc ttgggcttcc 
+      1261 gttttcaacc tggtggctgt ggtcaacagc gtcggcctct gcacgttcct gatcttcgga 
+      1321 gaggcccaga gggtggacac ggactccgct tatatagact tgtag
+//
+

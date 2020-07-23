@@ -1,0 +1,61 @@
+
+LOCUS       XP_032122703             532 aa            linear   PRI 02-FEB-2020
+DEFINITION  vesicular acetylcholine transporter [Sapajus apella].
+ACCESSION   XP_032122703
+VERSION     XP_032122703.1
+DBLINK      BioProject: PRJNA599380
+DBSOURCE    REFSEQ: accession XM_032266812.1
+KEYWORDS    RefSeq.
+SOURCE      Sapajus apella (Tufted capuchin)
+  ORGANISM  Sapajus apella
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Cebidae; Cebinae; Sapajus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_022437101.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA and EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Sapajus apella Annotation Release
+                                           100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.3
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..532
+                     /organism="Sapajus apella"
+                     /isolate="SASKATOON/1434"
+                     /db_xref="taxon:9515"
+                     /chromosome="Unknown"
+                     /sex="female"
+                     /tissue_type="blood"
+                     /dev_stage="adult"
+     Protein         1..532
+                     /product="vesicular acetylcholine transporter"
+                     /calculated_mol_wt=56662
+     CDS             1..532
+                     /gene="SLC18A3"
+                     /coded_by="XM_032266812.1:432..2030"
+                     /db_xref="GeneID:116542091"
+ORIGIN      
+        1 mepaapagqa raaatklsea vgaalqeprr qrrlvlvivc vallldnmly mvivpivpdy
+       61 iahmrgggeg ptptpavwep tlllptpana sayaantsas ptaawpagta lrpryptese
+      121 dvkigvlfas kailqllvnp lsgpfidrms ydvplliglg vmfastvmfa faedyatlfa
+      181 arslqglgsa fadtsgiami adkypeeper sralgvalaf isfgslvapp fggilyefag
+      241 krvpflvlaa vslfdallll avakpfsaaa raranlpvgt pihrlmldpy iavvagaltt
+      301 cniplaflep tiatwmkhtm aasewemgmv wlpafvphvl gvyltvrlaa ryphlqwlyg
+      361 alglavigas sclvpachsf splvvslcgl cfgialvdta llptlaflvd vrhvsvygsv
+      421 yaiadisysv ayalgpivag hivhslgfeq lslgmglanl lyapvllllr nvglltrsrs
+      481 erdvlldepp qglydavrlr erpvsgqege prsppgpfde ceddynycyt rs
+//
+

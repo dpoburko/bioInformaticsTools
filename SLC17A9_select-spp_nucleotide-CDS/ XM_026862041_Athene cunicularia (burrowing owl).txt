@@ -1,0 +1,92 @@
+
+LOCUS       XM_026862041            3858 bp    mRNA    linear   VRT 24-OCT-2018
+DEFINITION  PREDICTED: Athene cunicularia solute carrier family 17 member 9
+            (SLC17A9), mRNA.
+ACCESSION   XM_026862041
+VERSION     XM_026862041.1
+DBLINK      BioProject: PRJNA497593
+KEYWORDS    RefSeq.
+SOURCE      Athene cunicularia (burrowing owl)
+  ORGANISM  Athene cunicularia
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Strigiformes; Strigidae; Athene.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_020799125.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA and EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Athene cunicularia Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.1
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..3858
+                     /organism="Athene cunicularia"
+                     /mol_type="mRNA"
+                     /isolate="RWA"
+                     /db_xref="taxon:194338"
+                     /chromosome="20"
+                     /map="unlocalized"
+                     /sex="male"
+                     /tissue_type="blood"
+                     /dev_stage="adult"
+                     /country="Argentina: rural area near Bahia Blanca"
+                     /collection_date="2013"
+     gene            1..3858
+                     /gene="SLC17A9"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon. Supporting evidence
+                     includes similarity to: 2 mRNAs, 2 ESTs, 5 Proteins, and
+                     100% coverage of the annotated genomic feature by RNAseq
+                     alignments"
+                     /db_xref="GeneID:113487446"
+     CDS             16..1296
+                     /gene="SLC17A9"
+                     /codon_start=1
+                     /product="solute carrier family 17 member 9"
+                     /protein_id="XP_026717842.1"
+                     /db_xref="GeneID:113487446"
+                     /translation="MLRTFFTWKMPESRIWTVMLLLGTCLLYCARVTVPICAVALSTH
+                     FSWDKKQSGIVLSSFFWGYCLTQIIGGHISDKIGGEKVLLLSASAWGFLTVLTPLLTH
+                     VTSAHLVFMASSRFLMGLLQGVYFPSLASLLSQKVRESERAFTYSTVGTGSQFGTLVI
+                     GGAGSLLLDWYGWESVFYFSGLLTLLWVYCTCKYLLSEKELIIPIDYLMRGLSISKQS
+                     KVPWKQLFKKAPIWAVIIAQLSTASTFFTLLSWLPTFFKETFPESKGWVFNVVPWLVA
+                     IPTSLFSGFLSDHLINQGYKTITIRKFMQVIGSGVSSIFALCLGQTSSFCKAIVFASA
+                     SVGLQTFNHSGISVNVQDLAPSCAGLLFGVGNTGGALLGVICVYLAGYLIETTGSWIS
+                     VFNLVAAVNSIGLCAFLMFGEAQRVDTDSAYMDL"
+ORIGIN      
+         1 atgctgagaa cttttttcac atggaaaatg cccgagtccc gcatctggac ggtgatgttg 
+        61 ctgctgggga cgtgcctgct gtactgcgcc cgcgtcaccg tgcccatctg cgccgtcgcc 
+       121 ctgagcaccc acttcagctg ggacaagaag cagtccggca tagtgctcag cagcttcttc 
+       181 tggggctact gcttgacaca gattatcgga gggcatatca gtgataaaat aggaggtgag 
+       241 aaagtcctcc tcctctcagc atcagcctgg gggttcctca cggtcctcac cccgctgctc 
+       301 acccacgtca cttctgccca tctcgttttt atggcctcct ccaggttcct catggggttg 
+       361 ctgcaagggg tgtatttccc atccctggcc agcctgctgt cccagaaggt ccgggagagc 
+       421 gagcgagcct tcacttacag cacagtgggg actggctcgc agtttgggac gctggtgatt 
+       481 ggtggtgcag gttctctcct cctcgactgg tacggctggg agagcgtttt ctacttctct 
+       541 ggtttgctca ctttgctctg ggtttactgc acctgcaagt acctcctgag tgagaaagaa 
+       601 ctcatcatcc ccatagacta tttaatgaga ggcctctcga tatccaagca gagcaaagtt 
+       661 ccctggaagc agctgtttaa gaaggcaccg atatgggctg tcatcatcgc tcagctttct 
+       721 acagccagca catttttcac tcttctctcc tggctgccaa ctttctttaa ggaaactttc 
+       781 cccgagtcaa agggttgggt gtttaacgta gtcccttggc tggttgcaat tcctacaagc 
+       841 ttgttcagtg gatttctgtc tgatcattta atcaaccagg ggtacaaaac catcaccatt 
+       901 cgtaaattca tgcaggtcat cggctcgggc gtctcaagca tttttgcctt gtgcctgggc 
+       961 cagacctcca gtttctgcaa ggcgatagtg tttgcttctg cctctgttgg acttcagacc 
+      1021 tttaaccaca gtggcatttc agtaaacgta caggatctgg ccccctcatg tgctggctta 
+      1081 ctgttcggtg ttgggaatac aggtggagcc ctcctaggtg tcatttgtgt gtacttggcc 
+      1141 ggctacctga tcgaaacgac tggctcctgg atttctgttt ttaacctggt ggctgctgtt 
+      1201 aacagcattg gcctctgtgc attcctcatg tttggagagg cccagagggt ggacacagac 
+      1261 tcggcatata tggacctcta g
+//
+

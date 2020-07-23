@@ -28,14 +28,17 @@
 #@X{3,5}00 dileucine like
 #@X00
 #srchTerm = c("@X{3,5}00") #dileucine-like  
+#srchTerm = c("@@@@S@S@") # VMAT2 LDCV localization https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2897747/ 
+#srchTerm = c("@XX(S|T)XXXDL$") # putative VNUT C-tail motif
+srchTerm = c("AXR0DX{6,15}") # putative VNUT C-tail motif
 
 #http://elm.eu.org/elms/elmPages/TRG_PTS1.html [SAPTC][KRH][LMFI]$)|([KRH][SAPTC][NTS][LMFI]
 #srchTerm = c("(S|A|P|T|C)(K|R|H)(L|M|F|I)$")   #PST1 - confirmed syntax works. None in 295 VNUT
 #srchTerm = c("(K|R|H)(S|A|P|T|C)(N|T|S)(L|M|F|I)$")   #PST1 - confirmed syntax works. None in 295 VNUT
 #srchTerm = c("B@@0X$") # akin to HEDL. Purely mammalian
-srchTerm = c("B@@0X{1,25}$") # akin to HEDL at c-term but a little ways away - none in SLC17A9  
+#srchTerm = c("B@@0X{1,25}$") # akin to HEDL at c-term but a little ways away - none in SLC17A9  
 
-fNameSuffix = ""
+fNameSuffix = "putativeVNUT2"
 
 plot.progress <- function(...)	{
   vectOfBar <- c(...)*100

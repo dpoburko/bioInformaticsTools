@@ -1,0 +1,93 @@
+
+LOCUS       XM_033041393            2284 bp    mRNA    linear   VRT 20-MAR-2020
+DEFINITION  PREDICTED: Amblyraja radiata solute carrier family 17 member 9
+            (slc17a9), mRNA.
+ACCESSION   XM_033041393
+VERSION     XM_033041393.1
+DBLINK      BioProject: PRJNA610638
+KEYWORDS    RefSeq.
+SOURCE      Amblyraja radiata (thorny skate)
+  ORGANISM  Amblyraja radiata
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Chondrichthyes;
+            Elasmobranchii; Batoidea; Rajiformes; Rajidae; Amblyraja.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_045978.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Amblyraja radiata Annotation Release
+                                           100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.3
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..2284
+                     /organism="Amblyraja radiata"
+                     /mol_type="mRNA"
+                     /isolate="CabotCenter1"
+                     /db_xref="taxon:386614"
+                     /chromosome="23"
+                     /sex="male"
+                     /tissue_type="testis, liver"
+                     /country="USA: Gulf of Main"
+                     /lat_lon="43.1336 N 68.3266 W"
+                     /collection_date="2017-09-18"
+                     /collected_by="Jeff Kneebone"
+     gene            1..2284
+                     /gene="slc17a9"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon. Supporting evidence
+                     includes similarity to: 8 Proteins, and 100% coverage of
+                     the annotated genomic feature by RNAseq alignments,
+                     including 9 samples with support for all annotated
+                     introns"
+                     /db_xref="GeneID:116986165"
+     CDS             249..1601
+                     /gene="slc17a9"
+                     /codon_start=1
+                     /product="solute carrier family 17 member 9"
+                     /protein_id="XP_032897284.1"
+                     /db_xref="GeneID:116986165"
+                     /translation="MAFAAYNEGDKITSMNFIRPGDSPNEVPISRTHPNGTYWSKSEA
+                     KSWVPFLFMGTCLLYCARVTLPICVSAMAEQYEWDKKQSGLVLGSFFWGYCLTQILGG
+                     YISDRLGGAKILMLSTCAWGLVVIFTPIIVHQSSSPIVLLTASRFLMGLLQGVFYPSL
+                     TSLFSIKVRESDRAFTSSSVCTGSQVGTLLLGAVGSVLLHRYGWESVFYFSGLPSLLW
+                     GVCMWKYFLKGQDQIISLESLGNGLVNSKNSKVPWRKLFRSTAVWAVIVAHICLAGTF
+                     FCLLSWMPTFFHDLFPESKGWVFNVVPWAVAIPFSLFGGLLTDHLIKLGFDTAKVRKI
+                     MTVFAMGVSSIFTKLLSYSGNYYQAVIFLSVSLGLQTFNHSGVSVNVQDLAPSCAGSL
+                     FGIMNTGGALCGVAFVYLAGHLIETSGSWPSVFNFISIVNTFGLSFFLFFGQATRIDI
+                     "
+ORIGIN      
+         1 atggcttttg ccgcgtacaa tgaaggcgat aagatcacca gcatgaactt catccggccg 
+        61 ggagactcgc caaacgaagt gccaatcagc cggactcacc ctaatggcac ttattggtca 
+       121 aagtcggaag ctaaatcatg ggtcccattt ttgtttatgg gcacctgcct gctgtactgt 
+       181 gccagagtga ctctgcccat ctgtgtgtcg gccatggcag aacagtacga gtgggacaag 
+       241 aaacagtcgg gccttgtgct gggaagcttc ttctggggct actgtctgac acaaatctta 
+       301 ggcggctaca tcagcgacag attgggtgga gccaaaatac taatgctatc tacatgtgcc 
+       361 tggggattag tcgtcatctt caccccaatt attgttcatc aaagctcttc cccaattgta 
+       421 cttttgacag catccagatt ccttatgggc ttgttacagg gtgtgtttta tccatccctg 
+       481 acgagtttat tctccattaa agttcgggaa agtgatcgag cgtttacatc cagctccgtc 
+       541 tgcacaggtt cccaggttgg aacattattg ctcggagctg tagggtcggt gttgttacac 
+       601 aggtacggct gggagagtgt gttctatttc tctggcctcc cctcgctgtt gtggggcgtc 
+       661 tgcatgtgga aatatttcct taaaggacaa gaccagataa tatctttgga aagcttgggc 
+       721 aacgggctgg tgaactcaaa gaacagtaag gttccatgga gaaaattgtt ccggagcact 
+       781 gctgtctggg ctgtcattgt ggcccacatt tgcctggccg ggacgttctt ctgccttttg 
+       841 tcctggatgc caacattctt ccacgatctg tttcccgagt ccaagggttg ggtattcaac 
+       901 gtggtcccct gggctgtcgc catcccattc tcattgtttg ggggcttgct aaccgatcac 
+       961 ctgatcaaac tcgggtttga caccgccaaa gtgcgaaaga taatgacggt gtttgccatg 
+      1021 ggcgtttcca gcatctttac caaattattg agttactcag gcaactatta ccaagctgtg 
+      1081 atattcctgt ctgttagctt aggacttcag actttcaatc acagcggagt ttctgtaaat 
+      1141 gttcaagatt tggcgccatc ctgtgcgggc tcactatttg gtattatgaa tacaggtgga 
+      1201 gccttgtgcg gggttgcctt tgtctacctt gccggtcacc tcatagagac ctcaggatca 
+      1261 tggccgtctg ttttcaattt catcagcatc gtcaacacct tcggcctctc cttcttcctc 
+      1321 ttcttcggcc aagcgacacg gatagacatt taa
+//
+

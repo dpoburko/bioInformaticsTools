@@ -1,0 +1,68 @@
+
+LOCUS       XP_028648569             515 aa            linear   VRT 21-APR-2019
+DEFINITION  vesicular acetylcholine transporter [Erpetoichthys calabaricus].
+ACCESSION   XP_028648569
+VERSION     XP_028648569.1
+DBLINK      BioProject: PRJNA531901
+DBSOURCE    REFSEQ: accession XM_028792736.1
+KEYWORDS    RefSeq.
+SOURCE      Erpetoichthys calabaricus (reedfish)
+  ORGANISM  Erpetoichthys calabaricus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Polypteriformes; Polypteridae; Erpetoichthys.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_041395.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Erpetoichthys calabaricus Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..515
+                     /organism="Erpetoichthys calabaricus"
+                     /db_xref="taxon:27687"
+                     /chromosome="2"
+     Protein         1..515
+                     /product="vesicular acetylcholine transporter"
+                     /calculated_mol_wt=55844
+     Region          42..438
+                     /region_name="MFS_SLC18A3_VAChT"
+                     /note="Vesicular acetylcholine transporter (VAChT) and
+                     similar transporters of the Major Facilitator Superfamily;
+                     cd17383"
+                     /db_xref="CDD:340941"
+     Site            order(52..53,56..57,60,109,159..160,162..164,167,188,
+                     191..192,195,266,269..270,273..275,278,306,310,359..360,
+                     364,368,389,392..393,396..397,400)
+                     /site_type="other"
+                     /note="putative chemical substrate binding pocket
+                     [chemical binding]"
+                     /db_xref="CDD:340941"
+     CDS             1..515
+                     /gene="slc18a3"
+                     /coded_by="XM_028792736.1:578..2125"
+                     /db_xref="GeneID:114644714"
+ORIGIN      
+        1 maseettgla ksaalklsem gertkqlgta mqdpnrqrrl ilvivcvall ldnmlymviv
+       61 pimpdylkil nitssstskn stskhsgenn dlkigilfas kailqllvnp lsgtfidrvg
+      121 ydiplfigli imffstclfa faqnyltlfv arslqglgsa fadtsgiami adkyteeser
+      181 sralgialaf isfgslvapp fggfmyqfvn tfmpfmvlag islidgillm svmkpftnrt
+      241 renmpvgtpi yklmidpyia vvagalttcn iplaflepti anwmetkmgt tnfqmgliwl
+      301 paffphvlgv yitvklaash pnyqwfygal gmviigassc tvpacrsfgq liaplcgicf
+      361 gialvdtall ptlaflvdvr hvsvygsvya iadisycvay algpivagqi vhdlgfvsln
+      421 lgmglanvly apallllrnv cqmkpshser nvlldegpkg lydtikmeer nakkkgtgts
+      481 ssnhmpgden gidtynqhqt sgffseedss gneyn
+//
+

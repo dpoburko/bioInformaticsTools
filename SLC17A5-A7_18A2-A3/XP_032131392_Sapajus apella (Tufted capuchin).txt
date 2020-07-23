@@ -1,0 +1,61 @@
+
+LOCUS       XP_032131392             505 aa            linear   PRI 02-FEB-2020
+DEFINITION  sialin isoform X1 [Sapajus apella].
+ACCESSION   XP_032131392
+VERSION     XP_032131392.1
+DBLINK      BioProject: PRJNA599380
+DBSOURCE    REFSEQ: accession XM_032275501.1
+KEYWORDS    RefSeq.
+SOURCE      Sapajus apella (Tufted capuchin)
+  ORGANISM  Sapajus apella
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Cebidae; Cebinae; Sapajus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_022436946.1) annotated using gene prediction method: Gnomon,
+            supported by EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Sapajus apella Annotation Release
+                                           100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.3
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..505
+                     /organism="Sapajus apella"
+                     /isolate="SASKATOON/1434"
+                     /db_xref="taxon:9515"
+                     /chromosome="Unknown"
+                     /sex="female"
+                     /tissue_type="blood"
+                     /dev_stage="adult"
+     Protein         1..505
+                     /product="sialin isoform X1"
+                     /calculated_mol_wt=55417
+     CDS             1..505
+                     /gene="SLC17A5"
+                     /coded_by="XM_032275501.1:117..1634"
+                     /db_xref="GeneID:116549725"
+ORIGIN      
+        1 mrspvrdlaq kdgeestdrt pllpgapqae agmrrglrga sapvccsary nlailaffgf
+       61 fivyalrvnl svalvdmvds nttlednrts kacpehsspi kvhhnqtgkk yqwdaetqgw
+      121 ilgsffygyi itqipggyva skiggklllg fgvlgtavlt lftpiaadlg vgpliilral
+      181 eglgegvtfp amhamwsswa pplersklls isyagaqlgt vislplsgii cyymnwtyvf
+      241 yffgavgifw fllwiwlvsd tpqthkrish yekeyilssl rnqlssqksv pwvpilkslp
+      301 lwaivvahfs ynwtfytllt llptymkeil rfnvqengll sslpylgswl cmilsgqaad
+      361 nlrakwnfst lcvrrifsli gmigpaiflv aagfigcdys lavafltist tlggfcssgf
+      421 sinhldiaps yagillgitn tfatipgmvg pviaksltpe ntvgewqtvf yiaavinvfg
+      481 aifftlfgkg evqswalndh hghrh
+//
+

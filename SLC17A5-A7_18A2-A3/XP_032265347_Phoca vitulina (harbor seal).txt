@@ -1,0 +1,63 @@
+
+LOCUS       XP_032265347             502 aa            linear   MAM 11-FEB-2020
+DEFINITION  sialin isoform X1 [Phoca vitulina].
+ACCESSION   XP_032265347
+VERSION     XP_032265347.1
+DBLINK      BioProject: PRJNA605348
+DBSOURCE    REFSEQ: accession XM_032409456.1
+KEYWORDS    RefSeq.
+SOURCE      Phoca vitulina (harbor seal)
+  ORGANISM  Phoca vitulina
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Carnivora; Caniformia;
+            Phocidae; Phoca.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_022589714.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA and EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Phoca vitulina Annotation Release
+                                           100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.3
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..502
+                     /organism="Phoca vitulina"
+                     /isolate="PV1807"
+                     /db_xref="taxon:9720"
+                     /chromosome="Unknown"
+                     /sex="female"
+                     /tissue_type="blood"
+                     /dev_stage="Pup"
+                     /country="Canada: Boundary Bay, Tsawwassen, British
+                     Columbia"
+     Protein         1..502
+                     /product="sialin isoform X1"
+                     /calculated_mol_wt=54927
+     CDS             1..502
+                     /gene="SLC17A5"
+                     /coded_by="XM_032409456.1:104..1612"
+                     /db_xref="GeneID:116635475"
+ORIGIN      
+        1 mrspigglas sdgeegsdrt pllqstprve aasedtfqap accsarynla vlaffgffvl
+       61 yalrvnlsva lvdmvdsntt ladnrtskec aehsapikvl hnqtgkryqw daetqgwilg
+      121 sffygyiitq ipggyiaskv ggklllgfgi lgtavftlft piaadfgvga livlralegl
+      181 gegvtfpamh amwsswappl erskllsisy agaqlgtvis lplsgiicfy mdwtyvfylf
+      241 givgiiwfil wiflvsetpe thktisrhek eyilsslknq lssqksvpwi pmlkslplwa
+      301 ivvahfsynw tfytlltllp tymkeilrfn vqengllsal pyfgcwlcmi lsgqaadnlr
+      361 akwnysticv rrvfsligmi gpavflvaag figcdyslav afltisttlg gfcssgfsin
+      421 hldiapsyag illgitntfa tipgmvgpvi aksltpdnti rewqtvfcia aainvfgaif
+      481 fslfakgevq nwalddrhgh rn
+//
+

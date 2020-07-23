@@ -1,0 +1,59 @@
+
+LOCUS       XP_029887179             518 aa            linear   VRT 27-JUL-2019
+DEFINITION  synaptic vesicular amine transporter isoform X1 [Aquila chrysaetos
+            chrysaetos].
+ACCESSION   XP_029887179
+VERSION     XP_029887179.1
+DBLINK      BioProject: PRJNA556399
+DBSOURCE    REFSEQ: accession XM_030031319.1
+KEYWORDS    RefSeq.
+SOURCE      Aquila chrysaetos chrysaetos
+  ORGANISM  Aquila chrysaetos chrysaetos
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Accipitriformes; Accipitridae;
+            Accipitrinae; Aquila.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_044014.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Aquila chrysaetos chrysaetos
+                                           Annotation Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..518
+                     /organism="Aquila chrysaetos chrysaetos"
+                     /sub_species="chrysaetos"
+                     /db_xref="taxon:223781"
+                     /chromosome="11"
+     Protein         1..518
+                     /product="synaptic vesicular amine transporter isoform X1"
+                     /calculated_mol_wt=56442
+     CDS             1..518
+                     /gene="SLC18A2"
+                     /coded_by="XM_030031319.1:97..1653"
+                     /db_xref="GeneID:115348509"
+ORIGIN      
+        1 mawgefsllr wlresrqsrr lillivfial lldnmlltvv vpiipsylys ikheknatei
+       61 qttkpnvvst tmdnfqsifs yydnstmvtg netdktrpre lhhtqteqmi vnvtpspsdc
+      121 pkedkdllne nvqvgllfas katvqlitnp figpltnrig yqiplfagfc imfvstimfa
+      181 fsgsytllfi arslqgvgss cssvagmgml asvytddeer gnamgialgg lamgvlvgpp
+      241 fgsimyefvg ksspflvlaa lalldgavql fvlqpsraqa esqkgtpllt llkdpyiiia
+      301 agsicfanma iamlepalpi wmmetmcskk wqlgvafipa sisyligtnl fgilahkmgr
+      361 wlcallgmli vgisilcvpf akniygliap nfgvgfaigm vdssmmpimg ylvdlrhvsv
+      421 ygsvyaiadv afcmgfaigp saggaiakai gfpwlmtiig ivdilfaplc fflrsppake
+      481 ekmailmdhn cpvktkmytq nniqsypigd eeeyesde
+//
+

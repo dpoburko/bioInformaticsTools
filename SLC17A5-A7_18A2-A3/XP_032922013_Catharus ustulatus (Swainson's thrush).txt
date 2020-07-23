@@ -1,0 +1,65 @@
+
+LOCUS       XP_032922013             526 aa            linear   VRT 22-MAR-2020
+DEFINITION  vesicular acetylcholine transporter [Catharus ustulatus].
+ACCESSION   XP_032922013
+VERSION     XP_032922013.1
+DBLINK      BioProject: PRJNA613294
+DBSOURCE    REFSEQ: accession XM_033066122.1
+KEYWORDS    RefSeq.
+SOURCE      Catharus ustulatus (Swainson's thrush)
+  ORGANISM  Catharus ustulatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Passeriformes; Turdidae; Catharus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_046228.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA and EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Catharus ustulatus Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.4
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..526
+                     /organism="Catharus ustulatus"
+                     /isolate="bCatUst1"
+                     /db_xref="taxon:91951"
+                     /chromosome="8"
+                     /sex="female"
+                     /tissue_type="blood"
+                     /dev_stage="adult"
+                     /country="Canada: Kamloops"
+                     /lat_lon="50.67613 N 120.33787 W"
+                     /collection_date="15-Jul-2018"
+                     /collected_by="Kira Delmore"
+     Protein         1..526
+                     /product="vesicular acetylcholine transporter"
+                     /calculated_mol_wt=55371
+     CDS             1..526
+                     /gene="SLC18A3"
+                     /coded_by="XM_033066122.1:1..1581"
+                     /db_xref="GeneID:116999422"
+ORIGIN      
+        1 mseaggagra raaverlsea vgerrrqlgt amgearrqrr lllgvvcval lldnmlymvi
+       61 vpiipdyiaa mrggtagpsa paggngsggg nrslltaryp pasgsnedvq igvlfaskam
+      121 lqllvnplsg tlidrvgyel pllaglgvlf lstttfafae nyatlfaars lqglgsafad
+      181 tagialiadr yaeeparsra lgtalacisf gslaappfgg vlyefagkrv pflvlacvcl
+      241 ldgllllvla ppggtgaran mpvgtpihrl midpyiavva galatcnipl afleptianw
+      301 mkdsmgasew evgltwlpaf fphvlgvyvt vqlaaayphl qwfygalgma iigassclvp
+      361 acrnfgqvii plcgicfgia lvdtallptl aflvdvrhvs vygsvyaiad isycvayalg
+      421 pivagqivht mgfaqlnlgm glanvlyapv llflknvcqm kpshsernil leegpkglyd
+      481 tikmeerkgm gkslqpagem dengmgsyhr dlkgvseeds sdyeys
+//
+

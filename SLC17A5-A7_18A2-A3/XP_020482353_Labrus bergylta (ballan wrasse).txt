@@ -1,0 +1,73 @@
+
+LOCUS       XP_020482353             516 aa            linear   VRT 23-MAY-2019
+DEFINITION  synaptic vesicular amine transporter [Labrus bergylta].
+ACCESSION   XP_020482353
+VERSION     XP_020482353.1
+DBLINK      BioProject: PRJNA379987
+DBSOURCE    REFSEQ: accession XM_020626697.2
+KEYWORDS    RefSeq.
+SOURCE      Labrus bergylta (ballan wrasse)
+  ORGANISM  Labrus bergylta
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Labriformes; Labridae; Labrus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_018114433.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Labrus bergylta Annotation Release
+                                           101
+            Annotation Version          :: 101
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..516
+                     /organism="Labrus bergylta"
+                     /db_xref="taxon:56723"
+                     /chromosome="Unknown"
+                     /sex="female"
+                     /tissue_lib="Muscle"
+     Protein         1..516
+                     /product="synaptic vesicular amine transporter"
+                     /calculated_mol_wt=55714
+     Region          132..438
+                     /region_name="MFS_1"
+                     /note="Major Facilitator Superfamily; pfam07690"
+                     /db_xref="CDD:311564"
+     Region          133..274
+                     /region_name="2_A_01_02"
+                     /note="Multidrug resistance protein; TIGR00880"
+                     /db_xref="CDD:273318"
+     Site            order(136,139..140,143,147..148,150..151,197..198,
+                     201..202,205..206,209,222..223,226..227,233,306,309..310,
+                     313..314,317,331,335,339,342,346,393,396..397,403,
+                     407..408,411,422..423,426..427,430..431,434)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     CDS             1..516
+                     /gene="slc18a2"
+                     /coded_by="XM_020626697.2:522..2072"
+                     /db_xref="GeneID:109976678"
+ORIGIN      
+        1 mggldalrqc nflnwlreer qsrklilfiv fiallldnml ltvvvpiips ylynldesta
+       61 vlknntlsqq gapgafnsiv slydntvrts gsnmttrsad lvptaptaaa ppqnssdcpk
+      121 ansmllnenv kvgmlfaska tvqlitnpfi gpltnrigyq lpifigfcim flstimfafs
+      181 ssyallflar slqgvgsscs svagmgmlas vytddeergh aigialggla lgvlvgppfg
+      241 svmyefvgkt apflilafla vfdgalqlfv lqptkvepet qkgtplltlm kdpyiliaag
+      301 aicfgnmaia mmeptlpiwm metmcarkwq lgvaflpasi syligtnifg tlahkmgrwl
+      361 caligitivg isvlcvpfak diyglilpnf gvgfaigmvd ssmmpimgyl vdlrhvsvyg
+      421 svyaiadvaf cmgfalgpsi ggsiaenigf pwlmtiigiv diffaplcif lrnppgqeek
+      481 iailmdtncs mktrsystqg tyyqgedmdp eyedyd
+//
+

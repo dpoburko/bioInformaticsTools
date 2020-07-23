@@ -1,0 +1,66 @@
+
+LOCUS       XP_032550826             528 aa            linear   VRT 29-FEB-2020
+DEFINITION  vesicular acetylcholine transporter [Chiroxiphia lanceolata].
+ACCESSION   XP_032550826
+VERSION     XP_032550826.1
+DBLINK      BioProject: PRJNA603801
+DBSOURCE    REFSEQ: accession XM_032694935.1
+KEYWORDS    RefSeq.
+SOURCE      Chiroxiphia lanceolata (lance-tailed manakin)
+  ORGANISM  Chiroxiphia lanceolata
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Passeriformes; Pipridae;
+            Chiroxiphia.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_045644.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA and EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Chiroxiphia lanceolata Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.3
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..528
+                     /organism="Chiroxiphia lanceolata"
+                     /isolate="bChiLan1"
+                     /db_xref="taxon:296741"
+                     /chromosome="8"
+                     /sex="female"
+                     /tissue_type="isolated red blood cells"
+                     /dev_stage="adult"
+                     /country="Panama: Isla Boca Btava"
+                     /lat_lon="8.2166658 N 82.2666656 W"
+                     /collection_date="14-Apr-2017"
+                     /collected_by="Emily DuVal"
+     Protein         1..528
+                     /product="vesicular acetylcholine transporter"
+                     /calculated_mol_wt=55535
+     CDS             1..528
+                     /gene="SLC18A3"
+                     /coded_by="XM_032694935.1:1..1587"
+                     /db_xref="GeneID:116790184"
+ORIGIN      
+        1 mseaggagra raaverlsea vgerrrqlgt amgearrqrr lllmvvcval lldnmlymvi
+       61 vpiipdyiaa mrggggaagp svpaggngsg ggnrsllpar yppatggned vqigvlfask
+      121 amlqllvnpl sgtlidrvgy evpllaglav mflstatfaf aenyatlfaa rslqglgsaf
+      181 adtagialia dryaeepars ralgtalaci sfgslaappf ggvlyefagk rvpflvlacv
+      241 clldglllla lappgatgar anmpvgtpih rlmvdpyiav vagalatcni plafleptia
+      301 nwmkdsmgas ewevgltwlp affphvlgvy vtvrlaaayp hlqwfygalg maiigasscl
+      361 vpacrnfgqv iiplcgicfg ialvdtallp tlaflvdvrh vsvygsvyai adisysvaya
+      421 lgpivagqiv htmgfaqlnl gmglanvlya pvllflknvc qmkpshsern illeegpkgl
+      481 ydtikmeerk gvgkslqpag emdengmdsy hrdlkgvsee dssdyeys
+//
+

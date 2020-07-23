@@ -1,0 +1,55 @@
+
+LOCUS       XP_033795988             517 aa            linear   VRT 28-APR-2020
+DEFINITION  synaptic vesicular amine transporter [Geotrypetes seraphini].
+ACCESSION   XP_033795988
+VERSION     XP_033795988.1
+DBLINK      BioProject: PRJNA627137
+DBSOURCE    REFSEQ: accession XM_033940097.1
+KEYWORDS    RefSeq.
+SOURCE      Geotrypetes seraphini
+  ORGANISM  Geotrypetes seraphini
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Gymnophiona; Geotrypetes.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_047087.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Geotrypetes seraphini Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.4
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..517
+                     /organism="Geotrypetes seraphini"
+                     /db_xref="taxon:260995"
+                     /chromosome="4"
+     Protein         1..517
+                     /product="synaptic vesicular amine transporter"
+                     /calculated_mol_wt=55943
+     CDS             1..517
+                     /gene="SLC18A2"
+                     /coded_by="XM_033940097.1:1..1554"
+                     /db_xref="GeneID:117358643"
+ORIGIN      
+        1 mslpdfsllr wlregrqsrk fillivfial lldnmlltvv vpiipsylys mkhqenttvl
+       61 qtskpdtgpm tantfqsiys ffdnsvlltg niteglrqgd lhqtstepma invtskpsdc
+      121 pkedmdllne nvqvgllfas katvqlitnp figpmtnrig yqlplfvgfc imflstimfa
+      181 fagsyallfi arslqgigss cssvagmgll asvytddqer gnamgvalgg lalgvlvgpp
+      241 fgsvmyefvg ktapfialaa ltlmdgalql filqpskiqp esqtgtslft llkdpyiiia
+      301 agaicfanma iamlepalpi wmmetmcssk wqlgvafipa svsyligtni fgvlahkmgr
+      361 wfcsllgmii vgisvlsvpf arniygliap nfgvgfaigm vdssmmpimg ylvdlrhvsv
+      421 ygsvyaiadv afclgyaigp siggaiakai gfpwlmtiig iinilfaplc lflrsppake
+      481 ekmailmdhs cpvktkmytq dsmqsypmed dglesye
+//
+

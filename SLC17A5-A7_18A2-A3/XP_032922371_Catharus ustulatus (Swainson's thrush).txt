@@ -1,0 +1,66 @@
+
+LOCUS       XP_032922371             519 aa            linear   VRT 22-MAR-2020
+DEFINITION  synaptic vesicular amine transporter isoform X1 [Catharus
+            ustulatus].
+ACCESSION   XP_032922371
+VERSION     XP_032922371.1
+DBLINK      BioProject: PRJNA613294
+DBSOURCE    REFSEQ: accession XM_033066480.1
+KEYWORDS    RefSeq.
+SOURCE      Catharus ustulatus (Swainson's thrush)
+  ORGANISM  Catharus ustulatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Passeriformes; Turdidae; Catharus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_046228.1) annotated using gene prediction method: Gnomon,
+            supported by EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Catharus ustulatus Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.4
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..519
+                     /organism="Catharus ustulatus"
+                     /isolate="bCatUst1"
+                     /db_xref="taxon:91951"
+                     /chromosome="8"
+                     /sex="female"
+                     /tissue_type="blood"
+                     /dev_stage="adult"
+                     /country="Canada: Kamloops"
+                     /lat_lon="50.67613 N 120.33787 W"
+                     /collection_date="15-Jul-2018"
+                     /collected_by="Kira Delmore"
+     Protein         1..519
+                     /product="synaptic vesicular amine transporter isoform X1"
+                     /calculated_mol_wt=56223
+     CDS             1..519
+                     /gene="SLC18A2"
+                     /coded_by="XM_033066480.1:123..1682"
+                     /db_xref="GeneID:116999611"
+ORIGIN      
+        1 mawgelgllr wlresrqsrk lillivfial lldnmlltvv vpiipsylys ieheknasei
+       61 qttkpnvpsa tmdnfqsifs fydnstmvtg nesdktqpge lhqtqteqmv vtvtpspsdc
+      121 pkddkellne nvqvgllfas katvqlmtnp figpltnrig yqiplfagfc imfvstimfa
+      181 fsgsyallfi arslqgvgss cssvagmgll atvytddeer gnamgialgg lamgvlvgpp
+      241 fgsvmyefvg ksspflvlaa lalfdgavql lvlqpsrtqa esqkgtpllt llkdpyilia
+      301 agsicfanma iamlepalpi wmmetmcskk wqlgvaflpa sisyligtnl fgilahkigr
+      361 wlcallgmli vgisilcvpf akniygliap tfgvgfaigm vdssmmpimg ylvdlrhvsv
+      421 ygsvyaiadv afcmgfaigp saggaiakai gfpwlmtiig ivdiifaplc fflrsppake
+      481 ekmailmdhn cpvktkmytq nniqsypige eeeeyesde
+//
+

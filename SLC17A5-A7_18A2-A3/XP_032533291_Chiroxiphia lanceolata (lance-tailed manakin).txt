@@ -1,0 +1,63 @@
+
+LOCUS       XP_032533291             156 aa            linear   VRT 29-FEB-2020
+DEFINITION  vesicular glutamate transporter 1 [Chiroxiphia lanceolata].
+ACCESSION   XP_032533291
+VERSION     XP_032533291.1
+DBLINK      BioProject: PRJNA603801
+DBSOURCE    REFSEQ: accession XM_032677400.1
+KEYWORDS    RefSeq; includes ab initio.
+SOURCE      Chiroxiphia lanceolata (lance-tailed manakin)
+  ORGANISM  Chiroxiphia lanceolata
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Passeriformes; Pipridae;
+            Chiroxiphia.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_022476527.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Chiroxiphia lanceolata Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.3
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            ab initio :: 36% of CDS bases
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..156
+                     /organism="Chiroxiphia lanceolata"
+                     /isolate="bChiLan1"
+                     /db_xref="taxon:296741"
+                     /chromosome="Unknown"
+                     /sex="female"
+                     /tissue_type="isolated red blood cells"
+                     /dev_stage="adult"
+                     /country="Panama: Isla Boca Btava"
+                     /lat_lon="8.2166658 N 82.2666656 W"
+                     /collection_date="14-Apr-2017"
+                     /collected_by="Emily DuVal"
+     Protein         1..156
+                     /product="vesicular glutamate transporter 1"
+                     /calculated_mol_wt=16317
+     CDS             1..156
+                     /gene="SLC17A7"
+                     /coded_by="XM_032677400.1:632..1102"
+                     /db_xref="GeneID:116781701"
+ORIGIN      
+        1 mqfnkeefrr qvgaglgrlh rflerrqdda eglelssggg sgggtpsvpr ppvvdctfcg
+       61 lprrygiail cgigfcisfg ircnlgvavv smvngapgqv rgqwghgvsm vngapgqvrg
+      121 qwghgvsmvn gvsmvngapg qslentqnph kktpny
+//
+

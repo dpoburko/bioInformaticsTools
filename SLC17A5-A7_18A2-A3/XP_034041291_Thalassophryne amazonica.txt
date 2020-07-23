@@ -1,0 +1,56 @@
+
+LOCUS       XP_034041291             488 aa            linear   VRT 09-MAY-2020
+DEFINITION  sialin isoform X1 [Thalassophryne amazonica].
+ACCESSION   XP_034041291
+VERSION     XP_034041291.1
+DBLINK      BioProject: PRJNA627696
+DBSOURCE    REFSEQ: accession XM_034185400.1
+KEYWORDS    RefSeq.
+SOURCE      Thalassophryne amazonica
+  ORGANISM  Thalassophryne amazonica
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Batrachoidaria; Batrachoididae; Thalassophryne.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_047115.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Thalassophryne amazonica Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.4
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..488
+                     /organism="Thalassophryne amazonica"
+                     /db_xref="taxon:390379"
+                     /chromosome="13"
+     Protein         1..488
+                     /product="sialin isoform X1"
+                     /calculated_mol_wt=53070
+     CDS             1..488
+                     /gene="slc17a5"
+                     /coded_by="XM_034185400.1:52..1518"
+                     /db_xref="GeneID:117523788"
+ORIGIN      
+        1 mesydadter devqtpllhg gnedkvhaap sccssrysla flscygffvv yalrvnlsva
+       61 mvdmlnsshq idnnhsssvc pargsppqsi nnhaasvynw diqtqgwilg sffygyiftq
+      121 ipggymarrf gpkwlmgfgv lgtavftllt pvaadlgagy livvrviegi gegvtfpamf
+      181 tmwaawappl ersrlltisf mgsqlgtvis lpvsgvicfy lswpyvfylf gavgvlwffl
+      241 wacliydtpn shpriseqer vyintslkne lsssdghvpw raiatsmplw aivaahfsyn
+      301 wtfytlltll ptymneilgf sikqngvlsa lpylgcavma visgqvadyl rekwlyptvt
+      361 vrkaitligm vgpavflvat gytgcnyvaa lafltisssl ggvsssgfsi nhldiapsya
+      421 gillgitntf atipgmvgpv iasaltadkt ipewqivfyi aaainlcgat iftlfgqgnv
+      481 qqwailkl
+//
+

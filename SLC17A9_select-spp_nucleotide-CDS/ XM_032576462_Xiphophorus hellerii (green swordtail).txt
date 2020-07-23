@@ -1,0 +1,93 @@
+
+LOCUS       XM_032576462            3269 bp    mRNA    linear   VRT 24-FEB-2020
+DEFINITION  PREDICTED: Xiphophorus hellerii solute carrier family 17 member 9
+            (slc17a9), mRNA.
+ACCESSION   XM_032576462
+VERSION     XM_032576462.1
+DBLINK      BioProject: PRJNA604828
+KEYWORDS    RefSeq.
+SOURCE      Xiphophorus hellerii (green swordtail)
+  ORGANISM  Xiphophorus hellerii
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Atherinomorphae; Cyprinodontiformes;
+            Poeciliidae; Poeciliinae; Xiphophorus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_045672.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Xiphophorus hellerii Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.3
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..3269
+                     /organism="Xiphophorus hellerii"
+                     /mol_type="mRNA"
+                     /strain="12219"
+                     /db_xref="taxon:8084"
+                     /chromosome="1"
+                     /sex="male"
+                     /tissue_type="muscle"
+                     /dev_stage="adult"
+     gene            1..3269
+                     /gene="slc17a9"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon. Supporting evidence
+                     includes similarity to: 6 Proteins, and 100% coverage of
+                     the annotated genomic feature by RNAseq alignments,
+                     including 124 samples with support for all annotated
+                     introns"
+                     /db_xref="GeneID:116728387"
+     CDS             386..1786
+                     /gene="slc17a9"
+                     /codon_start=1
+                     /product="solute carrier family 17 member 9"
+                     /protein_id="XP_032432353.1"
+                     /db_xref="GeneID:116728387"
+                     /translation="MAVIQKHGKSSSPDLVCHKENVPPDKIGAPGCHKKRPEAHSNWP
+                     RPVARIWTVVLLLGTCLLYCARVAMPICAVSMAEKFNWTKRESGMVLGSFFWGYCFTQ
+                     VFGGYVSDRVGGEKVLLLSAAAWGSMTAFTPILAHLCSQPIFSMTLARFLMGLLQGVH
+                     YPSLASLCSQKVVESERGFLMSTVGSGSYLGTLVIGGVGSLMLDLYGWESVFYVSGLL
+                     SVLWAYCMWKYLLKGEGPIITLESLGNGGTQPKLNKRHWARLLKQPAVCAVIVTHLCT
+                     ASTFFTLLSWLPTFFKDTFPDAKGWVFNVIPWLVAIPSSLFSGCLSDHLICQGFDTAS
+                     VRKLMQFFSMGVSSVFTVLLCGNTTFSWAVAFVSATMGLTTFSHSGVSLNVQDLAPSC
+                     AGALFGIMNTCGAFSGVLMVYFSGYLIEATGSWASMFALITTVNLMGLFTFLAFAEAR
+                     RVDIDSSRVRHHSIHI"
+ORIGIN      
+         1 atggcagtta ttcaaaaaca tggcaagagc tctagtccag atttggtctg tcacaaggag 
+        61 aacgtcccgc ctgacaagat cggagcacct ggatgccaca agaagcggcc tgaagcgcac 
+       121 tccaactggc cgaggccagt ggcgaggata tggacagtgg tgctgctgtt gggaacatgc 
+       181 ctcctttact gcgcccgtgt ggcaatgccc atctgtgccg ttagcatggc ggagaagttc 
+       241 aattggacca agagagagtc cggcatggtg ctaggcagct tcttctgggg atactgcttc 
+       301 acccaggtat tcggcggtta cgtcagtgac cgtgttggag gtgagaaggt cctcctgctg 
+       361 tcagcagcag cctgggggtc catgacagct ttcactccga tcctcgccca cctttgctcc 
+       421 cagccaatct tctccatgac gctggcccgc ttcctcatgg gcctgttaca aggagttcat 
+       481 tacccttctc tggcaagcct gtgttcacag aaggtggttg agagtgagcg aggcttcctc 
+       541 atgagcactg tggggagtgg ctcctacctg ggcactcttg tgattggagg tgttggttct 
+       601 ctcatgctgg acctgtatgg ttgggagagt gttttttatg tgtctggtct cctgtcagtc 
+       661 ctctgggctt actgcatgtg gaaatacctg cttaaaggag aaggccctat aattacactt 
+       721 gagtccctgg gtaatggtgg gacccagccg aaacttaata aaaggcattg ggcacgactc 
+       781 ctcaagcaac ctgcagtctg tgctgtgata gtaacacacc tttgcacagc aagcactttc 
+       841 ttcacccttc tatcctggct gccaaccttc ttcaaggaca ccttccctga tgccaagggt 
+       901 tgggtgttca atgtcattcc ttggttggta gccataccct catctctgtt tagtggctgc 
+       961 ctatctgacc atcttatttg tcaaggtttc gacaccgcct cagtaaggaa gttaatgcag 
+      1021 tttttctcta tgggtgtgtc cagtgtgttc acggtcctgc tgtgtggtaa taccacgttc 
+      1081 tcctgggctg tagcttttgt gtcggccacc atgggtctca ctacgttcag tcacagcggg 
+      1141 gtttccttaa atgttcaaga tctcgctcct tcttgtgccg gagctctatt tggaattatg 
+      1201 aatacatgtg gggcattctc aggagtcctg atggtgtact tctcggggta tctcattgag 
+      1261 gccacaggct cgtgggcgtc aatgtttgcc ctcatcacca cagtcaacct gatgggcctc 
+      1321 ttcaccttcc tggcatttgc cgaggctcgc agagtcgata tcgactccag cagggttcgc 
+      1381 caccatagca tccacatcta a
+//
+

@@ -1,0 +1,266 @@
+
+LOCUS       NM_001302643            3580 bp    mRNA    linear   PRI 31-MAY-2020
+DEFINITION  Homo sapiens solute carrier family 17 member 9 (SLC17A9),
+            transcript variant 2, mRNA.
+ACCESSION   NM_001302643 XM_005260228
+VERSION     NM_001302643.2
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 3580)
+  AUTHORS   Li J, Su T, Yang L, Deng L, Zhang C and He Y.
+  TITLE     High SLC17A9 expression correlates with poor survival in gastric
+            carcinoma
+  JOURNAL   Future Oncol 15 (36), 4155-4166 (2019)
+   PUBMED   31799885
+  REMARK    GeneRIF: High expression of SLC17A9 was associated with gastric
+            cancer.
+REFERENCE   2  (bases 1 to 3580)
+  AUTHORS   Yang L, Chen Z, Xiong W, Ren H, Zhai E, Xu K, Yang H, Zhang Z, Ding
+            L, He Y, Song X and Liu J.
+  TITLE     High expression of SLC17A9 correlates with poor prognosis in
+            colorectal cancer
+  JOURNAL   Hum. Pathol. 84, 62-70 (2019)
+   PUBMED   30236596
+  REMARK    GeneRIF: our data suggested that SLC17A9 may play an important role
+            in the progression of colorectal cancer
+REFERENCE   3  (bases 1 to 3580)
+  AUTHORS   Mihara H, Uchida K, Koizumi S and Moriyama Y.
+  TITLE     Involvement of VNUT-exocytosis in transient receptor potential
+            vanilloid 4-dependent ATP release from gastrointestinal epithelium
+  JOURNAL   PLoS ONE 13 (10), e0206276 (2018)
+   PUBMED   30365528
+  REMARK    GeneRIF: expression of TRPV4 and VNUT in normal human
+            gastrointestinal cell derived cell lines
+            Publication Status: Online-Only
+REFERENCE   4  (bases 1 to 3580)
+  AUTHORS   Harada Y, Kato Y, Miyaji T, Omote H, Moriyama Y and Hiasa M.
+  TITLE     Vesicular nucleotide transporter mediates ATP release and migration
+            in neutrophils
+  JOURNAL   J. Biol. Chem. 293 (10), 3770-3779 (2018)
+   PUBMED   29363573
+  REMARK    GeneRIF: Data (including data from studies using knockout mice)
+            suggest that VNUT/SLC17A9 localized in tertiary/secretory granules
+            of neutrophils is responsible for vesicular ATP release and
+            subsequent neutrophil migration/infiltration.
+REFERENCE   5  (bases 1 to 3580)
+  AUTHORS   Cui H, Li L, Wang W, Shen J, Yue Z, Zheng X, Zuo X, Liang B, Gao M,
+            Fan X, Yin X, Shen C, Yang C, Zhang C, Zhang X, Sheng Y, Gao J, Zhu
+            Z, Lin D, Zhang A, Wang Z, Liu S, Sun L, Yang S, Cui Y and Zhang X.
+  TITLE     Exome sequencing identifies SLC17A9 pathogenic gene in two Chinese
+            pedigrees with disseminated superficial actinic porokeratosis
+  JOURNAL   J. Med. Genet. 51 (10), 699-704 (2014)
+   PUBMED   25180256
+  REMARK    GeneRIF: Results identified SLC17A9 as another pathogenic gene for
+            DSAP, which suggests a correlation between the aberrant vesicular
+            nucleotide transporter and the pathogenesis of DSAP.
+REFERENCE   6  (bases 1 to 3580)
+  AUTHORS   Inoue K, Komatsu R, Imura Y, Fujishita K, Shibata K, Moriyama Y and
+            Koizumi S.
+  TITLE     Mechanism underlying ATP release in human epidermal keratinocytes
+  JOURNAL   J. Invest. Dermatol. 134 (5), 1465-1468 (2014)
+   PUBMED   24292772
+  REMARK    GeneRIF: It is suggested that the functions of VNUT, in addition to
+            P2 receptors may be a target for anti-inflammatory response in
+            skin.
+REFERENCE   7  (bases 1 to 3580)
+  AUTHORS   Sesma JI, Kreda SM, Okada SF, van Heusden C, Moussa L, Jones LC,
+            O'Neal WK, Togawa N, Hiasa M, Moriyama Y and Lazarowski ER.
+  TITLE     Vesicular nucleotide transporter regulates the nucleotide content
+            in airway epithelial mucin granules
+  JOURNAL   Am. J. Physiol., Cell Physiol. 304 (10), C976-C984 (2013)
+   PUBMED   23467297
+  REMARK    GeneRIF: These results suggest that SLC17A9 is the relevant
+            nucleotide transporter responsible for the uptake of cytosolic
+            nucleotides into mucin granules.
+            Erratum:[Am J Physiol Cell Physiol. 2014 Feb 15;306(4):C415]
+REFERENCE   8  (bases 1 to 3580)
+  AUTHORS   Sathe MN, Woo K, Kresge C, Bugde A, Luby-Phelps K, Lewis MA and
+            Feranchak AP.
+  TITLE     Regulation of purinergic signaling in biliary epithelial cells by
+            exocytosis of SLC17A9-dependent ATP-enriched vesicles
+  JOURNAL   J. Biol. Chem. 286 (28), 25363-25376 (2011)
+   PUBMED   21613220
+  REMARK    GeneRIF: the existence of an SLC17A9-dependent ATP-enriched
+            vesicular pool in biliary epithelium that undergoes regulated
+            exocytosis to initiate purinergic signaling.
+REFERENCE   9  (bases 1 to 3580)
+  AUTHORS   Tokunaga A, Tsukimoto M, Harada H, Moriyama Y and Kojima S.
+  TITLE     Involvement of SLC17A9-dependent vesicular exocytosis in the
+            mechanism of ATP release during T cell activation
+  JOURNAL   J. Biol. Chem. 285 (23), 17406-17416 (2010)
+   PUBMED   20382737
+  REMARK    GeneRIF: analysis of involvement of SLC17A9-dependent vesicular
+            exocytosis in the mechanism of ATP release during T cell activation
+REFERENCE   10 (bases 1 to 3580)
+  AUTHORS   Sawada K, Echigo N, Juge N, Miyaji T, Otsuka M, Omote H, Yamamoto A
+            and Moriyama Y.
+  TITLE     Identification of a vesicular nucleotide transporter
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 105 (15), 5683-5686 (2008)
+   PUBMED   18375752
+  REMARK    GeneRIF: SLC17A9 protein acts as a vesicular nucleotide transporter
+            (VNUT) and plays an essential role in vesicular storage of ATP in
+            the ATP-secreting cells [SLC17A9]
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AL121673.41.
+            On Jun 1, 2019 this sequence version replaced NM_001302643.1.
+            
+            Summary: This gene encodes a member of a family of transmembrane
+            proteins that are involved in the transport of small molecules. The
+            encoded protein participates in the vesicular uptake, storage, and
+            secretion of adenoside triphosphate (ATP) and other nucleotides. A
+            mutation in this gene was found in individuals with autosomal
+            dominant disseminated superficial actinic porokeratosis-8.
+            Alternative splicing results in multiple transcript variants.
+            [provided by RefSeq, Nov 2014].
+            
+            Transcript Variant: This variant (2) contains an alternate exon in
+            the 5' UTR and 5' coding region and initiates translation at an
+            alternate start codon, compared to variant 1. The encoded isoform
+            (2) has a distinct, shorter N-terminus than isoform 1.
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: BC025312.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMEA1965299, SAMEA1966682
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+            COMPLETENESS: complete on the 3' end.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-181               AL121673.41        13326-13506
+            182-243             AL121673.41        13828-13889
+            244-441             AL121673.41        17382-17579
+            442-581             AL121673.41        18058-18197
+            582-681             AL121673.41        21121-21220
+            682-812             AL121673.41        23241-23371
+            813-909             AL121673.41        23890-23986
+            910-1006            AL121673.41        24201-24297
+            1007-1094           AL121673.41        24845-24932
+            1095-1129           AL121673.41        25749-25783
+            1130-1245           AL121673.41        26227-26342
+            1246-1301           AL121673.41        27142-27197
+            1302-1331           AL121673.41        27320-27349
+            1332-3580           AL121673.41        27954-30202
+FEATURES             Location/Qualifiers
+     source          1..3580
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="20"
+                     /map="20q13.33"
+     gene            1..3580
+                     /gene="SLC17A9"
+                     /gene_synonym="C20orf59; POROK8; VNUT"
+                     /note="solute carrier family 17 member 9"
+                     /db_xref="GeneID:63910"
+                     /db_xref="HGNC:HGNC:16192"
+                     /db_xref="MIM:612107"
+     exon            1..181
+                     /gene="SLC17A9"
+                     /gene_synonym="C20orf59; POROK8; VNUT"
+                     /inference="alignment:Splign:2.1.0"
+     exon            182..243
+                     /gene="SLC17A9"
+                     /gene_synonym="C20orf59; POROK8; VNUT"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             203..1495
+                     /gene="SLC17A9"
+                     /gene_synonym="C20orf59; POROK8; VNUT"
+                     /note="isoform 2 is encoded by transcript variant 2;
+                     vesicular nucleotide transporter SLC17A9; solute carrier
+                     family 17 (vesicular nucleotide transporter), member 9"
+                     /codon_start=1
+                     /product="solute carrier family 17 member 9 isoform 2"
+                     /protein_id="NP_001289572.2"
+                     /db_xref="CCDS:CCDS77600.1"
+                     /db_xref="GeneID:63910"
+                     /db_xref="HGNC:HGNC:16192"
+                     /db_xref="MIM:612107"
+                     /translation="MTLTSRRQDSQEARPECQAWTGTLLLGTCLLYCARSSMPICTVS
+                     MSQDFGWNKKEAGIVLSSFFWGYCLTQVVGGHLGDRIGGEKVILLSASAWGSITAVTP
+                     LLAHLSSAHLAFMTFSRILMGLLQGVYFPALTSLLSQKVRESERAFTYSIVGAGSQFG
+                     TLLTGAVGSLLLEWYGWQSIFYFSGGLTLLWVWYVYRYLLSEKDLILALGVLAQSRPV
+                     SRHNRVPWRRLFRKPAVWAAVVSQLSAACSFFILLSWLPTFFEETFPDAKGWIFNVVP
+                     WLVAIPASLFSGFLSDHLINQGYRAITVRKLMQGMGLGLSSVFALCLGHTSSFCESVV
+                     FASASIGLQTFNHSGISVNIQDLAPSCAGFLFGVANTAGALAGVVGVCLGGYLMETTG
+                     SWTCLFNLVAIISNLGLCTFLVFGQAQRVDLSSTHEDL"
+     exon            244..441
+                     /gene="SLC17A9"
+                     /gene_synonym="C20orf59; POROK8; VNUT"
+                     /inference="alignment:Splign:2.1.0"
+     exon            442..581
+                     /gene="SLC17A9"
+                     /gene_synonym="C20orf59; POROK8; VNUT"
+                     /inference="alignment:Splign:2.1.0"
+     exon            582..681
+                     /gene="SLC17A9"
+                     /gene_synonym="C20orf59; POROK8; VNUT"
+                     /inference="alignment:Splign:2.1.0"
+     exon            682..812
+                     /gene="SLC17A9"
+                     /gene_synonym="C20orf59; POROK8; VNUT"
+                     /inference="alignment:Splign:2.1.0"
+     exon            813..909
+                     /gene="SLC17A9"
+                     /gene_synonym="C20orf59; POROK8; VNUT"
+                     /inference="alignment:Splign:2.1.0"
+     exon            910..1006
+                     /gene="SLC17A9"
+                     /gene_synonym="C20orf59; POROK8; VNUT"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1007..1094
+                     /gene="SLC17A9"
+                     /gene_synonym="C20orf59; POROK8; VNUT"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1095..1129
+                     /gene="SLC17A9"
+                     /gene_synonym="C20orf59; POROK8; VNUT"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1130..1245
+                     /gene="SLC17A9"
+                     /gene_synonym="C20orf59; POROK8; VNUT"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1246..1301
+                     /gene="SLC17A9"
+                     /gene_synonym="C20orf59; POROK8; VNUT"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1302..1331
+                     /gene="SLC17A9"
+                     /gene_synonym="C20orf59; POROK8; VNUT"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1332..3580
+                     /gene="SLC17A9"
+                     /gene_synonym="C20orf59; POROK8; VNUT"
+                     /inference="alignment:Splign:2.1.0"
+ORIGIN      
+         1 atgaccctga caagcaggcg ccaggacagt caggaggcca ggcccgagtg ccaggcatgg 
+        61 acggggacgc tgctgctggg cacatgcctt ctgtactgcg cccgctccag catgcccatc 
+       121 tgcaccgtct ccatgagcca ggacttcggc tggaacaaga aggaggccgg catcgtgctc 
+       181 agcagcttct tctggggcta ctgcctgaca caggttgtgg gcggccacct cggggatcgg 
+       241 attgggggtg agaaggtcat cctgctgtca gcctctgcct ggggctccat cacggccgtc 
+       301 accccactgc tcgcccacct gagcagtgcc cacctggcct tcatgacctt ctcacgcatc 
+       361 ctcatgggct tgctccaagg ggtttacttc cctgccctga ccagcctgct gtcgcagaag 
+       421 gtgcgggaga gtgagcgagc cttcacctac agcatcgtgg gcgccggctc ccagtttggg 
+       481 acgctgctga ccggggcggt gggctccctg ctcctggaat ggtacggctg gcagagcatc 
+       541 ttctatttct ccggcggcct caccttgctt tgggtgtggt acgtgtacag gtacctgctg 
+       601 agtgaaaaag atctcatcct ggccttgggt gtcctggccc aaagccggcc ggtgtccagg 
+       661 cacaacagag tcccctggag acggctcttc cggaagcctg ctgtctgggc agccgtcgtc 
+       721 tcccagctct ctgcagcctg ctccttcttc atcctcctct cctggctgcc caccttcttc 
+       781 gaggagacct tccccgacgc caagggctgg atcttcaacg tggttccttg gttggtggcg 
+       841 attccggcca gtctattcag cgggtttctc tctgatcatc tcatcaatca gggttacaga 
+       901 gccatcacgg tgcggaagct catgcagggc atgggccttg gcctctccag cgtctttgct 
+       961 ctgtgcctgg gccacacctc cagcttctgt gagtctgtgg tctttgcatc agcctccatc 
+      1021 ggcctccaga ccttcaacca cagtggcatt tctgttaaca tccaggactt ggccccgtcc 
+      1081 tgcgccggct ttctgtttgg tgtggccaac acagccgggg ccttggcagg tgtcgtgggt 
+      1141 gtgtgtctag gcggctactt gatggagacc acgggctcct ggacttgcct gttcaacctt 
+      1201 gtggccatca tcagcaacct ggggctgtgc accttcctgg tgtttggaca ggctcagagg 
+      1261 gtggacctga gctctaccca tgaggacctc tag
+//
+

@@ -1,0 +1,64 @@
+
+LOCUS       XP_025781372             495 aa            linear   MAM 26-JUL-2018
+DEFINITION  sialin [Puma concolor].
+ACCESSION   XP_025781372
+VERSION     XP_025781372.1
+DBLINK      BioProject: PRJNA481988
+DBSOURCE    REFSEQ: accession XM_025925587.1
+KEYWORDS    RefSeq.
+SOURCE      Puma concolor (puma)
+  ORGANISM  Puma concolor
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Carnivora; Feliformia; Felidae;
+            Felinae; Puma.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_020339445.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Puma concolor Annotation Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.1
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..495
+                     /organism="Puma concolor"
+                     /isolate="SC36_Marlon"
+                     /db_xref="taxon:9696"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /tissue_type="blood"
+                     /dev_stage="adult"
+     Protein         1..495
+                     /product="sialin"
+                     /calculated_mol_wt=54123
+     Region          35..491
+                     /region_name="UhpC"
+                     /note="Sugar phosphate permease [Carbohydrate transport
+                     and metabolism]; cl27298"
+                     /db_xref="CDD:332119"
+     CDS             1..495
+                     /gene="SLC17A5"
+                     /coded_by="XM_025925587.1:16..1503"
+                     /db_xref="GeneID:112862299"
+ORIGIN      
+        1 mrspvrglas sdgeegsdrt pllqstprve aapvcgsary nlavlaffgf fvlyalrvnl
+       61 svalvdmids nttladnkts kecaehsapi kvlhnqtgkr yqwdaetqgw ilgsffygyi
+      121 itqipggyia skvggklllg fgilgtaift lftpvaadfg vgalivlral eglgegvtfp
+      181 amhamwsswa pplersklls isyagaqlgt vislplsgii cfymnwtyvf ylfgivgiiw
+      241 filwillvsd kpethkaisr hekeyilssl knqlssqksv pwvpmlkslp lwaivvahfs
+      301 ynwtfytllt llptymkeil rfnvqengll salpyfgcwl cmilsgqaad nlrakwnfst
+      361 icvrrvfsli gmigpavflv aagfigcdys lavafltist tlggfcssgf sinhldiaps
+      421 yagillgitn tfatipgmvg pviaksltpd ntirewqtvf yiaaainvfg aifftlfgkg
+      481 evqswalndq hghrn
+//
+

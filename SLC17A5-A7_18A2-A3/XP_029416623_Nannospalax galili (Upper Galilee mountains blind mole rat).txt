@@ -1,0 +1,62 @@
+
+LOCUS       XP_029416623             518 aa            linear   ROD 24-JUN-2019
+DEFINITION  synaptic vesicular amine transporter [Nannospalax galili].
+ACCESSION   XP_029416623
+VERSION     XP_029416623.1
+DBLINK      BioProject: PRJNA254049
+DBSOURCE    REFSEQ: accession XM_029560763.1
+KEYWORDS    RefSeq.
+SOURCE      Nannospalax galili (Upper Galilee mountains blind mole rat)
+  ORGANISM  Nannospalax galili
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia;
+            Sciurognathi; Muroidea; Spalacidae; Spalacinae; Nannospalax.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_008332149.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Nannospalax galili Annotation
+                                           Release 102
+            Annotation Version          :: 102
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..518
+                     /organism="Nannospalax galili"
+                     /isolate="Female #2095"
+                     /db_xref="taxon:1026970"
+                     /chromosome="Unknown"
+                     /sex="female"
+                     /tissue_type="brain"
+                     /country="Israel: Animal Facility of the Institute of
+                     Evolution, University of Haifa"
+     Protein         1..518
+                     /product="synaptic vesicular amine transporter"
+                     /calculated_mol_wt=55923
+     CDS             1..518
+                     /gene="Slc18a2"
+                     /coded_by="XM_029560763.1:310..1866"
+                     /db_xref="GeneID:103729298"
+ORIGIN      
+        1 malselalvr wlrdsshsrk lilfivflal lldnmlltvv vpiipsylys ieheknttei
+       61 qtvrpaltas tsgnfqsifs yydnstmvtg nitrglllgq phktttteym vtntstvpsd
+      121 cpsedkdlln envqvgllfa skatvqlltn pfiglltnri gypipmfagf cimfvstvmf
+      181 afsssyafll iarslqgigs scssvagmgm lasvytddee rgnamgialg glamgvlvgp
+      241 pfgsvlyefv gktapflvla afvlldgaiq lfvlqpsrvq pesqkgtpli tllkdpyili
+      301 aagsicfanm giamlepalp iwmmetmcsr kwqlgiaflp asisyligtn ifgilahkmg
+      361 rwlcallgmi ivgisilcip fakniyglia pnfgvgfaig mvdssmmpim gylvdlrhvs
+      421 vygsvyaiad vafcmgyaig psaggaiaka igfpwlmtii giidiafapl cfflrsppak
+      481 eekmailmdh ncpiktkmyt qsntqsypig ddeesesd
+//
+
