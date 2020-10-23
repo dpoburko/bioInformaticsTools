@@ -30,7 +30,6 @@
 #srchTerm = c("@X{3,5}00") #dileucine-like  
 #srchTerm = c("@@@@S@S@") # VMAT2 LDCV localization https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2897747/ 
 #srchTerm = c("@XX(S|T)XXXDL$") # putative VNUT C-tail motif
-srchTerm = c("AXR0DX{6,15}") # putative VNUT C-tail motif
 
 #http://elm.eu.org/elms/elmPages/TRG_PTS1.html [SAPTC][KRH][LMFI]$)|([KRH][SAPTC][NTS][LMFI]
 #srchTerm = c("(S|A|P|T|C)(K|R|H)(L|M|F|I)$")   #PST1 - confirmed syntax works. None in 295 VNUT
@@ -38,9 +37,8 @@ srchTerm = c("AXR0DX{6,15}") # putative VNUT C-tail motif
 #srchTerm = c("B@@0X$") # akin to HEDL. Purely mammalian
 #srchTerm = c("B@@0X{1,25}$") # akin to HEDL at c-term but a little ways away - none in SLC17A9  
 
-fNameSuffix = "putativeVNUT2"
-
-
+fNameSuffix = "VNUT-1stTM"
+srchTerm = c("(G|V)T(C|G)(L|V)LY(C|S)") # putative VNUT C-tail motif
 
 
 plot.progress <- function(...)	{
@@ -123,6 +121,7 @@ parseFile = function(pathIn) {
     sr <- "Genus species" #source #organism
     dfn <- "sequence definition"
     sl <- "1" #sequence length 
+    taxon <- "00000"
     orgTxt <- as.character("")
     lineNum = 0
     
@@ -154,7 +153,12 @@ parseFile = function(pathIn) {
       b = strsplit(strsplit(line," aa ")[[1]][1],"  ")[[1]]
       sl = gsub(" ","",b[length(b)])
     }
+    if (unlist(gregexpr(pattern ='taxon:',line)) >= 1 ) {
+      bb = strsplit(strsplit(line,":")[[1]][2],"  ")[[1]]
+      taxon =  gsub("[^[:digit:].]", "", bb)
+    }
 
+    
     #toggle collection of taxonomy "off" if line ends with "." or subsequent keywords
     if (unlist(gregexpr(pattern ='\\.$',line)) == 1 ||  unlist(gregexpr(pattern ='REFERENCE',line)) == 1
         || unlist(gregexpr(pattern ='COMMENT',line)) == 1 || unlist(gregexpr(pattern ='FEATURES',line)) == 1) {
@@ -190,12 +194,12 @@ parseFile = function(pathIn) {
   } # close while(TRUE) block
     
   close(con)
-  return(c(seq,an,sr,dfn,sl,orgTxt))  
+  return(c(seq,an,sr,dfn,sl,orgTxt,taxon))  
 }
 
 rm(searchResult)
 rm(searchResultsAll)
-headers <-c("aa","positions","aaStart","aaFromEnd","accession","spp","definition","seq length","taxonomy")
+headers <-c("aa","positions","aaStart","aaFromEnd","accession","spp","definition","seq length","taxonomy","taxon")
 searchResultsAll <- headers
 
 #generate a fileName and path for the output
@@ -217,7 +221,7 @@ for (i in 1:length(fList)) {
     #STOPPED HERE FIGURE WHY TAXONOMY not being listed
     
     aaFromEnd <- as.numeric(matrix( data = unlist(pf[5]), nrow =length(as.numeric(searchResult[,3]) ) , ncol=1, byrow=FALSE))  - as.numeric(searchResult[,3])
-    searchResult <- cbind(searchResult,aaFromEnd, unlist(strsplit(pf[2], " "))[2],unlist(pf[3]),unlist(pf[4]),unlist(pf[5]),unlist(pf[6]))   #add accession numbers and species common names to results table
+    searchResult <- cbind(searchResult,aaFromEnd, unlist(strsplit(pf[2], " "))[2],unlist(pf[3]),unlist(pf[4]),unlist(pf[5]),unlist(pf[6]),unlist(pf[7]))   #add accession numbers and species common names to results table
     searchResultsAll <- rbind(searchResultsAll,searchResult)
     colnames(searchResult) <- headers
     if (i==1) writeColNames = TRUE
