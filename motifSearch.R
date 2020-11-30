@@ -36,11 +36,12 @@
 #srchTerm = c("(K|R|H)(S|A|P|T|C)(N|T|S)(L|M|F|I)$")   #PST1 - confirmed syntax works. None in 295 VNUT
 #srchTerm = c("B@@0X$") # akin to HEDL. Purely mammalian
 #srchTerm = c("B@@0X{1,25}$") # akin to HEDL at c-term but a little ways away - none in SLC17A9  
-
-fNameSuffix = "VNUT-1stTM"
-srchTerm = c("(G|V)T(C|G)(L|V)LY(C|S)") # putative VNUT C-tail motif
-
-
+#srchTerm = c("@XXX00") # putative VNUT C-tail motif
+fNameSuffix = "putativeLDCV"
+#srchTerm = c("AXR0DX{6,15}") # putative VNUT C-tail motifputativeUniqueVNUTtail
+#srchTerm = c("@X{2,3}00") # putative VNUT C-tail motif
+#srchTerm = c("(G|V)T(C|G)(L|V)LY(C|S)") pupativeVNUT-1stTM
+srchTerm = c("(D|E)(D|E)S(D|E)S(D|E)") # "putativeLDCV"
 plot.progress <- function(...)	{
   vectOfBar <- c(...)*100
   tleft = c(0,0,0)
