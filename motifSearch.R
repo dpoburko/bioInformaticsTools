@@ -212,6 +212,10 @@ srchTermOut <- gsub("\\|" ,"" ,srchTermOut)  #replace search code with file frie
 fileOut <- paste0(Sys.Date(),"_",srchTermOut,fNameSuffix,".csv")
 pathOut <- paste0(substr( currFile,1, pdList[[1]][length(pdList[[1]])]),fileOut)
 
+#delete previous versions of the same file
+if (file.exists(pathOut)) file.remove(pathOut)
+
+
 for (i in 1:length(fList)) {
     plot.progress(i/length(fList))
     pf <- parseFile(fList[i])[1]
