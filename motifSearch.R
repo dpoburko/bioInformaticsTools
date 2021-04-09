@@ -3,7 +3,6 @@
 # - search a selection of genpept formatted text files for a peptide motif
 
 #build your motif search term (srchTerm):
-# We are working on incorporating regex searches
 # coding amino acid groups:
 # hydroph"0"bic residues: 0 (zero) = "(A|I|L|M|F|W|Y|V)"
 # acidic residues: @ = "(D|E)"
@@ -12,36 +11,9 @@
 # i{n1,n2}i occurs n1 - n2 times in sequence
 # see this page for regex search tips https://cran.r-project.org/web/packages/stringr/vignettes/regular-expressions.html    
 
-#srchTerm = c("(R|K)(L|V|I)XXXX(H|Q)(L|A)")  
-#srchTerm = c("PXXXXX(R|K)X{2,4}(A|I|L)")  
-#srchTerm = c("(R|K)(L|V|I)X{4,5}(H|Q)(L|A)")  
-#srchTerm = c("B{2,3}X{9,11}B{3,4}")  
-#srchTerm = c("YXX0")
-#srchTerm = c("@X{2,3}00")  
-#To Test
-#YX{2,3}00 dileucine-like
-#B{2,3}X{9,11}B{3,4}_nucBipartite
-#(R|K)(L|V|I)X{4,5}(H|Q)(L|A)
-#H@@0 (vnut tail?)
-#2020-07-13_PXXXXX(RK)X{2,4}(AILV)
-#EX{4,5}(L|I)(L|I)
-#@X{3,5}00 dileucine like
-#@X00
-#srchTerm = c("@X{3,5}00") #dileucine-like  
-#srchTerm = c("@@@@S@S@") # VMAT2 LDCV localization https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2897747/ 
-#srchTerm = c("@XX(S|T)XXXDL$") # putative VNUT C-tail motif
+# edxample 1 srchTerm = c("@X{3,5}00") #dileucine-like  
 
-#http://elm.eu.org/elms/elmPages/TRG_PTS1.html [SAPTC][KRH][LMFI]$)|([KRH][SAPTC][NTS][LMFI]
-#srchTerm = c("(S|A|P|T|C)(K|R|H)(L|M|F|I)$")   #PST1 - confirmed syntax works. None in 295 VNUT
-#srchTerm = c("(K|R|H)(S|A|P|T|C)(N|T|S)(L|M|F|I)$")   #PST1 - confirmed syntax works. None in 295 VNUT
-#srchTerm = c("B@@0X$") # akin to HEDL. Purely mammalian
-#srchTerm = c("B@@0X{1,25}$") # akin to HEDL at c-term but a little ways away - none in SLC17A9  
-#srchTerm = c("@XXX00") # putative VNUT C-tail motif
 fNameSuffix = "putativeGolgiRetention"
-#srchTerm = c("AXR0DX{6,15}") # putative VNUT C-tail motifputativeUniqueVNUTtail
-#srchTerm = c("@X{2,3}00") # putative VNUT C-tail motif
-#srchTerm = c("(G|V)T(C|G)(L|V)LY(C|S)") pupativeVNUT-1stTM
-#srchTerm = c("(D|E)(D|E)S(D|E)S(D|E)") # "putativeLDCV"
 srchTerm = c("(F|L)(L|I)(I|V)XX(R|K)") # "putativeGolgiRetention"
 
 plot.progress <- function(...)	{
@@ -63,19 +35,10 @@ plot.progress <- function(...)	{
 fList <- choose.files(default = "", caption = "Select genpept formatted files",multi = TRUE, filters = Filters, index = nrow(Filters))
 srchTerm <- toupper(srchTerm) #ensure that srchTerm is upper case
 
-#Example sequences for working with
-#vglut2<- as.character("MESVKQRILAPGKEGIKNFAGKSLGQIYRVLEKKQDNRETIELTEDGKPLEVPEKKAPLCDCTCFGLPRRYIIAIMSGLGFCISFGIRCNLGVAIVDMVNNSTIHRGGKVIKEKAKFNWDPETVGMIHGSFFWGYIITQIPGGYIASRLAANRVFGAAILLTSTLNMLIPSAARVHYGCVIFVRILQGLVEGVTYPACHGIWSKWAPPLERSRLATTSFCGSYAGAVIAMPLAGILVQYTGWSSVFYVYGSFGMVWYMFWLLVSYESPAKHPTITDEERRYIEESIGESANLLGAMEKFKTPWRKFFTSMPVYAIIVANFCRSWTFYLLLISQPAYFEEVFGFEISKVGMLSAVPHLVMTIIVPIGGQIADFLRSKQILSTTTVRKIMNCGGFGMEATLLLVVGYSHTRGVAISFLVLAVGFSGFAISGFNVNHLDIAPRYASILMGISNGVGTLSGMVCPIIVGAMTKNKSREEWQYVFLIAALVHYGGVIFYALFASGEKQPWADPEETSEEKCGFIHEDELDEETGDITQNYINYGTTKSYGATSQENGGWPNGWEKKEEFVQESAQDAYSYKDRDDYS")
-#vglut1 <- as.character("MEFRQEEFRKLAGRALGKLHRLLEKRQEGAETLELSADGRPVTTQTRDPPVVDCTCFGLPRRYIIAIMSGLGFCISFGIRCNLGVAIVSMVNNSTTHRGGHVVVQKAQFSWDPETVGLIHGSFFWGYIVTQIPGGFICQKFAANRVFGFAIVATSTLNMLIPSAARVHYGCVIFVRILQGLVEGVTYPACHGIWSKWAPPLERSRLATTAFCGSYAGAVVAMPLAGVLVQYSGWSSVFYVYGSFGIFWYLFWLLVSYESPALHPSISEEERKYIEDAIGESAKLMNPLTKFSTPWRRFFTSMPVYAIIVANFCRSWTFYLLLISQPAYFEEVFGFEISKVGLVSALPHLVMTIIVPIGGQIADFLRSRRIMSTTNVRKLMNCGGFGMEATLLLVVGYSHSKGVAISFLVLAVGFSGFAISGFNVNHLDIAPRYASILMGISNGVGTLSGMVCPIIVGAMTKHKTREEWQYVFLIASLVHYGGVIFYGVFASGEKQPWAEPEEMSEEKCGFVGHDQLAGSDDSEMEDEAEPPGAPPAPPPSYGATHSTFQPPRPPPPVRDY")
-#vnutrt <- as.character("MPSQRSSLMQPIPEETRKTPSAAAEDKRWSRPECQLWTGMLLLGTCLLYCTRVTMPVCTVAMSQDFGWNKKEAGIVLSSFFWGYCLTQVVGGHLGDRIGGEKVILLSASAWGFITVTTPLLAHLGSGHLAFVTFSRILTGLLQGVYFPALTSLLSQRVQESERSFTYSTVGAGSQVGTLVTGGIGSVLLDRCGWQSVFYFSGGLTLLWVYYVYKYLLDEKDLVLALGVLAQGLPVTRPSKVPWRQLFRKASVWAVICSQLSSACSFFILLSWLPTFFKETFPHSKGWVFNVVPWLLAIPASLFSGFISDRLISQGYRVITVRKFMQVMGLGLSSIFALCLGHTTSFLKSMIFASASIGFQTFNHSGISVNIQDLAPSCAGFLFGVANTAGALAGVVGVCLGGYLIETTGSWTCVFHLVAIVSNLGLGTFLVFGKAQRVDLVPTHEDL")
-
 # Function to search a sequence (subject) for a pattern (querry)
 aasearch <-function(querry, subject) {
 
-  #Manual tested for trouble shooting
-  #subject <- c("RKMYAEYMKRYSSLPKMN")
   subjectO <- subject #make copy of subject to reference original sequence before replacements
-  
-  #querry = ("YXX0")
   querry <- gsub("0","(A|I|L|M|F|W|Y|V)",querry)
   querry <- gsub("@","(D|E)",querry)
   querry <- gsub("B","(R|H|K)",querry)
@@ -161,7 +124,6 @@ parseFile = function(pathIn) {
       taxon =  gsub("[^[:digit:].]", "", bb)
     }
 
-    
     #toggle collection of taxonomy "off" if line ends with "." or subsequent keywords
     if (unlist(gregexpr(pattern ='\\.$',line)) == 1 ||  unlist(gregexpr(pattern ='REFERENCE',line)) == 1
         || unlist(gregexpr(pattern ='COMMENT',line)) == 1 || unlist(gregexpr(pattern ='FEATURES',line)) == 1) {
@@ -217,7 +179,6 @@ pathOut <- paste0(substr( currFile,1, pdList[[1]][length(pdList[[1]])]),fileOut)
 #delete previous versions of the same file
 if (file.exists(pathOut)) file.remove(pathOut)
 
-
 for (i in 1:length(fList)) {
     plot.progress(i/length(fList))
     pf <- parseFile(fList[i])[1]
@@ -236,7 +197,6 @@ for (i in 1:length(fList)) {
     write.table(searchResult, pathOut, append = TRUE, quote = FALSE, sep = ",", dec = ".", row.names = FALSE, col.names = writeColNames, qmethod = c("escape", "double"))
 }
 colnames(searchResultsAll) <- headers
-#write.table(searchResultsAll[2:nrow(searchResultsAll),], pathOut, append = TRUE, quote = FALSE, sep = ",", dec = ".", row.names = FALSE, col.names = TRUE, qmethod = c("escape", "double"))
 doneMsg <- paste0(length(fList)," files searched for ", srchTerm, ". Search saved.")
 print(searchResultsAll[,1:6])
 print(doneMsg)

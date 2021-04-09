@@ -16,14 +16,9 @@
 # adding ^ restricts a sequence to be search from the end of a string, e.g. "^X{6,15}AXR0D", AXR0DX must be within 6-15 residues from the N-terminus
 # adding $ restricts a sequence to be search from the end of a string, e.g. "AXR0DX{6,15}$", AXR0DX must be within 6-15 residues from the C-terminus
 
-#srchTerm = c("(R|K)(L|V|I)X{4,5}(H|Q)(L|A)")  
-#srchTerm = c("@X{2,3}00")  
-#srchTerm = c("AXR0DX{6,15}$") # putative VNUT C-tail motifputativeUniqueVNUTtail
-
-
 # a comma separated list of motifs to search for
 srchTerm = c("WXXW") #pupativeVACHTdileucine
-#srchTerm = c("(F|L)(L|I|V)XX(R|K)") # "putativeGolgiRetention"
+
 # a comma separated list of matched motif labels
 fNameSuffix = c("mannosylation")  
 
@@ -50,7 +45,6 @@ plot.progress <- function(...)	{
 # Function to search a sequence (subject) for a pattern (querry)
 aasearch <-function(querry, subject) {
 
-  #Manual tested for trouble shooting
   subjectO <- subject #make copy of subject to reference original sequence before replacements
   querry <- gsub("0","(A|I|L|M|F|W|Y|V)",querry)
   querry <- gsub("@","(D|E)",querry)
@@ -215,7 +209,6 @@ for (st in 1:length(srchTerm)) {
       write.table(searchResult, pathOut, append = TRUE, quote = FALSE, sep = ",", dec = ".", row.names = FALSE, col.names = writeColNames, qmethod = c("escape", "double"))
   }
   colnames(searchResultsAll) <- headers
-  #write.table(searchResultsAll[2:nrow(searchResultsAll),], pathOut, append = TRUE, quote = FALSE, sep = ",", dec = ".", row.names = FALSE, col.names = TRUE, qmethod = c("escape", "double"))
   doneMsg <- paste0(length(fList)," files searched for ", srchTerm1, ". Search saved.")
   print(searchResultsAll[,1:6])
   print(doneMsg)
