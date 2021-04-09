@@ -37,11 +37,13 @@
 #srchTerm = c("B@@0X$") # akin to HEDL. Purely mammalian
 #srchTerm = c("B@@0X{1,25}$") # akin to HEDL at c-term but a little ways away - none in SLC17A9  
 #srchTerm = c("@XXX00") # putative VNUT C-tail motif
-fNameSuffix = "putativeLDCV"
+fNameSuffix = "putativeGolgiRetention"
 #srchTerm = c("AXR0DX{6,15}") # putative VNUT C-tail motifputativeUniqueVNUTtail
 #srchTerm = c("@X{2,3}00") # putative VNUT C-tail motif
 #srchTerm = c("(G|V)T(C|G)(L|V)LY(C|S)") pupativeVNUT-1stTM
-srchTerm = c("(D|E)(D|E)S(D|E)S(D|E)") # "putativeLDCV"
+#srchTerm = c("(D|E)(D|E)S(D|E)S(D|E)") # "putativeLDCV"
+srchTerm = c("(F|L)(L|I)(I|V)XX(R|K)") # "putativeGolgiRetention"
+
 plot.progress <- function(...)	{
   vectOfBar <- c(...)*100
   tleft = c(0,0,0)
