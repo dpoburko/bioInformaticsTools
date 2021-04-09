@@ -37,20 +37,12 @@ if (!dir.exists(oFolderPath)){
 #check each line for new accession # or Source value to make name
 
 # fName from Accession + source
-
 an <- "ABC12345" #accession number
 sr <- "Genus species" #source organism
 fLines <-  c(noquote(""))
-#fLines <- rbind(fLines,noquote("def"))
-#write.table(fLines, pathOut, append = FALSE, sep = " ", dec = ".", row.names = FALSE, col.names = FALSE)
-# rbind approach works, but need to sort out how nut to write quotation marks around text
 CDSnucs = ""
 
-
 getCDS <- function(someText, cdsStart, cdsEnd) {
-  #someText <- fLines
-  #cdsStart <-1
-  #cdsEnd <-1896
   seq <- ""
   r2r <- c() #rowsToReplace
   startNTS <- FALSE
@@ -75,8 +67,8 @@ getCDS <- function(someText, cdsStart, cdsEnd) {
     } 
   }
   print(paste0("seq: ",seq))
-  seq <- gsub("\\d+","",seq)        #remove numbers from seq
-  seq <- gsub(" ","",seq)  #remove spaces and cast to upper case 
+  seq <- gsub("\\d+","",seq)  #remove numbers from seq
+  seq <- gsub(" ","",seq)  #remove spaces
   seq <- substr(seq,cdsStart, cdsEnd) # get substring representing the CDS
   
   seqSplit <- c()
@@ -98,7 +90,6 @@ getCDS <- function(someText, cdsStart, cdsEnd) {
   return(textOut)
 }
 
-
 processGenpept = function(pathIn) {
 
   con = file(pathIn, "r")
@@ -118,6 +109,8 @@ processGenpept = function(pathIn) {
     if (unlist(gregexpr(pattern ='ACCESSION',line)) == 1 ) {
       an <- unlist(strsplit(line,"  "))
       an <- an[length(an)]
+      ls <- unlist(gregexpr("^ " ,an )) #remove leading space from accession number
+      if (ls==1) an <- substring(an,ls+1,nchar(an))
     }
     if (unlist(gregexpr(pattern ='SOURCE',line)) == 1 ) {
       sr <- unlist(strsplit(line,"  "))
@@ -127,9 +120,6 @@ processGenpept = function(pathIn) {
     if (unlist(gregexpr(pattern ='FEATURES',line)) == 1 ) {
       passedFEATURES = TRUE
     }
-    
-    
-    
     if (unlist(gregexpr(pattern ='   CDS',line)) > 1 & passedFEATURES==TRUE ) {
       hasCDS = TRUE
       cds0 <- unlist(strsplit(line,"  "))
@@ -156,18 +146,13 @@ processGenpept = function(pathIn) {
       print(paste0("saving ",pathOut))
       write.table(fLines, pathOut, append = FALSE, quote = FALSE, sep = " ", dec = ".", row.names = FALSE, col.names = FALSE, qmethod = c("escape", "double"))
       filesSaved <- filesSaved+1
-
       fLines <- c("") #reset fLines for next file
       an <- "ABC12345" #accession number
       sr <- "Genus species" #source organism
-      
     }
-  
   }
-  
   close(con)
 }
 
- processGenpept(pathIn)
-
+processGenpept(pathIn)
 print("Done extracting files!")
