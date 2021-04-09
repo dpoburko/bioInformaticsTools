@@ -22,10 +22,10 @@
 
 
 # a comma separated list of motifs to search for
-srchTerm = c("(G|V)T(C|G)(L|V)LY(C|S)","@X{2,3}00") #pupativeVNUT-1stTM
-
-# a comman separated list of matched motif labels
-fNameSuffix = c("putativeLDCV","putativeDileucine")  
+srchTerm = c("WXXW") #pupativeVACHTdileucine
+#srchTerm = c("(F|L)(L|I|V)XX(R|K)") # "putativeGolgiRetention"
+# a comma separated list of matched motif labels
+fNameSuffix = c("mannosylation")  
 
 # ===================== End of user input ======================================================================
 #Prompts user to select genpept formatted text file from NCBI
