@@ -7,11 +7,11 @@ library("readtext")
 library("stringr")
 
 ## ======= USER INPUT ========================================================================
-#setwd("C:\\Users\\Damon\\Documents\\splitTextFile")
-#dir <- getwd()
 
+# select files 
 fList <- choose.files(default = "", caption = "Select genpept formatted files",multi = TRUE, filters = Filters, index = nrow(Filters))
 cdsOnly <- TRUE
+
 
 pdList <- gregexpr("\\\\.",fList[1]) #split file path to vector separated by "\\"
 currFile <- fList[1]
